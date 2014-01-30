@@ -1,6 +1,6 @@
 .wrapper {
 	width:100%;
-        max-width: 1200px;
+    max-width: 1200px;
 	margin:0 auto;
 }
 
@@ -8,7 +8,7 @@ header
 {
 	background:#ccc url(../pictures/matterhorn.jpg) center center no-repeat;
 	padding:14px;
-        position:relative;
+    position:relative;
 }
 
 header .title {
