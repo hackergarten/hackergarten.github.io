@@ -1,97 +1,21 @@
-.wrapper {
-	width:100%;
-    max-width: 1200px;
-	margin:0 auto;
+.jumbotron {
+    background: url(../pictures/matterhorn.jpg) center center no-repeat;
 }
 
-header
-{
-	background:#ccc url(../pictures/matterhorn.jpg) center center no-repeat;
-	padding:14px;
-    position:relative;
-}
-
-header .title {
-    float: left;
+.title {
     padding: 10px;
     background-color: rgba(255,255,255,0.8);
-    border-radius:6px;
+    border-radius: 6px;
+    width: auto;
 }
 
 #logo {
-    float:right;
-    width:300px;
+    float: right;
+    width: 300px;
 }
 
-header h1 { margin: 0; color:#443; text-shadow:0 1px 0 #fff;}
-header h2 { margin: 5px 0 0; font-size:medium; color: #666; }
-a {color:#03c; text-decoration:none;}
-a:hover, a:focus {text-decoration:underline;}
-li {margin-bottom: 10px;}
-
-@media screen and (min-width:701px)
-{
-    section {
-        width:44%;
-        float:right;
-        margin:0 4% 0 2%;
-    }
-
-    #events {
-        float: left;
-        margin-left:4%;
-        margin-right:2%;
-    }
-}
-@media screen and (max-width:700px)
-{
-    section {
-        float: none;
-        width: auto;
-        padding: 0 20px;
-    }
-    
+@media screen and (max-width: 700px) {
     #logo {
         display:none;
     }
-}
-
-
-* {
-    font-family: Helvetica, Arial, sans-serif;
-    line-height:1.5;
-}
-
-h2 {
-    font-size: 2em;
-    font-weight: normal;
-    color:#776;
-}
-
-
-footer
-{
-	clear: both;
-        text-align:right;
-	padding: 20px;
-}
-
-
-.wrapper h2 {margin-bottom:0;}
-
-.clearfix:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	line-height: 0;
-	height: 0;
-}
- 
-html[xmlns] .clearfix {
-	display: block;
-}
- 
-* html .clearfix {
-	height: 1%;
 }
