@@ -7,5 +7,9 @@ function eventlistController($scope, $http) {
 	$http.get('events.json').then(
 	function (response) {
 		$scope.eventlist = response.data;
+		$scope.eventlist.sort(function(a, b) {
+			a.date > b.date
+		});
+		
 	});
 };

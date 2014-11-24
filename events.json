@@ -1,6 +1,6 @@
 [
   {
-    "date": "2014-11-24",
+    "date": "2014-11-21",
     "location": "Lucerne",
     "title": "",
     "links": [
@@ -16,6 +16,17 @@
   },
   {
     "date": "2014-11-24",
+    "location": "Zürich, Technopark",
+    "title": "",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
+      }
+    ]
+  },
+  {
+    "date": "2014-10-24",
     "location": "Zürich, Technopark",
     "title": "",
     "links": [

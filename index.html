@@ -42,14 +42,9 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Next Events</div>
                 <div class="panel-body">
-                    <ul>
-                        <li>Hack #48 - 24th November 2014 - Lucerne, CSS Versicherung AG -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/tS2nb01El_Q">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Luzern/events/218595845/">Meetup</a>
-                        </li>
-                        
+                    <ul>                        
 					    <li ng-repeat="event in eventlist">
-					      Hack #[{{eventlist.length - $index}}] {{event.title}} on {{event.date}} in {{event.location}}.
+					      Hack #{{eventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
