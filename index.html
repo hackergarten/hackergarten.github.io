@@ -48,8 +48,11 @@
                             <a href="http://www.meetup.com/Hackergarten-Luzern/events/218595845/">Meetup</a>
                         </li>
                         
-					    <li class="animate-repeat" ng-repeat="event in eventlist">
-					      [{{$index + 1}}] {{event.title}} on {{event.date}} in {{event.location}}.
+					    <li ng-repeat="event in eventlist">
+					      Hack #[{{eventlist.length - $index}}] {{event.title}} on {{event.date}} in {{event.location}}.
+					      <ul ng-if="event.links.length > 0">
+					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+					      </ul>
 					    </li>
                         
                         
