@@ -2,8 +2,10 @@ angular.module('eventlist',[]);
 	
 	
 function eventlistController($scope, $http) {
+	$scope.eventlist = [];
+	
 	$http.get('events.json').then(
 	function (response) {
-		console.log(response);
+		$scope.eventlist = response.data;
 	});
 };
