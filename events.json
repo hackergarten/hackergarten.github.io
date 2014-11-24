@@ -41,13 +41,138 @@
   
   
   {
-    "date": "2010-10-29",
+    "hack": 21,
+    "date": "2012-02-01",
+    "location": "Basel & Lugano, Switzerland",
+    "title": "Mobile Development nights.",
+    "links": []
+  },
+  {
+    "hack": 20,
+    "date": "2012-02-01",
+    "location": "Basel & Lugano, Switzerland",
+    "title": "Mobile Development nights.",
+    "links": []
+  },
+  {
+    "hack": 19,
+    "date": "2012-02-01",
+    "location": "Basel & Lugano, Switzerland",
+    "title": "Mobile Development nights.",
+    "links": []
+  },
+  {
+    "hack": 18,
+    "date": "2011-12-08",
+    "location": "London, United Kingdom",
+    "title": "Groovy/Grails Hackergarten at the Groovy/Grails Exchange.",
+    "links": [
+      {
+        "title": "Hackergarten",
+        "url": "http://skillsmatter.com/podcast/home/hackergarten"
+      }
+    ]
+  },
+  {
+    "hack": 17,
+    "date": "2011-11-14",
+    "location": "Antwerp, Belgium",
+    "title": "Devoxx Hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 16,
+    "date": "2011-09-28",
+    "location": "Basel, Switzerland",
+    "title": "Android Night in Basel.",
+    "links": []
+  },
+  {
+    "hack": 15,
+    "date": "2011-08-26",
+    "location": "Basel, Switzerland",
+    "title": "Mirah Night in Basel.",
+    "links": []
+  },
+  {
+    "hack": 14,
+    "date": "2011-05-27",
+    "location": "Basel, Switzerland",
+    "title": "Hackergarten Basel and American BBQ.",
+    "links": []
+  },
+  {
+    "hack": 13,
+    "date": "2011-05-17",
+    "location": "unkown",
+    "title": "Hackergarten at GR8 Conference.",
+    "details": "We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 12,
+    "date": "2011-05-14",
+    "location": "unkown",
+    "title": "Hackergarten at GeeCON Conference.",
+    "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 12,
+    "date": "2011-05-14",
+    "location": "unkown",
+    "title": "Hackergarten at GeeCON Conference.",
+    "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 11,
+    "date": "2011-03-25",
+    "location": "Basel, Switzerland",
+    "title": "Open Night at Canoo Engineering AG.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 10,
+    "date": "2011-03-16",
+    "location": "Basel, Switzerland",
+    "title": "Magnolia Night in Basel",
+    "details": "The group worked on an OpenSocial plugin for OAUTH support and created a HighChart based paragraph type as a CMS plugin.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 9,
+    "date": "2011-01-26",
+    "location": "Basel, Switzerland",
+    "title": "GPars Night",
+    "details": "The crew worked on some GPars related samples and bug fixes.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 8,
+    "date": "2010-11-26",
     "location": "unkown",
     "title": "Screencast Night",
     "details": "We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.",
     "links": []
   },
   {
+    "hack": 7,
     "date": "2010-10-29",
     "location": "Basel, Switzerland",
     "title": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
@@ -60,6 +185,7 @@
     ]
   },
   {
+    "hack": 6,
     "date": "2010-10-01",
     "location": "Basel, Switzerland",
     "title": "Static Analysis Night",
@@ -72,6 +198,7 @@
     ]
   },
   {
+    "hack": 5,
     "date": "2010-07-30",
     "location": "Basel, Switzerland",
     "title": "Hackergarten Basel",
@@ -83,6 +210,7 @@
     ]
   },
   {
+    "hack": 4,
     "date": "2010-06-02",
     "location": "Zürich, Switzerland",
     "title": "Hackergarten at Jazoon",
@@ -95,6 +223,7 @@
     ]
   },
   {
+    "hack": 3,
     "date": "2010-05-19",
     "location": "Copenhagen, Denmark",
     "title": "Geek Night at GR8 Conference",
@@ -107,6 +236,7 @@
     ]
   },
   {
+    "hack": 2,
     "date": "2010-04-30",
     "location": "Basel, Switzerland",
     "title": "Griffon Night",
@@ -118,6 +248,7 @@
     ]
   },
   {
+    "hack": 1,
     "date": "2010-03-26",
     "location": "Basel, Switzerland",
     "title": "Gradle Night",
