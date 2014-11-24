@@ -1,6 +1,6 @@
 [
   {
-    "date": "2014-11-24",
+    "date": "2014-11-21",
     "location": "Lucerne",
     "title": "",
     "links": [
@@ -15,7 +15,48 @@
     ]
   },
   {
-    "date": "2014-11-24",
+    "date": "2014-12-21",
+    "location": "Lucerne",
+    "title": "",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+      }
+    ]
+  },
+  {
+    "date": "2015-11-25",
+    "location": "Lucerne",
+    "title": "",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+      }
+    ]
+  },
+  {
+    "date": "2014-11-25",
+    "location": "Zürich, Technopark",
+    "title": "",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
+      }
+    ]
+  },
+  {
+    "date": "2014-10-24",
     "location": "Zürich, Technopark",
     "title": "",
     "links": [
