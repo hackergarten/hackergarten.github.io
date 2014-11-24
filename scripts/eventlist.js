@@ -13,6 +13,7 @@ function eventlistController($scope, $http) {
 			return new Date(a.date) < new Date(b.date);
 		});
 		var today = new Date();
+		today = new Date(today.setHours(0,0,0));
 		
 		$scope.futureEventlist = eventlist.filter(function(a) {
 			return new Date(a.date) >= today;
@@ -23,8 +24,9 @@ function eventlistController($scope, $http) {
 		});
 
 		
-		
-		$scope.nextEventlist = [$scope.futureEventlist.pop()];
+		if ($scope.futureEventlist.length > 0) {
+			$scope.nextEventlist = [$scope.futureEventlist.pop()];
+		}
 		
 
 		
