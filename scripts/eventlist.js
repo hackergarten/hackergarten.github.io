@@ -8,7 +8,7 @@ function eventlistController($scope, $http) {
 	function (response) {
 		$scope.eventlist = response.data;
 		$scope.eventlist.sort(function(a, b) {
-			a.date > b.date
+			return new Date(a.date) > new Date(b.date);
 		});
 		
 	});
