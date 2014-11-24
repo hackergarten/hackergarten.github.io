@@ -1,8 +1,25 @@
 [
   {
-    "date": "2014-11-21",
-    "location": "Lucerne",
-    "title": "",
+    "hack": 49,
+    "date": "2014-11-27",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/OqnEwkvjD8w"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/218639052/"
+      }
+    ]
+  },
+  {
+    "hack": 48,
+    "date": "2014-11-24",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung AG",
     "links": [
       {
         "title": "GoogleGroup",
@@ -14,62 +31,102 @@
       }
     ]
   },
+  
+  
+  
   {
-    "date": "2014-12-21",
-    "location": "Lucerne",
-    "title": "",
+    "hack": 32,
+    "date": "2014-04-10",
+    "location": "Zürich, Switzerland",
+    "title": "at Colab Zurich",
     "links": [
       {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+        "title": "Google+",
+        "url": "https://plus.google.com/103936743237262644768/"
       },
       {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
-      }
-    ]
-  },
-  {
-    "date": "2015-11-25",
-    "location": "Lucerne",
-    "title": "",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/pkw-gTCyAXA"
       },
       {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+        "title": "Colab Zürich",
+        "url": "http://www.colab-zurich.ch/"
       }
     ]
   },
   {
-    "date": "2014-11-25",
-    "location": "Zürich, Technopark",
-    "title": "",
+    "hack": 31,
+    "date": "2014-03-25",
+    "location": "unkown",
+    "title": "Javaland 2014 - Early Adopter's Area and Hackergarten",
     "links": [
       {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
+        "title": "Javaland 2014 - Early Adopter's Area",
+        "url": "http://www.javaland.eu/de/programm/community-aktivitaeten/early-adopters-area.html"
+      },
+      {
+        "title": "Javaland 2014 - Early Adopter's Area (english)",
+        "url": "http://www.javaland.eu/en/programm/community-aktivitaeten/early-adopters-area.html"
       }
     ]
   },
   {
-    "date": "2014-10-24",
-    "location": "Zürich, Technopark",
-    "title": "",
+    "hack": 30,
+    "date": "2014-03-22",
+    "location": "Nice, France",
+    "title": "AeroGear Hackergarten",
     "links": [
       {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
+        "title": "Les Satellites",
+        "url": "http://www.lessatellites.fr/"
+      },
+      {
+        "title": "Event",
+        "url": "http://aerogearhackergarten.eventbrite.com"
       }
     ]
   },
   {
-    "date": "2010-03-26",
-    "location": "Basel",
-    "title": "Gradle Night",
+    "hack": 29,
+    "date": "2014-03-06",
+    "location": "Zürich, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "Google+",
+        "url": "https://plus.google.com/103936743237262644768/posts/HEEDXDRmFTP"
+      },
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/hSH5YkUo-_w"
+      },
+      {
+        "title": "Colab Zürich",
+        "url": "http://www.colab-zurich.ch/"
+      }
+    ]
+  },
+  {
+    "hack": 28,
+    "date": "2014-01-30",
+    "location": "Basel, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "more...",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/pst4SY1Hnt8"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 27,
+    "date": "2013-12-03",
+    "location": "Basel, Switzerland",
+    "title": "Various hacking",
     "links": [
       {
         "title": "Canoo Engineering AG",
@@ -77,10 +134,65 @@
       }
     ]
   },
-  
-  
-  
-  
+  {
+    "hack": 26,
+    "date": "2013-10-17",
+    "location": "Basel, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 25,
+    "date": "2013-08-30",
+    "location": "Basel, Switzerland",
+    "title": "Ratpack JDBI Module and more....",
+    "links": [
+      {
+        "title": "Ratpack JDBI Module",
+        "url": "https://github.com/ratpack/ratpack/pull/160"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 24,
+    "date": "2013-06-05",
+    "location": "Marseille, France",
+    "title": "Marseille JUG.",
+    "links": [
+      {
+        "title": "Marseille JUG",
+        "url": "http://marsjug.org/"
+      }
+    ]
+  },
+  {
+    "hack": 23,
+    "date": "2013-02-01",
+    "location": "Basel, Switzerland",
+    "title": "Spring time.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 22,
+    "date": "2013-02-01",
+    "location": "Stockhold, Sweden",
+    "title": "JFokus 2 Day Hackergarten Event.",
+    "links": []
+  },
   {
     "hack": 21,
     "date": "2012-02-01",
@@ -255,7 +367,7 @@
     "date": "2010-06-02",
     "location": "Zürich, Switzerland",
     "title": "Hackergarten at Jazoon",
-    "details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed."
+    "details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed.",
     "links": [
       {
         "title": "Jazoon",
@@ -268,7 +380,7 @@
     "date": "2010-05-19",
     "location": "Copenhagen, Denmark",
     "title": "Geek Night at GR8 Conference",
-    "details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log."
+    "details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log.",
     "links": [
       {
         "title": "GR8 Conference",
