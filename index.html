@@ -43,13 +43,19 @@
                 <div class="panel-heading">Next Events</div>
                 <div class="panel-body">
                     <ul>                        
-					    <li ng-repeat="event in eventlist">
-					      Hack #{{eventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.
+					    <li ng-repeat="event in FutureEventlist">
+					      Hack #{{FutureEventlist.length + PastEventlist.length + NextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
 					    </li>
                         
+					    <li class="next-event" ng-repeat="event in NextEventlist">
+					      <b>Hack #{{PastEventlist.length + NextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.</b>
+					      <ul ng-if="event.links.length > 0">
+					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+					      </ul>
+					    </li>
                         
                         <li>more coming up ...look at the <em>Join</em> section on the right...</li>
                     </ul>
@@ -73,10 +79,12 @@
                 <div class="panel-heading">Past Events</div>
                 <div class="panel-body">
                     <ul>
-                        <li>Hack #47 - 30th october 2014 - Basel, Canoo Office -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/b4VqwExj5-c">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Basel/events/211695852/">Meetup</a>
-                        </li>
+					    <li ng-repeat="event in PastEventlist">
+					      Hack #{{PastEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.
+					      <ul ng-if="event.links.length > 0">
+					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+					      </ul>
+					    </li>
                     </ul>
                 </div>
             </div>
