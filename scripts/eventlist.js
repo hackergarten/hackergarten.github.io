@@ -28,6 +28,7 @@ function eventlistController($scope, $http) {
 			$scope.nextEventlist = [$scope.futureEventlist.pop()];
 		}
 		
+		$scope.futureEventlist.reverse();
 
 		
 	});
