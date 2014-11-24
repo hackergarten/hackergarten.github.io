@@ -24,5 +24,108 @@
         "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
       }
     ]
+  },
+  {
+    "date": "2010-03-26",
+    "location": "Basel",
+    "title": "Gradle Night",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  
+  
+  
+  
+  {
+    "date": "2010-10-29",
+    "location": "unkown",
+    "title": "Screencast Night",
+    "details": "We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.",
+    "links": []
+  },
+  {
+    "date": "2010-10-29",
+    "location": "Basel, Switzerland",
+    "title": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
+    "details": "At the November event we created 4 new CodeNarc rules, improved the easyb/junit integration, and made good progress on the FindBugs Gradle plugin.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "date": "2010-10-01",
+    "location": "Basel, Switzerland",
+    "title": "Static Analysis Night",
+    "details": "Wrote 4 new static analysis rules for the CodeNarc project. Great job everyone!",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "date": "2010-07-30",
+    "location": "Basel, Switzerland",
+    "title": "Hackergarten Basel",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "date": "2010-06-02",
+    "location": "Zürich, Switzerland",
+    "title": "Hackergarten at Jazoon",
+    "details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed."
+    "links": [
+      {
+        "title": "Jazoon",
+        "url": "http://jazoon.com/"
+      }
+    ]
+  },
+  {
+    "date": "2010-05-19",
+    "location": "Copenhagen, Denmark",
+    "title": "Geek Night at GR8 Conference",
+    "details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log."
+    "links": [
+      {
+        "title": "GR8 Conference",
+        "url": "http://eu.gr8conf.org"
+      }
+    ]
+  },
+  {
+    "date": "2010-04-30",
+    "location": "Basel, Switzerland",
+    "title": "Griffon Night",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "date": "2010-03-26",
+    "location": "Basel, Switzerland",
+    "title": "Gradle Night",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
   }
 ]
