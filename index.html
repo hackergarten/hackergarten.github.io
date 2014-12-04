@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="eventlist">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -34,7 +34,7 @@
     </div>
 </div>
 
-<div class="container">
+<div class="container" ng-controller="eventlistController">
 
     <div class="row">
         <div class="col-md-6">
@@ -42,17 +42,24 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Next Events</div>
                 <div class="panel-body">
-                    <ul>
-                        <li>Hack #48 - 24th November 2014 - Lucerne, CSS Versicherung AG -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/tS2nb01El_Q">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Luzern/events/218595845/">Meetup</a>
-                        </li>
-                        <li>Hack #49 - 27th November 2014 - Basel, Canoo Office - 
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/OqnEwkvjD8w">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Basel/events/218639052/">Meetup</a>
-                        </li>
-                        <li>more coming up ...look at the <em>Join</em> section on the right...</li>
+                    <ul>                        
+					    <li class="next-event" ng-repeat="event in nextEventlist">
+					      <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.</b>
+					      <ul ng-if="event.links.length > 0">
+					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+					      </ul>
+					    </li>
+                        
+
+					    <li ng-repeat="event in futureEventlist">
+					      Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} {{event.title}} on {{event.date}} in {{event.location}}.
+					      <ul ng-if="event.links.length > 0">
+					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+					      </ul>
+					    </li>
+                        
                     </ul>
+                    more coming up ...look at the <em>Join</em> section on the right...
                 </div>
             </div>
         </div>
@@ -60,7 +67,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">About</div>
                 <div class="panel-body">
-                    Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribution their time.
+                    Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribute their time.
                 </div>
             </div>
         </div>
@@ -73,135 +80,12 @@
                 <div class="panel-heading">Past Events</div>
                 <div class="panel-body">
                     <ul>
-                        <li>Hack #47 - 30th october 2014 - Basel, Canoo Office -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/b4VqwExj5-c">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Basel/events/211695852/">Meetup</a>
-                        </li>
-                        <li>Hack #46 - 23th october 2014 - Zürich, Technopark -
-                            <a href="http://www.meetup.com/Hackergarten-Zurich/events/211930692/">Meetup</a>
-                        </li>
-                        <li>Hack #45 - 9th October 2014 - Lucerne, CSS Versicherung AG -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ">GoogleGroup</a>
-                            <a href="http://www.meetup.com/Hackergarten-Luzern/events/205357062/">Meetup</a>
-                        </li>
-                        <li>Hack #44 - 25th of September 2014 - Basel, Canoo Office -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/Z9zJ0AEyNN4">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Basel/events/205893392/">Meetup</a>
-                        </li>
-                        <li>Hack #43 - 9th of September 2014 - Oslo, Teknologihuset-
-                            <a href="http://www.meetup.com/javaBin/events/201877622/">Meetup</a>
-                        </li>
-                        <li>Hack #42 - 28th of August 2014 - Basel, Canoo Office -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/gmEb10l3LXw">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Basel/events/202478822/">Meetup</a>
-                        </li>
-
-                        <li>
-                            Hack #41 - August, 21. 2014 - Zürich, Trivadis AG (Europa-Strasse 5 8152 Glattbrugg)
-                            18:00h-
-                            <a href="https://plus.google.com/events/cm2sh2dpdvjkdbqsmh2i456a4ho">Google Plus</a>,
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/3rlRRReDaSg">GoogleGroups</a>
-                        </li>
-
-                        <li>Hack #40 - 24th of July 2014 - Basel, Canoo Office -
-                            <a href="https://groups.google.com/forum/#!topic/hackergarten/8jSib53YcJg">GoogleGroups</a>,
-                            <a href="http://www.meetup.com/Hackergarten-Basel/events/192106282/">Meetup</a></li>
-
-                        <li>Hack #39 - 25th of June 2014 - <a href="http://doodle.com/2giabtf5dqnkgxw9#table">SBB, Bern</a></li>
-                        <li>Hack #38 - 19th of June 2014 - Zürich (<a href="https://plus.google.com/events/c1jqmnpm8k77jvjhlvu1pfl5s7s">Event on Google+</a>)</li>
-                        <li>Hack #37 - 2nd of June 2014 - <a href="http://www.gr8conf.eu">GR8Conf Europe 2014</a></li>
-                        <li>Hack #36 - 22.05.2014 -
-                            Basel (<a href="http://www.meetup.com/Hackergarten-Basel/events/180004012/">Meetup</a>, <a href="https://groups.google.com/forum/#!topic/hackergarten/MMRJUtPsGeI">GoogleGroups</a>)
-                            Hacked on <a href="https://github.com/anthonydahanne/ReGalAndroid/pull/4">ReGalAndroid</a>, Groovy/Gradle, three.js and some other things.
-                        </li>
-                        <li>Hack #35 - 16.05.2014 - <a href="http://2014.geecon.org">GeeCON 2014</a></li>
-
-                        <li>Hack #34 - 08.05.2014 - <a href="https://plus.google.com/events/clnrjmrnvh5dc1ahpd8rtalc2d0">Technopark Zurich</a>
-                            <br/>Hacking mainly on JSR-354 API for Java 8 and JSR-354 TDK
-                        </li>
-                        <li>Hack #33 - 24.04.2014 - <a href="http://www.canoo.com/service/contact/">Canoo, Basel</a> - <a href="https://groups.google.com/forum/#!topic/hackergarten/8GEeIoXsu8Q">GoogleGroups</a>, <a href="http://www.meetup.com/Hackergarten-Basel/events/175980272/">MeetUp</a>
-                            <br />Some hacking in the area of WebRTC, <a href="https://angularjs.org/">AngularJS</a> and <a href="http://www.ionicframework.com">Iconic</a>.
-                        </li>
-                        <li>Hack #32 - 10.04.2014 - <a href="http://www.colab-zurich.ch/">Colab Zurich</a> - see <a href="https://groups.google.com/forum/#!topic/hackergarten/pkw-gTCyAXA">GoogleGroups</a>, <a href="https://plus.google.com/103936743237262644768/">Google+</a></li>
-                        <li>Hack #31 - 25./26.03.2014 - <a href="http://www.javaland.eu/de/programm/community-aktivitaeten/early-adopters-area.html">Javaland 2014 - Early Adopter's Area and Hackergarten</a> - <a href="http://www.javaland.eu/en/programm/community-aktivitaeten/early-adopters-area.html">(english version)</a></li>
-                        <li>Hack #30 - 22.03.2014 - <a href="http://www.lessatellites.fr/">Les Satellites, Nice</a> - see <a href="http://aerogearhackergarten.eventbrite.com">AeroGear Hackergarten</a></li>
-
-
-                        <li>Hack #29 - 06.03.2014 - <a href="http://www.colab-zurich.ch/">Colab Zurich</a> - see <a href="https://groups.google.com/forum/#!topic/hackergarten/hSH5YkUo-_w">GoogleGroups</a>, <a href="https://plus.google.com/103936743237262644768/posts/HEEDXDRmFTP">Google+</a></li>
-                        <li>Hack #28 - 30.01.2014 - <a href="http://www.canoo.com/service/contact/">Canoo Office</a> - <a href="https://groups.google.com/forum/#!topic/hackergarten/pst4SY1Hnt8">more...</a>                     </li>
-                        <li>Hack #27 - 03.12.2013 - Canoo, Basel - <a href="https://twitter.com/edewit/status/407980293069758464">various hacking...</a></li>
-                        <li>Hack #26 - 17.10.2013 - Canoo, Basel</li>
-                        <li>Hack #25 - 30.08.2013 - Canoo, Basel - <a href="https://github.com/ratpack/ratpack/pull/160">Ratpack JDBI Module</a> and more.... </li>
-                        <li>
-                            Hack #24 - 5th June  2013 @ <a href="http://marsjug.org/">Marseille JUG</a> <br/>
-                        </li>
-                        <li>Hack #23 - 18.04.2013 - Canoo, Basel - Spring time....</li>
-                        <li>
-                            Hack #22 - Feb 2013 - JFokus 2 Day Hackergarten Event in Stockholm
-                        </li>
-                        <li>
-                            Hack #19-21 - 2012 and 2013 - Mobile Development nights in Basel and Lugano
-                        </li>
-                        <li>
-                            Hack #18 - 08.12.2011 - <a href="http://skillsmatter.com/podcast/home/hackergarten">Groovy/Grails Hackergarten</a> at the Groovy/Grails Exchange in London
-                        </li>
-                        <li>
-                            Hack #17 - 14.11.2011 - Devoxx Hackergarten.
-                        </li>
-                        <li>
-                            Hack #16 - 28.09.2011 - Android Night in Basel.
-                        </li>
-                        <li>
-                            Hack #15 - 26.08.2011 - Mirah Night in Basel.
-                        </li>
-                        <li>
-                            Hack #14 - 27.05.2011 - Hackergarten Basel and American BBQ.
-                        </li>
-                        <li>
-                            Hack #13 - 17.05.2011 - Hackergarten at GR8 Conference. We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.
-                        </li>
-                        <li>
-                            Hack #12 - 14.05.2011 - Hackergarten at GeeCON Conference. We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.
-                        </li>
-                        <li>
-                            Hack #11 - 25.03.2011 - Open Night at <a href="http://www.canoo.com">Canoo Engineering AG</a>.
-                        </li>
-                        <li>
-                            Hack #10 - 16.03.2011 - Magnolia Night in Basel, CH at <a href="http://www.canoo.com">Canoo Engineering AG</a>. The group worked on an OpenSocial plugin for OAUTH support and created a HighChart based paragraph type as a CMS plugin.
-                        </li>
-                        <li>
-                            Hack #9 - 26.01.2011 - GPars Night - Location: Basel, CH. <a href="http://www.canoo.com">Canoo Engineering AG</a>. The crew worked on some GPars related samples and bug fixes.
-                        </li>
-                        <li>
-                            Hack #8 - 26.11.2010 - Screencast Night - We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.
-                        </li>
-                        <li>
-                            Hack #7 - 29.10.2010 - Gradle Redux, CodeNarc, and Halloween Fest and <a href="http://www.canoo.com">Canoo</a><br/>
-                            At the November event we created 4 new CodeNarc rules, improved the easyb/junit integration, and made good progress on the FindBugs Gradle plugin.
-                        </li>
-                        <li>
-                            Hack #6 - 01.10.2010 - Static Analysis Night, Basel, CH. <a href="http://www.canoo.com">Canoo Engineering AG</a> <br/>
-                            Wrote 4 new static analysis rules for the CodeNarc project. Great job everyone!
-                        </li>
-                        <li>
-                            Hack #5 - 30.07.2010 - Basel, CH. <a href="http://www.canoo.com">Canoo Engineering AG</a><br/>Improved @Log annotations were added to Groovy and more Griffon plugins completed.
-                        </li>
-                        <li>
-                            Hack #4 - 02.06.2010 - Hackergarten at <a href="http://jazoon.com/">Jazoon</a><br/>
-                            Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed.
-                        </li>
-                        <li>
-                            Hack #3 - 19.05.2010 - Geek Night at <a href="http://eu.gr8conf.org">GR8 Conference</a><br/>
-                            Location: Copenhagen, Denmark. Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log.
-                        </li>
-                        <li>
-                            Hack #2 - 30.04.2010 - Griffon Night <br/>
-                            Location: Basel, CH. <a href="http://www.canoo.com">Canoo Engineering AG</a>. Created 3 (almost 4) new plugins to the Griffon project. Read about it <a href="http://canoo.com/blog/2010/05/14/canoo-and-friends-release-open-source-griffon-plugins-at-hackergarten/">here</a> and <a href="http://www.jroller.com/aalmiray/entry/hackergarten_2_griffon">here</a>.<br>
-                        <li>
-                            Hack #1 - 26.03.2010 - Gradle Night <br/>
-                            Location: Basel, CH. <a href="http://www.canoo.com">Canoo Engineering AG</a>. Two JIRA issues in Gradle, <a href="http://jira.codehaus.org/browse/GRADLE-505">505</a>, and <a href="http://jira.codehaus.org/browse/GRADLE-494">494</a>. Gradle now has the ability to post messages to Twitter, Snarl, and the Ubuntu notification system. Way to go gang!<br>
-
-                        </li>
+					    <li ng-repeat="event in pastEventlist">
+					      Hack #{{pastEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.
+					      <ul ng-if="event.links.length > 0">
+					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+					      </ul>
+					    </li>
                     </ul>
                 </div>
             </div>
@@ -269,6 +153,8 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular.min.js"></script>
+<script src="scripts/eventlist.js"></script>
+
 </body>
 </html>
-

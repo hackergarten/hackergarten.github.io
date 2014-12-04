@@ -1,0 +1,656 @@
+[
+  {
+    "hack": 50,
+    "date": "2014-11-27",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/OqnEwkvjD8w"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/218639052/"
+      }
+    ]
+  },
+  {
+    "hack": 49,
+    "date": "2014-11-24",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung AG",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+      },
+      {
+        "title": "Canoo",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 48,
+    "date": "2014-10-30",
+    "location": "Basel, Switzerland",
+    "title": "Hacking at Technopark",
+    "links": [
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/b4VqwExj5-c"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/211695852/"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 47,
+    "date": "2014-10-23",
+    "location": "Zürich, Switzerland",
+    "title": "Hacking at Technopark",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
+      }
+    ]
+  },
+  {
+    "hack": 46,
+    "date": "2014-10-09",
+    "location": "Luzern, Switzerland",
+    "title": "Hacking at CSS Versicherung AG",
+    "links": [
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+      }
+    ]
+  },
+  {
+    "hack": 45,
+    "date": "2014-09-25",
+    "location": "Basel, Switzerland",
+    "title": "Hacking at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/Z9zJ0AEyNN4"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/205893392/"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 44,
+    "date": "2014-09-09",
+    "location": "Oslo, Norway",
+    "title": "Hacking at Teknologihuset",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/javaBin/events/201877622/"
+      }
+    ]
+  },
+  {
+    "hack": 43,
+    "date": "2014-08-28",
+    "location": "Basel, Switzerland",
+    "title": "Hacking at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/gmEb10l3LXw"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/202478822/"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 42,
+    "date": "2014-08-21",
+    "location": "Zürich, Switzerland",
+    "title": "Hacking at Trivadis AG (Europa-Strasse 5 8152 Glattbrugg)",
+    "links": [
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/3rlRRReDaSg"
+      },
+      {
+        "title": "Google Event",
+        "url": "https://plus.google.com/events/cm2sh2dpdvjkdbqsmh2i456a4ho"
+      }
+    ]
+  },
+  {
+    "hack": 41,
+    "date": "2014-06-25",
+    "location": "Basel, Switzerland",
+    "title": "General Hacking",
+    "links": [
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/8jSib53YcJg"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 40,
+    "date": "2014-06-25",
+    "location": "Bern, Switzerland",
+    "title": "SBB",
+    "links": [
+      {
+        "title": "Doodle Event",
+        "url": "http://doodle.com/2giabtf5dqnkgxw9#table"
+      }
+    ]
+  },
+  {
+    "hack": 39,
+    "date": "2014-06-19",
+    "location": "Zürich, Switzerland",
+    "title": "Event on Google+",
+    "links": [
+      {
+        "title": "Google Event",
+        "url": "https://plus.google.com/events/c1jqmnpm8k77jvjhlvu1pfl5s7s"
+      }
+    ]
+  },
+  {
+    "hack": 38,
+    "date": "2014-06-02",
+    "location": "unknown",
+    "title": "GR8Conf Europe 2014",
+    "links": [
+      {
+        "title": "GR8Conf",
+        "url": "http://www.gr8conf.eu"
+      }
+    ]
+  },
+  {
+    "hack": 37,
+    "date": "2014-05-22",
+    "location": "Basel, Switzerland",
+    "title": "ReGalAndroid, Groovy/Gradle, three.js and some other things.",
+    "links": [
+      {
+        "title": "ReGalAndroid",
+        "url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
+      },
+      {
+        "title": "Meetup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/MMRJUtPsGeI"
+      },
+      {
+        "title": "GoogleGroups",
+        "url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
+      }
+    ]
+  },
+  {
+    "hack": 36,
+    "date": "2014-05-16",
+    "location": "unknown",
+    "title": "GeeCon 2014",
+    "links": [
+      {
+        "title": "GeeCON",
+        "url": "http://2014.geecon.org"
+      }
+    ]
+  },
+  {
+    "hack": 35,
+    "date": "2014-05-08",
+    "location": "Technopark, Zürich, Switzerland",
+    "title": "Hacking mainly on JSR-354 API for Java 8 and JSR-354 TDK",
+    "links": [
+      {
+        "title": "Google Event",
+        "url": "https://plus.google.com/events/clnrjmrnvh5dc1ahpd8rtalc2d0"
+      }
+    ]
+  },
+  {
+    "hack": 34,
+    "date": "2014-04-24",
+    "location": "Basel, Switzerland",
+    "title": "Some hacking in the area of WebRTC",
+    "links": [
+      {
+        "title": "AngularJS",
+        "url": "https://angularjs.org/"
+      },
+      {
+        "title": "Iconic",
+        "url": "http://www.ionicframework.com"
+      },
+      {
+        "title": "MeetUp",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/175980272/"
+      },
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/8GEeIoXsu8Q"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 33,
+    "date": "2014-04-10",
+    "location": "Zürich, Switzerland",
+    "title": "at Colab Zurich",
+    "links": [
+      {
+        "title": "Google+",
+        "url": "https://plus.google.com/103936743237262644768/"
+      },
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/pkw-gTCyAXA"
+      },
+      {
+        "title": "Colab Zürich",
+        "url": "http://www.colab-zurich.ch/"
+      }
+    ]
+  },
+  {
+    "hack": 32,
+    "date": "2014-03-25",
+    "location": "unkown",
+    "title": "Javaland 2014 - Early Adopter's Area and Hackergarten",
+    "links": [
+      {
+        "title": "Javaland 2014 - Early Adopter's Area",
+        "url": "http://www.javaland.eu/de/programm/community-aktivitaeten/early-adopters-area.html"
+      },
+      {
+        "title": "Javaland 2014 - Early Adopter's Area (english)",
+        "url": "http://www.javaland.eu/en/programm/community-aktivitaeten/early-adopters-area.html"
+      }
+    ]
+  },
+  {
+    "hack": 31,
+    "date": "2014-03-22",
+    "location": "Nice, France",
+    "title": "AeroGear Hackergarten",
+    "links": [
+      {
+        "title": "Les Satellites",
+        "url": "http://www.lessatellites.fr/"
+      },
+      {
+        "title": "Event",
+        "url": "http://aerogearhackergarten.eventbrite.com"
+      }
+    ]
+  },
+  {
+    "hack": 30,
+    "date": "2014-03-06",
+    "location": "Zürich, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "Google+",
+        "url": "https://plus.google.com/103936743237262644768/posts/HEEDXDRmFTP"
+      },
+      {
+        "title": "GoogleGroups",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/hSH5YkUo-_w"
+      },
+      {
+        "title": "Colab Zürich",
+        "url": "http://www.colab-zurich.ch/"
+      }
+    ]
+  },
+  {
+    "hack": 29,
+    "date": "2014-01-30",
+    "location": "Basel, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "more...",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/pst4SY1Hnt8"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com/service/contact/"
+      }
+    ]
+  },
+  {
+    "hack": 28,
+    "date": "2013-12-03",
+    "location": "Basel, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 27,
+    "date": "2013-10-17",
+    "location": "Basel, Switzerland",
+    "title": "Various hacking",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 26,
+    "date": "2013-08-30",
+    "location": "Basel, Switzerland",
+    "title": "Ratpack JDBI Module and more....",
+    "links": [
+      {
+        "title": "Ratpack JDBI Module",
+        "url": "https://github.com/ratpack/ratpack/pull/160"
+      },
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 25,
+    "date": "2013-06-05",
+    "location": "Marseille, France",
+    "title": "Marseille JUG.",
+    "links": [
+      {
+        "title": "Marseille JUG",
+        "url": "http://marsjug.org/"
+      }
+    ]
+  },
+  {
+    "hack": 24,
+    "date": "2013-02-01",
+    "location": "Basel, Switzerland",
+    "title": "Spring time.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 23,
+    "date": "2013-02-01",
+    "location": "Stockhold, Sweden",
+    "title": "JFokus 2 Day Hackergarten Event.",
+    "links": []
+  },
+  {
+    "hack": 22,
+    "date": "2012-02-01",
+    "location": "Basel & Lugano, Switzerland",
+    "title": "Mobile Development nights.",
+    "links": []
+  },
+  {
+    "hack": 21,
+    "date": "2012-02-01",
+    "location": "Basel & Lugano, Switzerland",
+    "title": "Mobile Development nights.",
+    "links": []
+  },
+  {
+    "hack": 20,
+    "date": "2012-02-01",
+    "location": "Basel & Lugano, Switzerland",
+    "title": "Mobile Development nights.",
+    "links": []
+  },
+  {
+    "hack": 19,
+    "date": "2011-12-08",
+    "location": "London, United Kingdom",
+    "title": "Groovy/Grails Hackergarten at the Groovy/Grails Exchange.",
+    "links": [
+      {
+        "title": "Hackergarten",
+        "url": "http://skillsmatter.com/podcast/home/hackergarten"
+      }
+    ]
+  },
+  {
+    "hack": 18,
+    "date": "2011-11-14",
+    "location": "Antwerp, Belgium",
+    "title": "Devoxx Hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 17,
+    "date": "2011-09-28",
+    "location": "Basel, Switzerland",
+    "title": "Android Night in Basel.",
+    "links": []
+  },
+  {
+    "hack": 16,
+    "date": "2011-08-26",
+    "location": "Basel, Switzerland",
+    "title": "Mirah Night in Basel.",
+    "links": []
+  },
+  {
+    "hack": 15,
+    "date": "2011-05-27",
+    "location": "Basel, Switzerland",
+    "title": "Hackergarten Basel and American BBQ.",
+    "links": []
+  },
+  {
+    "hack": 14,
+    "date": "2011-05-17",
+    "location": "unkown",
+    "title": "Hackergarten at GR8 Conference.",
+    "details": "We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 13,
+    "date": "2011-05-14",
+    "location": "unkown",
+    "title": "Hackergarten at GeeCON Conference.",
+    "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 12,
+    "date": "2011-05-14",
+    "location": "unkown",
+    "title": "Hackergarten at GeeCON Conference.",
+    "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
+    "links": []
+  },
+  {
+    "hack": 11,
+    "date": "2011-03-25",
+    "location": "Basel, Switzerland",
+    "title": "Open Night at Canoo Engineering AG.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 10,
+    "date": "2011-03-16",
+    "location": "Basel, Switzerland",
+    "title": "Magnolia Night in Basel",
+    "details": "The group worked on an OpenSocial plugin for OAUTH support and created a HighChart based paragraph type as a CMS plugin.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 9,
+    "date": "2011-01-26",
+    "location": "Basel, Switzerland",
+    "title": "GPars Night",
+    "details": "The crew worked on some GPars related samples and bug fixes.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 8,
+    "date": "2010-11-26",
+    "location": "unkown",
+    "title": "Screencast Night",
+    "details": "We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.",
+    "links": []
+  },
+  {
+    "hack": 7,
+    "date": "2010-10-29",
+    "location": "Basel, Switzerland",
+    "title": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
+    "details": "At the November event we created 4 new CodeNarc rules, improved the easyb/junit integration, and made good progress on the FindBugs Gradle plugin.",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 6,
+    "date": "2010-10-01",
+    "location": "Basel, Switzerland",
+    "title": "Static Analysis Night",
+    "details": "Wrote 4 new static analysis rules for the CodeNarc project. Great job everyone!",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 5,
+    "date": "2010-07-30",
+    "location": "Basel, Switzerland",
+    "title": "Hackergarten Basel",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 4,
+    "date": "2010-06-02",
+    "location": "Zürich, Switzerland",
+    "title": "Hackergarten at Jazoon",
+    "details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed.",
+    "links": [
+      {
+        "title": "Jazoon",
+        "url": "http://jazoon.com/"
+      }
+    ]
+  },
+  {
+    "hack": 3,
+    "date": "2010-05-19",
+    "location": "Copenhagen, Denmark",
+    "title": "Geek Night at GR8 Conference",
+    "details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log.",
+    "links": [
+      {
+        "title": "GR8 Conference",
+        "url": "http://eu.gr8conf.org"
+      }
+    ]
+  },
+  {
+    "hack": 2,
+    "date": "2010-04-30",
+    "location": "Basel, Switzerland",
+    "title": "Griffon Night",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  },
+  {
+    "hack": 1,
+    "date": "2010-03-26",
+    "location": "Basel, Switzerland",
+    "title": "Gradle Night",
+    "links": [
+      {
+        "title": "Canoo Engineering AG",
+        "url": "http://www.canoo.com"
+      }
+    ]
+  }
+]
