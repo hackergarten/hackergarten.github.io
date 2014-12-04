@@ -1,5 +1,22 @@
 [
   {
+    "hack": 51,
+    "date": "2015-01-22",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/ja4dcrMKeOc"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/219062374/"
+      }
+    ]
+  },
+  
+  {
     "hack": 50,
     "date": "2014-11-27",
     "location": "Basel, Switzerland",
