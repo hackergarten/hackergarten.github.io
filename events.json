@@ -1,18 +1,26 @@
 [
   {
-    "hack": 52,
-    "date": "2014-12-10",
-    "location": "Airbus Defence & Space",
-    "title": "at BG9 / 9078 ",
+    "hack": 53,
+    "date": "2015-01-29",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
     "links": [
       {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/1RTOQhHHqx4"
+      },
+      {
         "title": "Meetup",
-        "url": "http://www.meetup.com/JUG-Bodensee/events/219065485/"
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/219080626/"
+      },
+      {
+        "title": "CSS Versicherung",
+        "url": "https://www.css.ch/"
       }
     ]
   },
   {
-    "hack": 51,
+    "hack": 52,
     "date": "2015-01-22",
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
@@ -27,7 +35,18 @@
       }
     ]
   },
-  
+  {
+    "hack": 51,
+    "date": "2014-12-10",
+    "location": "Airbus Defence & Space",
+    "title": "at BG9 / 9078 ",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/JUG-Bodensee/events/219065485/"
+      }
+    ]
+  },
   {
     "hack": 50,
     "date": "2014-11-27",
@@ -48,7 +67,7 @@
     "hack": 49,
     "date": "2014-11-24",
     "location": "Lucerne, Switzerland",
-    "title": "at CSS Versicherung AG",
+    "title": "at CSS Versicherung",
     "links": [
       {
         "title": "GoogleGroup",
@@ -59,8 +78,8 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
       },
       {
-        "title": "Canoo",
-        "url": "http://www.canoo.com/service/contact/"
+        "title": "CSS Versicherung",
+        "url": "https://www.css.ch/"
       }
     ]
   },
@@ -100,7 +119,7 @@
     "hack": 46,
     "date": "2014-10-09",
     "location": "Luzern, Switzerland",
-    "title": "Hacking at CSS Versicherung AG",
+    "title": "Hacking at CSS Versicherung",
     "links": [
       {
         "title": "GoogleGroups",
@@ -109,6 +128,10 @@
       {
         "title": "Meetup",
         "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+      },
+      {
+        "title": "CSS Versicherung",
+        "url": "https://www.css.ch/"
       }
     ]
   },
