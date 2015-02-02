@@ -1,5 +1,25 @@
 [
   {
+    "hack": 54,
+    "date": "2015-01-29",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/j0Z7SP73Kcc"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/220246661/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ]
+  },
+  {
     "hack": 53,
     "date": "2015-01-29",
     "location": "Lucerne, Switzerland",
