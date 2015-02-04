@@ -1,5 +1,14 @@
 [
   {
+    "hack": 55,
+    "date": "2015-04-18",
+    "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
+    "title": "Hackergarten @ Voxxed Days Ticino 2015",
+    "links": [
+      {"title": "VoxxedDays Ticino '15 Schedule", "url": "https://www.voxxed.com/days-ticino15/#np-3892"}
+    ]
+  },
+  {
     "hack": 54,
     "date": "2015-02-26",
     "location": "Basel, Switzerland",
