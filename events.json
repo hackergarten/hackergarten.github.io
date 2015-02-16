@@ -1,11 +1,35 @@
 [
   {
-    "hack": 55,
+    "hack": 56,
     "date": "2015-04-18",
     "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
     "title": "Hackergarten @ Voxxed Days Ticino 2015",
     "links": [
       {"title": "VoxxedDays Ticino '15 Schedule", "url": "https://www.voxxed.com/days-ticino15/#np-3892"}
+    ]
+  },
+  {
+    "hack": 55,
+    "date": "2015-03-05",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/rsriBpRJRI8"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/220555938/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      },
+      {
+        "title": "CSS Versicherung",
+        "url": "https://www.css.ch/"
+      }
     ]
   },
   {
