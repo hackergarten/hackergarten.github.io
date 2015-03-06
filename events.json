@@ -41,7 +41,7 @@
     "hack": 57,
     "date": "2015-03-24",
     "location": "Javaland",
-    "title": "Hackergarten on tour @ Javaland",
+    "title": "Hackergarten on tour",
     "links": [
       {"title": "Community activities", "url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"}
     ]
@@ -49,10 +49,11 @@
   {
     "hack": 56,
     "date": "2015-03-10",
-    "location": "Spartez, http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl",
+    "location": "Gdansk",
     "title": "Hackergarten Poland",
     "links": [
-      {"title": "Meetup", "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/220850086/"}
+      {"title": "Meetup", "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/220850086/"},
+      {"title": "Address", "url": "http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl"}
     ]
   },
   {
