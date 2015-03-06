@@ -1,6 +1,6 @@
 [
    {
-    "hack": 60,
+    "hack": 61,
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
@@ -9,12 +9,21 @@
     ]
   },
   {
-    "hack": 59,
+    "hack": 60,
     "date": "2015-04-18",
     "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
     "title": "Hackergarten @ Voxxed Days Ticino 2015",
     "links": [
       {"title": "VoxxedDays Ticino '15 Schedule", "url": "https://www.voxxed.com/days-ticino15/#np-3892"}
+    ]
+  },
+  {
+    "hack": 59,
+    "date": "2015-04-14",
+    "location": "Bern, Switzerland",
+    "title": "at SBB Offices",
+    "links": [
+      {"title": "Location", "url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"}
     ]
   },
   {
