@@ -1,11 +1,21 @@
 [
    {
-    "hack": 64,
+    "hack": 65,
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
     "links": [
       {"title": "Hackergarten Activities", "url": "http://www.developer-week.de/Specials/Hackergarten"}
+    ]
+  },
+  {
+    "hack": 64,
+    "date": "2015-06-02",
+    "location": "IT-University, Copenhagen, DK",
+    "title": "GR8Conf Europe 2015",
+    "links": [
+      {"title": "GR8Conf", "url": "http://www.gr8conf.eu" },
+      {"title": "Description", "url": "http://gr8conf.eu/#/talk/158" }
     ]
   },
   {
