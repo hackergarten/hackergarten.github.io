@@ -1,6 +1,6 @@
 [
    {
-    "hack": 65,
+    "hack": 66,
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "hack": 64,
+    "hack": 65,
     "date": "2015-06-02",
     "location": "IT-University, Copenhagen, DK",
     "title": "GR8Conf Europe 2015",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "hack": 63,
+    "hack": 64,
     "date": "2015-04-24",
     "location": "Bangalore, India",
     "title": "at GIDS 2015",
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "hack": 62,
+    "hack": 63,
     "date": "2015-04-18",
     "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
     "title": "Hackergarten @ Voxxed Days Ticino 2015",
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "hack": 61,
+    "hack": 62,
     "date": "2015-04-14",
     "location": "Bern, Switzerland",
     "title": "at SBB Offices",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "hack": 60,
+    "hack": 61,
     "date": "2015-04-08",
     "location": "Paris, France",
     "title": "at Devoxx FR",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "hack": 59,
+    "hack": 60,
     "date": "2015-04-02",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
@@ -71,7 +71,7 @@
     ]
   },
   {
-    "hack": 58,
+    "hack": 59,
     "date": "2015-03-26",
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
@@ -91,12 +91,22 @@
     ]
   },
   {
-    "hack": 57,
+    "hack": 58,
     "date": "2015-03-24",
     "location": "Javaland",
     "title": "Hackergarten on tour",
     "links": [
       {"title": "Community activities", "url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"}
+    ]
+  },
+  {
+    "hack": 57,
+    "date": "2015-03-14",
+    "location": "Netcetera Skopje",
+    "title": "Hackergarten Skopje",
+    "links": [
+      {"title": "Meetup", "url": "http://doodle.com/y69k2mstdhr2m32y#table"},
+      {"title": "Address", "url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"}
     ]
   },
   {
