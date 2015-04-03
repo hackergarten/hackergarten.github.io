@@ -1,6 +1,6 @@
 [
    {
-    "hack": 66,
+    "hack": 67,
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
@@ -9,13 +9,29 @@
     ]
   },
   {
-    "hack": 65,
+    "hack": 66,
     "date": "2015-06-02",
     "location": "IT-University, Copenhagen, DK",
     "title": "GR8Conf Europe 2015",
     "links": [
       {"title": "GR8Conf", "url": "http://www.gr8conf.eu" },
       {"title": "Description", "url": "http://gr8conf.eu/#/talk/158" }
+    ]
+  },
+  {
+    "hack": 65,
+    "date": "2015-05-07",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglythbkb/"
+      },
+      {
+        "title": "Attention, we have a new place to meet: How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
     ]
   },
   {
