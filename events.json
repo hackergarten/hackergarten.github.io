@@ -1,6 +1,6 @@
 [
    {
-    "hack": 67,
+    "hack": 68,
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "hack": 66,
+    "hack": 67,
     "date": "2015-06-02",
     "location": "IT-University, Copenhagen, DK",
     "title": "GR8Conf Europe 2015",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "hack": 65,
+    "hack": 66,
     "date": "2015-05-07",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
@@ -35,12 +35,33 @@
     ]
   },
   {
-    "hack": 64,
+    "hack": 65,
     "date": "2015-04-24",
     "location": "Bangalore, India",
     "title": "at GIDS 2015",
     "links": [
       {"title": "GIDS Schedule", "url": "http://www.developermarch.com/developersummit/conference.html"}
+    ]
+  },
+  
+    {
+    "hack": 64,
+    "date": "2015-04-23",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "GoogleGroup",
+        "url": "https://groups.google.com/forum/#!topic/hackergarten/TAdE3eQ8E_4"
+      },
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/221672648/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
     ]
   },
   {
