@@ -1,6 +1,6 @@
 [
    {
-    "hack": 68,
+    "hack": 69,
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "hack": 67,
+    "hack": 68,
     "date": "2015-06-02",
     "location": "IT-University, Copenhagen, DK",
     "title": "GR8Conf Europe 2015",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "hack": 66,
+    "hack": 67,
     "date": "2015-05-07",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
@@ -33,6 +33,18 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ]
+  },
+  {
+     "hack": 66,
+     "date": "2015-04-29",
+     "location": "Zürich, Switzerland",
+     "title": "looking for a location",
+     "links": [
+         { 
+            "title": "Meetup",
+            "url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/
+         }   
+     ]
   },
   {
     "hack": 65,
