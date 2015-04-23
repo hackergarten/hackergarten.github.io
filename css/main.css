@@ -6,8 +6,19 @@
     padding: 10px;
     background-color: rgba(255,255,255,0.8);
     border-radius: 6px;
-    width: 300px;
+    min-width: 300px;
+    display: inline-block;
 }
+
+.title > p {
+    white-space: nowrap;
+   
+}
+
+.panel-body > span {
+    display: inline-block;
+}
+
 
 .title h1 {
     font-size: 2em;
