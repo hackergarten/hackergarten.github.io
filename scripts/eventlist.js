@@ -1,34 +1,56 @@
-angular.module('eventlist',[]);
+'use strict';
+
+angular
+    .module('eventlist', [])
+    .controller('eventlistController', eventListController)
+    .service('eventService', eventService);
 
 
-function eventlistController($scope, $http) {
-	$scope.futureEventlist = [];
-	$scope.nextEventlist = [];
-	$scope.pastEventlist = [];
+function eventListController($scope, eventService) {
+    $scope.futureEventlist = [];
+    $scope.nextEventlist = [];
+    $scope.pastEventlist = [];
 
-	$http.get('events.json').then(extractFutureAndPastEvents);
+    eventService
+        .queryEvents()
+        .then(extractFutureAndPastEvents);
 
-	function extractFutureAndPastEvents(response) {
-		var eventList = response.data;
-		eventList.sort(function(a, b) {
-			return new Date(a.date) < new Date(b.date);
-		});
-		var today = new Date();
-		today = new Date(today.setHours(0,0,0));
+    function extractFutureAndPastEvents() {
+        $scope.futureEventlist = eventService.filterFutureEvents();
+        $scope.pastEventlist = eventService.filterPastEvents();
 
-		$scope.futureEventlist = eventList.filter(function(a) {
-			return new Date(a.date) >= today;
-		});
+        if ($scope.futureEventlist.length > 0) {
+            $scope.nextEventlist = [$scope.futureEventlist.pop()];
+        }
 
-		$scope.pastEventlist = eventList.filter(function(a) {
-			return new Date(a.date) < today;
-		});
+        $scope.futureEventlist.reverse();
+    }
+}
 
-		if ($scope.futureEventlist.length > 0) {
-			$scope.nextEventlist = [$scope.futureEventlist.pop()];
-		}
+function eventService($http) {
+    var eventList = [];
+    var today = new Date();
+    today = new Date(today.setHours(0, 0, 0));
 
-		$scope.futureEventlist.reverse();
-
-	}
+    return {
+        queryEvents: function () {
+            return $http.get('events.json').then(function (response) {
+                eventList = response.data;
+                eventList.sort(function (a, b) {
+                    return new Date(a.date) < new Date(b.date);
+                });
+                return eventList;
+            });
+        },
+        filterFutureEvents: function () {
+            return eventList.filter(function (a) {
+                return new Date(a.date) >= today;
+            })
+        },
+        filterPastEvents: function () {
+            return eventList.filter(function (a) {
+                return new Date(a.date) < today;
+            });
+        }
+    };
 }
