@@ -18,6 +18,17 @@
   },
   {
     "date": "2015-05-07",
+    "location": "Friedrichshafen/Immenstaad, Germany",
+    "title": "JUG Bodensee (2nd Hackergarten)",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/JUG-Bodensee/events/222206632/"
+      },
+    ]
+  },  
+  {
+    "date": "2015-05-07",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
     "links": [
