@@ -8,6 +8,21 @@
     ]
   },
   {
+    "date": "2015-06-04",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglytjbgb/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ]
+  },
+  {
     "date": "2015-06-02",
     "location": "IT-University, Copenhagen, DK",
     "title": "GR8Conf Europe 2015",
