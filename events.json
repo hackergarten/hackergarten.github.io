@@ -1,5 +1,16 @@
 [
    {
+    "date": "2015-06-25",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {"title": "Meetup", "url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"},
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+   },
+   {
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
