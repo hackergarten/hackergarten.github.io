@@ -1,5 +1,20 @@
 [
   {
+    "date": "2015-07-23",
+    "location": "Stuttgart, Gernamy",
+    "title": "at codecentric AG",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/de/Hackergarten-Stuttgart/events/223355452/"
+      },
+      {
+        "title": "Find us in the 3rd floor:",
+        "url": "https://www.google.de/maps/place/Curiestra%C3%9Fe+2,+70563+Stuttgart/@48.73781,9.1126,17z/data=!3m1!4b1!4m2!3m1!1s0x4799dc5e98d9e9a3:0x3abf6880c5a75bf7"
+      }
+    ]
+  },
+  {
     "date": "2015-07-02",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
