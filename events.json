@@ -1,5 +1,20 @@
 [
   {
+    "date": "2015-08-06",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/222815719/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ]
+  },
+  {
     "date": "2015-07-23",
     "location": "Stuttgart, Germany",
     "title": "at codecentric AG",
