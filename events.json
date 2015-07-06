@@ -15,6 +15,21 @@
     ]
   },
   {
+    "date": "2015-07-30",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/223735767/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+      ]
+  },
+  {
     "date": "2015-07-23",
     "location": "Stuttgart, Germany",
     "title": "at codecentric AG",
