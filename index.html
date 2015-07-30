@@ -21,16 +21,13 @@
     <![endif]-->
 </head>
 
-<body>
+<body ng-controller="hgMainPageController">
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
+<div class="jumbotron" style="background: url('pictures/{{getRndBackground()}}') center center no-repeat;">
     <div class="container">
-        <img id="logo" src="pictures/hackergarten_b_and_w_small.png" alt="hackergarten" class="hidden-xs" />
-        <div class="title">
-            <h1>Hackergarten</h1>
-            <p>A Computer Programming Contributor Group</p>
-        </div>
+            <img id="logo" src="pictures/hg-logo-white-small.svg" alt="hackergarten" class="visible-xs pull-left img-responsive" style="max-width: 125px" />
+            <img id="logo" src="pictures/hg-logo-white-large.svg" alt="hackergarten" class="hidden-xs pull-left img-responsive" style="min-width: 250px; max-width: 500px"/>
     </div>
 </div>
 
@@ -158,6 +155,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular.min.js"></script>
+<script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
 
 </body>
