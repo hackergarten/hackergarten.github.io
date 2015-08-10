@@ -15,6 +15,21 @@
     ]
   },
   {
+    "date": "2015-08-27",
+    "location": "Zurich, Switzerland",
+    "title": "at Liip Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/224538776/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://goo.gl/maps/mMlSy"
+      }
+    ]
+  },
+  {
     "date": "2015-08-25",
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
