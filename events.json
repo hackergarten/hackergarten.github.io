@@ -56,7 +56,8 @@
       ],
     "achievements": [
       "Added details modal for hackergarten events to main website.",
-      "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)"
+      "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)",
+      "GrooxyFx: <a href='https://github.com/groovyfx-project/groovyfx/pull/12'>Upgrade Gradle Version</a>, <a href='https://github.com/groovyfx-project/groovyfx/pull/21'>Fix MenuDemo</a>,<a href='https://github.com/groovyfx-project/groovyfx/pull/22'>Fix wrong class reference</a>, <a href='https://github.com/groovyfx-project/groovyfx/issues/13'>Fix Java8 Compatibility</a>,<a href='https://github.com/groovyfx-project/groovyfx/issues/23'>Fix FxBindable</a>,<a href='https://github.com/groovyfx-project/groovyfx/issues/18'>SceneGraphBuilder registered twice</a>"
       ]
   },
   {
