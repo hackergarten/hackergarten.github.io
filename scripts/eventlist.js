@@ -1,12 +1,27 @@
 'use strict';
 
-angular
-    .module('eventlist', [])
+var app = angular
+    .module('eventlist', ['ngDialog'])
     .controller('eventlistController', eventListController)
     .service('eventService', eventService);
 
+/*
+app.controller('DialogCtrl', function ($scope, ngDialog) {
+    $scope.dialogModel = {
+        message : 'message from passed scope'
+    };
+    $scope.openSecond = function () {
+        ngDialog.open({
+            template: '<h3><a href="" ng-click="closeSecond()">Close all by click here!</a></h3>',
+            plain: true,
+            closeByEscape: false,
+            controller: 'SecondModalCtrl'
+        });
+    };
+});
+*/
 
-function eventListController($scope, eventService) {
+function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
     $scope.nextEventlist = [];
     $scope.pastEventlist = [];
@@ -17,6 +32,9 @@ function eventListController($scope, eventService) {
 
     function extractFutureAndPastEvents() {
         $scope.futureEventlist = eventService.filterFutureEvents();
+
+        console.log($scope.futureEventlist);
+
         $scope.pastEventlist = eventService.filterPastEvents();
 
         if ($scope.futureEventlist.length > 0) {
@@ -25,6 +43,18 @@ function eventListController($scope, eventService) {
 
         $scope.futureEventlist.reverse();
     }
+
+    $scope.openModal = function (hgEvent) {
+        ngDialog.open({
+            data: hgEvent,
+            plain: false,
+            showClose: true,
+            closeByDocument: true,
+            closeByEscape: true,
+            template: 'event-achievements',
+            className: 'ngdialog-theme-default'
+        });
+    };
 }
 
 function eventService($http) {
@@ -37,7 +67,8 @@ function eventService($http) {
             return $http.get('events.json').then(function (response) {
                 eventList = response.data;
                 eventList.sort(function (a, b) {
-                    return new Date(a.date) < new Date(b.date);
+                    var isLess = new Date(a.date) < new Date(b.date);
+                    return (isLess ? 1 : -1);
                 });
                 return eventList;
             });

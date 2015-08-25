@@ -53,6 +53,10 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
+      ],
+    "achievements": [
+      "Added details modal for hackergarten events to main website.",
+      "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)"
       ]
   },
   {

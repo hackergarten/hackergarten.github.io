@@ -13,6 +13,8 @@
     <link href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
 
     <link href="css/main.css" rel="stylesheet">
+    <link href="ng-dialog/css/ngDialog.min.css" rel="stylesheet">
+    <link href="ng-dialog/css/ngDialog-theme-default.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -78,6 +80,9 @@
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
+                          <ul ng-if="event.achievements">
+                              <li><a href="" ng-click="openModal(event)">Achievements</a></li>
+                          </ul>
 					    </li>
                     </ul>
                 </div>
@@ -149,14 +154,28 @@
 </div> <!-- /container -->
 
 
+<script type="text/ng-template" id="event-achievements">
+    <div class="ngdialog-message">
+        <h4><strong>Hack {{ngDialogData.title}} on {{ngDialogData.date}}.</strong></h4>
+        <ul>
+          <li ng-repeat="item in ngDialogData.achievements">{{item}}</li>
+        </ul>
+    </div>
+</script>
+
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.27/angular.min.js"></script>
+
+<script src="ng-dialog/js/ngDialog.js"></script>
+
+
 <script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
+
 
 </body>
 </html>
