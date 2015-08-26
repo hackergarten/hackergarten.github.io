@@ -158,7 +158,7 @@
     <div class="ngdialog-message">
         <h4><strong>Hack {{ngDialogData.title}} on {{ngDialogData.date}}.</strong></h4>
         <ul>
-          <li ng-repeat="item in ngDialogData.achievements">{{item}}</li>
+          <li ng-repeat="item in ngDialogData.achievements" ng-bind-html="item | html"></li>
         </ul>
     </div>
 </script>
