@@ -5,21 +5,12 @@ var app = angular
     .controller('eventlistController', eventListController)
     .service('eventService', eventService);
 
-/*
-app.controller('DialogCtrl', function ($scope, ngDialog) {
-    $scope.dialogModel = {
-        message : 'message from passed scope'
-    };
-    $scope.openSecond = function () {
-        ngDialog.open({
-            template: '<h3><a href="" ng-click="closeSecond()">Close all by click here!</a></h3>',
-            plain: true,
-            closeByEscape: false,
-            controller: 'SecondModalCtrl'
-        });
-    };
-});
-*/
+
+app.filter('html', ['$sce', function ($sce) { 
+    return function (text) {
+        return $sce.trustAsHtml(text);
+    };    
+}]);
 
 function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
@@ -32,9 +23,6 @@ function eventListController($scope, ngDialog, eventService) {
 
     function extractFutureAndPastEvents() {
         $scope.futureEventlist = eventService.filterFutureEvents();
-
-        console.log($scope.futureEventlist);
-
         $scope.pastEventlist = eventService.filterPastEvents();
 
         if ($scope.futureEventlist.length > 0) {
@@ -55,7 +43,7 @@ function eventListController($scope, ngDialog, eventService) {
             className: 'ngdialog-theme-default'
         });
     };
-}
+};
 
 function eventService($http) {
     var eventList = [];
@@ -84,4 +72,4 @@ function eventService($http) {
             });
         }
     };
-}
+};
