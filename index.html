@@ -43,7 +43,7 @@
                 <div class="panel-body">
                     <ul>
                         <li class="next-event" ng-repeat="event in nextEventlist">
-                            <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.</b>
+                            <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}</b>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
