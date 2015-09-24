@@ -36,7 +36,8 @@
       }
       ],
     "achievements": [
-      "Lazybones Templates: <a href='https://github.com/aalmiray/lazybones-template-collection'>Updated lazybones afterburner templates</a>"
+      "Lazybones Templates: <a href='https://github.com/aalmiray/lazybones-template-collection'>Updated lazybones afterburner templates</a>",
+      "griffon-preferences-plugin: <a href='https://github.com/griffon-plugins/griffon-preferences-plugin/pull/6'>Add support for default values to PreferencesNode</a>"
       ]
   },
   {
