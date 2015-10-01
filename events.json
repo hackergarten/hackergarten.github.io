@@ -12,6 +12,11 @@
         "title": "How to find us",
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
+    ],
+    "achievements": [
+      "SportChef: <a href='http://www.meetup.com/Hackergarten-Bern/'>New login page</a>",
+      "DDerl: <a href='https://github.com/K2InformaticsGmbH/dderl'>text adaptor to read CSV and JSON files</a>",
+      "Clojure Protocol Buffer Library: concept creation"
     ]
   },
   {
