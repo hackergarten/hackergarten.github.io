@@ -29,8 +29,8 @@
       }
     ],
     "achievements": [
-      "SportChef: <a href='http://www.meetup.com/Hackergarten-Bern/'>New login page</a>",
-      "DDerl: <a href='https://github.com/K2InformaticsGmbH/dderl'>text adaptor to read CSV and JSON files</a>",
+      "SportChef: new login page",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: text adaptor to read CSV and JSON files",
       "Clojure Protocol Buffer Library: concept creation"
     ]
   },
