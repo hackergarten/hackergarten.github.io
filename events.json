@@ -1,5 +1,20 @@
 [
   {
+    "date": "2015-11-05",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/225176016/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ]
+  },
+  {
     "date": "2015-10-01",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
@@ -12,6 +27,11 @@
         "title": "How to find us",
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
+    ],
+    "achievements": [
+      "SportChef: new login page",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: text adaptor to read CSV and JSON files",
+      "Clojure Protocol Buffer Library: concept creation"
     ]
   },
   {
@@ -19,6 +39,11 @@
     "location": "Bern, Switzerland",
     "title": "at SBB, Haslerstrasse 30",
     "links": [
+    ],
+    "achievements": [
+      "Created a new Meetup page:<br/><a href='http://www.meetup.com/Hackergarten-Bern/'>Hackergarten Bern</a>",
+      "IntelliJ AsciiDoc Plugin (wip):<br/><a href='https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/87'>Title action should let the cursor on the same line #87</a>",
+      "Babun Shell:<br/><a href='https://github.com/babun/babun/pull/466'>Remove duplicate property CHECK_TIMEOUT_IN_SECS</a>"
     ]
   },
   {
