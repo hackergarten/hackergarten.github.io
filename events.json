@@ -14,6 +14,22 @@
       }
     ]
   },
+   {
+    "date": "2015-10-22",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/225840462/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+      ],
+    "achievements": []
+  },
   {
     "date": "2015-10-01",
     "location": "Lucerne, Switzerland",
