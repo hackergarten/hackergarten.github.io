@@ -15,6 +15,6 @@ angular
 
 
 function hgMainPageController($scope, eventService) {
-    console.log('Hello World!');
+    // do nothing
 }
 
