@@ -43,7 +43,7 @@
                 <div class="panel-body">
                     <ul>
                         <li class="next-event" ng-repeat="event in nextEventlist">
-                            <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.</b>
+                            <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}</b>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
@@ -51,7 +51,7 @@
 
 
                         <li ng-repeat="event in futureEventlist">
-                            Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} {{event.title}} on {{event.date}} in {{event.location}}.
+                            Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} {{event.title}} on {{event.date}} in {{event.location}}
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
@@ -76,7 +76,7 @@
                 <div class="panel-body">
                     <ul>
 					    <li ng-repeat="event in pastEventlist">
-					      Hack #{{pastEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}.
+					      Hack #{{pastEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
@@ -158,7 +158,7 @@
     <div class="ngdialog-message">
         <h4><strong>Hack {{ngDialogData.title}} on {{ngDialogData.date}}.</strong></h4>
         <ul>
-          <li ng-repeat="item in ngDialogData.achievements">{{item}}</li>
+          <li ng-repeat="item in ngDialogData.achievements" ng-bind-html="item | html"></li>
         </ul>
     </div>
 </script>
