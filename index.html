@@ -23,10 +23,10 @@
     <![endif]-->
 </head>
 
-<body ng-controller="hgMainPageController">
+<body>
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron" style="background: url('pictures/{{getRndBackground()}}') center center no-repeat;">
+<div class="jumbotron" random-header-image="image">
     <div class="container">
             <img id="logo" src="pictures/hg-logo-white-small.svg" alt="hackergarten" class="visible-xs pull-left img-responsive" style="max-width: 125px" />
             <img id="logo" src="pictures/hg-logo-white-large.svg" alt="hackergarten" class="hidden-xs pull-left img-responsive" style="min-width: 250px; max-width: 500px"/>
@@ -173,7 +173,6 @@
 <script src="ng-dialog/js/ngDialog.js"></script>
 
 
-<script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
 
 
