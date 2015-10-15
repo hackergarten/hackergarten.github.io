@@ -1,7 +1,7 @@
 'use strict';
 
 var app = angular
-    .module('eventlist', ['ngDialog'])
+    .module('hackergartenPage')
     .controller('eventlistController', eventListController)
     .service('eventService', eventService);
 
@@ -73,3 +73,4 @@ function eventService($http) {
         }
     };
 };
+
