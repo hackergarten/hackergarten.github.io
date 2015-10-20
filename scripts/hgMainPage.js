@@ -1,12 +1,14 @@
 'use strict';
 
-angular
-    .module('hackergartenPage', [])
-    .controller('hgMainPageController', hgMainPageController);
+angular.module('hackergartenPage', ['ngDialog']);
 
+angular.module('hackergartenPage')
+	.directive('randomHeaderImage', function () {
+      return function (scope, element, attrs) {        
+        var image = "pictures/header." + Math.floor((Math.random()*4)+1) + ".png"
 
-function hgMainPageController($scope, eventService) {
-    $scope.getRndBackground = function(){
-        return "header." + Math.floor((Math.random()*4)+1) + ".png"
-    };
-}
+        element.css({
+            'background': 'url("' + image + '") center center no-repeat'
+        });
+      };
+    });
