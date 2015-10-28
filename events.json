@@ -39,7 +39,9 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
       ],
-    "achievements": []
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/pull/22'>SportChef</a>: Evaluation of <a href='https://www.polymer-project.org'>Google Polymer</a>"
+    ]
   },
   {
     "date": "2015-10-01",
