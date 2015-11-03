@@ -1,5 +1,20 @@
 [
   {
+    "date": "2015-11-17",
+    "location": "Casablanca, Morocco",
+    "title": "at Devoxx Morocco",
+    "links": [
+      {
+        "title": "Gradle Hackergarten",
+        "url": "http://cfp.devoxx.ma/2015/talks/hack"
+      },
+      {
+        "title": "Get in touch",
+        "url": "http://cfp.devoxx.ma/2015/speaker/rene_groeschke"
+      }
+    ]
+  },
+  {
     "date": "2015-11-05",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
