@@ -27,6 +27,11 @@
         "title": "How to find us",
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
+    ],
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef'>SportChef</a>: input form for events (Polymer)",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a> Bugfixing (Erlang CSV Driver)",
+      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer Library</a>: initial commits"
     ]
   },
   {
