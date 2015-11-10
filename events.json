@@ -1,5 +1,22 @@
 [
   {
+    "date": "2015-12-03",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/226228863/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2015-11-17",
     "location": "Casablanca, Morocco",
     "title": "at Devoxx Morocco",
@@ -27,6 +44,11 @@
         "title": "How to find us",
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
+    ],
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef'>SportChef</a>: input form for events (Polymer)",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a> Bugfixing (Erlang CSV Driver)",
+      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer Library</a>: initial commits"
     ]
   },
   {
