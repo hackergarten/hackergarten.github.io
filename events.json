@@ -1,5 +1,22 @@
 [
   {
+    "date": "2015-12-10",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/226695353/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+      ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2015-12-03",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
