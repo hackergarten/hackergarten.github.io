@@ -34,6 +34,23 @@
     ]
   },
   {
+    "date": "2015-12-02",
+    "location": "Zurich, Switzerland",
+    "title": "at Liip",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/de/Hackergarten-Zurich/events/226855098/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://goo.gl/maps/mMlSy"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2015-11-17",
     "location": "Casablanca, Morocco",
     "title": "at Devoxx Morocco",
