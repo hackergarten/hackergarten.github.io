@@ -17,6 +17,23 @@
     ]
   },
   {
+    "date": "2015-12-10",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/226695353/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+      ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2015-12-03",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
@@ -35,6 +52,23 @@
       "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: Automatic Charset Detection",
       "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
       "Scala &amp; Akka Streams Discussions and Tests"
+    ]
+  },
+  {
+    "date": "2015-12-02",
+    "location": "Zurich, Switzerland",
+    "title": "at Liip",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/de/Hackergarten-Zurich/events/226855098/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://goo.gl/maps/mMlSy"
+      }
+    ],
+    "achievements": [
     ]
   },
   {
