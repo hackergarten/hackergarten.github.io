@@ -14,6 +14,10 @@
       }
     ],
     "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/issues/44'>SportChef</a>: Add Persistence Layer (noDB)",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: Automatic Charset Detection",
+      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
+      "Scala &amp; Akka Streams Discussions and Tests"
     ]
   },
   {
