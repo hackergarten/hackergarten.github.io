@@ -1,5 +1,22 @@
 [
   {
+    "date": "2016-01-07",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvcbkb/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2015-12-10",
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
@@ -31,6 +48,10 @@
       }
     ],
     "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/issues/44'>SportChef</a>: Add Persistence Layer (noDB)",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: Automatic Charset Detection",
+      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
+      "Scala &amp; Akka Streams Discussions and Tests"
     ]
   },
   {
