@@ -31,6 +31,9 @@
       }
       ],
     "achievements": [
+	"<a href='https://github.com/canoo/canoo-radio/issues/12'>Canoo Radio</a>: Allow voting on current song",
+	"<a href='https://github.com/canoo/canoo-radio/issues/11'>Canoo Radio</a>: Adding play counts for the top songs",
+	"<a href='https://github.com/canoo/canoo-radio/issues/29'>Canoo Radio</a>: Show time to and time elapsed in human readable format instead of duration"
     ]
   },
   {
