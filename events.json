@@ -31,9 +31,13 @@
       }
       ],
     "achievements": [
-	"<a href='https://github.com/canoo/canoo-radio/issues/12'>Canoo Radio</a>: Allow voting on current song",
-	"<a href='https://github.com/canoo/canoo-radio/issues/11'>Canoo Radio</a>: Adding play counts for the top songs",
-	"<a href='https://github.com/canoo/canoo-radio/issues/29'>Canoo Radio</a>: Show time to and time elapsed in human readable format instead of duration"
+      	"<a href='https://github.com/canoo/canoo-radio/issues/12'>Canoo Radio</a>: Allow voting on current song",
+      	"<a href='https://github.com/canoo/canoo-radio/issues/11'>Canoo Radio</a>: Adding play counts for the top songs",
+      	"<a href='https://github.com/canoo/canoo-radio/issues/29'>Canoo Radio</a>: Show time to and time elapsed in human readable format instead of duration",
+        "SportChef: <a href='https://github.com/McPringle/sportchef/issues/42'>Image Upload for Events</a>",
+        "SportChef: <a href='https://github.com/McPringle/sportchef/pull/51'>CSS Navigation-Styles</a>",
+        "SportChef: <a href='https://github.com/McPringle/sportchef/pull/56'>Delete Events</a>",
+        "SportChef: <a href='https://github.com/McPringle/sportchef/pull/53'>Added base style for paper-cards</a>"
     ]
   },
   {
