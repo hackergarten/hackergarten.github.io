@@ -14,6 +14,9 @@
       }
     ],
     "achievements": [
+      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
+      "<a href='https://github.com/airomem/airomem'>Airomem</a>: Make data directory configurable",
+      "<a href='https://github.com/McPringle/sportchef'>SportChef</a>: UI fixes &amp: graphic design"
     ]
   },
   {
