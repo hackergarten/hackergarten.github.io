@@ -1,5 +1,20 @@
 [
   {
+    "date": "2016-02-04",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/225176075/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ]
+  },
+  {
     "date": "2016-01-21",
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
@@ -31,6 +46,9 @@
       }
     ],
     "achievements": [
+      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
+      "<a href='https://github.com/airomem/airomem'>Airomem</a>: Make data directory configurable",
+      "<a href='https://github.com/McPringle/sportchef'>SportChef</a>: UI fixes &amp: graphic design"
     ]
   },
   {
