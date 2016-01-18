@@ -32,6 +32,21 @@
     ]
   },
   {
+    "date": "2016-01-27",
+    "location": "Bern, Switzerland",
+    "title": "at SBB",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Bern/events/228176399/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+      }
+    ]
+  },
+  {
     "date": "2016-01-21",
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
