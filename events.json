@@ -61,6 +61,8 @@
       }
       ],
     "achievements": [
+	"<a href='https://github.com/canoo/canoo-radio/pull/42'>Canoo Radio</a>: Fixed localhost Stream-URL",
+	"<a href='https://github.com/canoo/canoo-radio/pull/43'>Canoo Radio</a>: Backend for recent uploaded list"
     ]
   },
   {
