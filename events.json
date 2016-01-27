@@ -44,6 +44,12 @@
         "title": "How to find us",
         "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
       }
+    ],
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/issues/91'>SportChef</a>: Different events should be shown in different colors",
+      "<a href='https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/38'>asciidoctor-intellij-plugin</a>: Implement toolbar with bold, italic, etc.",
+      "<a href='https://github.com/babun/babun/pull/561'>Babun Shell</a>: Added solution to issue289 on faq",
+      "<a href='http://electron.atom.io/'>Electron</a>: Evaluation"
     ]
   },
   {
