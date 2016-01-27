@@ -62,7 +62,9 @@
       ],
     "achievements": [
 	"<a href='https://github.com/canoo/canoo-radio/pull/42'>Canoo Radio</a>: Fixed localhost Stream-URL",
-	"<a href='https://github.com/canoo/canoo-radio/pull/43'>Canoo Radio</a>: Backend for recent uploaded list"
+	"<a href='https://github.com/canoo/canoo-radio/pull/43'>Canoo Radio</a>: Backend for recent uploaded list",
+	"<a href='https://github.com/McPringle/sportchef/pull/109'>Sportchef</a>: Use default image fallback",
+	"<a href='https://github.com/McPringle/sportchef/pull/110'>Sportchef</a>: Added some colors"
     ]
   },
   {
