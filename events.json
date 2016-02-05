@@ -28,6 +28,11 @@
         "title": "How to find us",
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
+    ],
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/issues/36'>SportChef</a>: Implement passwordless authentication",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: Fix Oracle CSV export",
+      "Discussion about event based content management systems"
     ]
   },
   {
