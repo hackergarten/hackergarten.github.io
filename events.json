@@ -30,7 +30,24 @@
       }
       ],
     "achievements": []
-  },	
+  },
+  {
+    "date": "2016-02-24",
+    "location": "Zurich, Switzerland",
+    "title": "at Liip",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/228779639/"
+      },
+      {
+        "title": "Where is Liip?",
+        "url": "https://maps.google.com/maps?f=q&hl=en&q=Limmatstrasse+183%2C+Zürich%2C+ch"
+      }
+    ],
+    "achievements": [
+    ]
+  },
   {
     "date": "2016-02-04",
     "location": "Lucerne, Switzerland",
