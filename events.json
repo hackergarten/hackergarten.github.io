@@ -1138,18 +1138,6 @@
     "links": []
   },
   {
-    "date": "2012-02-01",
-    "location": "Basel & Lugano, Switzerland",
-    "title": "Mobile Development nights.",
-    "links": []
-  },
-  {
-    "date": "2012-02-01",
-    "location": "Basel & Lugano, Switzerland",
-    "title": "Mobile Development nights.",
-    "links": []
-  },
-  {
     "date": "2011-12-08",
     "location": "London, United Kingdom",
     "title": "Groovy/Grails Hackergarten at the Groovy/Grails Exchange.",
@@ -1186,21 +1174,14 @@
   },
   {
     "date": "2011-05-17",
-    "location": "unkown",
+    "location": "Denmark",
     "title": "Hackergarten at GR8 Conference.",
     "details": "We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.",
     "links": []
   },
   {
     "date": "2011-05-14",
-    "location": "unkown",
-    "title": "Hackergarten at GeeCON Conference.",
-    "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
-    "links": []
-  },
-  {
-    "date": "2011-05-14",
-    "location": "unkown",
+    "location": "Krakow",
     "title": "Hackergarten at GeeCON Conference.",
     "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
     "links": []
