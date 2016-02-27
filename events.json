@@ -29,7 +29,11 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
       ],
-    "achievements": []
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/pull/175'>SportChef: Fixed problems with wrong data directory</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/176'>SportChef: Extending Unit Tests for AJAX Uploads</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/46'>SportChef: Implemented Optimistic Lock</a>"
+    ]
   },
   {
     "date": "2016-02-24",
@@ -46,6 +50,7 @@
       }
     ],
     "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/issues/167'>SportChef: Writing Unit Tests for AJAX Uploads</a>"
     ]
   },
   {
