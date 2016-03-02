@@ -1,5 +1,17 @@
 [
   {
+    "date": "2016-03-08",
+    "location": "JavaLand Conference, Phantasialand, Brühl/Köln, Germany",
+    "title": "Hackergarten @ Javaland",
+    "links": [
+      {
+        "title": "Javaland Program, see 'Early Adopters Area'",
+        "url": "http://www.javaland.eu/de/programm/community-aktivitaeten/"
+      }
+    ],
+    "achievements": []
+  },
+  {
     "date": "2016-03-03",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
