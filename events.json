@@ -25,7 +25,14 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ],
-    "achievements": []
+    "achievements": [
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: Authentication Logger</a>",
+      "<a href='http://openjdk.java.net/jeps/275'>JEP 275: Modular Java Application Packaging</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/147'>SportChef: Create the design for the login dialog</a>",
+      "<a href='https://github.com/McPringle/sportchef/pull/192'>SportChef: Enhancing code readability</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/187'>SportChef: Write tests for the EventRepository</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/115'>SportChef: Use a date picker component for the event date</a>"
+    ]
   },
  {
     "date": "2016-02-25",
