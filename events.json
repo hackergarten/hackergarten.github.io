@@ -16,6 +16,22 @@
     "achievements": []
   },
   {
+    "date": "2016-03-31",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/229280644/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+      ],
+    "achievements": []
+  },
+  {
     "date": "2016-03-08",
     "location": "JavaLand Conference, Phantasialand, Brühl/Köln, Germany",
     "title": "Hackergarten @ Javaland",
@@ -65,6 +81,7 @@
       }
       ],
     "achievements": [
+    	"<a href='https://github.com/blackdrag/Groja'>Groja incarnation, a Groovy Java Jointcompiler</a>",
       "<a href='https://github.com/McPringle/sportchef/pull/175'>SportChef: Fixed problems with wrong data directory</a>",
       "<a href='https://github.com/McPringle/sportchef/issues/176'>SportChef: Extending Unit Tests for AJAX Uploads</a>",
       "<a href='https://github.com/McPringle/sportchef/issues/46'>SportChef: Implemented Optimistic Lock</a>"
