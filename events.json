@@ -41,7 +41,13 @@
         "url": "http://www.javaland.eu/de/programm/community-aktivitaeten/"
       }
     ],
-    "achievements": []
+    "achievements": [
+      "<a href='https://github.com/melix/jmh-gradle-plugin/pull/57'>jmh-gradle-plugin: merged PR #57</a>",
+      "<a href='https://twitter.com/CedricChampeau/status/707482041466667008'>jmh-gradle-plugin: prepared release 0.3.0</a>",
+      "<a href='https://github.com/groovyfx-project/groovyfx/commit/f3d0291a61e9a773cbc78e21d95d4134f398b9f2'>groovyfx: Move most metaclass enhancements to groovy module. Fixes #36</a>",
+      "<a href='https://github.com/asciidoctor/asciidoctor-gradle-plugin/pull/184'>asciidoctor-gradle-org: PR #184 Use Asciidoctor.requireLibraries()</a>",
+      "<a href='https://github.com/jbake-org/jbake/pull/269'>jbake: PR #269 Enable gemPath and requires properties on Asciidoctor</a>"
+    ]  
   },
   {
     "date": "2016-03-03",
