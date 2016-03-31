@@ -29,7 +29,10 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
       ],
-    "achievements": []
+    "achievements": [
+    	"<a href='https://github.com/groovyfx-project/groovyfx/pull/38'>groovyFX: PR #38</a>",
+    	"<a href='https://github.com/sclassen/asciidoctorj-screenshot'>asciidoctorj-screenshot: Version 0.1.0 released</a>"
+    ]
   },
   {
     "date": "2016-03-08",
