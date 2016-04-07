@@ -13,7 +13,14 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ],
-    "achievements": []
+    "achievements": [
+      "<a href='https://github.com/reinhapa/junit-compat'>JUnit Compat Library: New release on Maven Central</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: Fixed a Bug in the SQL engine</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: Fixed session timeout bug on login page</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: UI Bugfixing on the client</a>",
+      "<a href='https://github.com/McPringle/sportchef/pull/242'>SportChef: Fix build problem with old Maven version</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/244'>SportChef: Create snapshots of persistence store on server shutdown</a>"
+    ]
   },
   {
     "date": "2016-03-31",
