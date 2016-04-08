@@ -31,11 +31,11 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/reinhapa/junit-compat'>JUnit Compat Library: New release on Maven Central</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: Fixed a Bug in the SQL engine</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: Fixed session timeout bug on login page</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: UI Bugfixing on the client</a>",
-      "<a href='https://github.com/McPringle/sportchef/pull/242'>SportChef: Fix build problem with old Maven version</a>",
+      "<a href='http://search.maven.org/#artifactdetails%7Cnet.reini%7Cjunit-compat%7C1.1.0%7Cjar'>JUnit Compat Library: New release on Maven Central</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl/pull/199'>DDerl: Fixed a bug in the SQL engine</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl/pull/197'>DDerl: Fixed session timeout bug on login page</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl/issues/192'>DDerl: Fixed a bug with drag and drop column reordering</a>",
+      "<a href='https://github.com/McPringle/sportchef/pull/242'>SportChef: Fixed build problem with old Maven version</a>",
       "<a href='https://github.com/McPringle/sportchef/issues/244'>SportChef: Create snapshots of persistence store on server shutdown</a>"
     ]
   },
