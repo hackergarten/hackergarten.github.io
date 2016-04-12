@@ -13,6 +13,23 @@
     ]
   },
   {
+    "date": "2016-04-28",
+    "location": "Lugano, Switzerland",
+    "title": "Devoxx Days Ticino Hackergarten",
+    "links": [
+      {
+        "title": "Location",
+        "url": "USI - Room SI-008"
+      },
+      {
+        "title": "Announcement",
+        "url": "https://groups.google.com/forum/#!msg/juglugano/cYhpfg91tzY/Ren6E5vxIwAJ"
+      },
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-04-20",
     "location": "Paris, France",
     "title": "at Devoxx FR",
