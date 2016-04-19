@@ -29,6 +29,24 @@
     "achievements": [
     ]
   },
+    {
+    "date": "2016-04-27",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/230483837/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+      ],
+    "achievements": [
+    	
+    ]
+  },
   {
     "date": "2016-04-20",
     "location": "Paris, France",
