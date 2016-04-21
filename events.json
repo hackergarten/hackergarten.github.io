@@ -58,6 +58,8 @@
       }
     ],
     "achievements": [
+    	"<a href='https://github.com/aalmiray/json-lib'>Upgrade gradle build on Json-lib.</href>",
+    	"<a href='https://github.com/aalmiray/ikonli'>Added stacked icon support.</href>"
     ]
   },
   {
