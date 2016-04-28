@@ -48,6 +48,26 @@
     ]
   },
   {
+    "date": "2016-04-27",
+    "location": "Gdansk, Poland",
+    "title": "at Nordea Market Capitals IT",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/230290254/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://www.google.com/maps?f=q&hl=en&q=Aleja+Grunwaldzka+472b,+Gdansk,+pl"
+      }
+      ],
+    "achievements": [
+    	"<a href='https://github.com/hazelcast/hazelcast/pull/8034'>Hazelcast: Optimised type conversion in queries.</href>",
+    	"<a href='https://github.com/hazelcast/hazelcast/pull/8035'>Hazelcast: Added caching to value conversion in predicates.</href>",
+    	"<a href='https://github.com/babun/babun/pull/616'>Babun: fixed the build.</href>"
+    ]
+  },
+  {
     "date": "2016-04-20",
     "location": "Paris, France",
     "title": "at Devoxx FR",
