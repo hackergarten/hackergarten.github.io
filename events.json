@@ -27,6 +27,11 @@
       }
     ],
     "achievements": [
+    	"<a href='https://github.com/exteso/alf.io/pull/121'>Alf.io: add logout functionality</a>",
+    	"<a href='https://github.com/melix/jmh-gradle-plugin/commit/069a4ad12d9bbe9ba5c9eb1885d48ad0146a6889'>jhm-gradle: fix multiple profiler support</a>",
+    	"<a href='https://github.com/melix/jmh-gradle-plugin/commit/1e82f1c1b85f99ae1effef89f32a828a40fc0038'>jmh-gradle: add JaCoCo configuration</a>",
+    	"<a href='https://github.com/melix/jmh-gradle-plugin/commit/72f6c7e9efcef53b9540cae8941dd6813e57dd74'>jmh-gradle: add project badges to README</a>",
+    	"<a href='https://github.com/aalmiray/stats-gradle-plugin'>stats-gradle: handle more filey types; aggregate reports; make new 0.2.0 release</a>"
     ]
   },
     {
