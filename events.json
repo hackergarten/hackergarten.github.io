@@ -44,7 +44,9 @@
       }
       ],
     "achievements": [
-    	
+      "<a href='https://github.com/McPringle/sportchef/issues/239'>SportChef: The RSA JSON Web Key should persist server restarts</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/259'>SportChef: Add Authy Onetouch as Login Alternative</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/260'>SportChef: A user should be able to logout</a>"
     ]
   },
   {
