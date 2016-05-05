@@ -13,6 +13,23 @@
     ]
   },
   {
+    "date": "2016-05-12",
+    "location": "Zurich, Switzerland",
+    "title": "at ELCA Informatik AG",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/230563975/"
+      },
+      {
+        "title": "Where is ELCA Informatik AG?",
+        "url": "https://www.google.com/maps?f=q&hl=en&q=Birmersdorferstrasse+94,+Z%C3%BCrich,+ch"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-04-28",
     "location": "Lugano, Switzerland",
     "title": "Devoxx Days Ticino Hackergarten",
