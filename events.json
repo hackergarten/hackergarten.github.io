@@ -1,5 +1,22 @@
 [
   {
+    "date": "2016-06-02",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/230485923/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-06-01",
     "location": "Copenhagen, Denmark",
     "title": "at Gr8conf EU",
@@ -27,6 +44,29 @@
       }
     ],
     "achievements": [
+    ]
+  },
+  {
+    "date": "2016-05-05",
+    "location": "Lucerne, Switzerland",
+    "title": "at CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvhbhb/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+      "<a href='https://github.com/K2InformaticsGmbH/dderl/issues/233'>DDErl: D3.js graphics visualisation integration</a>",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl/issues/240'>DDErl: Broken >| and ... icons</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/206'>SportChef: Create a design to add/edit/delete events</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/266'>SportChef: Design a user profile page</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/268'>SportChef: Change the color of the Logout button</a>",
+      "Integrate JUnit 5 Events into Java Flight Recorder"
     ]
   },
   {
@@ -104,23 +144,6 @@
     "achievements": [
     	"<a href='https://github.com/aalmiray/json-lib'>Upgrade gradle build on Json-lib.</href>",
     	"<a href='https://github.com/aalmiray/ikonli'>Added stacked icon support.</href>"
-    ]
-  },
-  {
-    "date": "2016-05-05",
-    "location": "Lucerne, Switzerland",
-    "title": "at CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvhbhb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
     ]
   },
   {
