@@ -44,6 +44,8 @@
       }
     ],
     "achievements": [
+      "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>"
+      "<a href='https://github.com/junit-team/junit5/pull/256'>JUnit 5: Gradle build revamp.</a>"
     ]
   },
   {
@@ -66,7 +68,8 @@
       "<a href='https://github.com/McPringle/sportchef/issues/206'>SportChef: Create a design to add/edit/delete events</a>",
       "<a href='https://github.com/McPringle/sportchef/issues/266'>SportChef: Design a user profile page</a>",
       "<a href='https://github.com/McPringle/sportchef/issues/268'>SportChef: Change the color of the Logout button</a>",
-      "Integrate JUnit 5 Events into Java Flight Recorder"
+      "Integrate JUnit 5 Events into Java Flight Recorder",
+      "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>"
     ]
   },
   {
