@@ -30,6 +30,19 @@
     ]
   },
   {
+    "date": "2016-05-26",
+    "location": "Sofia, Bulgaria",
+    "title": "at JPrime",
+    "links": [
+      {
+        "title": "Conference Website",
+        "url": "http://jprime.io/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-05-12",
     "location": "Zurich, Switzerland",
     "title": "at ELCA Informatik AG",
@@ -44,7 +57,7 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>"
+      "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>",
       "<a href='https://github.com/junit-team/junit5/pull/256'>JUnit 5: Gradle build revamp.</a>"
     ]
   },
