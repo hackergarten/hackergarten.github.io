@@ -58,7 +58,9 @@
     ],
     "achievements": [
       "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>",
-      "<a href='https://github.com/junit-team/junit5/pull/256'>JUnit 5: Gradle build revamp.</a>"
+      "<a href='https://github.com/junit-team/junit5/pull/256'>JUnit 5: Gradle build revamp.</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/270'>SportChef: Get rid of Java EE dependency</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/275'>SportChef: Use Swagger to document our RESTful JSON API</a>"
     ]
   },
   {
