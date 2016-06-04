@@ -44,6 +44,9 @@
       }
     ],
     "achievements": [
+      "Pong: Created a Pong game with Clojure",
+      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDErl: Created diagrams based on SQL results</a>",
+      "<a href='https://github.com/McPringle/moodini'>Moodini: Implemented a RESTful JSON API</a>"
     ]
   },
   {
