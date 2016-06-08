@@ -5,6 +5,10 @@
     "title": "at Java Forum Stuttgart",
     "links": [
       {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/231738975/"
+      },
+      {
         "title": "Conference Program",
         "url": "http://www.java-forum-stuttgart.de/de/Programm.html"
       }
