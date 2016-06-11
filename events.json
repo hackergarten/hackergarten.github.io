@@ -34,6 +34,26 @@
     ]
   },
   {
+    "date": "2016-06-30",
+    "location": "Basel, Switzerland",
+    "title": "at Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/231793848/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": [
+      "<a href='https://github.com/McPringle/sportchef/issues/239'>SportChef: The RSA JSON Web Key should persist server restarts</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/259'>SportChef: Add Authy Onetouch as Login Alternative</a>",
+      "<a href='https://github.com/McPringle/sportchef/issues/260'>SportChef: A user should be able to logout</a>"
+    ]
+  },
+  {
     "date": "2016-06-28",
     "location": "São Paulo, Brazil",
     "title": "at Java One Brazil",
