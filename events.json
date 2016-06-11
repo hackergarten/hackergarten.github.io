@@ -34,6 +34,19 @@
     ]
   },
   {
+    "date": "2016-06-28",
+    "location": "São Paulo, Brazil",
+    "title": "at Java One Brazil",
+    "links": [
+      {
+        "title": "June 28/29/30 at JavaHub",
+        "url": "https://www.oracle.com/br/en/javaone/java-hub.html#hackergarten"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-06-02",
     "location": "Lucerne, Switzerland",
     "title": "at CSS Versicherung",
