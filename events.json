@@ -40,11 +40,24 @@
     "links": [
       {
         "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/231793848/"
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/231793848/"
       },
       {
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2016-06-28",
+    "location": "São Paulo, Brazil",
+    "title": "at Java One Brazil",
+    "links": [
+      {
+        "title": "June 28/29/30 at JavaHub",
+        "url": "https://www.oracle.com/br/en/javaone/java-hub.html#hackergarten"
       }
     ],
     "achievements": [
