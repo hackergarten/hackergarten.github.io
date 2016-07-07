@@ -27,3 +27,13 @@
 .next-event {
 	background-color: #74ED8C;
 }
+
+.jumbotron .container {
+    position: relative;
+}
+
+#rss-icon {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

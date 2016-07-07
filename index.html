@@ -9,6 +9,8 @@
 
     <title>Hackergarten</title>
 
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.rss" />
+
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
 
@@ -30,6 +32,7 @@
     <div class="container">
             <img id="logo" src="pictures/hg-logo-white-small.svg" alt="hackergarten" class="visible-xs pull-left img-responsive" style="max-width: 125px" />
             <img id="logo" src="pictures/hg-logo-white-large.svg" alt="hackergarten" class="hidden-xs pull-left img-responsive" style="min-width: 250px; max-width: 500px"/>
+            <div id="rss-icon" class="hidden-xs"><a href="feed.xml"><img src="pictures/rss.png" width="48" height="48"/></a></div>
     </div>
 </div>
 
@@ -42,7 +45,7 @@
                 <div class="panel-heading">Next Events</div>
                 <div class="panel-body">
                     <ul>
-                        <li class="next-event" ng-repeat="event in nextEventlist">
+                        <li id="{{event.hashCode}}" class="next-event" ng-repeat="event in nextEventlist">
                             <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}</b>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
@@ -50,7 +53,7 @@
                         </li>
 
 
-                        <li ng-repeat="event in futureEventlist">
+                        <li id="{{event.hashCode}}" ng-repeat="event in futureEventlist">
                             Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} {{event.title}} on {{event.date}} in {{event.location}}
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
@@ -75,7 +78,7 @@
                 <div class="panel-heading">Past Events</div>
                 <div class="panel-body">
                     <ul>
-					    <li ng-repeat="event in pastEventlist">
+					    <li id="{{event.hashCode}}" ng-repeat="event in pastEventlist">
 					      Hack #{{pastEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
@@ -101,6 +104,7 @@
                 <div id="joinSection" class="panel-heading">Join</div>
                 <div class="panel-body">
                     <ul>
+                        <li><a href="feed.xml">Hackergarten Events RSS Feed</a></li>
                         <li><a href="http://groups.google.com/group/hackergarten/">Official Google Group Mailing List</a></li>
                         <li><a href="http://github.com/hackergarten">Public Git Repository</a><br>
                         <li><a href="http://www.twitter.com/Hackergarten">@Hackergarten on Twitter</a></li>

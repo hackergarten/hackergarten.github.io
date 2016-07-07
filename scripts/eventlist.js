@@ -12,6 +12,17 @@ app.filter('html', ['$sce', function ($sce) {
     };    
 }]);
 
+function hashCode(str) {
+    var hash = 0;
+    if (str.length == 0) return hash;
+    for (var i = 0; i < str.length; i++) {
+        var char = str.charCodeAt(i);
+        hash = ((hash<<5)-hash)+char;
+        hash = hash & hash; // Convert to 32bit integer
+    }
+    return Math.abs(hash);
+}
+
 function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
     $scope.nextEventlist = [];
@@ -57,6 +68,9 @@ function eventService($http) {
                 eventList.sort(function (a, b) {
                     var isLess = new Date(a.date) < new Date(b.date);
                     return (isLess ? 1 : -1);
+                });
+                eventList.map(function(event){
+                    event.hashCode = hashCode(event.date + event.location);
                 });
                 return eventList;
             });
