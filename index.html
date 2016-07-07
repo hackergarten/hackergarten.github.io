@@ -84,7 +84,7 @@
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
                           <ul ng-if="event.achievements">
-                              <li><a href="" ng-click="openModal(event)">Achievements</a></li>
+                              <li><a href="#achievements" ng-click="openModal(event)">Achievements</a></li>
                           </ul>
 					    </li>
                     </ul>
@@ -161,7 +161,7 @@
     <div class="ngdialog-message">
         <h4><strong>Hack {{ngDialogData.title}} on {{ngDialogData.date}}.</strong></h4>
         <ul>
-          <li ng-repeat="item in ngDialogData.achievements" ng-bind-html="item | html"></li>
+          <li ng-repeat="item in ngDialogData.achievements"><a ng-if="item.url" href="{{item.url}}">{{item.title}}</a><span ng-if="!item.url">{{item.title}}</span></li>
         </ul>
     </div>
 </script>
