@@ -14,6 +14,17 @@
       }
     ],
     "achievements": [
+      {
+        "title": "Spock Tutorial",
+        "url": "https://spockframework.org"
+      },
+      {
+        "title": "Hackergarten Website RSS feed",
+        "url": "https://github.com/hackergarten/hackergarten.github.io/pull/86"
+      },
+      {
+        "title": "JSON Hacking"
+      }
     ]
   },
   {
