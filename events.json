@@ -31,6 +31,28 @@
       }
     ],
     "achievements": [
+      {
+        "title": "SportChef deployment on GCE",
+        "url": "http://sportchef.ch"
+      },
+      {
+        "title": "DDerl unit test using karma and jasmin",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/tree/dder-refactor-modules"
+      },
+      {
+        "title": "JavaFX editor for Hackergarten Infrastructure",
+        "url": "https://github.com/reinhapa/eventeditor"
+      },
+      {
+        "title": "Java Flight Simulator Demo Code for Conference Talk"
+      },
+      {
+        "title": "DDErl: Created bar chart diagrams based on CSV query result",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "Pick up pictures from CouchDB Attachments and display on the mobile"
+      }      
     ]
   },
   {
