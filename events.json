@@ -78,9 +78,17 @@
       }
     ],
     "achievements": [
-      "Pong: Created a Pong game with Clojure",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDErl: Created diagrams based on SQL results</a>",
-      "<a href='https://github.com/McPringle/moodini'>Moodini: Implemented a RESTful JSON API</a>"
+      {
+        "title": "Pong: Created a Pong game with Clojure"
+      },
+      {
+        "title": "DDErl: Created diagrams based on SQL results",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "Moodini: Implemented a RESTful JSON API",
+        "url": "https://github.com/McPringle/moodini"
+      }
     ]
   },
   {
@@ -111,8 +119,14 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/McPringle/moodini'>Moodini: Started a Mood Application project</a>",
-      "<a href='https://github.com/babun/babun'>Babun: Hunting for bugs</a>"
+      {
+        "title": "Moodini: Started a Mood Application project",
+        "url": "https://github.com/McPringle/moodini"
+      },
+      {
+        "title": "Babun: Hunting for bugs",
+        "url": "https://github.com/babun/babun"
+      }
     ]
   },
   {
@@ -143,10 +157,22 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>",
-      "<a href='https://github.com/junit-team/junit5/pull/256'>JUnit 5: Gradle build revamp.</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/270'>SportChef: Get rid of Java EE dependency</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/275'>SportChef: Use Swagger to document our RESTful JSON API</a>"
+      {
+        "title": "JUnit 5: Configure additional metadata on JAR manifest",
+        "url": "https://github.com/junit-team/junit5/pull/239"
+      },
+      {
+        "title": "JUnit 5: Gradle build revamp",
+        "url": "https://github.com/junit-team/junit5/pull/256"
+      },
+      {
+        "title": "SportChef: Get rid of Java EE dependency",
+        "url": "https://github.com/McPringle/sportchef/issues/270"
+      },
+      {
+        "title": "SportChef: Use Swagger to document our RESTful JSON API",
+        "url": "https://github.com/McPringle/sportchef/issues/275"
+      }
     ]
   },
   {
@@ -164,13 +190,33 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/K2InformaticsGmbH/dderl/issues/233'>DDErl: D3.js graphics visualisation integration</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl/issues/240'>DDErl: Broken >| and ... icons</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/206'>SportChef: Create a design to add/edit/delete events</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/266'>SportChef: Design a user profile page</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/268'>SportChef: Change the color of the Logout button</a>",
-      "Integrate JUnit 5 Events into Java Flight Recorder",
-      "<a href='https://github.com/junit-team/junit5/pull/239'>JUnit 5: Configure additional metadata on JAR manifest.</a>"
+      {
+        "title": "DDErl: D3.js graphics visualisation integration",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/233"
+      },
+      {
+        "title": "DDErl: Broken >| and ... icons",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/240"
+      },
+      {
+        "title": "SportChef: Create a design to add/edit/delete events",
+        "url": "https://github.com/McPringle/sportchef/issues/206"
+      },
+      {
+        "title": "SportChef: Design a user profile page",
+        "url": "https://github.com/McPringle/sportchef/issues/266"
+      },
+      {
+        "title": "SportChef: Change the color of the Logout button",
+        "url": "https://github.com/McPringle/sportchef/issues/268"
+      },
+      {
+        "title": "Integrate JUnit 5 Events into Java Flight Recorder"
+      },
+      {
+        "title": "JUnit 5: Configure additional metadata on JAR manifest",
+        "url": "https://github.com/junit-team/junit5/pull/239"
+      }
     ]
   },
   {
@@ -188,11 +234,26 @@
       }
     ],
     "achievements": [
-    	"<a href='https://github.com/exteso/alf.io/pull/121'>Alf.io: add logout functionality</a>",
-    	"<a href='https://github.com/melix/jmh-gradle-plugin/commit/069a4ad12d9bbe9ba5c9eb1885d48ad0146a6889'>jhm-gradle: fix multiple profiler support</a>",
-    	"<a href='https://github.com/melix/jmh-gradle-plugin/commit/1e82f1c1b85f99ae1effef89f32a828a40fc0038'>jmh-gradle: add JaCoCo configuration</a>",
-    	"<a href='https://github.com/melix/jmh-gradle-plugin/commit/72f6c7e9efcef53b9540cae8941dd6813e57dd74'>jmh-gradle: add project badges to README</a>",
-    	"<a href='https://github.com/aalmiray/stats-gradle-plugin'>stats-gradle: handle more filey types; aggregate reports; make new 0.2.0 release</a>"
+      {
+        "title": "Alf.io: add logout functionality",
+        "url": "https://github.com/exteso/alf.io/pull/121"
+      },
+      {
+        "title": "jhm-gradle: fix multiple profiler support",
+        "url": "https://github.com/melix/jmh-gradle-plugin/commit/069a4ad12d9bbe9ba5c9eb1885d48ad0146a6889"
+      },
+      {
+        "title": "jmh-gradle: add JaCoCo configuration",
+        "url": "https://github.com/melix/jmh-gradle-plugin/commit/1e82f1c1b85f99ae1effef89f32a828a40fc0038"
+      },
+      {
+        "title": "jmh-gradle: add project badges to README",
+        "url": "https://github.com/melix/jmh-gradle-plugin/commit/72f6c7e9efcef53b9540cae8941dd6813e57dd74"
+      },
+      {
+        "title": "stats-gradle: handle more filey types; aggregate reports; make new 0.2.0 release",
+        "url": "https://github.com/aalmiray/stats-gradle-plugin"
+      }
     ]
   },
     {
@@ -210,9 +271,18 @@
       }
       ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef/issues/239'>SportChef: The RSA JSON Web Key should persist server restarts</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/259'>SportChef: Add Authy Onetouch as Login Alternative</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/260'>SportChef: A user should be able to logout</a>"
+      {
+        "title": "SportChef: The RSA JSON Web Key should persist server restarts",
+        "url": "https://github.com/McPringle/sportchef/issues/239"
+      },
+      {
+        "title": "SportChef: Add Authy Onetouch as Login Alternative",
+        "url": "https://github.com/McPringle/sportchef/issues/259"
+      },
+      {
+        "title": "SportChef: A user should be able to logout",
+        "url": "https://github.com/McPringle/sportchef/issues/260"
+      }
     ]
   },
   {
@@ -230,9 +300,18 @@
       }
       ],
     "achievements": [
-    	"<a href='https://github.com/hazelcast/hazelcast/pull/8034'>Hazelcast: Optimised type conversion in queries.</href>",
-    	"<a href='https://github.com/hazelcast/hazelcast/pull/8035'>Hazelcast: Added caching to value conversion in predicates.</href>",
-    	"<a href='https://github.com/babun/babun/pull/616'>Babun: fixed the build.</href>"
+      {
+        "title": "Hazelcast: Optimised type conversion in queries",
+        "url": "https://github.com/hazelcast/hazelcast/pull/8034"
+      },
+      {
+        "title": "Hazelcast: Added caching to value conversion in predicates",
+        "url": "https://github.com/hazelcast/hazelcast/pull/8035"
+      },
+      {
+        "title": "Babun: fixed the build",
+        "url": "https://github.com/babun/babun/pull/616"
+      }
     ]
   },
   {
@@ -246,8 +325,14 @@
       }
     ],
     "achievements": [
-    	"<a href='https://github.com/aalmiray/json-lib'>Upgrade gradle build on Json-lib.</href>",
-    	"<a href='https://github.com/aalmiray/ikonli'>Added stacked icon support.</href>"
+      {
+        "title": "Upgrade gradle build on Json-lib",
+        "url": "https://github.com/aalmiray/json-lib"
+      },
+      {
+        "title": "Added stacked icon support",
+        "url": "https://github.com/aalmiray/ikonli"
+      }
     ]
   },
   {
@@ -265,12 +350,30 @@
       }
     ],
     "achievements": [
-      "<a href='http://search.maven.org/#artifactdetails%7Cnet.reini%7Cjunit-compat%7C1.1.0%7Cjar'>JUnit Compat Library: New release on Maven Central</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl/pull/199'>DDerl: Fixed a bug in the SQL engine</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl/pull/197'>DDerl: Fixed session timeout bug on login page</a>",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl/issues/192'>DDerl: Fixed a bug with drag and drop column reordering</a>",
-      "<a href='https://github.com/McPringle/sportchef/pull/242'>SportChef: Fixed build problem with old Maven version</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/244'>SportChef: Create snapshots of persistence store on server shutdown</a>"
+      {
+        "title": "JUnit Compat Library: New release on Maven Central",
+        "url": "http://search.maven.org/#artifactdetails%7Cnet.reini%7Cjunit-compat%7C1.1.0%7Cjar"
+      },
+      {
+        "title": "DDerl: Fixed a bug in the SQL engine",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/pull/199"
+      },
+      {
+        "title": "DDerl: Fixed session timeout bug on login page",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/pull/197"
+      },
+      {
+        "title": "DDerl: Fixed a bug with drag and drop column reordering",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/192"
+      },
+      {
+        "title": "SportChef: Fixed build problem with old Maven version",
+        "url": "https://github.com/McPringle/sportchef/pull/242"
+      },
+      {
+        "title": "SportChef: Create snapshots of persistence store on server shutdown",
+        "url": "https://github.com/McPringle/sportchef/issues/244"
+      }
     ]
   },
   {
@@ -288,9 +391,18 @@
       }
       ],
     "achievements": [
-    	"<a href='https://github.com/groovyfx-project/groovyfx/pull/38'>groovyFX: PR #38</a>",
-    	"<a href='https://github.com/sclassen/asciidoctorj-screenshot'>asciidoctorj-screenshot: Version 0.1.0 released</a>",
-    	"<a href='https://github.com/canoo/dolphin-platform-lazybones-templates'>Lazybones Template for Dolphin Platform released</a>"
+      {
+        "title": "groovyFX: PR #38",
+        "url": "https://github.com/groovyfx-project/groovyfx/pull/38"
+      },
+      {
+        "title": "asciidoctorj-screenshot: Version 0.1.0 released",
+        "url": "https://github.com/sclassen/asciidoctorj-screenshot"
+      },
+      {
+        "title": "Lazybones Template for Dolphin Platform released",
+        "url": "https://github.com/canoo/dolphin-platform-lazybones-templates"
+      }
     ]
   },
   {
@@ -304,11 +416,26 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/melix/jmh-gradle-plugin/pull/57'>jmh-gradle-plugin: merged PR #57</a>",
-      "<a href='https://twitter.com/CedricChampeau/status/707482041466667008'>jmh-gradle-plugin: prepared release 0.3.0</a>",
-      "<a href='https://github.com/groovyfx-project/groovyfx/commit/f3d0291a61e9a773cbc78e21d95d4134f398b9f2'>groovyfx: Move most metaclass enhancements to groovy module. Fixes #36</a>",
-      "<a href='https://github.com/asciidoctor/asciidoctor-gradle-plugin/pull/184'>asciidoctor-gradle-org: PR #184 Use Asciidoctor.requireLibraries()</a>",
-      "<a href='https://github.com/jbake-org/jbake/pull/269'>jbake: PR #269 Enable gemPath and requires properties on Asciidoctor</a>"
+      {
+        "title": "jmh-gradle-plugin: merged PR #57",
+        "url": "https://github.com/melix/jmh-gradle-plugin/pull/57"
+      },
+      {
+        "title": "jmh-gradle-plugin: prepared release 0.3.0",
+        "url": "https://twitter.com/CedricChampeau/status/707482041466667008"
+      },
+      {
+        "title": "groovyfx: Move most metaclass enhancements to groovy module. Fixes #36",
+        "url": "https://github.com/groovyfx-project/groovyfx/commit/f3d0291a61e9a773cbc78e21d95d4134f398b9f2"
+      },
+      {
+        "title": "asciidoctor-gradle-org: PR #184 Use Asciidoctor.requireLibraries()",
+        "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/pull/184"
+      },
+      {
+        "title": "jbake: PR #269 Enable gemPath and requires properties on Asciidoctor",
+        "url": "https://github.com/jbake-org/jbake/pull/269"
+      }
     ]  
   },
   {
@@ -326,12 +453,30 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl: Authentication Logger</a>",
-      "<a href='http://openjdk.java.net/jeps/275'>JEP 275: Modular Java Application Packaging</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/147'>SportChef: Create the design for the login dialog</a>",
-      "<a href='https://github.com/McPringle/sportchef/pull/192'>SportChef: Enhancing code readability</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/187'>SportChef: Write tests for the EventRepository</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/115'>SportChef: Use a date picker component for the event date</a>"
+      {
+        "title": "DDerl: Authentication Logger",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "JEP 275: Modular Java Application Packaging",
+        "url": "http://openjdk.java.net/jeps/275"
+      },
+      {
+        "title": "SportChef: Create the design for the login dialog",
+        "url": "https://github.com/McPringle/sportchef/issues/147"
+      },
+      {
+        "title": "SportChef: Enhancing code readability",
+        "url": "https://github.com/McPringle/sportchef/pull/192"
+      },
+      {
+        "title": "SportChef: Write tests for the EventRepository",
+        "url": "https://github.com/McPringle/sportchef/issues/187"
+      },
+      {
+        "title": "SportChef: Use a date picker component for the event date",
+        "url": "https://github.com/McPringle/sportchef/issues/115"
+      }
     ]
   },
  {
@@ -349,10 +494,22 @@
       }
       ],
     "achievements": [
-    	"<a href='https://github.com/blackdrag/Groja'>Groja incarnation, a Groovy Java Jointcompiler</a>",
-      "<a href='https://github.com/McPringle/sportchef/pull/175'>SportChef: Fixed problems with wrong data directory</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/176'>SportChef: Extending Unit Tests for AJAX Uploads</a>",
-      "<a href='https://github.com/McPringle/sportchef/issues/46'>SportChef: Implemented Optimistic Lock</a>"
+      {
+        "title": "Groja incarnation, a Groovy Java Jointcompiler",
+        "url": "https://github.com/blackdrag/Groja"
+      },
+      {
+        "title": "SportChef: Fixed problems with wrong data directory",
+        "url": "https://github.com/McPringle/sportchef/pull/175"
+      },
+      {
+        "title": "SportChef: Extending Unit Tests for AJAX Uploads",
+        "url": "https://github.com/McPringle/sportchef/issues/176"
+      },
+      {
+        "title": "SportChef: Implemented Optimistic Lock",
+        "url": "https://github.com/McPringle/sportchef/issues/46"
+      }
     ]
   },
   {
@@ -370,7 +527,10 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef/issues/167'>SportChef: Writing Unit Tests for AJAX Uploads</a>"
+      {
+        "title": "SportChef: Writing Unit Tests for AJAX Uploads",
+        "url": "https://github.com/McPringle/sportchef/issues/167"
+      }
     ]
   },
   {
@@ -388,9 +548,17 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef/issues/36'>SportChef</a>: Implement passwordless authentication",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: Fix Oracle CSV export",
-      "Discussion about event based content management systems"
+      {
+        "title": "SportChef: Implement passwordless authentication",
+        "url": "https://github.com/McPringle/sportchef/issues/36"
+      },
+      {
+        "title": "DDerl: Fix Oracle CSV export",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "Discussion about event based content management systems"
+      }
     ]
   },
   {
@@ -425,10 +593,22 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef/issues/91'>SportChef</a>: Different events should be shown in different colors",
-      "<a href='https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/38'>asciidoctor-intellij-plugin</a>: Implement toolbar with bold, italic, etc.",
-      "<a href='https://github.com/babun/babun/pull/561'>Babun Shell</a>: Added solution to issue289 on faq",
-      "<a href='http://electron.atom.io/'>Electron</a>: Evaluation"
+      {
+        "title": "SportChef: Different events should be shown in different colors",
+        "url": "https://github.com/McPringle/sportchef/issues/91"
+      },
+      {
+        "title": "asciidoctor-intellij-plugin: Implement toolbar with bold, italic, etc.",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/38"
+      },
+      {
+        "title": "Babun Shell: Added solution to issue289 on faq",
+        "url": "https://github.com/babun/babun/pull/561"
+      },
+      {
+        "title": "Electron: Evaluation",
+        "url": "http://electron.atom.io/"
+      }
     ]
   },
   {
@@ -446,10 +626,22 @@
       }
       ],
     "achievements": [
-	"<a href='https://github.com/canoo/canoo-radio/pull/42'>Canoo Radio</a>: Fixed localhost Stream-URL",
-	"<a href='https://github.com/canoo/canoo-radio/pull/43'>Canoo Radio</a>: Backend for recent uploaded list",
-	"<a href='https://github.com/McPringle/sportchef/pull/109'>Sportchef</a>: Use default image fallback",
-	"<a href='https://github.com/McPringle/sportchef/pull/110'>Sportchef</a>: Added some colors"
+      {
+        "title": "Canoo Radio: Fixed localhost Stream-URL",
+        "url": "https://github.com/canoo/canoo-radio/pull/42"
+      },
+      {
+        "title": "Canoo Radio: Backend for recent uploaded list",
+        "url": "https://github.com/canoo/canoo-radio/pull/43"
+      },
+      {
+        "title": "Sportchef: Use default image fallback",
+        "url": "https://github.com/McPringle/sportchef/pull/109"
+      },
+      {
+        "title": "Sportchef: Added some colors",
+        "url": "https://github.com/McPringle/sportchef/pull/110"
+      }
     ]
   },
   {
@@ -467,9 +659,18 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
-      "<a href='https://github.com/airomem/airomem'>Airomem</a>: Make data directory configurable",
-      "<a href='https://github.com/McPringle/sportchef'>SportChef</a>: UI fixes &amp: graphic design"
+      {
+        "title": "Clojure Protocol Buffer: Schema Definition",
+        "url": "https://github.com/arpagaus/clj-protobuf"
+      },
+      {
+        "title": "Airomem: Make data directory configurable",
+        "url": "https://github.com/airomem/airomem"
+      },
+      {
+        "title": "SportChef: UI fixes &amp: graphic design",
+        "url": "https://github.com/McPringle/sportchef"
+      }
     ]
   },
   {
@@ -487,13 +688,34 @@
       }
       ],
     "achievements": [
-      	"<a href='https://github.com/canoo/canoo-radio/issues/12'>Canoo Radio</a>: Allow voting on current song",
-      	"<a href='https://github.com/canoo/canoo-radio/issues/11'>Canoo Radio</a>: Adding play counts for the top songs",
-      	"<a href='https://github.com/canoo/canoo-radio/issues/29'>Canoo Radio</a>: Show time to and time elapsed in human readable format instead of duration",
-        "SportChef: <a href='https://github.com/McPringle/sportchef/issues/42'>Image Upload for Events</a>",
-        "SportChef: <a href='https://github.com/McPringle/sportchef/pull/51'>CSS Navigation-Styles</a>",
-        "SportChef: <a href='https://github.com/McPringle/sportchef/pull/56'>Delete Events</a>",
-        "SportChef: <a href='https://github.com/McPringle/sportchef/pull/53'>Added base style for paper-cards</a>"
+      {
+        "title": "Canoo Radio: Allow voting on current song",
+        "url": "https://github.com/canoo/canoo-radio/issues/12"
+      },
+      {
+        "title": "Canoo Radio: Adding play counts for the top songs",
+        "url": "https://github.com/canoo/canoo-radio/issues/11"
+      },
+      {
+        "title": "Canoo Radio: Show time to and time elapsed in human readable format instead of duration",
+        "url": "https://github.com/canoo/canoo-radio/issues/29"
+      },
+      {
+        "title": "SportChef: Image Upload for Events",
+        "url": "https://github.com/McPringle/sportchef/issues/42"
+      },
+      {
+        "title": "SportChef: CSS Navigation-Styles",
+        "url": "https://github.com/McPringle/sportchef/pull/51"
+      },
+      {
+        "title": "SportChef: Delete Events",
+        "url": "https://github.com/McPringle/sportchef/pull/56"
+      },
+      {
+        "title": "SportChef: Added base style for paper-cards",
+        "url": "https://github.com/McPringle/sportchef/pull/53"
+      }
     ]
   },
   {
@@ -511,10 +733,21 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef/issues/44'>SportChef</a>: Add Persistence Layer (noDB)",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: Automatic Charset Detection",
-      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer</a>: Schema Definition",
-      "Scala &amp; Akka Streams Discussions and Tests"
+      {
+        "title": "SportChef: Add Persistence Layer (noDB)",
+        "url": "https://github.com/McPringle/sportchef/issues/44"
+      },
+      {
+        "title": "DDerl: Automatic Charset Detection",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "Clojure Protocol Buffer: Schema Definition",
+        "url": "https://github.com/arpagaus/clj-protobuf"
+      },
+      {
+        "title": "Scala &amp; Akka Streams Discussions and Tests"
+      }
     ]
   },
   {
@@ -564,9 +797,18 @@
       }
     ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef'>SportChef</a>: input form for events (Polymer)",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a> Bugfixing (Erlang CSV Driver)",
-      "<a href='https://github.com/arpagaus/clj-protobuf'>Clojure Protocol Buffer Library</a>: initial commits"
+      {
+        "title": "SportChef: input form for events (Polymer)",
+        "url": "https://github.com/McPringle/sportchef"
+      },
+      {
+        "title": "DDerl: Bugfixing (Erlang CSV Driver)",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "Clojure Protocol Buffer Library: initial commits",
+        "url": "https://github.com/arpagaus/clj-protobuf"
+      }
     ]
   },
   {
@@ -595,7 +837,10 @@
       }
       ],
     "achievements": [
-      "<a href='https://github.com/McPringle/sportchef/pull/22'>SportChef</a>: Evaluation of <a href='https://www.polymer-project.org'>Google Polymer</a>"
+      {
+        "title": "SportChef: Evaluation of Google Polymer",
+        "url": "https://github.com/McPringle/sportchef/pull/22"
+      }
     ]
   },
   {
@@ -613,9 +858,16 @@
       }
     ],
     "achievements": [
-      "SportChef: new login page",
-      "<a href='https://github.com/K2InformaticsGmbH/dderl'>DDerl</a>: text adaptor to read CSV and JSON files",
-      "Clojure Protocol Buffer Library: concept creation"
+      {
+        "title": "SportChef: new login page"
+      },
+      {
+        "title": "DDerl: text adaptor to read CSV and JSON files",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title": "Clojure Protocol Buffer Library: concept creation"
+      }
     ]
   },
   {
@@ -625,9 +877,18 @@
     "links": [
     ],
     "achievements": [
-      "Created a new Meetup page:<br/><a href='http://www.meetup.com/Hackergarten-Bern/'>Hackergarten Bern</a>",
-      "IntelliJ AsciiDoc Plugin (wip):<br/><a href='https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/87'>Title action should let the cursor on the same line #87</a>",
-      "Babun Shell:<br/><a href='https://github.com/babun/babun/pull/466'>Remove duplicate property CHECK_TIMEOUT_IN_SECS</a>"
+      {
+        "title": "Created a new Meetup page for Hackergarten Bern",
+        "url": "http://www.meetup.com/Hackergarten-Bern/"
+      },
+      {
+        "title": "IntelliJ AsciiDoc Plugin (wip): Title action should let the cursor on the same line #87",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/87"
+      },
+      {
+        "title": "Babun Shell: Remove duplicate property CHECK_TIMEOUT_IN_SECS",
+        "url": "https://github.com/babun/babun/pull/466"
+      }
     ]
   },
   {
@@ -643,11 +904,17 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
-      "Lazybones Templates: <a href='https://github.com/aalmiray/lazybones-template-collection'>Updated lazybones afterburner templates</a>",
-      "griffon-preferences-plugin: <a href='https://github.com/griffon-plugins/griffon-preferences-plugin/pull/6'>Add support for default values to PreferencesNode</a>"
-      ]
+      {
+        "title": "Lazybones Templates: Updated lazybones afterburner templates",
+        "url": "https://github.com/aalmiray/lazybones-template-collection"
+      },
+      {
+        "title": "griffon-preferences-plugin: Add support for default values to PreferencesNode",
+        "url": "https://github.com/griffon-plugins/griffon-preferences-plugin/pull/6"
+      }
+    ]
   },
   {
     "date": "2015-08-27",
@@ -677,12 +944,39 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
-      "Added details modal for hackergarten events to main website.",
-      "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)",
-      "GrooxyFx: <a href='https://github.com/groovyfx-project/groovyfx/pull/12'>Upgrade Gradle Version</a>, <a href='https://github.com/groovyfx-project/groovyfx/pull/21'>Fix MenuDemo</a>,<a href='https://github.com/groovyfx-project/groovyfx/pull/22'>Fix wrong class reference</a>, <a href='https://github.com/groovyfx-project/groovyfx/issues/13'>Fix Java8 Compatibility</a>,<a href='https://github.com/groovyfx-project/groovyfx/issues/23'>Fix FxBindable</a>,<a href='https://github.com/groovyfx-project/groovyfx/issues/18'>SceneGraphBuilder registered twice</a>"
-      ]
+      {
+        "title": "Added details modal for hackergarten events to main website"
+      },
+      {
+        "title": "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)"
+      },
+      {
+        "title": "GrooxyFx: Upgrade Gradle Version",
+        "url": "https://github.com/groovyfx-project/groovyfx/pull/12"
+      },
+      {
+        "title": "GrooxyFx: Fix MenuDemo",
+        "url": "https://github.com/groovyfx-project/groovyfx/pull/21"
+      },
+      {
+        "title": "GrooxyFx: Fix wrong class reference",
+        "url": "https://github.com/groovyfx-project/groovyfx/pull/22"
+      },
+      {
+        "title": "GrooxyFx: Fix Java8 Compatibility",
+        "url": "https://github.com/groovyfx-project/groovyfx/issues/13"
+      },
+      {
+        "title": "GrooxyFx: Fix FxBindable",
+        "url": "https://github.com/groovyfx-project/groovyfx/issues/23"
+      },
+      {
+        "title": "GrooxyFx: SceneGraphBuilder registered twice",
+        "url": "https://github.com/groovyfx-project/groovyfx/issues/18"
+      }
+    ]
   },
   {
     "date": "2015-08-06",
@@ -712,7 +1006,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ]
+    ]
   },
   {
     "date": "2015-07-23",
@@ -738,7 +1032,7 @@
         "title": "Event on Xing",
         "url": "https://www.xing.com/events/hackergarten-juli-1571019?came_from=12"
       }
-      ]
+    ]
   },
   {
     "date": "2015-07-02",
@@ -760,13 +1054,16 @@
     "location": "Basel, Switzerland",
     "title": "at Canoo Office",
     "links": [
-      {"title": "Meetup", "url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"},
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"},
       {
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
-      }]
-   },
-     {
+      }
+    ]
+  },
+  {
     "date": "2015-06-24",
     "location": "Friedrichshafen/Immenstaad, Germany",
     "title": "JUG Bodensee (3rd Hackergarten)",
@@ -777,12 +1074,15 @@
       }
     ]
   },
-   {
+  {
     "date": "2015-06-17",
     "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
     "title": "Hackergarten @ DWX 2015",
     "links": [
-      {"title": "Hackergarten Activities", "url": "http://www.developer-week.de/Specials/Hackergarten"}
+      {
+        "title": "Hackergarten Activities",
+        "url": "http://www.developer-week.de/Specials/Hackergarten"
+      }
     ]
   },
   {
@@ -805,8 +1105,14 @@
     "location": "IT-University, Copenhagen, DK",
     "title": "GR8Conf Europe 2015",
     "links": [
-      {"title": "GR8Conf", "url": "http://www.gr8conf.eu" },
-      {"title": "Description", "url": "http://gr8conf.eu/#/talk/158" }
+      {
+        "title": "GR8Conf",
+        "url": "http://www.gr8conf.eu"
+      },
+      {
+        "title": "Description",
+        "url": "http://gr8conf.eu/#/talk/158"
+      }
     ]
   },
   {
@@ -879,7 +1185,10 @@
     "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
     "title": "Hackergarten @ Voxxed Days Ticino 2015",
     "links": [
-      {"title": "VoxxedDays Ticino '15 Schedule", "url": "https://www.voxxed.com/days-ticino15/#np-3892"}
+      {
+        "title": "VoxxedDays Ticino '15 Schedule",
+        "url": "https://www.voxxed.com/days-ticino15/#np-3892"
+      }
     ]
   },
   {
@@ -887,7 +1196,10 @@
     "location": "Bern, Switzerland",
     "title": "at SBB Offices",
     "links": [
-      {"title": "Location", "url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"}
+      {
+        "title": "Location", 
+        "url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"
+      }
     ]
   },
   {
@@ -895,7 +1207,10 @@
     "location": "Paris, France",
     "title": "at Devoxx FR",
     "links": [
-      {"title": "Info", "url": "http://www.devoxx.fr/dvxfr15-hackergarten/"}
+      {
+        "title": "Info", 
+        "url": "http://www.devoxx.fr/dvxfr15-hackergarten/"
+      }
     ]
   },
   {
@@ -937,7 +1252,10 @@
     "location": "Javaland",
     "title": "Hackergarten on tour",
     "links": [
-      {"title": "Community activities", "url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"}
+      {
+        "title": "Community activities",
+        "url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"
+      }
     ]
   },
   {
@@ -945,8 +1263,14 @@
     "location": "Netcetera Skopje",
     "title": "Hackergarten Skopje",
     "links": [
-      {"title": "Meetup", "url": "http://doodle.com/y69k2mstdhr2m32y#table"},
-      {"title": "Address", "url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"}
+      {
+        "title": "Meetup",
+        "url": "http://doodle.com/y69k2mstdhr2m32y#table"
+      },
+      {
+        "title": "Address", 
+        "url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"
+      }
     ]
   },
   {
@@ -954,8 +1278,14 @@
     "location": "Gdansk",
     "title": "Hackergarten Poland",
     "links": [
-      {"title": "Meetup", "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/220850086/"},
-      {"title": "Address", "url": "http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl"}
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/220850086/"
+      },
+      {
+        "title": "Address",
+        "url": "http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl"
+      }
     ]
   },
   {
