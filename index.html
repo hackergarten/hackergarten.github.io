@@ -46,7 +46,7 @@
                 <div class="panel-body">
                     <ul>
                         <li id="{{event.hashCode}}" class="next-event" ng-repeat="event in nextEventlist">
-                            <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}</b>
+                            <b>Hack #{{pastEventlist.length + nextEventlist.length - $index}} at {{event.title}} on {{event.date}} in {{event.location}}</b>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
@@ -54,7 +54,7 @@
 
 
                         <li id="{{event.hashCode}}" ng-repeat="event in futureEventlist">
-                            Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} {{event.title}} on {{event.date}} in {{event.location}}
+                            Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} at {{event.title}} on {{event.date}} in {{event.location}}
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
@@ -79,7 +79,7 @@
                 <div class="panel-body">
                     <ul>
 					    <li id="{{event.hashCode}}" ng-repeat="event in pastEventlist">
-					      Hack #{{pastEventlist.length - $index}} {{event.title}} on {{event.date}} in {{event.location}}
+					      Hack #{{pastEventlist.length - $index}} at {{event.title}} on {{event.date}} in {{event.location}}
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
