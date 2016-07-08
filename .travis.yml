@@ -3,6 +3,10 @@ env:
   - ENCRYPTION_LABEL: 9d3dcb13e73d  
   - COMMIT_AUTHOR_EMAIL: "comment@mynethome.de" 
 
+cache:
+  directories:
+  - node_modules
+
 before_script:
   - npm install
 script: gulp
