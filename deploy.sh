@@ -27,8 +27,9 @@ git config user.email "d@domenic.me"
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
+git checkout master
 git add -f feed.xml
-git commit -m "Deploy to GitHub Pages: ${SHA}"
+git commit -m "Deploy to GitHub Pages (${SOURCE_BRANCH}) : ${SHA}"
 
 # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
 ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
@@ -41,4 +42,4 @@ eval `ssh-agent -s`
 ssh-add deploy_key
 
 # Now that we're all set up, we can push.
-git push $SSH_REPO 
+git push $SSH_REPO $SOURCE_BRANCH
