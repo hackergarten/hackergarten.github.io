@@ -50,7 +50,7 @@ gulp.task('default', function() {
 				var hash = hashCode(event.date + event.location);
 				xml.push("<item>");
 				xml.push("<title>" + escapeHTML("Hackgarten at " + event.title + " on " + event.date + " in " + event.location) + "</title>");
-				xml.push("<link><a href=\"http://hackergarten.net#" + hash + "\"></a></link>");
+				xml.push("<link><a href=\"http://hackergarten.net#event-" + hash + "\"></a></link>");
 				xml.push("<guid>" + hash + "</guid>");
 				xml.push("</item>\n");
 			}
