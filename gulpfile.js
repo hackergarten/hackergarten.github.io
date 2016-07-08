@@ -4,8 +4,6 @@ var jsonlint = require("gulp-jsonlint");
 var transform = require('gulp-transform');
 var rename = require('gulp-rename');
 
-var gulp = require('gulp');
-
 gulp.task('default', function() {
 
 	gulp.src("./events.json")
