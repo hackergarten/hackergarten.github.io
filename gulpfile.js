@@ -4,15 +4,6 @@ var jsonlint = require("gulp-jsonlint");
 var transform = require('gulp-transform');
 var rename = require('gulp-rename');
 
-gulp.task('default', function() {
-
-	gulp.src("./events.json")
-	    .pipe(jsonlint())
-		.pipe(jsonlint.failOnError())
-	    .pipe(jsonlint.reporter());
- 
-});
-
 var hashCode = function (str) {
 	var hash = 0;
 	if (str.length == 0) return hash;
@@ -39,34 +30,34 @@ function escapeHTML(string) {
 	});
 }
 
-gulp.task('rss', function() {
-	return gulp.src('./events.json')
-		.pipe(transform(
-				contents => {
-				var events = JSON.parse(contents);
+gulp.task('default', function() {
 
-				var xml = [];
-				xml.push("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
-				xml.push("<rss version=\"2.0\">");
-				xml.push("<channel>");
-				xml.push("<title>Hackergarten Events</title>");
-				xml.push("<link>http://hackergarten.net</link>");
-				xml.push("<language>en-en</language>");
-
-				for (var i = 0; i < events.length; i++) {
-					var event = events[i];
-					var hash = hashCode(event.date + event.location);
-					xml.push("<item>");
-					xml.push("<title>" + escapeHTML("Hackgarten " + event.title + " on " + event.date + " in " + event.location) + "</title>");
-					xml.push("<link><a href=\"http://hackergarten.net#" + hash + "\"></a></link>");
-					xml.push("<guid>" + hash + "</guid>");
-					xml.push("</item>\n");
-				}
-				xml.push("</channel>");
-				xml.push("</rss>");
-				return xml.join('');
-			})
-		)
+	gulp.src("./events.json")
+	    .pipe(jsonlint())
+		.pipe(jsonlint.failOnError())
+	    .pipe(jsonlint.reporter())
+		.pipe(transform(contents => {
+			var events = JSON.parse(contents);
+			var xml = [];
+			xml.push("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
+			xml.push("<rss version=\"2.0\">");
+			xml.push("<channel>");
+			xml.push("<title>Hackergarten Events</title>");
+			xml.push("<link>http://hackergarten.net</link>");
+			xml.push("<language>en-en</language>");
+			for (var i = 0; i < events.length; i++) {
+				var event = events[i];
+				var hash = hashCode(event.date + event.location);
+				xml.push("<item>");
+				xml.push("<title>" + escapeHTML("Hackgarten " + event.title + " on " + event.date + " in " + event.location) + "</title>");
+				xml.push("<link><a href=\"http://hackergarten.net#" + hash + "\"></a></link>");
+				xml.push("<guid>" + hash + "</guid>");
+				xml.push("</item>\n");
+			}
+			xml.push("</channel>");
+			xml.push("</rss>");
+			return xml.join('');
+		}))
 		.pipe(rename("feed.xml"))
-	.pipe(gulp.dest('.'));
+		.pipe(gulp.dest('.'));
 });
