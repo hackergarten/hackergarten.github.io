@@ -15,23 +15,6 @@ gulp.task('default', function() {
  
 });
 
-var convertToRSS = function (options) {
-	options = options || {};
-
-	return mapStream(function (file, cb) {
-		var errorMessage = '';
-
-		var events = JSON.parse(String(file.contents));
-		var xml = [];
-		xml.push("Hallo");
-		xml.push("Welt");
-
-		file.contents = xml.join();
-
-		cb(null, file);
-	});
-};
-
 var hashCode = function (str) {
 	var hash = 0;
 	if (str.length == 0) return hash;
