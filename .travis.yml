@@ -8,5 +8,13 @@ before_script:
 script: gulp
 after_success: ./deploy.sh
 
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/8159b56253161aad725a
+    on_success: change  # options: [always|never|change] default: always
+    on_failure: always  # options: [always|never|change] default: always
+    on_start: never     # options: [always|never|change] default: always
+
 # openssl aes-256-cbc -K $encrypted_9d3dcb13e73d_key -iv $encrypted_9d3dcb13e73d_iv -in id_rsa_hackergarten_deployment.enc -out ~\/.ssh/id_rsa_hackergarten_deployment -d
 
