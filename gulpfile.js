@@ -36,7 +36,7 @@ gulp.task('default', function() {
 	    .pipe(jsonlint())
 		.pipe(jsonlint.failOnError())
 	    .pipe(jsonlint.reporter())
-		.pipe(transform(contents => {
+		.pipe(transform(function(contents) {
 			var events = JSON.parse(contents);
 			var xml = [];
 			xml.push("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
