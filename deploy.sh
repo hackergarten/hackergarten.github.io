@@ -17,7 +17,7 @@ SHA=`git rev-parse --verify HEAD`
 
 # Now let's go have some fun with the cloned repo
 git config user.name "Travis CI"
-git config user.email "d@domenic.me"
+git config user.email "bot@hackergarten.net"
 
 # If there are no changes (e.g. this is a README update) then just bail.
 #if [ -z `git diff --exit-code` ]; then
