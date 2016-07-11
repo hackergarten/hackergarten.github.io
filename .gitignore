@@ -1,3 +1,5 @@
 .idea
+.project
+.settings
 feed.xml
 node_modules
