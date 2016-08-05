@@ -1,5 +1,22 @@
 [
   {
+    "date": "2016-09-01",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvmbcb/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-08-04",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
