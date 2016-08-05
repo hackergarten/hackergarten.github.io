@@ -14,6 +14,30 @@
       }
     ],
     "achievements": [
+      {
+        "title": "RFR: JDK-8161230 – Create Stream from Iterator/Enumeration",
+        "url": "http://mail.openjdk.java.net/pipermail/core-libs-dev/2016-August/042752.html"
+      },
+      {
+        "title": "Clojure Protobuf: Use directly built binaries (via protoc) for the tests",
+        "url": "https://github.com/arpagaus/clj-protobuf/commit/c5464fe2394dd058ed91d52f088b164197df0bc8"
+      },
+      {
+        "title": "5 wiring diagrams for Arduino basic research projects",
+        "url": "https://bitbucket.org/thomasstauffer666/arduino"
+      },
+      {
+        "title": "SportChef: New logo design and new logo font",
+        "url": "https://github.com/McPringle/sportchef/issues/286"
+      },
+      {
+        "title": "SportChef: Load custom imprint dynamically",
+        "url": "https://github.com/McPringle/sportchef/commit/de8092b33975cc0357fb0ccc7e4980a142fb6c93"
+      },
+      {
+        "title": "SportChef: Fix for header hiding parts of modal dialogs",
+        "url": "https://github.com/McPringle/sportchef/commit/b0c1c5e04e33690400604833200577af00e1004e"
+      }
     ]
   },
   {
