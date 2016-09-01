@@ -1,5 +1,22 @@
 [
   {
+    "date": "2016-09-28",
+    "location": "Stuttgart, Germany",
+    "title": "codecentric Office Stuttgart",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/233761648/"
+      },
+      {
+        "title": "where is the codecentric Office",
+        "url": "https://www.google.de/maps/place/Curiestraße+2,+70563+Stuttgart/@48.73781,9.1104113,17z"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-09-22",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
