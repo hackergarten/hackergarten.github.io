@@ -1,5 +1,18 @@
 [
   {
+    "date": "2016-11-02",
+    "location": "Casablanca, Morocco",
+    "title": "Devoxx MA",
+    "links": [
+      {
+        "title": "Program",
+        "url": "https://devoxx.ma/#program"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-09-19",
     "location": "San Francisco, USA",
     "title": "JavaOne",
