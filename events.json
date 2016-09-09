@@ -26,13 +26,17 @@
     ]
   },
   {
-    "date": "2016-09-19",
-    "location": "San Francisco, USA",
-    "title": "JavaOne",
+    "date": "2016-10-06",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
     "links": [
       {
-        "title": "Schedule",
-        "url": "https://community.oracle.com/docs/DOC-997220"
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/233797179/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ],
     "achievements": [
@@ -70,26 +74,6 @@
       }
     ],
     "achievements": [
-      {
-        "title": "JDK 9: ClassLoader: add resource methods returning java.util.stream.Stream",
-        "url": "http://cr.openjdk.java.net/~reinhapa/reviews/8161230/webrev.00/"
-      },
-      {
-        "title": "DDErl: draggable legend for x-y-charts",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/commit/bd3ffa253ec80c92f07ebbcd4f6c2f71d627b18d"
-      },
-      {
-        "title": "SportChef: Switched from JUnit 4 to JUnit 5",
-        "url": "https://github.com/McPringle/sportchef"
-      },
-      {
-        "title": "SportChef: Corrected a problem with the data directory",
-        "url": "https://github.com/McPringle/sportchef"
-      },
-      {
-        "title": "SportChef: Designed the login dialog to look like the mockup",
-        "url": "https://github.com/McPringle/sportchef"
-      }
     ]
   },
   {
@@ -110,6 +94,19 @@
     ]
   },
   {
+    "date": "2016-09-19",
+    "location": "San Francisco, USA",
+    "title": "JavaOne",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "https://community.oracle.com/docs/DOC-997220"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-09-01",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
@@ -124,6 +121,26 @@
       }
     ],
     "achievements": [
+      {
+        "title": "JDK 9: ClassLoader: add resource methods returning java.util.stream.Stream",
+        "url": "http://cr.openjdk.java.net/~reinhapa/reviews/8161230/webrev.00/"
+      },
+      {
+        "title": "DDErl: draggable legend for x-y-charts",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/commit/bd3ffa253ec80c92f07ebbcd4f6c2f71d627b18d"
+      },
+      {
+        "title": "SportChef: Switched from JUnit 4 to JUnit 5",
+        "url": "https://github.com/McPringle/sportchef"
+      },
+      {
+        "title": "SportChef: Corrected a problem with the data directory",
+        "url": "https://github.com/McPringle/sportchef"
+      },
+      {
+        "title": "SportChef: Designed the login dialog to look like the mockup",
+        "url": "https://github.com/McPringle/sportchef"
+      }
     ]
   },
   {
