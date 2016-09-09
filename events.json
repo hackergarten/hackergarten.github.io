@@ -1,5 +1,18 @@
 [
   {
+    "date": "2016-11-09",
+    "location": "Antwerp, Belgium",
+    "title": "Devoxx",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "https://devoxx.be/hackergarten/#tuesday"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-11-02",
     "location": "Casablanca, Morocco",
     "title": "Devoxx MA",
