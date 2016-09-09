@@ -65,6 +65,26 @@
       }
     ],
     "achievements": [
+      {
+        "title": "JDK 9: ClassLoader: add resource methods returning java.util.stream.Stream",
+        "url": "http://cr.openjdk.java.net/~reinhapa/reviews/8161230/webrev.00/"
+      },
+      {
+        "title": "DDErl: draggable legend for x-y-charts",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/commit/bd3ffa253ec80c92f07ebbcd4f6c2f71d627b18d"
+      },
+      {
+        "title": "SportChef: Switched from JUnit 4 to JUnit 5",
+        "url": "https://github.com/McPringle/sportchef"
+      },
+      {
+        "title": "SportChef: Corrected a problem with the data directory",
+        "url": "https://github.com/McPringle/sportchef"
+      },
+      {
+        "title": "SportChef: Designed the login dialog to look like the mockup",
+        "url": "https://github.com/McPringle/sportchef"
+      }
     ]
   },
   {
