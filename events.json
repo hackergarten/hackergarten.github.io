@@ -1,5 +1,18 @@
 [
   {
+    "date": "2016-09-19",
+    "location": "San Francisco, USA",
+    "title": "JavaOne",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "https://community.oracle.com/docs/DOC-997220"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-09-28",
     "location": "Zurich, Switzerland",
     "title": "Liip Office Zurich",
