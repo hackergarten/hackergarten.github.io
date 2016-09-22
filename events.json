@@ -91,6 +91,10 @@
       }
     ],
     "achievements": [
+      {
+        "title": "ldap-auth tests with in memory ldap server",
+        "url": "https://github.com/hackergarten/LdapAuth/pull/4"
+      }
     ]
   },
   {
