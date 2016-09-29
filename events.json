@@ -26,6 +26,23 @@
     ]
   },
   {
+    "date": "2016-10-26",
+    "location": "Zurich, Switzerland",
+    "title": "Liip Office Zurich",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Zurich/events/234496644/"
+      },
+      {
+        "title": "where is the Liip Office",
+        "url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
+      }
+    ],
+    "achievements": [
+    ]
+},   
+  {
     "date": "2016-10-06",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
