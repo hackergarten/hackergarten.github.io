@@ -14,6 +14,22 @@
       }
     ],
     "achievements": [
+      {
+        "title": "SportChef: Added Docker Health Checks",
+        "url": "https://github.com/McPringle/sportchef/pull/289"
+      },
+      {
+        "title": "DDErl: Interface design",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title" : "rtc2git: Prototyping of a possible issue solution",
+        "url": "https://github.com/rtcTo/rtc2git/issues/97#issuecomment-252084138"
+      },
+      {
+        "title": "Got BCI injection of JFR events to work",
+        "url": ""
+      }
     ]
   },
   {
