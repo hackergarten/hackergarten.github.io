@@ -1,5 +1,48 @@
 [
   {
+    "date": "2016-11-09",
+    "location": "Antwerp, Belgium",
+    "title": "Devoxx",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "https://devoxx.be/hackergarten/#tuesday"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2016-11-02",
+    "location": "Casablanca, Morocco",
+    "title": "Devoxx MA",
+    "links": [
+      {
+        "title": "Program",
+        "url": "https://devoxx.ma/#program"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2016-10-26",
+    "location": "Zurich, Switzerland",
+    "title": "Liip Office Zurich",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Zurich/events/234496644/"
+      },
+      {
+        "title": "where is the Liip Office",
+        "url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-10-06",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
@@ -78,6 +121,23 @@
       {
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "ldap-auth tests with in memory ldap server",
+        "url": "https://github.com/hackergarten/LdapAuth/pull/4"
+      }
+    ]
+  },
+  {
+    "date": "2016-09-19",
+    "location": "San Francisco, USA",
+    "title": "JavaOne",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "https://community.oracle.com/docs/DOC-997220"
       }
     ],
     "achievements": [
