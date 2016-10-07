@@ -13,6 +13,23 @@
     ]
   },
   {
+    "date": "2016-11-03",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvpbfb/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-11-02",
     "location": "Casablanca, Morocco",
     "title": "Devoxx MA",
@@ -41,7 +58,7 @@
     ],
     "achievements": [
     ]
-},   
+  },
   {
     "date": "2016-10-06",
     "location": "Lucerne, Switzerland",
@@ -57,6 +74,22 @@
       }
     ],
     "achievements": [
+      {
+        "title": "SportChef: Added Docker Health Checks",
+        "url": "https://github.com/McPringle/sportchef/pull/289"
+      },
+      {
+        "title": "DDErl: Interface design",
+        "url": "https://github.com/K2InformaticsGmbH/dderl"
+      },
+      {
+        "title" : "rtc2git: Prototyping of a possible issue solution",
+        "url": "https://github.com/rtcTo/rtc2git/issues/97#issuecomment-252084138"
+      },
+      {
+        "title": "Got BCI injection of JFR events to work",
+        "url": ""
+      }
     ]
   },
   {
