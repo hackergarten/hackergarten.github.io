@@ -89,6 +89,26 @@
       {
         "title": "Got BCI injection of JFR events to work",
         "url": ""
+      },
+      {
+        "title": "Release Basilisk 0.3.0",
+        "url": "http://basilisk-user.1128066.n5.nabble.com/ANN-Basilisk-0-3-0-released-td40.html"
+      },
+      {
+        "title": "basilisk: build scripts don't work with gradle 3.1",
+        "url": "https://github.com/basilisk-fw/basilisk/issues/27"
+      },
+      {
+        "title": "basilisk: Explicitly identify MVC members and arguments in MVC artifacts",
+        "url": "https://github.com/basilisk-fw/basilisk/issues/28"
+      },
+      {
+        "title": "groovyfx: Grape examples appear to be incomplete ",
+        "url": "https://github.com/groovyfx-project/groovyfx/issues/42"
+      },
+      {
+        "title": "groovyfx: Running samples with JDK9 results in exception",
+        "url": "https://github.com/groovyfx-project/groovyfx/issues/52"
       }
     ]
   },
