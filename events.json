@@ -1,5 +1,37 @@
 [
   {
+    "date": "2016-12-08",
+    "location": "Basel, Switzerland",
+    "title": "Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/234993147/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": []
+  },
+  {
+    "date": "2016-11-15",
+    "location": "Basel, Switzerland",
+    "title": "Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/234993108/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": []
+  },
+  {
     "date": "2016-11-09",
     "location": "Antwerp, Belgium",
     "title": "Devoxx",
