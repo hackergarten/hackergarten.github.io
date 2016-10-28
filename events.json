@@ -88,7 +88,20 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "SportChef: Fixed broken AutoInstall",
+        "url": "https://github.com/McPringle/sportchef/commit/ed942d4e33896def8355ee2a58290256129aeaf0"
+      },
+      {
+        "title": "SportChef: Fixed duplicate imports",
+        "url": "https://github.com/McPringle/sportchef/commit/d08ce933e9cd86a3a05f7bda831736b7426c0732"
+      },
+      {
+        "title": "SportChef: Fixed date/time display format",
+        "url": "https://github.com/McPringle/sportchef/commit/55624dfc72c44f505b54cb1552eadaf58296628a"
+      }
+    ]
   },
   {
     "date": "2016-10-26",
