@@ -72,6 +72,10 @@
       }
     ],
     "achievements": [
+      {
+        "title": "Added cancel capability to Promise." ,
+        "url": "https://github.com/jdeferred/jdeferred/pull/81"
+      }
     ]
   },
   {
