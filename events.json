@@ -59,6 +59,10 @@
       }
     ],
     "achievements": [
+      {
+        "title": "OpenJDK 9 split package detection tool proposal",
+        "url": "https://github.com/reinhapa/jdk/tree/master/SplitPackageTool"
+      }
     ]
   },
   {
