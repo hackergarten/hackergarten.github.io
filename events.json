@@ -124,6 +124,26 @@
       {
         "title": "SportChef: Fixed date/time display format",
         "url": "https://github.com/McPringle/sportchef/commit/55624dfc72c44f505b54cb1552eadaf58296628a"
+      },
+      {
+        "title": "Naum: set java version of idea project to 1.7",
+        "url": "https://github.com/aalmiray/naum/commit/73dd4378a666e19feb45add57f2a88feddcf697b"
+      },
+      {
+        "title": "Naum: add differ check for field values of final static fields",
+        "url": "https://github.com/aalmiray/naum/commit/e0b0759291fb3cb65688b6874626b05c74385561"
+      },
+      {
+        "title": "Naum: Merge remote-tracking branch 'origin/master' into annotationDiffer",
+        "url": "https://github.com/aalmiray/naum/commit/9aaa975ad6844e7152e47e9debae02ac85dbc8ef"
+      },
+      {
+        "title": "Naum: Add ci/coverage badges to readme",
+        "url": "https://github.com/aalmiray/naum/commit/dc45e347e38e4064f0fa23df54b6a171c6387bf9"
+      },
+      {
+        "title": "Naum: Enable aggregate code coverage reports",
+        "url": "https://github.com/aalmiray/naum/commit/4f39e15fb229ece4b0a815e4a4b87a2633653df4"
       }
     ]
   },
