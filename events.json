@@ -77,20 +77,24 @@
     ],
     "achievements": [
       {
-        "title": "Added cancel capability to Promise.",
+        "title": "jdferred: Added cancel capability to Promise.",
         "url": "https://github.com/jdeferred/jdeferred/pull/81"
       },
       {
-        "title": "Artifact template name is not constraint ",
+        "title": "griffon: Artifact template name is not constraint ",
         "url": "https://github.com/griffon/griffon/issues/176"
       },
       {
-        "title": "Upgrade gradle-quickstart template",
+        "title": "lazybones-templates: Upgrade gradle-quickstart template",
         "url": "https://github.com/aalmiray/lazybones-template-collection/pull/8"
       },
       {
-        "title": "Added better RxJava example",
+        "title": "grpc-java-demos: Added better RxJava example",
         "url": "https://github.com/saturnism/grpc-java-demos/commit/f8c95ab87df9356d97369077130659cbe0066a83"
+      },
+      {
+        "title": "javaee-security-spec: Rename LDap to Ldap",
+        "url": "https://github.com/javaee-security-spec/soteria/pull/19"
       }
     ]
   },
