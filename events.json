@@ -16,6 +16,23 @@
     "achievements": []
   },
   {
+    "date": "2016-12-01",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvqbcb/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-11-15",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -62,6 +79,31 @@
       {
         "title": "OpenJDK 9 split package detection tool proposal",
         "url": "https://github.com/reinhapa/jdk/tree/master/SplitPackageTool"
+      },
+      {
+        "title": "SportChef: Implement new design of login dialog",
+        "url": "https://github.com/McPringle/sportchef/issues/290"
+      },
+      {
+        "title": "SportChef: Use TLS (HTTPS) on sportchef.ch",
+        "url": "https://github.com/McPringle/sportchef/issues/283"
+      },
+      {
+        "title": "SportChef: Create the design of a project website",
+        "url": "https://github.com/McPringle/sportchef/issues/293"
+      },
+      {
+        "title": "DDErl: Opening a saved view should stay inside the visible screen",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/97"
+      },
+      {
+        "title": "DDErl: Injection of application metrics into the monitoring chain defined"
+      },
+      {
+        "title": "DDErl: Started the definition of a Vagrant machine to make it easier to newcomers to start working on DDErl"
+      },
+      {
+        "title": "Worked through a Vagrant Tutorial"
       }
     ]
   },
