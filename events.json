@@ -93,6 +93,10 @@
         "url": "https://github.com/McPringle/sportchef/issues/293"
       },
       {
+        "title": "Torch (Machine Learning Framework) Linear & Convolution written in plain C, usable for micro controllers",
+        "url": "https://github.com/syzer/ml-torch"
+      },
+      {
         "title": "DDErl: Opening a saved view should stay inside the visible screen",
         "url": "https://github.com/K2InformaticsGmbH/dderl/issues/97"
       },
