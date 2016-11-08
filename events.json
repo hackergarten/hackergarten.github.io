@@ -78,7 +78,7 @@
     "achievements": [
       {
         "title": "OpenJDK 9 split package detection tool proposal",
-        "url": "https://github.com/reinhapa/jdk/tree/master/SplitPackageTool"
+        "url": "https://github.com/reinhapa/jsplitpkgscan"
       },
       {
         "title": "SportChef: Implement new design of login dialog",
