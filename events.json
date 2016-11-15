@@ -46,7 +46,24 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "jdeferred: move android test to right location and configure build to run it",
+        "url": "https://github.com/aalmiray/jdeferred/pull/2"
+      },
+      {
+        "title": "GROOVY-7997: fix long and BigInteger to BigDecimal conversion in method calls",
+        "url": "https://github.com/apache/groovy/commit/04f1e8636f98388dd04787b5b7028ea870aeef0b"
+      },
+      {
+        "title": "griffon: Add binding utilities",
+        "url": "https://github.com/griffon/griffon/commit/9d43488bdc51a689ad77a4e5075912d0097894c3"
+      },
+      {
+        "title": "basilisk: Add binding utilities",
+        "url": "https://github.com/basilisk-fw/basilisk/commit/52a663ebc992dea23390e05b91faed1020504e51"
+      }
+    ]
   },
   {
     "date": "2016-11-09",
