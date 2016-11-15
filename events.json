@@ -66,6 +66,10 @@
       {
         "title": "gluonhq/maps: update gradle build",
         "url": "https://github.com/gluonhq/maps/pull/6"
+      },
+      {
+        "title": "gluonhq/maps: FXML updates",
+        "url": "https://github.com/gluonhq/maps/pull/7"
       }
     ]
   },
