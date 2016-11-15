@@ -36,7 +36,7 @@
     </div>
 </div>
 
-<div class="container" ng-controller="eventlistController">
+<div class="container fade" ng-controller="eventlistController" ng-strict-di ng-init="ngLoaded = true" ng-class="{ in: ngLoaded }">
 
     <div class="row">
         <div class="col-md-6">
@@ -51,7 +51,6 @@
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
                         </li>
-
 
                         <li id="event-{{event.hashCode}}" ng-repeat="event in futureEventlist">
                             Hack #{{pastEventlist.length + nextEventlist.length + $index + 1}} at {{event.title}} on {{event.date}} in {{event.location}}
@@ -175,10 +174,8 @@
 
 <script src="ng-dialog/js/ngDialog.js"></script>
 
-
 <script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
-
 
 </body>
 </html>
