@@ -62,6 +62,10 @@
       {
         "title": "basilisk: Add binding utilities",
         "url": "https://github.com/basilisk-fw/basilisk/commit/52a663ebc992dea23390e05b91faed1020504e51"
+      },
+      {
+        "title": "gluonhq/maps: update gradle build",
+        "url": "https://github.com/gluonhq/maps/pull/6"
       }
     ]
   },
