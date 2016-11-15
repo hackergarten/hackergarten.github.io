@@ -46,7 +46,16 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "Needle4J configuration setting to control post construct",
+        "url": "https://github.com/needle4j/needle4j/issues/21"
+      },
+      {
+        "title": "SportChef integration tests with embedded Payara",
+        "url": "https://github.com/sportchef/sportchef-events/commit/84141fe10e1696b90a4168bded2ad85ca7863ed9"
+      }
+    ]
   },
   {
     "date": "2016-11-09",
