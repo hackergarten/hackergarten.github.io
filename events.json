@@ -54,6 +54,30 @@
       {
         "title": "SportChef integration tests with embedded Payara",
         "url": "https://github.com/sportchef/sportchef-events/commit/84141fe10e1696b90a4168bded2ad85ca7863ed9"
+      },
+      {
+        "title": "jdeferred: move android test to right location and configure build to run it",
+        "url": "https://github.com/aalmiray/jdeferred/pull/2"
+      },
+      {
+        "title": "GROOVY-7997: fix long and BigInteger to BigDecimal conversion in method calls",
+        "url": "https://github.com/apache/groovy/commit/04f1e8636f98388dd04787b5b7028ea870aeef0b"
+      },
+      {
+        "title": "griffon: Add binding utilities",
+        "url": "https://github.com/griffon/griffon/commit/9d43488bdc51a689ad77a4e5075912d0097894c3"
+      },
+      {
+        "title": "basilisk: Add binding utilities",
+        "url": "https://github.com/basilisk-fw/basilisk/commit/52a663ebc992dea23390e05b91faed1020504e51"
+      },
+      {
+        "title": "gluonhq/maps: update gradle build",
+        "url": "https://github.com/gluonhq/maps/pull/6"
+      },
+      {
+        "title": "gluonhq/maps: FXML updates",
+        "url": "https://github.com/gluonhq/maps/pull/7"
       }
     ]
   },
@@ -68,6 +92,14 @@
       }
     ],
     "achievements": [
+      {
+        "title": "jdeferred: create initial gradle build layout",
+        "url": "https://github.com/aalmiray/jdeferred/commit/00b63f697b1092a74164e1102fbd5c82b85ff6a1"
+      },
+      {
+        "title": "jdeferred: added generating of pom files for .aar and .apklib builds in android subproject",
+        "url": "https://github.com/aalmiray/jdeferred/commit/0de50966fa5951e422666e6449da810ff4be5b1e"
+      }
     ]
   },
   {
