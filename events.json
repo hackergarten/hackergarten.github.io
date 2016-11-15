@@ -76,6 +76,14 @@
       }
     ],
     "achievements": [
+      {
+        "title": "jdeferred: create initial gradle build layout",
+        "url": "https://github.com/aalmiray/jdeferred/commit/00b63f697b1092a74164e1102fbd5c82b85ff6a1"
+      },
+      {
+        "title": "jdeferred: added generating of pom files for .aar and .apklib builds in android subproject",
+        "url": "https://github.com/aalmiray/jdeferred/commit/0de50966fa5951e422666e6449da810ff4be5b1e"
+      }
     ]
   },
   {
