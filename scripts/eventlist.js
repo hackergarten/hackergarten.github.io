@@ -5,6 +5,9 @@ var app = angular
     .controller('eventlistController', eventListController)
     .service('eventService', eventService);
 
+app.config(['$compileProvider', function ($compileProvider) {
+  $compileProvider.debugInfoEnabled(false);
+}]);
 
 app.filter('html', ['$sce', function ($sce) { 
     return function (text) {
@@ -42,7 +45,6 @@ function eventListController($scope, ngDialog, eventService) {
         }
 		$scope.pastEventlistLength = $scope.pastEventlist.length;
 		$scope.allEventlistLength = $scope.pastEventlistLength + $scope.futureEventlist.length;
-		console.log($scope.allEventlistLength);
         $scope.futureEventlist.reverse();
     }
 
