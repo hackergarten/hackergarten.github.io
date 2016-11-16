@@ -30,6 +30,8 @@ function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
     $scope.nextEventlist = [];
     $scope.pastEventlist = [];
+	$scope.pastEventlistLength = 0;
+	$scope.allEventlistLength = 0;
 	$scope.totalPEventDisplayed = 10;
 
     eventService
