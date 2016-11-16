@@ -75,9 +75,9 @@
             <!-- past events -->
             <div class="panel panel-default">
                 <div class="panel-heading">Past Events</div>
-                <div class="panel-body">
+                <div class="panel-body scrollable">
                     <ul>
-					    <li id="event-{{event.hashCode}}" ng-repeat="event in pastEventlist">
+					    <li id="event-{{event.hashCode}}" ng-repeat="event in pastEventlist | limitTo:totalPEventDisplayed">
 					      Hack #{{pastEventlist.length - $index}} at {{event.title}} on {{event.date}} in {{event.location}}
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
@@ -87,6 +87,9 @@
                           </ul>
 					    </li>
                     </ul>
+					<div>
+						<button type="button" class="btn btn-secondary btn-lg btn-block" ng-click="showMore()">Load more</button>
+					</div>
                 </div>
             </div>
         </div>

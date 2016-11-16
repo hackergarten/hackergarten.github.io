@@ -27,6 +27,7 @@ function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
     $scope.nextEventlist = [];
     $scope.pastEventlist = [];
+	$scope.totalPEventDisplayed = 15;
 
     eventService
         .queryEvents()
@@ -54,6 +55,10 @@ function eventListController($scope, ngDialog, eventService) {
             className: 'ngdialog-theme-default'
         });
     };
+	
+	$scope.showMore = function() {
+        $scope.totalPEventDisplayed+= 10;
+    }
 };
 
 function eventService($http) {
