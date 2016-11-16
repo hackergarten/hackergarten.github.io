@@ -27,7 +27,7 @@ function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
     $scope.nextEventlist = [];
     $scope.pastEventlist = [];
-	$scope.totalPEventDisplayed = 15;
+	$scope.totalPEventDisplayed = 10;
 
     eventService
         .queryEvents()
@@ -40,7 +40,9 @@ function eventListController($scope, ngDialog, eventService) {
         if ($scope.futureEventlist.length > 0) {
             $scope.nextEventlist = [$scope.futureEventlist.pop()];
         }
-
+		$scope.pastEventlistLength = $scope.pastEventlist.length;
+		$scope.allEventlistLength = $scope.pastEventlistLength + $scope.futureEventlist.length;
+		console.log($scope.allEventlistLength);
         $scope.futureEventlist.reverse();
     }
 
@@ -56,7 +58,7 @@ function eventListController($scope, ngDialog, eventService) {
         });
     };
 	
-	$scope.showMore = function() {
+	$scope.loadMore = function() {
         $scope.totalPEventDisplayed+= 10;
     }
 };
