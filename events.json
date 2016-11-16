@@ -78,6 +78,10 @@
       {
         "title": "gluonhq/maps: FXML updates",
         "url": "https://github.com/gluonhq/maps/pull/7"
+      },
+      {
+        "title": "update DolphinPLatform SpringBOot Lazybones Template to use version 0.8.8",
+        "url": "https://github.com/canoo/dolphin-platform-lazybones-templates/pull/4"
       }
     ]
   },
