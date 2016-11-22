@@ -5,6 +5,9 @@ var app = angular
     .controller('eventlistController', eventListController)
     .service('eventService', eventService);
 
+app.config(['$compileProvider', function ($compileProvider) {
+  $compileProvider.debugInfoEnabled(false);
+}]);
 
 app.filter('html', ['$sce', function ($sce) { 
     return function (text) {
@@ -27,6 +30,9 @@ function eventListController($scope, ngDialog, eventService) {
     $scope.futureEventlist = [];
     $scope.nextEventlist = [];
     $scope.pastEventlist = [];
+	$scope.pastEventlistLength = 0;
+	$scope.allEventlistLength = 0;
+	$scope.totalPEventDisplayed = 10;
 
     eventService
         .queryEvents()
@@ -39,7 +45,8 @@ function eventListController($scope, ngDialog, eventService) {
         if ($scope.futureEventlist.length > 0) {
             $scope.nextEventlist = [$scope.futureEventlist.pop()];
         }
-
+		$scope.pastEventlistLength = $scope.pastEventlist.length;
+		$scope.allEventlistLength = $scope.pastEventlistLength + $scope.futureEventlist.length;
         $scope.futureEventlist.reverse();
     }
 
@@ -54,6 +61,10 @@ function eventListController($scope, ngDialog, eventService) {
             className: 'ngdialog-theme-default'
         });
     };
+	
+	$scope.loadMore = function() {
+        $scope.totalPEventDisplayed+= 10;
+    }
 };
 
 function eventService($http) {
