@@ -46,6 +46,18 @@
       }
     ],
     "achievements": [
+      {
+        "title": "TestFX: Use Java8's Optional/Predicate/Function instead of Guava's",
+        "url": "https://github.com/TestFX/TestFX/pull/318"
+      },
+      {
+        "title": "TestFX: Add WindowMatchers class",
+        "url": "https://github.com/TestFX/TestFX/pull/284"
+      },
+      {
+        "title": "Ikonli: React to changes made to FontIcon.fill and FontIcon.font ",
+        "url": "https://github.com/aalmiray/ikonli/commit/f5f3b7b749ef7ae9d4abca532100907328abf55c"
+      }
     ]
   },
   {
