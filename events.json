@@ -32,6 +32,22 @@
     "achievements": []
   },
   {
+    "date": "2016-12-08",
+    "location": "Paris, France",
+    "title": "Xebia",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Paris-Hackergarten/events/235761802/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://www.google.com/maps/place/156+Boulevard+Haussmann,+75008+Paris,+France/@48.8755587,2.3088289,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc7c0eb09d3:0x9b3b3b5b3007b596!8m2!3d48.8755587!4d2.3110176?hl=en"
+      }
+    ],
+    "achievements": []
+  },
+  {
     "date": "2016-12-01",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
