@@ -30,7 +30,20 @@
         "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "SportChef: Frontend migration to microservice",
+        "url": "https://github.com/sportchef/sportchef-frontend/pull/1"
+      },
+      {
+        "title": "SportChef: Dockerized the frontend microservice",
+        "url": "https://github.com/sportchef/sportchef-frontend/commit/f2f93df8786a909c87367b89fd9e43d603e52cfd"
+      },
+      {
+        "title": "SportChef: Adding CI build with Travis",
+        "url": "https://github.com/sportchef/sportchef-frontend/commit/1bdea65dc5d607427dcf76ec16e6d7bfba68abc7"
+      }
+    ]
   },
   {
     "date": "2016-12-08",
