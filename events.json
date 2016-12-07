@@ -90,6 +90,18 @@
       {
         "title": "Ikonli: React to changes made to FontIcon.fill and FontIcon.font ",
         "url": "https://github.com/aalmiray/ikonli/commit/f5f3b7b749ef7ae9d4abca532100907328abf55c"
+      },
+      {
+        "title": "Airomem: Typos in readme",
+        "url": "https://github.com/airomem/airomem/pull/10"
+      },
+      {
+        "title": "Asciidoctor IntelliJ Plugin: Implementing syntax highlighting for monospace with backticks",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+      },
+      {
+        "title": "JMH Gradle Plugin: Update README to reflect a working code snipplet",
+        "url": "https://github.com/melix/jmh-gradle-plugin/pull/85"
       }
     ]
   },
