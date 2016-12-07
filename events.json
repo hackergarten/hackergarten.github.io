@@ -1,5 +1,22 @@
 [
   {
+    "date": "2017-01-05",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/235825519/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2016-12-06",
     "location": "Bern, Switzerland",
     "title": "SBB Office, Haslerstrasse 30, Bern",
@@ -13,7 +30,20 @@
         "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "SportChef: Frontend migration to microservice",
+        "url": "https://github.com/sportchef/sportchef-frontend/pull/1"
+      },
+      {
+        "title": "SportChef: Dockerized the frontend microservice",
+        "url": "https://github.com/sportchef/sportchef-frontend/commit/f2f93df8786a909c87367b89fd9e43d603e52cfd"
+      },
+      {
+        "title": "SportChef: Adding CI build with Travis",
+        "url": "https://github.com/sportchef/sportchef-frontend/commit/1bdea65dc5d607427dcf76ec16e6d7bfba68abc7"
+      }
+    ]
   },
   {
     "date": "2016-12-08",
@@ -73,6 +103,18 @@
       {
         "title": "Ikonli: React to changes made to FontIcon.fill and FontIcon.font ",
         "url": "https://github.com/aalmiray/ikonli/commit/f5f3b7b749ef7ae9d4abca532100907328abf55c"
+      },
+      {
+        "title": "Airomem: Typos in readme",
+        "url": "https://github.com/airomem/airomem/pull/10"
+      },
+      {
+        "title": "Asciidoctor IntelliJ Plugin: Implementing syntax highlighting for monospace with backticks",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+      },
+      {
+        "title": "JMH Gradle Plugin: Update README to reflect a working code snipplet",
+        "url": "https://github.com/melix/jmh-gradle-plugin/pull/85"
       }
     ]
   },
