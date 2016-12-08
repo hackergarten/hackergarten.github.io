@@ -75,7 +75,32 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "jbake-gradle-plugin: make bintray repo and organization configurable",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/4da8e72eb20fc8bb4bffcace4a2cda16fb9e2268"
+      },
+      {
+        "title": "jbake-gradle-plugin: added new template engines thymeleaf, jade4j and groovy MTE",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/4108e2be15e5248ec8a51e8d0ce69633f9f8edbe"
+      },
+      {
+        "title": "jbake-gradle-plugin: Add integrationtest using gradle TestKit",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/3a01a0916bfe2d3c7f86f9fddc3bc2f6c2e72e7d"
+      },
+      {
+        "title": "jbake-gradle-plugin: Conditionally include default repositories",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/b2457264f80e9c7abea3a772acf95f8e8032d157"
+      },
+      {
+        "title": "jbake-gradle-plugin: Activate jacoco and coveralls",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/c607ae3f63511124c2db23e28636a51411abd765"
+      },
+      {
+        "title": "griffon-ormlite-plugin: Upgrade to Ormlite 5.0 and release version 1.1.0",
+        "url": "https://github.com/griffon-plugins/griffon-ormlite-plugin/commit/06a5e8ae834ab916381b751a42dd550b16fda6b1"
+      }
+    ]
   },
   {
     "date": "2016-12-08",
