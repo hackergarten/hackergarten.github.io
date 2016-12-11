@@ -58,6 +58,10 @@
       {
         "title": "SportChef: Adding CI build with Travis",
         "url": "https://github.com/sportchef/sportchef-frontend/commit/1bdea65dc5d607427dcf76ec16e6d7bfba68abc7"
+      },
+      {
+        "title": "Continuing fixing highlting monospace in asccidoctorJ plugin",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/161"
       }
     ]
   },
