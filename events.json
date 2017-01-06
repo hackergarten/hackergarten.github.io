@@ -1,4 +1,20 @@
 [
+  {
+    "date": "2017-02-02",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/236458504/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": []
+  },
    {
     "date": "2017-01-26",
     "location": "Basel, Switzerland",
@@ -30,6 +46,25 @@
       }
     ],
     "achievements": [
+      {
+        "title": "Robotics Hardware Programming"
+      },
+      {
+        "title": "Web Components Polymer Application Prototype",
+        "url": "https://github.com/ahodgkinson/wcpap"
+      },
+      {
+        "title": "asciidoctor-intellij-plugin: Work on PR",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+      },
+      {
+        "title": "SportChef: Designed the project website",
+        "url": "https://www.sportchef.ch/"
+      },
+      {
+        "title": "Moodini Clean Code Refactoring",
+        "url": "https://www.codacy.com/app/McPringle/moodini/dashboard"
+      }
     ]
   },
   {
@@ -455,7 +490,7 @@
     ],
     "achievements": [
     ]
-  },  
+  },
   {
     "date": "2016-09-28",
     "location": "Stuttgart, Germany",
@@ -666,7 +701,7 @@
       },
       {
         "title": "Pick up pictures from CouchDB Attachments and display on the mobile"
-      }      
+      }
     ]
   },
   {
@@ -1071,7 +1106,7 @@
         "title": "jbake: PR #269 Enable gemPath and requires properties on Asciidoctor",
         "url": "https://github.com/jbake-org/jbake/pull/269"
       }
-    ]  
+    ]
   },
   {
     "date": "2016-03-03",
@@ -1781,10 +1816,10 @@
      "location": "Zürich, Switzerland",
      "title": "looking for a location",
      "links": [
-         { 
+         {
             "title": "Meetup",
             "url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/"
-         }   
+         }
      ]
   },
   {
@@ -1795,7 +1830,7 @@
       {"title": "GIDS Schedule", "url": "http://www.developermarch.com/developersummit/conference.html"}
     ]
   },
-  
+
     {
     "date": "2015-04-23",
     "location": "Basel, Switzerland",
@@ -1832,7 +1867,7 @@
     "title": "SBB Offices",
     "links": [
       {
-        "title": "Location", 
+        "title": "Location",
         "url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"
       }
     ]
@@ -1843,7 +1878,7 @@
     "title": "Devoxx FR",
     "links": [
       {
-        "title": "Info", 
+        "title": "Info",
         "url": "http://www.devoxx.fr/dvxfr15-hackergarten/"
       }
     ]
@@ -1903,7 +1938,7 @@
         "url": "http://doodle.com/y69k2mstdhr2m32y#table"
       },
       {
-        "title": "Address", 
+        "title": "Address",
         "url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"
       }
     ]
