@@ -1,4 +1,16 @@
-[
+[  
+  {
+    "date": "2017-02-07",
+    "location": "Stockholm, Sweden",
+    "title": "JFokus",
+    "links": [
+      {
+        "title": "Website",
+        "url": "https://www.jfokus.se/jfokus/"
+      },
+    ],
+    "achievements": []
+  },
   {
     "date": "2017-02-02",
     "location": "Lucerne, Switzerland",
