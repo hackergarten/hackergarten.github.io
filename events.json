@@ -25,9 +25,41 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "Robotics Hardware Programming"
+      },
+      {
+        "title": "DDErl: Screensaver utilizing too much CPU",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/327"
+      },
+      {
+        "title": "DDErl: no scrollbars on edit sql",
+        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/381"
+      },
+      {
+        "title": "asciidoctor-intellij-plugin: Work on PR",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+      },
+      {
+        "title": "Moodini: Using Lagom for the backend",
+        "url": "http://github.com/McPringle/moodini"
+      },
+      {
+        "title": "Pong implementation using Lagom",
+        "url": "https://github.com/javaFunAgain/lagomPong"
+      },
+      {
+        "title": "Pong implementation using Ratpack",
+        "url": "https://github.com/javaFunAgain/ratpong"
+      },
+      {
+        "title": "Web Components Polymer Application Prototype",
+        "url": "https://github.com/ahodgkinson/wcpap"
+      }
+    ]
   },
-   {
+  {
     "date": "2017-01-26",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
