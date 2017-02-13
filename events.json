@@ -45,6 +45,10 @@
       {
         "title": "Groovy: Templating with bound variables that match class names lead to unexpected results",
         "url": "https://issues.apache.org/jira/browse/GROOVY-7405"
+      },
+      {
+        "title": "Eclipse IDE: Allow sorting by declaration order",
+        "url": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=511906"
       }
     ]
   },
