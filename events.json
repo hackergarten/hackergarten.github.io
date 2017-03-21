@@ -11,7 +11,23 @@
     ],
     "achievements": [
     ]
-  }, 
+  },
+  {
+    "date": "2017-04-06",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/237671024/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2017-03-23",
     "location": "Basel, Switzerland",
