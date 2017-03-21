@@ -11,7 +11,23 @@
     ],
     "achievements": [
     ]
-  }, 
+  },
+  {
+    "date": "2017-04-06",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/237671024/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2017-03-23",
     "location": "Basel, Switzerland",
@@ -42,7 +58,28 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "Robotics Hardware Programming: Cleaning up imports",
+        "url": "https://github.com/Robo4J/robo4j/pull/1"
+      },
+      {
+        "title": "Robotics Hardware Programming: added colors in LCD mock",
+        "url": "https://github.com/Robo4J/robo4j/pull/2"
+      },
+      {
+        "title": "JDK 9 split package analysis tool: better error message for a missing output dir",
+        "url": "https://github.com/AdoptOpenJDK/jsplitpkgscan/pull/2"
+      },
+      {
+        "title": "JDK 9 split package analysis tool: Adds ant fallback build file if gradle does not work",
+        "url": "https://github.com/AdoptOpenJDK/jsplitpkgscan/commit/60eff504bbd8609b3841692d1d6b237fb3dc1960"
+      },
+      {
+        "title": "Erlang in-memory database: add gen-server for tic-tac-challenge",
+        "url": "https://github.com/K2InformaticsGmbH/imem/commit/d84632910e300b1770cb1dba28d50743e19e489f"
+      }
+    ]
   },
   {
     "date": "2017-02-07",
