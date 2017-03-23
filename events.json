@@ -42,7 +42,11 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {"title": "Add tests to JCTools", "url": "https://github.com/JCTools/JCTools/pull/158"},
+      {"title": "CORS ", "url": "https://github.com/AdamBien/cors/pull/1" },
+      {"title": "Slightly improve Asciidoctor-Diagram Documentation","url": "https://github.com/asciidoctor/asciidoctor.org/pull/659"}
+    ]
   },
   {
     "date": "2017-03-02",
