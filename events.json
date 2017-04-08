@@ -26,7 +26,36 @@
         "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "Logback: New logic to get JDK version",
+        "url": "https://github.com/qos-ch/logback/pull/371"
+      },
+      {
+        "title": "Electronic Game Board: Game web API",
+        "url": "https://github.com/K2InformaticsGmbH/egambo/issues/5"
+      },
+      {
+        "title": "Robotics Hardware Programming: Adding trim",
+        "url": "https://github.com/Robo4J/robo4j/commit/2c049393c238d27f681817e18d84afba32313d78"
+      },
+      {
+        "title": "Robotics Hardware Programming: Better settings",
+        "url": "https://github.com/Robo4J/robo4j/commit/f348048dee0da2d16b184047bd68f512b1d2cb72"
+      },
+      {
+        "title": "Gradle: Making Gradle run on JDK 9",
+        "url": "https://github.com/gradle/gradle"
+      },
+      {
+        "title": "Carrental: Angular 2 and Java EE starting point project",
+        "url": "https://github.com/Angular2Guy/Angular2AndJavaEE"
+      },
+      {
+        "title": "SportChef: Configuring new production servers (own Docker Swarm)",
+        "url": "https://github.com/McPringle/sportchef"
+      }
+    ]
   },
   {
     "date": "2017-03-23",
