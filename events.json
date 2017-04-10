@@ -30,6 +30,23 @@
     ]
   },
   {
+    "date": "2017-04-20",
+    "location": "Bern, Switzerland",
+    "title": "SBB Office, Haslerstrasse 30, Bern",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Bern/events/239065807/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-04-06",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
