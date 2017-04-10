@@ -125,6 +125,14 @@
       {
         "title": "JBake Gradle Plugin:  Change plugin id to 'org.jbake.site'. Related to #21",
         "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/237fd5afbddccf71dff9fd0ef9ee1ddb438b8cb4"
+      },
+      {
+        "title": "Eclipse Git Plugin: initial multi repo fetch logic",
+        "url": "https://github.com/loetscher/egit/commit/31f5f6bfb3169d11b5e08e58c70fe4e9f5f179b1"
+      },
+      {
+        "title": "Eclipse Git Plugin: CCE and NPE fixed",
+        "url": "https://github.com/loetscher/egit/commit/3d5b405971e5703029c2066eaa50997e3257a2c8"
       }
     ]
   },
