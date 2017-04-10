@@ -88,6 +88,26 @@
       {
         "title": "SportChef: Configuring new production servers (own Docker Swarm)",
         "url": "https://github.com/McPringle/sportchef"
+      },
+      {
+        "title": "JBake Gradle Plugin: Upgrade to latest Gradle wrapper",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/87e4ee19dcf4f541c259d5397c8198d14138cc5d"
+      },
+      {
+        "title": "JBake Gradle Plugin: Update project dependencies ",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/091e53d880521f8e633c4e1e824d9bb9b3e30d86"
+      },
+      {
+        "title": "JBake Gradle Plugin: Refactor build settings",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/c93331a0b2d762f81ee99056a8853b52c038103f"
+      },
+      {
+        "title": "JBake Gradle Plugin: Update license headers",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/e6e5ab90e4740f21fdca50f9c8525be1836173e4"
+      },
+      {
+        "title": "JBake Gradle Plugin:  Change plugin id to 'org.jbake.site'. Related to #21",
+        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/237fd5afbddccf71dff9fd0ef9ee1ddb438b8cb4"
       }
     ]
   },
