@@ -61,6 +61,18 @@
       }
     ],
     "achievements": [
+      {
+        "title": "Opensourced sweet-junit - allows dynamically loading test classes into junit suites",
+        "url": "https://github.com/jlupi/sweet-junit-runner"
+      },
+      {
+        "title": "Researching howto export kotlin static source-code result into sonar-cube",
+        "url": "https://github.com/arturbosch/detekt/issues/21"
+      },
+      {
+        "title": "Working on Jacoco terminal integration",
+        "url": "https://github.com/jacoco/jacoco"
+      }
     ]
   },
   {
