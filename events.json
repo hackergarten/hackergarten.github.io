@@ -13,6 +13,32 @@
     ]
   },
   {
+    "date": "2017-05-18",
+    "location": "Tokyo, Japan",
+    "title": "Oracle Code Tokyo 2017",
+    "links": [
+      {
+        "title": "Hackergarten on Tour",
+        "url": "https://developer.oracle.com/code/tokyo"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2017-05-17",
+    "location": "Tokyo, Japan",
+    "title": "Java Day Tokyo 2017",
+    "links": [
+      {
+        "title": "Hackergarten on Tour",
+        "url": "http://www.oracle.co.jp/events/javaday/2017/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-05-04",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
