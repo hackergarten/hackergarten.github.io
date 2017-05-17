@@ -53,6 +53,10 @@
       }
     ],
     "achievements": [
+      {
+       "title": "jdeps-gradle-plugin: initial release",
+        "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
+      }
     ]
   },
   {
