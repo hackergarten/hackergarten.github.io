@@ -1,5 +1,18 @@
 [
   {
+    "date": "2017-06-13",
+    "location": "Dortmund, Germany",
+    "title": "codecentric / the black frame",
+    "links": [
+      {
+        "title": "Hackergarten",
+        "url": "https://www.xing.com/events/hackergarten-juni-1817832"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-06-01",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
