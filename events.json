@@ -1,6 +1,19 @@
 [
   {
     "date": "2017-06-13",
+    "location": "Dortmund, Germany",
+    "title": "Codecentric / the black frame",
+    "links": [
+      {
+        "title": "Hackergarten",
+        "url": "https://www.xing.com/events/hackergarten-juni-1817832"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2017-06-13",
     "location": "Bern, Switzerland",
     "title": "SBB Office, Haslerstrasse 30, Bern",
     "links": [
