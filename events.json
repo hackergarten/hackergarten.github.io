@@ -1,5 +1,18 @@
 [
   {
+    "date": "2017-06-21",
+    "location": "Krakow, Poland",
+    "title": "Devoxx PL",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "http://cfp.devoxx.pl/2017/talk/BUR-6513/Hackergarten"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-06-13",
     "location": "Dortmund, Germany",
     "title": "Codecentric / the black frame",
