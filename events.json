@@ -57,6 +57,18 @@
       }
     ],
     "achievements": [
+        {
+        "title": "Tested that TODO are shown correctly in asciidoctory-intelliJ Plugin",
+        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37"
+        },
+        {
+        "title": "Resolved compilation errors and tests for jdeferred",
+        "url": "https://github.com/aalmiray/jdeferred/pull/3"
+        },
+        {
+        "title": "Improved documentation for asciidoctor-gradle-plugin",
+        "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197"
+        } 
     ]
   },
   {
