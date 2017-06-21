@@ -27,6 +27,10 @@
       }
     ],
     "achievements": [
+        {
+        "title": "jdeferred: Handle multiple results with type safety",
+        "url": "https://github.com/jdeferred/jdeferred/pull/116"
+        }
     ]
   },
   {
