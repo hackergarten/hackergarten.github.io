@@ -71,6 +71,10 @@
       {
         "title": "jdeps-gradle-plugin: Released version 0.2.0",
         "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
+      },
+      {
+        "title": "griffon: GenerateBom task should create a valid POM per Maven Central's requirements",
+        "url": "https://github.com/griffon/griffon/issues/238"
       }
     ]
   },
