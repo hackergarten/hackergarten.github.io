@@ -1,5 +1,22 @@
 [
-    {
+  {
+    "date": "2017-07-06",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/240462846/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-06-29",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
