@@ -65,8 +65,12 @@
         "url": "https://github.com/jdeferred/jdeferred/pull/116"
       },
       {
-        "title": "jdeps-gradle-plugin: configure external report file",
+        "title": "jdeps-gradle-plugin: Configure external report file",
         "url": "https://github.com/aalmiray/jdeps-gradle-plugin/pull/2"
+      },
+      {
+        "title": "jdeps-gradle-plugin: Released version 0.2.0",
+        "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
       }
     ]
   },
