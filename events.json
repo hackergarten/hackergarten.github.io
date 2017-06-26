@@ -16,6 +16,40 @@
     "achievements": []
    },
     {
+      "date": "2017-07-19",
+      "location": "Stuttgart, Germany",
+      "title": "tbd",
+      "links": [
+        {
+          "title": "Meetup",
+          "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
+        },
+        {
+          "title": "How to find us",
+          "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
+        }
+      ],
+      "achievements": [
+      ]
+    },
+    {
+      "date": "2017-07-06",
+      "location": "Stuttgart, Germany",
+      "title": "JavaForum Stuttgart",
+      "links": [
+        {
+          "title": "Meetup",
+          "https://www.meetup.com/Hackergarten-Stuttgart/events/241086075/"
+        },
+        {
+          "title": "How to find us",
+          "url": "https://maps.google.com/maps?f=q&hl=en&q=Berliner+Platz+1-3%2C+Stuttgart%2C+de"
+        }
+      ],
+      "achievements": [
+      ]
+    },
+    {
       "date": "2017-07-06",
       "location": "Lucerne, Switzerland",
       "title": "CSS Versicherung",
