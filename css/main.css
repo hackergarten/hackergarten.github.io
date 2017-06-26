@@ -37,3 +37,9 @@
     bottom: 0;
     right: 0;
 }
+
+.scrollable{
+	overflow:hidden; 
+	overflow-y:scroll;
+	height:700px;
+}
