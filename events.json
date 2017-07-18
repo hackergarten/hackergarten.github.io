@@ -1,5 +1,5 @@
 [
-    {
+  {
     "date": "2017-08-08",
     "location": "Bern, Switzerland",
     "title": "SBB Office, Haslerstrasse 30, Bern",
@@ -14,59 +14,76 @@
       }
     ],
     "achievements": []
-   },
-    {
-      "date": "2017-07-19",
-      "location": "Stuttgart, Germany",
-      "title": "tbd",
-      "links": [
-        {
-          "title": "Meetup",
-          "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
-        },
-        {
-          "title": "How to find us",
-          "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
-        }
-      ],
-      "achievements": [
-      ]
-    },
-    {
-      "date": "2017-07-06",
-      "location": "Stuttgart, Germany",
-      "title": "JavaForum Stuttgart",
-      "links": [
-        {
-          "title": "Meetup",
-          "title": "https://www.meetup.com/Hackergarten-Stuttgart/events/241086075/"
-        },
-        {
-          "title": "How to find us",
-          "url": "https://maps.google.com/maps?f=q&hl=en&q=Berliner+Platz+1-3%2C+Stuttgart%2C+de"
-        }
-      ],
-      "achievements": [
-      ]
-    },
-    {
-      "date": "2017-07-06",
-      "location": "Lucerne, Switzerland",
-      "title": "CSS Versicherung",
-      "links": [
-        {
-          "title": "Meetup",
-          "url": "https://www.meetup.com/Hackergarten-Luzern/events/240462846/"
-        },
-        {
-          "title": "How to find us",
-          "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-        }
-      ],
-      "achievements": [
-      ]
-    },
-   {
+  },
+  {
+    "date": "2017-08-03",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/241448406/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2017-07-19",
+    "location": "Stuttgart, Germany",
+    "title": "tbd",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2017-07-06",
+    "location": "Stuttgart, Germany",
+    "title": "JavaForum Stuttgart",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241086075/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://maps.google.com/maps?f=q&hl=en&q=Berliner+Platz+1-3%2C+Stuttgart%2C+de"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
+    "date": "2017-07-06",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/240462846/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-06-29",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -140,18 +157,18 @@
       }
     ],
     "achievements": [
-        {
+      {
         "title": "Tested that TODO are shown correctly in asciidoctory-intelliJ Plugin",
         "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37"
-        },
-        {
+      },
+      {
         "title": "Resolved compilation errors and tests for jdeferred",
         "url": "https://github.com/aalmiray/jdeferred/pull/3"
-        },
-        {
+      },
+      {
         "title": "Improved documentation for asciidoctor-gradle-plugin",
         "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197"
-        } 
+      }
     ]
   },
   {
@@ -209,7 +226,7 @@
     ],
     "achievements": [
       {
-       "title": "jdeps-gradle-plugin: initial release",
+        "title": "jdeps-gradle-plugin: initial release",
         "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
       }
     ]
@@ -231,7 +248,7 @@
     "achievements": [
     ]
   },
-    {
+  {
     "date": "2017-04-27",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -1403,7 +1420,7 @@
       }
     ]
   },
-    {
+  {
     "date": "2016-04-27",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -1416,7 +1433,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "SportChef: The RSA JSON Web Key should persist server restarts",
@@ -1445,7 +1462,7 @@
         "title": "How to find us",
         "url": "https://www.google.com/maps?f=q&hl=en&q=Aleja+Grunwaldzka+472b,+Gdansk,+pl"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "Hazelcast: Optimised type conversion in queries",
@@ -1536,7 +1553,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "groovyFX: PR #38",
@@ -1626,7 +1643,7 @@
       }
     ]
   },
- {
+  {
     "date": "2016-02-25",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -1639,7 +1656,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "Groja incarnation, a Groovy Java Jointcompiler",
@@ -1771,7 +1788,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "Canoo Radio: Fixed localhost Stream-URL",
@@ -1833,7 +1850,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "Canoo Radio: Allow voting on current song",
@@ -1969,7 +1986,7 @@
       }
     ]
   },
-   {
+  {
     "date": "2015-10-22",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -1982,7 +1999,7 @@
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
-      ],
+    ],
     "achievements": [
       {
         "title": "SportChef: Evaluation of Google Polymer",
@@ -2289,15 +2306,15 @@
     ]
   },
   {
-     "date": "2015-04-29",
-     "location": "Zürich, Switzerland",
-     "title": "looking for a location",
-     "links": [
-         {
-            "title": "Meetup",
-            "url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/"
-         }
-     ]
+    "date": "2015-04-29",
+    "location": "Zürich, Switzerland",
+    "title": "looking for a location",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/"
+      }
+    ]
   },
   {
     "date": "2015-04-24",
@@ -2308,7 +2325,7 @@
     ]
   },
 
-    {
+  {
     "date": "2015-04-23",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
