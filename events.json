@@ -1,5 +1,22 @@
 [
-    {
+  {
+    "date": "2017-09-07",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/241787765/"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-08-29",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -47,6 +64,34 @@
       }
     ],
     "achievements": [
+      {
+        "title": "Use Electron for Single Page Applications",
+        "url": "https://bitbucket.org/thomasstauffer666/crow/src"
+      },
+      {
+        "title": "TicTacChallenge: Implementing Explore Mode",
+        "url": "https://github.com/K2InformaticsGmbH/egambo"
+      },
+      {
+        "title": "TicTacChallenge: Using JSON over TCP",
+        "url": "https://github.com/K2InformaticsGmbH/egambo/commit/7d7116f33c1afb84738a640c197a967f9a4e9b98"
+      },
+      {
+        "title": "JDK 9 split package analysis tool: Add Travis Build",
+        "url": "https://github.com/reinhapa/jsplitpkgscan/commit/6418593e8c9b40d45929784245e7ce174a904411"
+      },
+      {
+        "title": "JDK 9 split package analysis tool: Upgrade Gradle and Remove Kill Switch",
+        "url": "https://github.com/reinhapa/jsplitpkgscan/commit/5624aa6d3fad1fb1db039e2da453cc2c6ec3227e"
+      },
+      {
+        "title": "Komunumo: GitHub Organization and Project Setup",
+        "url": "https://github.com/komunumo"
+      },
+      {
+        "title": "Komunumo: Design Project Logo",
+        "url": "https://github.com/komunumo/komunumo-website/issues/1"
+      }
     ]
   },
   {
