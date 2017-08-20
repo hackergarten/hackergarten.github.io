@@ -1,5 +1,22 @@
 [
   {
+    "date": "2017-10-10",
+    "location": "Bern, Switzerland",
+    "title": "SBB Office, Haslerstrasse 30, Bern",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/241663103/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+      }
+    ],
+    "achievements": []
+  },
+  
+  {
     "date": "2017-09-07",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
@@ -47,7 +64,20 @@
         "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
       }
     ],
-    "achievements": []
+    "achievements": [
+    {
+        "title": "Implement basic event management in komunumo",
+        "url": "https://github.com/komunumo/komunumo-backend/issues/5"
+    },
+      {
+        "title": "Tool for showing who commited most to a file in git",
+        "url": "https://github.com/ehmkah/git_pie"
+    },
+      {
+        "title": "Upgrading dbUp to new .net Framework (unfortunately unfinished)",
+        "url": "https://github.com/DbUp"
+    }
+    ]
   },
   {
     "date": "2017-08-03",
