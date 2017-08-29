@@ -47,6 +47,10 @@
       }
     ],
     "achievements": [
+        {
+        "title": "HackADoc: create fork of hackmd.io to use AsciiDoctor instead of MarkDown",
+        "url": "https://github.com/hackergarten/hackadoc/"
+    }
     ]
   },
   {
