@@ -16,6 +16,22 @@
     "achievements": []
   },
   {
+    "date": "2017-09-26",
+    "location": "Lausanne, Switzerland",
+    "title": "Pix4D Office, EPFL Innovation Park, Building F",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Lausanne-Hackergarten/events/243079383/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://goo.gl/maps/28MW7ykBsCF2"
+      }
+    ],
+    "achievements": []
+  },
+  {
      "date": "2017-09-27",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
