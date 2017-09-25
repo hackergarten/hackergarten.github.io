@@ -16,6 +16,22 @@
     "achievements": []
   },
   {
+    "date": "2017-09-30",
+    "location": "Wroclaw, Poland",
+    "title": "Luxoft Office, pl. Konstytucji 3 Maja 3, Wroclaw",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/pl-PL/LTS-Logeek-Night-Wroclaw/events/243487038/"
+      },
+      {
+        "title": "Registration form",
+        "url": "https://career.luxoft.com/lp/hackergarten-wroclaw-2017/"
+      }
+    ],
+    "achievements": []
+  },
+  {
     "date": "2017-09-26",
     "location": "Lausanne, Switzerland",
     "title": "Pix4D Office, EPFL Innovation Park, Building F",
@@ -47,7 +63,7 @@
     ],
     "achievements": []
   },
-  
+
   {
     "date": "2017-09-07",
     "location": "Lucerne, Switzerland",
