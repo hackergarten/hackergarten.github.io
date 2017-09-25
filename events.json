@@ -16,6 +16,18 @@
     "achievements": []
   },
   {
+    "date": "2017-10-02",
+    "location": "San Francisco, USA",
+    "title": "JavaOne",
+    "links": [
+      {
+        "title": "Schedule",
+        "url": "https://community.oracle.com/docs/DOC-1017340"
+      }
+    ],
+    "achievements": []
+  },
+  {
     "date": "2017-09-30",
     "location": "Wroclaw, Poland",
     "title": "Luxoft Office, pl. Konstytucji 3 Maja 3, Wroclaw",
