@@ -10,7 +10,6 @@ cache:
 before_script:
   - npm install
   - npm install -g gulp-cli
-  - npm install gulp
 script: gulp
 after_success: ./deploy.sh
 
