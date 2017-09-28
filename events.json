@@ -73,7 +73,12 @@
         "url": "http://www.canoo.com/service/contact/?l=en"
       }
     ],
-    "achievements": []
+    "achievements": [
+            { "title": "HackADoc: Improve readme", "url": "https://github.com/hackergarten/hackadoc/pull/8"},
+      { "title": "HackADoc: Fix 'piublish' functionality", "url": "https://github.com/hackergarten/hackadoc/pull/9"},
+      { "title": "HackADoc: Use AsciiDoc title as document title", "url": "https://github.com/hackergarten/hackadoc/pull/12"},
+            { "title": "HackADoc: adopt cheatsheet for adoc", "url": "https://github.com/hackergarten/hackadoc/pull/13"},
+                     {},{}]
   },
 
   {
