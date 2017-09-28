@@ -44,6 +44,47 @@
     "achievements": []
   },
   {
+    "date": "2017-09-27",
+    "location": "Basel, Switzerland",
+    "title": "Canoo Office",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/243275544/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "HackADoc: Improve readme",
+        "url": "https://github.com/hackergarten/hackadoc/pull/8"
+      },
+      {
+        "title": "HackADoc: Fix 'piublish' functionality",
+        "url": "https://github.com/hackergarten/hackadoc/pull/9"
+      },
+      {
+        "title": "HackADoc: Use AsciiDoc title as document title",
+        "url": "https://github.com/hackergarten/hackadoc/pull/12"
+      },
+      {
+        "title": "HackADoc: adopt cheatsheet for adoc",
+        "url": "https://github.com/hackergarten/hackadoc/pull/13"
+      },
+      {
+        "title": "Release of asciidoctor-gradle-plugin",
+        "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/"
+      },
+      {
+        "title": "Some work on naum",
+        "url": "https://github.com/aalmiray/naum/"
+      }
+    ]
+  },
+  {
     "date": "2017-09-26",
     "location": "Lausanne, Switzerland",
     "title": "Pix4D Office, EPFL Innovation Park, Building F",
@@ -59,28 +100,6 @@
     ],
     "achievements": []
   },
-  {
-     "date": "2017-09-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/243275544/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-            { "title": "HackADoc: Improve readme", "url": "https://github.com/hackergarten/hackadoc/pull/8"},
-      { "title": "HackADoc: Fix 'piublish' functionality", "url": "https://github.com/hackergarten/hackadoc/pull/9"},
-      { "title": "HackADoc: Use AsciiDoc title as document title", "url": "https://github.com/hackergarten/hackadoc/pull/12"},
-            { "title": "HackADoc: adopt cheatsheet for adoc", "url": "https://github.com/hackergarten/hackadoc/pull/13"},
-                     {},{}]
-  },
-
   {
     "date": "2017-09-07",
     "location": "Lucerne, Switzerland",
@@ -113,10 +132,10 @@
       }
     ],
     "achievements": [
-        {
+      {
         "title": "HackADoc: create fork of hackmd.io to use AsciiDoctor instead of MarkDown",
         "url": "https://github.com/hackergarten/hackadoc/"
-    }
+      }
     ]
   },
   {
@@ -134,18 +153,18 @@
       }
     ],
     "achievements": [
-    {
+      {
         "title": "Implement basic event management in komunumo",
         "url": "https://github.com/komunumo/komunumo-backend/issues/5"
-    },
+      },
       {
         "title": "Tool for showing who commited most to a file in git",
         "url": "https://github.com/ehmkah/git_pie"
-    },
+      },
       {
         "title": "Upgrading dbUp to new .net Framework (unfortunately unfinished)",
         "url": "https://github.com/DbUp"
-    }
+      }
     ]
   },
   {
@@ -543,9 +562,18 @@
       }
     ],
     "achievements": [
-      {"title": "Add tests to JCTools", "url": "https://github.com/JCTools/JCTools/pull/158"},
-      {"title": "CORS ", "url": "https://github.com/AdamBien/cors/pull/1" },
-      {"title": "Slightly improve Asciidoctor-Diagram Documentation","url": "https://github.com/asciidoctor/asciidoctor.org/pull/659"}
+      {
+        "title": "Add tests to JCTools",
+        "url": "https://github.com/JCTools/JCTools/pull/158"
+      },
+      {
+        "title": "CORS ",
+        "url": "https://github.com/AdamBien/cors/pull/1"
+      },
+      {
+        "title": "Slightly improve Asciidoctor-Diagram Documentation",
+        "url": "https://github.com/asciidoctor/asciidoctor.org/pull/659"
+      }
     ]
   },
   {
@@ -1100,7 +1128,7 @@
         "url": "https://github.com/K2InformaticsGmbH/dderl"
       },
       {
-        "title" : "rtc2git: Prototyping of a possible issue solution",
+        "title": "rtc2git: Prototyping of a possible issue solution",
         "url": "https://github.com/rtcTo/rtc2git/issues/97#issuecomment-252084138"
       },
       {
@@ -2381,7 +2409,8 @@
     "links": [
       {
         "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"},
+        "url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"
+      },
       {
         "title": "where is Canoo Office",
         "url": "http://www.canoo.com/service/contact/?l=en"
@@ -2482,10 +2511,12 @@
     "location": "Bangalore, India",
     "title": "GIDS 2015",
     "links": [
-      {"title": "GIDS Schedule", "url": "http://www.developermarch.com/developersummit/conference.html"}
+      {
+        "title": "GIDS Schedule",
+        "url": "http://www.developermarch.com/developersummit/conference.html"
+      }
     ]
   },
-
   {
     "date": "2015-04-23",
     "location": "Basel, Switzerland",
