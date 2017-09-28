@@ -44,22 +44,6 @@
     "achievements": []
   },
   {
-    "date": "2017-09-26",
-    "location": "Lausanne, Switzerland",
-    "title": "Pix4D Office, EPFL Innovation Park, Building F",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Lausanne-Hackergarten/events/243079383/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://goo.gl/maps/28MW7ykBsCF2"
-      }
-    ],
-    "achievements": []
-  },
-  {
      "date": "2017-09-27",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
@@ -78,9 +62,24 @@
       { "title": "HackADoc: Fix 'piublish' functionality", "url": "https://github.com/hackergarten/hackadoc/pull/9"},
       { "title": "HackADoc: Use AsciiDoc title as document title", "url": "https://github.com/hackergarten/hackadoc/pull/12"},
             { "title": "HackADoc: adopt cheatsheet for adoc", "url": "https://github.com/hackergarten/hackadoc/pull/13"},
-                     {},{}]
+                     { "title": "Release of asciidoctor-gradle-plugin", "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/"},{ "title": "Some work on naum", "url": "url": "https://github.com/aalmiray/naum/"}]
   },
-
+  {
+    "date": "2017-09-26",
+    "location": "Lausanne, Switzerland",
+    "title": "Pix4D Office, EPFL Innovation Park, Building F",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Lausanne-Hackergarten/events/243079383/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://goo.gl/maps/28MW7ykBsCF2"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2017-09-07",
     "location": "Lucerne, Switzerland",
