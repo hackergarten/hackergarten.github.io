@@ -98,7 +98,24 @@
         "url": "https://goo.gl/maps/28MW7ykBsCF2"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "Mickaël and Nolan worked on starting a JS wrapper around the Swiss opendata API",
+        "url": "https://github.com/nolanrigo/swiss-transport"
+      },
+      {
+        "title": "James and Tom worked on continuing to bootstrap aws_companion",
+        "url": "https://github.com/gbataille/aws_companion"
+      },
+      {
+        "title": "Ieva, Petar and Greg worked on trying to understand why multiprocessing would fail in certain GDAL builds",
+        "url": "https://travis-ci.org/OSGeo/gdal/builds/278755009"
+      },
+      {
+        "title": "Marco and David worked on adding platform independent inotify-like beacon to Salt",
+        "url": ""
+      }
+    ]
   },
   {
     "date": "2017-09-07",
