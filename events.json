@@ -75,12 +75,12 @@
         "url": "https://github.com/hackergarten/hackadoc/pull/13"
       },
       {
-        "title": "Release of asciidoctor-gradle-plugin",
+        "title": "asciidoctor-gradle-plugin: release version 1.5.6",
         "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/"
       },
       {
-        "title": "Some work on naum",
-        "url": "https://github.com/aalmiray/naum/"
+        "title": "Jdeferred: reworked PR for Cancelable callbacks",
+        "url": "https://github.com/jdeferred/jdeferred/pull/123"
       }
     ]
   },
