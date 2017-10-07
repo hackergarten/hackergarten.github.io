@@ -1,5 +1,22 @@
 [
   {
+    "date": "2017-11-02",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [
+      {
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglywpbdb"
+      },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": [
+    ]
+  },
+  {
     "date": "2017-10-10",
     "location": "Bern, Switzerland",
     "title": "SBB Office, Haslerstrasse 30, Bern",
@@ -14,23 +31,6 @@
       }
     ],
     "achievements": []
-  },
-  {
-    "date": "2017-09-05",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglywnbhb"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-    ]
   },
   {
     "date": "2017-10-02",
