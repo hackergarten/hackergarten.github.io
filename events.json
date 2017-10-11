@@ -30,7 +30,24 @@
         "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
       }
     ],
-    "achievements": []
+    "achievements": [
+      {
+        "title": "ngx-translate: translation improvement",
+        "url": "https://github.com/ngx-translate/core/pull/701"
+      },
+      {
+        "title": "sweet-junit-runner: support naming pattern (Issue #6)",
+        "url": "https://github.com/jlupi/sweet-junit-runner/pull/10"
+      },
+      {
+        "title": "Jacoco: Filter for Groovy generated methods",
+        "url": "https://github.com/jacoco/jacoco/pull/610"
+      },
+      {
+        "title": "MyTree: Project started - image recognition PoC",
+        "url": "https://github.com/syzer/MyTree/blob/master/readme.md"
+      }
+    ]
   },
   {
     "date": "2017-10-02",
