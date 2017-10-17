@@ -1,3408 +1,2957 @@
-[
-  {
-    "date": "2017-12-07",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/preview/Hackergarten-Basel/events/244280426"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      },
-       "achievements": [
-    ]
-    ],
-  },
-  {
-    "date": "2017-11-09",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/preview/Hackergarten-Basel/events/244280320"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      },
-       "achievements": [
-    ]
-    ],
-  },
-  {
-    "date": "2017-11-02",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglywpbdb"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-10-10",
-    "location": "Bern, Switzerland",
-    "title": "SBB Office, Haslerstrasse 30, Bern",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/241663103/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "ngx-translate: translation improvement",
-        "url": "https://github.com/ngx-translate/core/pull/701"
-      },
-      {
-        "title": "sweet-junit-runner: support naming pattern (Issue #6)",
-        "url": "https://github.com/jlupi/sweet-junit-runner/pull/10"
-      },
-      {
-        "title": "Jacoco: Filter for Groovy generated methods",
-        "url": "https://github.com/jacoco/jacoco/pull/610"
-      },
-      {
-        "title": "MyTree: Project started - image recognition PoC",
-        "url": "https://github.com/syzer/MyTree/blob/master/readme.md"
-      }
-    ]
-  },
-  {
-    "date": "2017-10-02",
-    "location": "San Francisco, USA",
-    "title": "JavaOne",
-    "links": [
-      {
-        "title": "Schedule",
-        "url": "https://community.oracle.com/docs/DOC-1017340"
-      }
-    ],
-    "achievements": []
-  },
-  {
-    "date": "2017-09-30",
-    "location": "Wroclaw, Poland",
-    "title": "Luxoft Office, pl. Konstytucji 3 Maja 3, Wroclaw",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/pl-PL/LTS-Logeek-Night-Wroclaw/events/243487038/"
-      },
-      {
-        "title": "Registration form",
-        "url": "https://career.luxoft.com/lp/hackergarten-wroclaw-2017/"
-      }
-    ],
-    "achievements": []
-  },
-  {
-    "date": "2017-09-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/243275544/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "HackADoc: Improve readme",
-        "url": "https://github.com/hackergarten/hackadoc/pull/8"
-      },
-      {
-        "title": "HackADoc: Fix 'piublish' functionality",
-        "url": "https://github.com/hackergarten/hackadoc/pull/9"
-      },
-      {
-        "title": "HackADoc: Use AsciiDoc title as document title",
-        "url": "https://github.com/hackergarten/hackadoc/pull/12"
-      },
-      {
-        "title": "HackADoc: adopt cheatsheet for adoc",
-        "url": "https://github.com/hackergarten/hackadoc/pull/13"
-      },
-      {
-        "title": "asciidoctor-gradle-plugin: release version 1.5.6",
-        "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/"
-      },
-      {
-        "title": "Jdeferred: reworked PR for Cancelable callbacks",
-        "url": "https://github.com/jdeferred/jdeferred/pull/123"
-      }
-    ]
-  },
-  {
-    "date": "2017-09-26",
-    "location": "Lausanne, Switzerland",
-    "title": "Pix4D Office, EPFL Innovation Park, Building F",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Lausanne-Hackergarten/events/243079383/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://goo.gl/maps/28MW7ykBsCF2"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Mickaël and Nolan worked on starting a JS wrapper around the Swiss opendata API",
-        "url": "https://github.com/nolanrigo/swiss-transport"
-      },
-      {
-        "title": "James and Tom worked on continuing to bootstrap aws_companion",
-        "url": "https://github.com/gbataille/aws_companion"
-      },
-      {
-        "title": "Ieva, Petar and Greg worked on trying to understand why multiprocessing would fail in certain GDAL builds",
-        "url": "https://travis-ci.org/OSGeo/gdal/builds/278755009"
-      },
-      {
-        "title": "Marco and David worked on adding platform independent inotify-like beacon to Salt",
-        "url": ""
-      }
-    ]
-  },
-  {
-    "date": "2017-09-07",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/241787765/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-08-29",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Basel/events/242561179/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "HackADoc: create fork of hackmd.io to use AsciiDoctor instead of MarkDown",
-        "url": "https://github.com/hackergarten/hackadoc/"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-08",
-    "location": "Bern, Switzerland",
-    "title": "SBB Office, Haslerstrasse 30, Bern",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/240752468/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Implement basic event management in komunumo",
-        "url": "https://github.com/komunumo/komunumo-backend/issues/5"
-      },
-      {
-        "title": "Tool for showing who commited most to a file in git",
-        "url": "https://github.com/ehmkah/git_pie"
-      },
-      {
-        "title": "Upgrading dbUp to new .net Framework (unfortunately unfinished)",
-        "url": "https://github.com/DbUp"
-      }
-    ]
-  },
-  {
-    "date": "2017-08-03",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/241448406/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Use Electron for Single Page Applications",
-        "url": "https://bitbucket.org/thomasstauffer666/crow/src"
-      },
-      {
-        "title": "TicTacChallenge: Implementing Explore Mode",
-        "url": "https://github.com/K2InformaticsGmbH/egambo"
-      },
-      {
-        "title": "TicTacChallenge: Using JSON over TCP",
-        "url": "https://github.com/K2InformaticsGmbH/egambo/commit/7d7116f33c1afb84738a640c197a967f9a4e9b98"
-      },
-      {
-        "title": "JDK 9 split package analysis tool: Add Travis Build",
-        "url": "https://github.com/reinhapa/jsplitpkgscan/commit/6418593e8c9b40d45929784245e7ce174a904411"
-      },
-      {
-        "title": "JDK 9 split package analysis tool: Upgrade Gradle and Remove Kill Switch",
-        "url": "https://github.com/reinhapa/jsplitpkgscan/commit/5624aa6d3fad1fb1db039e2da453cc2c6ec3227e"
-      },
-      {
-        "title": "Komunumo: GitHub Organization and Project Setup",
-        "url": "https://github.com/komunumo"
-      },
-      {
-        "title": "Komunumo: Design Project Logo",
-        "url": "https://github.com/komunumo/komunumo-website/issues/1"
-      }
-    ]
-  },
-  {
-    "date": "2017-07-19",
-    "location": "Stuttgart, Germany",
-    "title": "tbd",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-07-06",
-    "location": "Stuttgart, Germany",
-    "title": "JavaForum Stuttgart",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241086075/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://maps.google.com/maps?f=q&hl=en&q=Berliner+Platz+1-3%2C+Stuttgart%2C+de"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-07-06",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/240462846/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-06-29",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Basel/events/240732461/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-06-21",
-    "location": "Krakow, Poland",
-    "title": "Devoxx PL",
-    "links": [
-      {
-        "title": "Schedule",
-        "url": "http://cfp.devoxx.pl/2017/talk/BUR-6513/Hackergarten"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "jdeferred: Handle multiple results with type safety",
-        "url": "https://github.com/jdeferred/jdeferred/pull/116"
-      },
-      {
-        "title": "jdeps-gradle-plugin: Configure external report file",
-        "url": "https://github.com/aalmiray/jdeps-gradle-plugin/pull/2"
-      },
-      {
-        "title": "jdeps-gradle-plugin: Released version 0.2.0",
-        "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
-      },
-      {
-        "title": "griffon: GenerateBom task should create a valid POM per Maven Central's requirements",
-        "url": "https://github.com/griffon/griffon/issues/238"
-      }
-    ]
-  },
-  {
-    "date": "2017-06-13",
-    "location": "Dortmund, Germany",
-    "title": "Codecentric / the black frame",
-    "links": [
-      {
-        "title": "Hackergarten",
-        "url": "https://www.xing.com/events/hackergarten-juni-1817832"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-06-13",
-    "location": "Bern, Switzerland",
-    "title": "SBB Office, Haslerstrasse 30, Bern",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/cpzqxmywjbrb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Tested that TODO are shown correctly in asciidoctory-intelliJ Plugin",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37"
-      },
-      {
-        "title": "Resolved compilation errors and tests for jdeferred",
-        "url": "https://github.com/aalmiray/jdeferred/pull/3"
-      },
-      {
-        "title": "Improved documentation for asciidoctor-gradle-plugin",
-        "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197"
-      }
-    ]
-  },
-  {
-    "date": "2017-06-01",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/239815593/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-05-31",
-    "location": "Copenhagen, Denmark",
-    "title": "Gr8conf EU",
-    "links": [
-      {
-        "title": "Hackergarten on Tour",
-        "url": "http://gr8conf.eu/#/talks"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-05-18",
-    "location": "Tokyo, Japan",
-    "title": "Oracle Code Tokyo 2017",
-    "links": [
-      {
-        "title": "Hackergarten on Tour",
-        "url": "https://developer.oracle.com/code/tokyo"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-05-17",
-    "location": "Tokyo, Japan",
-    "title": "Java Day Tokyo 2017",
-    "links": [
-      {
-        "title": "Hackergarten on Tour",
-        "url": "http://www.oracle.co.jp/events/javaday/2017/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "jdeps-gradle-plugin: initial release",
-        "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
-      }
-    ]
-  },
-  {
-    "date": "2017-05-04",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/239034003/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-04-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Basel/events/239099816/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2017-04-20",
-    "location": "Bern, Switzerland",
-    "title": "SBB Office, Haslerstrasse 30, Bern",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Bern/events/239065807/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Opensourced sweet-junit - allows dynamically loading test classes into junit suites",
-        "url": "https://github.com/jlupi/sweet-junit-runner"
-      },
-      {
-        "title": "Researching howto export kotlin static source-code result into sonar-cube",
-        "url": "https://github.com/arturbosch/detekt/issues/21"
-      },
-      {
-        "title": "Working on Jacoco terminal integration",
-        "url": "https://github.com/jacoco/jacoco"
-      }
-    ]
-  },
-  {
-    "date": "2017-04-06",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/237671024/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Logback: New logic to get JDK version",
-        "url": "https://github.com/qos-ch/logback/pull/371"
-      },
-      {
-        "title": "Electronic Game Board: Game web API",
-        "url": "https://github.com/K2InformaticsGmbH/egambo/issues/5"
-      },
-      {
-        "title": "Robotics Hardware Programming: Adding trim",
-        "url": "https://github.com/Robo4J/robo4j/commit/2c049393c238d27f681817e18d84afba32313d78"
-      },
-      {
-        "title": "Robotics Hardware Programming: Better settings",
-        "url": "https://github.com/Robo4J/robo4j/commit/f348048dee0da2d16b184047bd68f512b1d2cb72"
-      },
-      {
-        "title": "Gradle: Making Gradle run on JDK 9",
-        "url": "https://github.com/gradle/gradle"
-      },
-      {
-        "title": "Carrental: Angular 2 and Java EE starting point project",
-        "url": "https://github.com/Angular2Guy/Angular2AndJavaEE"
-      },
-      {
-        "title": "SportChef: Configuring new production servers (own Docker Swarm)",
-        "url": "https://github.com/McPringle/sportchef"
-      },
-      {
-        "title": "JBake Gradle Plugin: Upgrade to latest Gradle wrapper",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/87e4ee19dcf4f541c259d5397c8198d14138cc5d"
-      },
-      {
-        "title": "JBake Gradle Plugin: Update project dependencies ",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/091e53d880521f8e633c4e1e824d9bb9b3e30d86"
-      },
-      {
-        "title": "JBake Gradle Plugin: Refactor build settings",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/c93331a0b2d762f81ee99056a8853b52c038103f"
-      },
-      {
-        "title": "JBake Gradle Plugin: Update license headers",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/e6e5ab90e4740f21fdca50f9c8525be1836173e4"
-      },
-      {
-        "title": "JBake Gradle Plugin:  Change plugin id to 'org.jbake.site'. Related to #21",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/237fd5afbddccf71dff9fd0ef9ee1ddb438b8cb4"
-      },
-      {
-        "title": "Eclipse Git Plugin: initial multi repo fetch logic",
-        "url": "https://github.com/loetscher/egit/commit/31f5f6bfb3169d11b5e08e58c70fe4e9f5f179b1"
-      },
-      {
-        "title": "Eclipse Git Plugin: CCE and NPE fixed",
-        "url": "https://github.com/loetscher/egit/commit/3d5b405971e5703029c2066eaa50997e3257a2c8"
-      }
-    ]
-  },
-  {
-    "date": "2017-03-23",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/238408886/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Add tests to JCTools",
-        "url": "https://github.com/JCTools/JCTools/pull/158"
-      },
-      {
-        "title": "CORS ",
-        "url": "https://github.com/AdamBien/cors/pull/1"
-      },
-      {
-        "title": "Slightly improve Asciidoctor-Diagram Documentation",
-        "url": "https://github.com/asciidoctor/asciidoctor.org/pull/659"
-      }
-    ]
-  },
-  {
-    "date": "2017-03-02",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/237413237/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Robotics Hardware Programming: Cleaning up imports",
-        "url": "https://github.com/Robo4J/robo4j/pull/1"
-      },
-      {
-        "title": "Robotics Hardware Programming: added colors in LCD mock",
-        "url": "https://github.com/Robo4J/robo4j/pull/2"
-      },
-      {
-        "title": "JDK 9 split package analysis tool: better error message for a missing output dir",
-        "url": "https://github.com/AdoptOpenJDK/jsplitpkgscan/pull/2"
-      },
-      {
-        "title": "JDK 9 split package analysis tool: Adds ant fallback build file if gradle does not work",
-        "url": "https://github.com/AdoptOpenJDK/jsplitpkgscan/commit/60eff504bbd8609b3841692d1d6b237fb3dc1960"
-      },
-      {
-        "title": "Erlang in-memory database: add gen-server for tic-tac-challenge",
-        "url": "https://github.com/K2InformaticsGmbH/imem/commit/d84632910e300b1770cb1dba28d50743e19e489f"
-      }
-    ]
-  },
-  {
-    "date": "2017-02-07",
-    "location": "Stockholm, Sweden",
-    "title": "JFokus",
-    "links": [
-      {
-        "title": "Website",
-        "url": "https://www.jfokus.se/jfokus/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "JDeferred: Update gradle wrapper to 3.3",
-        "url": "https://github.com/jdeferred/jdeferred/pull/93"
-      },
-      {
-        "title": "JDeferred: Remove CancellablePromise",
-        "url": "https://github.com/jdeferred/jdeferred/pull/95"
-      },
-      {
-        "title": "Groovy: Support Generics with def",
-        "url": "https://issues.apache.org/jira/browse/GROOVY-7521"
-      },
-      {
-        "title": "Groovy: Anonymous class field initialized with an enclosing argument results in MissingPropertyException",
-        "url": "https://issues.apache.org/jira/browse/GROOVY-6996"
-      },
-      {
-        "title": "Groovy: Templating with bound variables that match class names lead to unexpected results",
-        "url": "https://issues.apache.org/jira/browse/GROOVY-7405"
-      },
-      {
-        "title": "Eclipse IDE: Allow sorting by declaration order",
-        "url": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=511906"
-      }
-    ]
-  },
-  {
-    "date": "2017-02-02",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/236458504/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Robotics Hardware Programming"
-      },
-      {
-        "title": "DDErl: Screensaver utilizing too much CPU",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/327"
-      },
-      {
-        "title": "DDErl: no scrollbars on edit sql",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/381"
-      },
-      {
-        "title": "asciidoctor-intellij-plugin: Work on PR",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
-      },
-      {
-        "title": "Moodini: Using Lagom for the backend",
-        "url": "http://github.com/McPringle/moodini"
-      },
-      {
-        "title": "Pong implementation using Lagom",
-        "url": "https://github.com/javaFunAgain/lagomPong"
-      },
-      {
-        "title": "Pong implementation using Ratpack",
-        "url": "https://github.com/javaFunAgain/ratpong"
-      },
-      {
-        "title": "Web Components Polymer Application Prototype",
-        "url": "https://github.com/ahodgkinson/wcpap"
-      }
-    ]
-  },
-  {
-    "date": "2017-01-26",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/236114893/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": []
-  },
-  {
-    "date": "2017-01-05",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/235825519/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Robotics Hardware Programming"
-      },
-      {
-        "title": "Web Components Polymer Application Prototype",
-        "url": "https://github.com/ahodgkinson/wcpap"
-      },
-      {
-        "title": "asciidoctor-intellij-plugin: Work on PR",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
-      },
-      {
-        "title": "SportChef: Designed the project website",
-        "url": "https://www.sportchef.ch/"
-      },
-      {
-        "title": "Moodini Clean Code Refactoring",
-        "url": "https://www.codacy.com/app/McPringle/moodini/dashboard"
-      }
-    ]
-  },
-  {
-    "date": "2016-12-06",
-    "location": "Bern, Switzerland",
-    "title": "SBB Office, Haslerstrasse 30, Bern",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Bern/events/235882541/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Frontend migration to microservice",
-        "url": "https://github.com/sportchef/sportchef-frontend/pull/1"
-      },
-      {
-        "title": "SportChef: Dockerized the frontend microservice",
-        "url": "https://github.com/sportchef/sportchef-frontend/commit/f2f93df8786a909c87367b89fd9e43d603e52cfd"
-      },
-      {
-        "title": "SportChef: Adding CI build with Travis",
-        "url": "https://github.com/sportchef/sportchef-frontend/commit/1bdea65dc5d607427dcf76ec16e6d7bfba68abc7"
-      },
-      {
-        "title": "Continuing fixing highlting monospace in asccidoctorJ plugin",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/161"
-      }
-    ]
-  },
-  {
-    "date": "2016-12-08",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/234993147/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "jbake-gradle-plugin: make bintray repo and organization configurable",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/4da8e72eb20fc8bb4bffcace4a2cda16fb9e2268"
-      },
-      {
-        "title": "jbake-gradle-plugin: added new template engines thymeleaf, jade4j and groovy MTE",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/4108e2be15e5248ec8a51e8d0ce69633f9f8edbe"
-      },
-      {
-        "title": "jbake-gradle-plugin: Add integrationtest using gradle TestKit",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/3a01a0916bfe2d3c7f86f9fddc3bc2f6c2e72e7d"
-      },
-      {
-        "title": "jbake-gradle-plugin: Conditionally include default repositories",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/b2457264f80e9c7abea3a772acf95f8e8032d157"
-      },
-      {
-        "title": "jbake-gradle-plugin: Activate jacoco and coveralls",
-        "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/c607ae3f63511124c2db23e28636a51411abd765"
-      },
-      {
-        "title": "griffon-ormlite-plugin: Upgrade to Ormlite 5.0 and release version 1.1.0",
-        "url": "https://github.com/griffon-plugins/griffon-ormlite-plugin/commit/06a5e8ae834ab916381b751a42dd550b16fda6b1"
-      }
-    ]
-  },
-  {
-    "date": "2016-12-08",
-    "location": "Paris, France",
-    "title": "Xebia",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Paris-Hackergarten/events/235761802/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps/place/156+Boulevard+Haussmann,+75008+Paris,+France/@48.8755587,2.3088289,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc7c0eb09d3:0x9b3b3b5b3007b596!8m2!3d48.8755587!4d2.3110176?hl=en"
-      }
-    ],
-    "achievements": []
-  },
-  {
-    "date": "2016-12-01",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvqbcb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "TestFX: Use Java8's Optional/Predicate/Function instead of Guava's",
-        "url": "https://github.com/TestFX/TestFX/pull/318"
-      },
-      {
-        "title": "TestFX: Add WindowMatchers class",
-        "url": "https://github.com/TestFX/TestFX/pull/284"
-      },
-      {
-        "title": "Ikonli: React to changes made to FontIcon.fill and FontIcon.font ",
-        "url": "https://github.com/aalmiray/ikonli/commit/f5f3b7b749ef7ae9d4abca532100907328abf55c"
-      },
-      {
-        "title": "Airomem: Typos in readme",
-        "url": "https://github.com/airomem/airomem/pull/10"
-      },
-      {
-        "title": "Asciidoctor IntelliJ Plugin: Implementing syntax highlighting for monospace with backticks",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
-      },
-      {
-        "title": "JMH Gradle Plugin: Update README to reflect a working code snipplet",
-        "url": "https://github.com/melix/jmh-gradle-plugin/pull/85"
-      }
-    ]
-  },
-  {
-    "date": "2016-11-15",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/234993108/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Needle4J configuration setting to control post construct",
-        "url": "https://github.com/needle4j/needle4j/issues/21"
-      },
-      {
-        "title": "SportChef integration tests with embedded Payara",
-        "url": "https://github.com/sportchef/sportchef-events/commit/84141fe10e1696b90a4168bded2ad85ca7863ed9"
-      },
-      {
-        "title": "jdeferred: move android test to right location and configure build to run it",
-        "url": "https://github.com/aalmiray/jdeferred/pull/2"
-      },
-      {
-        "title": "GROOVY-7997: fix long and BigInteger to BigDecimal conversion in method calls",
-        "url": "https://github.com/apache/groovy/commit/04f1e8636f98388dd04787b5b7028ea870aeef0b"
-      },
-      {
-        "title": "griffon: Add binding utilities",
-        "url": "https://github.com/griffon/griffon/commit/9d43488bdc51a689ad77a4e5075912d0097894c3"
-      },
-      {
-        "title": "basilisk: Add binding utilities",
-        "url": "https://github.com/basilisk-fw/basilisk/commit/52a663ebc992dea23390e05b91faed1020504e51"
-      },
-      {
-        "title": "gluonhq/maps: update gradle build",
-        "url": "https://github.com/gluonhq/maps/pull/6"
-      },
-      {
-        "title": "gluonhq/maps: FXML updates",
-        "url": "https://github.com/gluonhq/maps/pull/7"
-      },
-      {
-        "title": "update Dolphin Platform Spring Boot Lazybones Template to use version 0.8.8",
-        "url": "https://github.com/canoo/dolphin-platform-lazybones-templates/pull/4"
-      }
-    ]
-  },
-  {
-    "date": "2016-11-09",
-    "location": "Antwerp, Belgium",
-    "title": "Devoxx",
-    "links": [
-      {
-        "title": "Schedule",
-        "url": "https://devoxx.be/hackergarten/#tuesday"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "jdeferred: create initial gradle build layout",
-        "url": "https://github.com/aalmiray/jdeferred/commit/00b63f697b1092a74164e1102fbd5c82b85ff6a1"
-      },
-      {
-        "title": "jdeferred: added generating of pom files for .aar and .apklib builds in android subproject",
-        "url": "https://github.com/aalmiray/jdeferred/commit/0de50966fa5951e422666e6449da810ff4be5b1e"
-      }
-    ]
-  },
-  {
-    "date": "2016-11-03",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvpbfb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "OpenJDK 9 split package detection tool proposal",
-        "url": "https://github.com/reinhapa/jsplitpkgscan"
-      },
-      {
-        "title": "SportChef: Implement new design of login dialog",
-        "url": "https://github.com/McPringle/sportchef/issues/290"
-      },
-      {
-        "title": "SportChef: Use TLS (HTTPS) on sportchef.ch",
-        "url": "https://github.com/McPringle/sportchef/issues/283"
-      },
-      {
-        "title": "SportChef: Create the design of a project website",
-        "url": "https://github.com/McPringle/sportchef/issues/293"
-      },
-      {
-        "title": "Torch (Machine Learning Framework) Linear & Convolution written in plain C, usable for micro controllers",
-        "url": "https://github.com/syzer/ml-torch"
-      },
-      {
-        "title": "DDErl: Opening a saved view should stay inside the visible screen",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/97"
-      },
-      {
-        "title": "DDErl: Injection of application metrics into the monitoring chain defined"
-      },
-      {
-        "title": "DDErl: Started the definition of a Vagrant machine to make it easier to newcomers to start working on DDErl"
-      },
-      {
-        "title": "Worked through a Vagrant Tutorial"
-      }
-    ]
-  },
-  {
-    "date": "2016-11-02",
-    "location": "Casablanca, Morocco",
-    "title": "Devoxx MA",
-    "links": [
-      {
-        "title": "Program",
-        "url": "https://devoxx.ma/#program"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "jdferred: Added cancel capability to Promise.",
-        "url": "https://github.com/jdeferred/jdeferred/pull/81"
-      },
-      {
-        "title": "griffon: Artifact template name is not constraint ",
-        "url": "https://github.com/griffon/griffon/issues/176"
-      },
-      {
-        "title": "lazybones-templates: Upgrade gradle-quickstart template",
-        "url": "https://github.com/aalmiray/lazybones-template-collection/pull/8"
-      },
-      {
-        "title": "grpc-java-demos: Added better RxJava example",
-        "url": "https://github.com/saturnism/grpc-java-demos/commit/f8c95ab87df9356d97369077130659cbe0066a83"
-      },
-      {
-        "title": "javaee-security-spec: Rename LDap to Ldap",
-        "url": "https://github.com/javaee-security-spec/soteria/pull/19"
-      }
-    ]
-  },
-  {
-    "date": "2016-10-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/234772591/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Fixed broken AutoInstall",
-        "url": "https://github.com/McPringle/sportchef/commit/ed942d4e33896def8355ee2a58290256129aeaf0"
-      },
-      {
-        "title": "SportChef: Fixed duplicate imports",
-        "url": "https://github.com/McPringle/sportchef/commit/d08ce933e9cd86a3a05f7bda831736b7426c0732"
-      },
-      {
-        "title": "SportChef: Fixed date/time display format",
-        "url": "https://github.com/McPringle/sportchef/commit/55624dfc72c44f505b54cb1552eadaf58296628a"
-      },
-      {
-        "title": "Naum: set java version of idea project to 1.7",
-        "url": "https://github.com/aalmiray/naum/commit/73dd4378a666e19feb45add57f2a88feddcf697b"
-      },
-      {
-        "title": "Naum: add differ check for field values of final static fields",
-        "url": "https://github.com/aalmiray/naum/commit/e0b0759291fb3cb65688b6874626b05c74385561"
-      },
-      {
-        "title": "Naum: Merge remote-tracking branch 'origin/master' into annotationDiffer",
-        "url": "https://github.com/aalmiray/naum/commit/9aaa975ad6844e7152e47e9debae02ac85dbc8ef"
-      },
-      {
-        "title": "Naum: Add ci/coverage badges to readme",
-        "url": "https://github.com/aalmiray/naum/commit/dc45e347e38e4064f0fa23df54b6a171c6387bf9"
-      },
-      {
-        "title": "Naum: Enable aggregate code coverage reports",
-        "url": "https://github.com/aalmiray/naum/commit/4f39e15fb229ece4b0a815e4a4b87a2633653df4"
-      }
-    ]
-  },
-  {
-    "date": "2016-10-26",
-    "location": "Zurich, Switzerland",
-    "title": "Liip Office Zurich",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Zurich/events/234496644/"
-      },
-      {
-        "title": "where is the Liip Office",
-        "url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-10-06",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Luzern/events/233797179/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Added Docker Health Checks",
-        "url": "https://github.com/McPringle/sportchef/pull/289"
-      },
-      {
-        "title": "DDErl: Interface design",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "rtc2git: Prototyping of a possible issue solution",
-        "url": "https://github.com/rtcTo/rtc2git/issues/97#issuecomment-252084138"
-      },
-      {
-        "title": "Got BCI injection of JFR events to work",
-        "url": ""
-      },
-      {
-        "title": "Release Basilisk 0.3.0",
-        "url": "http://basilisk-user.1128066.n5.nabble.com/ANN-Basilisk-0-3-0-released-td40.html"
-      },
-      {
-        "title": "basilisk: build scripts don't work with gradle 3.1",
-        "url": "https://github.com/basilisk-fw/basilisk/issues/27"
-      },
-      {
-        "title": "basilisk: Explicitly identify MVC members and arguments in MVC artifacts",
-        "url": "https://github.com/basilisk-fw/basilisk/issues/28"
-      },
-      {
-        "title": "groovyfx: Grape examples appear to be incomplete ",
-        "url": "https://github.com/groovyfx-project/groovyfx/issues/42"
-      },
-      {
-        "title": "groovyfx: Running samples with JDK9 results in exception",
-        "url": "https://github.com/groovyfx-project/groovyfx/issues/52"
-      }
-    ]
-  },
-  {
-    "date": "2016-09-28",
-    "location": "Zurich, Switzerland",
-    "title": "Liip Office Zurich",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Zurich/events/233827030/"
-      },
-      {
-        "title": "where is the Liip Office",
-        "url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-09-28",
-    "location": "Stuttgart, Germany",
-    "title": "codecentric Office Stuttgart",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/233761648/"
-      },
-      {
-        "title": "where is the codecentric Office",
-        "url": "https://www.google.de/maps/place/Curiestraße+2,+70563+Stuttgart/@48.73781,9.1104113,17z"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-09-22",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/233558076"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "ldap-auth tests with in memory ldap server",
-        "url": "https://github.com/hackergarten/LdapAuth/pull/4"
-      }
-    ]
-  },
-  {
-    "date": "2016-09-19",
-    "location": "San Francisco, USA",
-    "title": "JavaOne",
-    "links": [
-      {
-        "title": "Schedule",
-        "url": "https://community.oracle.com/docs/DOC-997220"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-09-01",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvmbcb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "JDK 9: ClassLoader: add resource methods returning java.util.stream.Stream",
-        "url": "http://cr.openjdk.java.net/~reinhapa/reviews/8161230/webrev.00/"
-      },
-      {
-        "title": "DDErl: draggable legend for x-y-charts",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/commit/bd3ffa253ec80c92f07ebbcd4f6c2f71d627b18d"
-      },
-      {
-        "title": "SportChef: Switched from JUnit 4 to JUnit 5",
-        "url": "https://github.com/McPringle/sportchef"
-      },
-      {
-        "title": "SportChef: Corrected a problem with the data directory",
-        "url": "https://github.com/McPringle/sportchef"
-      },
-      {
-        "title": "SportChef: Designed the login dialog to look like the mockup",
-        "url": "https://github.com/McPringle/sportchef"
-      }
-    ]
-  },
-  {
-    "date": "2016-08-04",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/231301960/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "RFR: JDK-8161230 – Create Stream from Iterator/Enumeration",
-        "url": "http://mail.openjdk.java.net/pipermail/core-libs-dev/2016-August/042752.html"
-      },
-      {
-        "title": "Clojure Protobuf: Use directly built binaries (via protoc) for the tests",
-        "url": "https://github.com/arpagaus/clj-protobuf/commit/c5464fe2394dd058ed91d52f088b164197df0bc8"
-      },
-      {
-        "title": "5 wiring diagrams for Arduino basic research projects",
-        "url": "https://bitbucket.org/thomasstauffer666/arduino"
-      },
-      {
-        "title": "SportChef: New logo design and new logo font",
-        "url": "https://github.com/McPringle/sportchef/issues/286"
-      },
-      {
-        "title": "SportChef: Load custom imprint dynamically",
-        "url": "https://github.com/McPringle/sportchef/commit/de8092b33975cc0357fb0ccc7e4980a142fb6c93"
-      },
-      {
-        "title": "SportChef: Fix for header hiding parts of modal dialogs",
-        "url": "https://github.com/McPringle/sportchef/commit/b0c1c5e04e33690400604833200577af00e1004e"
-      }
-    ]
-  },
-  {
-    "date": "2016-07-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/232733494/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-07-07",
-    "location": "Stuttgart, Germany",
-    "title": "Java Forum Stuttgart",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/231738975/"
-      },
-      {
-        "title": "Conference Program",
-        "url": "http://www.java-forum-stuttgart.de/de/Programm.html"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Spock Tutorial",
-        "url": "https://spockframework.org"
-      },
-      {
-        "title": "Hackergarten Website RSS feed",
-        "url": "https://github.com/hackergarten/hackergarten.github.io/pull/86"
-      },
-      {
-        "title": "JSON Hacking"
-      }
-    ]
-  },
-  {
-    "date": "2016-07-07",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/231301960/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef deployment on GCE",
-        "url": "http://sportchef.ch"
-      },
-      {
-        "title": "DDerl unit test using karma and jasmin",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/tree/dder-refactor-modules"
-      },
-      {
-        "title": "JavaFX editor for Hackergarten Infrastructure",
-        "url": "https://github.com/reinhapa/eventeditor"
-      },
-      {
-        "title": "Java Flight Simulator Demo Code for Conference Talk"
-      },
-      {
-        "title": "DDErl: Created bar chart diagrams based on CSV query result",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "Pick up pictures from CouchDB Attachments and display on the mobile"
-      }
-    ]
-  },
-  {
-    "date": "2016-06-30",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/231793848/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-06-28",
-    "location": "São Paulo, Brazil",
-    "title": "Java One Brazil",
-    "links": [
-      {
-        "title": "June 28/29/30 at JavaHub",
-        "url": "https://www.oracle.com/br/en/javaone/java-hub.html#hackergarten"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-06-02",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/230485923/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Pong: Created a Pong game with Clojure"
-      },
-      {
-        "title": "DDErl: Created diagrams based on SQL results",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "Moodini: Implemented a RESTful JSON API",
-        "url": "https://github.com/McPringle/moodini"
-      }
-    ]
-  },
-  {
-    "date": "2016-06-01",
-    "location": "Copenhagen, Denmark",
-    "title": "Gr8conf EU",
-    "links": [
-      {
-        "title": "Hackergarten on Tour",
-        "url": "http://gr8conf.eu/#/talk/270"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-06-01",
-    "location": "Bern, Switzerland",
-    "title": "SBB",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Bern/events/231096131/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Moodini: Started a Mood Application project",
-        "url": "https://github.com/McPringle/moodini"
-      },
-      {
-        "title": "Babun: Hunting for bugs",
-        "url": "https://github.com/babun/babun"
-      }
-    ]
-  },
-  {
-    "date": "2016-05-26",
-    "location": "Sofia, Bulgaria",
-    "title": "JPrime",
-    "links": [
-      {
-        "title": "Conference Website",
-        "url": "http://jprime.io/"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-05-12",
-    "location": "Zurich, Switzerland",
-    "title": "ELCA Informatik AG",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/230563975/"
-      },
-      {
-        "title": "Where is ELCA Informatik AG?",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Birmersdorferstrasse+94,+Z%C3%BCrich,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "JUnit 5: Configure additional metadata on JAR manifest",
-        "url": "https://github.com/junit-team/junit5/pull/239"
-      },
-      {
-        "title": "JUnit 5: Gradle build revamp",
-        "url": "https://github.com/junit-team/junit5/pull/256"
-      },
-      {
-        "title": "SportChef: Get rid of Java EE dependency",
-        "url": "https://github.com/McPringle/sportchef/issues/270"
-      },
-      {
-        "title": "SportChef: Use Swagger to document our RESTful JSON API",
-        "url": "https://github.com/McPringle/sportchef/issues/275"
-      }
-    ]
-  },
-  {
-    "date": "2016-05-05",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvhbhb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "DDErl: D3.js graphics visualisation integration",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/233"
-      },
-      {
-        "title": "DDErl: Broken >| and ... icons",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/240"
-      },
-      {
-        "title": "SportChef: Create a design to add/edit/delete events",
-        "url": "https://github.com/McPringle/sportchef/issues/206"
-      },
-      {
-        "title": "SportChef: Design a user profile page",
-        "url": "https://github.com/McPringle/sportchef/issues/266"
-      },
-      {
-        "title": "SportChef: Change the color of the Logout button",
-        "url": "https://github.com/McPringle/sportchef/issues/268"
-      },
-      {
-        "title": "Integrate JUnit 5 Events into Java Flight Recorder"
-      },
-      {
-        "title": "JUnit 5: Configure additional metadata on JAR manifest",
-        "url": "https://github.com/junit-team/junit5/pull/239"
-      }
-    ]
-  },
-  {
-    "date": "2016-04-28",
-    "location": "Lugano, Switzerland",
-    "title": "Devoxx Days Ticino Hackergarten",
-    "links": [
-      {
-        "title": "Location USI - Room SI-008"
-      },
-      {
-        "title": "Announcement",
-        "url": "https://groups.google.com/forum/#!msg/juglugano/cYhpfg91tzY/Ren6E5vxIwAJ"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Alf.io: add logout functionality",
-        "url": "https://github.com/exteso/alf.io/pull/121"
-      },
-      {
-        "title": "jhm-gradle: fix multiple profiler support",
-        "url": "https://github.com/melix/jmh-gradle-plugin/commit/069a4ad12d9bbe9ba5c9eb1885d48ad0146a6889"
-      },
-      {
-        "title": "jmh-gradle: add JaCoCo configuration",
-        "url": "https://github.com/melix/jmh-gradle-plugin/commit/1e82f1c1b85f99ae1effef89f32a828a40fc0038"
-      },
-      {
-        "title": "jmh-gradle: add project badges to README",
-        "url": "https://github.com/melix/jmh-gradle-plugin/commit/72f6c7e9efcef53b9540cae8941dd6813e57dd74"
-      },
-      {
-        "title": "stats-gradle: handle more filey types; aggregate reports; make new 0.2.0 release",
-        "url": "https://github.com/aalmiray/stats-gradle-plugin"
-      }
-    ]
-  },
-  {
-    "date": "2016-04-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/230483837/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: The RSA JSON Web Key should persist server restarts",
-        "url": "https://github.com/McPringle/sportchef/issues/239"
-      },
-      {
-        "title": "SportChef: Add Authy Onetouch as Login Alternative",
-        "url": "https://github.com/McPringle/sportchef/issues/259"
-      },
-      {
-        "title": "SportChef: A user should be able to logout",
-        "url": "https://github.com/McPringle/sportchef/issues/260"
-      }
-    ]
-  },
-  {
-    "date": "2016-04-27",
-    "location": "Gdansk, Poland",
-    "title": "Nordea Market Capitals IT",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/230290254/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Aleja+Grunwaldzka+472b,+Gdansk,+pl"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Hazelcast: Optimised type conversion in queries",
-        "url": "https://github.com/hazelcast/hazelcast/pull/8034"
-      },
-      {
-        "title": "Hazelcast: Added caching to value conversion in predicates",
-        "url": "https://github.com/hazelcast/hazelcast/pull/8035"
-      },
-      {
-        "title": "Babun: fixed the build",
-        "url": "https://github.com/babun/babun/pull/616"
-      }
-    ]
-  },
-  {
-    "date": "2016-04-20",
-    "location": "Paris, France",
-    "title": "Devoxx FR",
-    "links": [
-      {
-        "title": "Activities @ Devoxx FR",
-        "url": "http://devoxx.fr/agenda/2016"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Upgrade gradle build on Json-lib",
-        "url": "https://github.com/aalmiray/json-lib"
-      },
-      {
-        "title": "Added stacked icon support",
-        "url": "https://github.com/aalmiray/ikonli"
-      }
-    ]
-  },
-  {
-    "date": "2016-04-07",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvgbkb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "JUnit Compat Library: New release on Maven Central",
-        "url": "http://search.maven.org/#artifactdetails%7Cnet.reini%7Cjunit-compat%7C1.1.0%7Cjar"
-      },
-      {
-        "title": "DDerl: Fixed a bug in the SQL engine",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/pull/199"
-      },
-      {
-        "title": "DDerl: Fixed session timeout bug on login page",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/pull/197"
-      },
-      {
-        "title": "DDerl: Fixed a bug with drag and drop column reordering",
-        "url": "https://github.com/K2InformaticsGmbH/dderl/issues/192"
-      },
-      {
-        "title": "SportChef: Fixed build problem with old Maven version",
-        "url": "https://github.com/McPringle/sportchef/pull/242"
-      },
-      {
-        "title": "SportChef: Create snapshots of persistence store on server shutdown",
-        "url": "https://github.com/McPringle/sportchef/issues/244"
-      }
-    ]
-  },
-  {
-    "date": "2016-03-31",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/229280644/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "groovyFX: PR #38",
-        "url": "https://github.com/groovyfx-project/groovyfx/pull/38"
-      },
-      {
-        "title": "asciidoctorj-screenshot: Version 0.1.0 released",
-        "url": "https://github.com/sclassen/asciidoctorj-screenshot"
-      },
-      {
-        "title": "Lazybones Template for Dolphin Platform released",
-        "url": "https://github.com/canoo/dolphin-platform-lazybones-templates"
-      }
-    ]
-  },
-  {
-    "date": "2016-03-08",
-    "location": "JavaLand Conference, Phantasialand, Brühl/Köln, Germany",
-    "title": "Javaland",
-    "links": [
-      {
-        "title": "Javaland Program, see 'Early Adopters Area'",
-        "url": "http://www.javaland.eu/de/programm/community-aktivitaeten/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "jmh-gradle-plugin: merged PR #57",
-        "url": "https://github.com/melix/jmh-gradle-plugin/pull/57"
-      },
-      {
-        "title": "jmh-gradle-plugin: prepared release 0.3.0",
-        "url": "https://twitter.com/CedricChampeau/status/707482041466667008"
-      },
-      {
-        "title": "groovyfx: Move most metaclass enhancements to groovy module. Fixes #36",
-        "url": "https://github.com/groovyfx-project/groovyfx/commit/f3d0291a61e9a773cbc78e21d95d4134f398b9f2"
-      },
-      {
-        "title": "asciidoctor-gradle-org: PR #184 Use Asciidoctor.requireLibraries()",
-        "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/pull/184"
-      },
-      {
-        "title": "jbake: PR #269 Enable gemPath and requires properties on Asciidoctor",
-        "url": "https://github.com/jbake-org/jbake/pull/269"
-      }
-    ]
-  },
-  {
-    "date": "2016-03-03",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvfbfb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "DDerl: Authentication Logger",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "JEP 275: Modular Java Application Packaging",
-        "url": "http://openjdk.java.net/jeps/275"
-      },
-      {
-        "title": "SportChef: Create the design for the login dialog",
-        "url": "https://github.com/McPringle/sportchef/issues/147"
-      },
-      {
-        "title": "SportChef: Enhancing code readability",
-        "url": "https://github.com/McPringle/sportchef/pull/192"
-      },
-      {
-        "title": "SportChef: Write tests for the EventRepository",
-        "url": "https://github.com/McPringle/sportchef/issues/187"
-      },
-      {
-        "title": "SportChef: Use a date picker component for the event date",
-        "url": "https://github.com/McPringle/sportchef/issues/115"
-      }
-    ]
-  },
-  {
-    "date": "2016-02-25",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/228425406/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Groja incarnation, a Groovy Java Jointcompiler",
-        "url": "https://github.com/blackdrag/Groja"
-      },
-      {
-        "title": "SportChef: Fixed problems with wrong data directory",
-        "url": "https://github.com/McPringle/sportchef/pull/175"
-      },
-      {
-        "title": "SportChef: Extending Unit Tests for AJAX Uploads",
-        "url": "https://github.com/McPringle/sportchef/issues/176"
-      },
-      {
-        "title": "SportChef: Implemented Optimistic Lock",
-        "url": "https://github.com/McPringle/sportchef/issues/46"
-      }
-    ]
-  },
-  {
-    "date": "2016-02-24",
-    "location": "Zurich, Switzerland",
-    "title": "Liip",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/228779639/"
-      },
-      {
-        "title": "Where is Liip?",
-        "url": "https://maps.google.com/maps?f=q&hl=en&q=Limmatstrasse+183%2C+Zürich%2C+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Writing Unit Tests for AJAX Uploads",
-        "url": "https://github.com/McPringle/sportchef/issues/167"
-      }
-    ]
-  },
-  {
-    "date": "2016-02-04",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/225176075/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Implement passwordless authentication",
-        "url": "https://github.com/McPringle/sportchef/issues/36"
-      },
-      {
-        "title": "DDerl: Fix Oracle CSV export",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "Discussion about event based content management systems"
-      }
-    ]
-  },
-  {
-    "date": "2016-01-28",
-    "location": "Zurich, Switzerland",
-    "title": "Citizen Space Zurich",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/228032480/"
-      },
-      {
-        "title": "where is the Citizen Space Zurich",
-        "url": "https://goo.gl/maps/wq5bcBSM6bk"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2016-01-27",
-    "location": "Bern, Switzerland",
-    "title": "SBB",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Bern/events/228176399/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Different events should be shown in different colors",
-        "url": "https://github.com/McPringle/sportchef/issues/91"
-      },
-      {
-        "title": "asciidoctor-intellij-plugin: Implement toolbar with bold, italic, etc.",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/38"
-      },
-      {
-        "title": "Babun Shell: Added solution to issue289 on faq",
-        "url": "https://github.com/babun/babun/pull/561"
-      },
-      {
-        "title": "Electron: Evaluation",
-        "url": "http://electron.atom.io/"
-      }
-    ]
-  },
-  {
-    "date": "2016-01-21",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/227987876/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Canoo Radio: Fixed localhost Stream-URL",
-        "url": "https://github.com/canoo/canoo-radio/pull/42"
-      },
-      {
-        "title": "Canoo Radio: Backend for recent uploaded list",
-        "url": "https://github.com/canoo/canoo-radio/pull/43"
-      },
-      {
-        "title": "Sportchef: Use default image fallback",
-        "url": "https://github.com/McPringle/sportchef/pull/109"
-      },
-      {
-        "title": "Sportchef: Added some colors",
-        "url": "https://github.com/McPringle/sportchef/pull/110"
-      }
-    ]
-  },
-  {
-    "date": "2016-01-07",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvcbkb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Clojure Protocol Buffer: Schema Definition",
-        "url": "https://github.com/arpagaus/clj-protobuf"
-      },
-      {
-        "title": "Airomem: Make data directory configurable",
-        "url": "https://github.com/airomem/airomem"
-      },
-      {
-        "title": "SportChef: UI fixes &amp: graphic design",
-        "url": "https://github.com/McPringle/sportchef"
-      }
-    ]
-  },
-  {
-    "date": "2015-12-10",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/226695353/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Canoo Radio: Allow voting on current song",
-        "url": "https://github.com/canoo/canoo-radio/issues/12"
-      },
-      {
-        "title": "Canoo Radio: Adding play counts for the top songs",
-        "url": "https://github.com/canoo/canoo-radio/issues/11"
-      },
-      {
-        "title": "Canoo Radio: Show time to and time elapsed in human readable format instead of duration",
-        "url": "https://github.com/canoo/canoo-radio/issues/29"
-      },
-      {
-        "title": "SportChef: Image Upload for Events",
-        "url": "https://github.com/McPringle/sportchef/issues/42"
-      },
-      {
-        "title": "SportChef: CSS Navigation-Styles",
-        "url": "https://github.com/McPringle/sportchef/pull/51"
-      },
-      {
-        "title": "SportChef: Delete Events",
-        "url": "https://github.com/McPringle/sportchef/pull/56"
-      },
-      {
-        "title": "SportChef: Added base style for paper-cards",
-        "url": "https://github.com/McPringle/sportchef/pull/53"
-      }
-    ]
-  },
-  {
-    "date": "2015-12-03",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/226228863/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Add Persistence Layer (noDB)",
-        "url": "https://github.com/McPringle/sportchef/issues/44"
-      },
-      {
-        "title": "DDerl: Automatic Charset Detection",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "Clojure Protocol Buffer: Schema Definition",
-        "url": "https://github.com/arpagaus/clj-protobuf"
-      },
-      {
-        "title": "Scala &amp; Akka Streams Discussions and Tests"
-      }
-    ]
-  },
-  {
-    "date": "2015-12-02",
-    "location": "Zurich, Switzerland",
-    "title": "Liip",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de/Hackergarten-Zurich/events/226855098/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://goo.gl/maps/mMlSy"
-      }
-    ],
-    "achievements": [
-    ]
-  },
-  {
-    "date": "2015-11-17",
-    "location": "Casablanca, Morocco",
-    "title": "Devoxx Morocco",
-    "links": [
-      {
-        "title": "Gradle Hackergarten",
-        "url": "http://cfp.devoxx.ma/2015/talks/hack"
-      },
-      {
-        "title": "Get in touch",
-        "url": "http://cfp.devoxx.ma/2015/speaker/rene_groeschke"
-      }
-    ]
-  },
-  {
-    "date": "2015-11-05",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/225176016/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: input form for events (Polymer)",
-        "url": "https://github.com/McPringle/sportchef"
-      },
-      {
-        "title": "DDerl: Bugfixing (Erlang CSV Driver)",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "Clojure Protocol Buffer Library: initial commits",
-        "url": "https://github.com/arpagaus/clj-protobuf"
-      }
-    ]
-  },
-  {
-    "date": "2015-10-26",
-    "location": "San Francisco, USA",
-    "title": "JavaOne",
-    "links": [
-      {
-        "title": "Schedule",
-        "url": "https://community.oracle.com/community/java/jcp/hackergarten"
-      }
-    ]
-  },
-  {
-    "date": "2015-10-22",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/225840462/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: Evaluation of Google Polymer",
-        "url": "https://github.com/McPringle/sportchef/pull/22"
-      }
-    ]
-  },
-  {
-    "date": "2015-10-01",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglytnbcb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "SportChef: new login page"
-      },
-      {
-        "title": "DDerl: text adaptor to read CSV and JSON files",
-        "url": "https://github.com/K2InformaticsGmbH/dderl"
-      },
-      {
-        "title": "Clojure Protocol Buffer Library: concept creation"
-      }
-    ]
-  },
-  {
-    "date": "2015-09-30",
-    "location": "Bern, Switzerland",
-    "title": "SBB, Haslerstrasse 30",
-    "links": [
-    ],
-    "achievements": [
-      {
-        "title": "Created a new Meetup page for Hackergarten Bern",
-        "url": "http://www.meetup.com/Hackergarten-Bern/"
-      },
-      {
-        "title": "IntelliJ AsciiDoc Plugin (wip): Title action should let the cursor on the same line #87",
-        "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/87"
-      },
-      {
-        "title": "Babun Shell: Remove duplicate property CHECK_TIMEOUT_IN_SECS",
-        "url": "https://github.com/babun/babun/pull/466"
-      }
-    ]
-  },
-  {
-    "date": "2015-09-24",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/225033736/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Lazybones Templates: Updated lazybones afterburner templates",
-        "url": "https://github.com/aalmiray/lazybones-template-collection"
-      },
-      {
-        "title": "griffon-preferences-plugin: Add support for default values to PreferencesNode",
-        "url": "https://github.com/griffon-plugins/griffon-preferences-plugin/pull/6"
-      }
-    ]
-  },
-  {
-    "date": "2015-08-27",
-    "location": "Zurich, Switzerland",
-    "title": "Liip Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/224538776/"
-      },
-      {
-        "title": "How to find us",
-        "url": "https://goo.gl/maps/mMlSy"
-      }
-    ]
-  },
-  {
-    "date": "2015-08-25",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/224530234/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Added details modal for hackergarten events to main website"
-      },
-      {
-        "title": "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)"
-      },
-      {
-        "title": "GrooxyFx: Upgrade Gradle Version",
-        "url": "https://github.com/groovyfx-project/groovyfx/pull/12"
-      },
-      {
-        "title": "GrooxyFx: Fix MenuDemo",
-        "url": "https://github.com/groovyfx-project/groovyfx/pull/21"
-      },
-      {
-        "title": "GrooxyFx: Fix wrong class reference",
-        "url": "https://github.com/groovyfx-project/groovyfx/pull/22"
-      },
-      {
-        "title": "GrooxyFx: Fix Java8 Compatibility",
-        "url": "https://github.com/groovyfx-project/groovyfx/issues/13"
-      },
-      {
-        "title": "GrooxyFx: Fix FxBindable",
-        "url": "https://github.com/groovyfx-project/groovyfx/issues/23"
-      },
-      {
-        "title": "GrooxyFx: SceneGraphBuilder registered twice",
-        "url": "https://github.com/groovyfx-project/groovyfx/issues/18"
-      }
-    ]
-  },
-  {
-    "date": "2015-08-06",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/222815719/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ]
-  },
-  {
-    "date": "2015-07-30",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/223735767/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ]
-  },
-  {
-    "date": "2015-07-23",
-    "location": "Stuttgart, Germany",
-    "title": "codecentric AG",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/de/Hackergarten-Stuttgart/events/223355452/"
-      },
-      {
-        "title": "Find us in the 3rd floor:",
-        "url": "https://www.google.de/maps/place/Curiestra%C3%9Fe+2,+70563+Stuttgart/@48.73781,9.1126,17z/data=!3m1!4b1!4m2!3m1!1s0x4799dc5e98d9e9a3:0x3abf6880c5a75bf7"
-      }
-    ]
-  },
-  {
-    "date": "2015-07-14",
-    "location": "Dortmund, Germany",
-    "title": "JUG DO Hackergarten July",
-    "links": [
-      {
-        "title": "Event on Xing",
-        "url": "https://www.xing.com/events/hackergarten-juli-1571019?came_from=12"
-      }
-    ]
-  },
-  {
-    "date": "2015-07-02",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/222815712/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ]
-  },
-  {
-    "date": "2015-06-25",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ]
-  },
-  {
-    "date": "2015-06-24",
-    "location": "Friedrichshafen/Immenstaad, Germany",
-    "title": "JUG Bodensee (3rd Hackergarten)",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/JUG-Bodensee/events/223353294/"
-      }
-    ]
-  },
-  {
-    "date": "2015-06-17",
-    "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
-    "title": "DWX 2015",
-    "links": [
-      {
-        "title": "Hackergarten Activities",
-        "url": "http://www.developer-week.de/Specials/Hackergarten"
-      }
-    ]
-  },
-  {
-    "date": "2015-06-04",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglytjbgb/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ]
-  },
-  {
-    "date": "2015-06-02",
-    "location": "IT-University, Copenhagen, DK",
-    "title": "GR8Conf Europe 2015",
-    "links": [
-      {
-        "title": "GR8Conf",
-        "url": "http://www.gr8conf.eu"
-      },
-      {
-        "title": "Description",
-        "url": "http://gr8conf.eu/#/talk/158"
-      }
-    ]
-  },
-  {
-    "date": "2015-05-07",
-    "location": "Friedrichshafen/Immenstaad, Germany",
-    "title": "JUG Bodensee (2nd Hackergarten)",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/JUG-Bodensee/events/222206632/"
-      }
-    ]
-  },
-  {
-    "date": "2015-05-07",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglythbkb/"
-      },
-      {
-        "title": "Attention, we have a new place to meet: How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-29",
-    "location": "Zürich, Switzerland",
-    "title": "looking for a location",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-24",
-    "location": "Bangalore, India",
-    "title": "GIDS 2015",
-    "links": [
-      {
-        "title": "GIDS Schedule",
-        "url": "http://www.developermarch.com/developersummit/conference.html"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-23",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/TAdE3eQ8E_4"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/221672648/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-18",
-    "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
-    "title": "Voxxed Days Ticino 2015",
-    "links": [
-      {
-        "title": "VoxxedDays Ticino '15 Schedule",
-        "url": "https://www.voxxed.com/days-ticino15/#np-3892"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-14",
-    "location": "Bern, Switzerland",
-    "title": "SBB Offices",
-    "links": [
-      {
-        "title": "Location",
-        "url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-08",
-    "location": "Paris, France",
-    "title": "Devoxx FR",
-    "links": [
-      {
-        "title": "Info",
-        "url": "http://www.devoxx.fr/dvxfr15-hackergarten/"
-      }
-    ]
-  },
-  {
-    "date": "2015-04-02",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/sfqpflytgbdb/"
-      },
-      {
-        "title": "Attention, we have a new place to meet: How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      }
-    ]
-  },
-  {
-    "date": "2015-03-26",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/j0Z7SP73Kcc"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/220947562/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ]
-  },
-  {
-    "date": "2015-03-24",
-    "location": "Javaland",
-    "title": "Hackergarten on tour",
-    "links": [
-      {
-        "title": "Community activities",
-        "url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"
-      }
-    ]
-  },
-  {
-    "date": "2015-03-14",
-    "location": "Skopje",
-    "title": "Netcetera",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://doodle.com/y69k2mstdhr2m32y#table"
-      },
-      {
-        "title": "Address",
-        "url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"
-      }
-    ]
-  },
-  {
-    "date": "2015-03-10",
-    "location": "Gdansk, Poland",
-    "title": "Trojmiasto Java User Group",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/220850086/"
-      },
-      {
-        "title": "Address",
-        "url": "http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl"
-      }
-    ]
-  },
-  {
-    "date": "2015-03-05",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/rsriBpRJRI8"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/220555938/"
-      },
-      {
-        "title": "How to find us",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-      },
-      {
-        "title": "CSS Versicherung",
-        "url": "https://www.css.ch/"
-      }
-    ]
-  },
-  {
-    "date": "2015-02-26",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/j0Z7SP73Kcc"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/220246661/"
-      },
-      {
-        "title": "where is Canoo Office",
-        "url": "http://www.canoo.com/service/contact/?l=en"
-      }
-    ]
-  },
-  {
-    "date": "2015-01-29",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/1RTOQhHHqx4"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/219080626/"
-      },
-      {
-        "title": "CSS Versicherung",
-        "url": "https://www.css.ch/"
-      }
-    ]
-  },
-  {
-    "date": "2015-01-22",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/ja4dcrMKeOc"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/219062374/"
-      }
-    ]
-  },
-  {
-    "date": "2014-12-10",
-    "location": "Airbus Defence & Space",
-    "title": "BG9 / 9078 ",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/JUG-Bodensee/events/219065485/"
-      }
-    ]
-  },
-  {
-    "date": "2014-11-27",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/OqnEwkvjD8w"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/218639052/"
-      }
-    ]
-  },
-  {
-    "date": "2014-11-24",
-    "location": "Lucerne, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "GoogleGroup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
-      },
-      {
-        "title": "CSS Versicherung",
-        "url": "https://www.css.ch/"
-      }
-    ]
-  },
-  {
-    "date": "2014-10-30",
-    "location": "Basel, Switzerland",
-    "title": "Hackergarten Basel October",
-    "links": [
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/b4VqwExj5-c"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/211695852/"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com/service/contact/"
-      }
-    ]
-  },
-  {
-    "date": "2014-10-23",
-    "location": "Zürich, Switzerland",
-    "title": "Technopark",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
-      }
-    ]
-  },
-  {
-    "date": "2014-10-09",
-    "location": "Luzern, Switzerland",
-    "title": "CSS Versicherung",
-    "links": [
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
-      },
-      {
-        "title": "CSS Versicherung",
-        "url": "https://www.css.ch/"
-      }
-    ]
-  },
-  {
-    "date": "2014-09-25",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/Z9zJ0AEyNN4"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/205893392/"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com/service/contact/"
-      }
-    ]
-  },
-  {
-    "date": "2014-09-09",
-    "location": "Oslo, Norway",
-    "title": "Teknologihuset",
-    "links": [
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/javaBin/events/201877622/"
-      }
-    ]
-  },
-  {
-    "date": "2014-08-28",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/gmEb10l3LXw"
-      },
-      {
-        "title": "Meetup",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/202478822/"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com/service/contact/"
-      }
-    ]
-  },
-  {
-    "date": "2014-08-21",
-    "location": "Zürich, Switzerland",
-    "title": "Trivadis AG (Europa-Strasse 5 8152 Glattbrugg)",
-    "links": [
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/3rlRRReDaSg"
-      },
-      {
-        "title": "Google Event",
-        "url": "https://plus.google.com/events/cm2sh2dpdvjkdbqsmh2i456a4ho"
-      }
-    ]
-  },
-  {
-    "date": "2014-06-25",
-    "location": "Basel, Switzerland",
-    "title": "General Hacking",
-    "links": [
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/8jSib53YcJg"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com/service/contact/"
-      }
-    ]
-  },
-  {
-    "date": "2014-06-25",
-    "location": "Bern, Switzerland",
-    "title": "SBB",
-    "links": [
-      {
-        "title": "Doodle Event",
-        "url": "http://doodle.com/2giabtf5dqnkgxw9#table"
-      }
-    ]
-  },
-  {
-    "date": "2014-06-19",
-    "location": "Zürich, Switzerland",
-    "title": "Event on Google+",
-    "links": [
-      {
-        "title": "Google Event",
-        "url": "https://plus.google.com/events/c1jqmnpm8k77jvjhlvu1pfl5s7s"
-      }
-    ]
-  },
-  {
-    "date": "2014-06-02",
-    "location": "unknown",
-    "title": "GR8Conf Europe 2014",
-    "links": [
-      {
-        "title": "GR8Conf",
-        "url": "http://www.gr8conf.eu"
-      }
-    ]
-  },
-  {
-    "date": "2014-05-22",
-    "location": "Basel, Switzerland",
-    "title": "ReGalAndroid, Groovy/Gradle, three.js and some other things.",
-    "links": [
-      {
-        "title": "ReGalAndroid",
-        "url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
-      },
-      {
-        "title": "Meetup",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/MMRJUtPsGeI"
-      },
-      {
-        "title": "GoogleGroups",
-        "url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
-      }
-    ]
-  },
-  {
-    "date": "2014-05-16",
-    "location": "unknown",
-    "title": "GeeCon 2014",
-    "links": [
-      {
-        "title": "GeeCON",
-        "url": "http://2014.geecon.org"
-      }
-    ]
-  },
-  {
-    "date": "2014-05-08",
-    "location": "Technopark, Zürich, Switzerland",
-    "title": "Hacking mainly on JSR-354 API for Java 8 and JSR-354 TDK",
-    "links": [
-      {
-        "title": "Google Event",
-        "url": "https://plus.google.com/events/clnrjmrnvh5dc1ahpd8rtalc2d0"
-      }
-    ]
-  },
-  {
-    "date": "2014-04-24",
-    "location": "Basel, Switzerland",
-    "title": "Some hacking in the area of WebRTC",
-    "links": [
-      {
-        "title": "AngularJS",
-        "url": "https://angularjs.org/"
-      },
-      {
-        "title": "Iconic",
-        "url": "http://www.ionicframework.com"
-      },
-      {
-        "title": "MeetUp",
-        "url": "http://www.meetup.com/Hackergarten-Basel/events/175980272/"
-      },
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/8GEeIoXsu8Q"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com/service/contact/"
-      }
-    ]
-  },
-  {
-    "date": "2014-04-10",
-    "location": "Zürich, Switzerland",
-    "title": "Colab Zurich",
-    "links": [
-      {
-        "title": "Google+",
-        "url": "https://plus.google.com/103936743237262644768/"
-      },
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/pkw-gTCyAXA"
-      },
-      {
-        "title": "Colab Zürich",
-        "url": "http://www.colab-zurich.ch/"
-      }
-    ]
-  },
-  {
-    "date": "2014-03-25",
-    "location": "unkown",
-    "title": "Javaland 2014 - Early Adopter's Area and Hackergarten",
-    "links": [
-      {
-        "title": "Javaland 2014 - Early Adopter's Area",
-        "url": "http://www.javaland.eu/de/programm/community-aktivitaeten/early-adopters-area.html"
-      },
-      {
-        "title": "Javaland 2014 - Early Adopter's Area (english)",
-        "url": "http://www.javaland.eu/en/programm/community-aktivitaeten/early-adopters-area.html"
-      }
-    ]
-  },
-  {
-    "date": "2014-03-22",
-    "location": "Nice, France",
-    "title": "AeroGear Hackergarten",
-    "links": [
-      {
-        "title": "Les Satellites",
-        "url": "http://www.lessatellites.fr/"
-      },
-      {
-        "title": "Event",
-        "url": "http://aerogearhackergarten.eventbrite.com"
-      }
-    ]
-  },
-  {
-    "date": "2014-03-06",
-    "location": "Zürich, Switzerland",
-    "title": "Colab",
-    "links": [
-      {
-        "title": "Google+",
-        "url": "https://plus.google.com/103936743237262644768/posts/HEEDXDRmFTP"
-      },
-      {
-        "title": "GoogleGroups",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/hSH5YkUo-_w"
-      },
-      {
-        "title": "Colab Zürich",
-        "url": "http://www.colab-zurich.ch/"
-      }
-    ]
-  },
-  {
-    "date": "2014-01-30",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "more...",
-        "url": "https://groups.google.com/forum/#!topic/hackergarten/pst4SY1Hnt8"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com/service/contact/"
-      }
-    ]
-  },
-  {
-    "date": "2013-12-03",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2013-10-17",
-    "location": "Basel, Switzerland",
-    "title": "Canoo Office",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2013-08-30",
-    "location": "Basel, Switzerland",
-    "title": "Ratpack JDBI Module and more....",
-    "links": [
-      {
-        "title": "Ratpack JDBI Module",
-        "url": "https://github.com/ratpack/ratpack/pull/160"
-      },
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2013-06-05",
-    "location": "Marseille, France",
-    "title": "Marseille JUG.",
-    "links": [
-      {
-        "title": "Marseille JUG",
-        "url": "http://marsjug.org/"
-      }
-    ]
-  },
-  {
-    "date": "2013-02-01",
-    "location": "Basel, Switzerland",
-    "title": "Spring time.",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2013-02-01",
-    "location": "Stockhold, Sweden",
-    "title": "JFokus 2 Day Hackergarten Event.",
-    "links": []
-  },
-  {
-    "date": "2012-02-01",
-    "location": "Basel & Lugano, Switzerland",
-    "title": "Mobile Development nights.",
-    "links": []
-  },
-  {
-    "date": "2011-12-08",
-    "location": "London, United Kingdom",
-    "title": "Groovy/Grails Exchange.",
-    "links": [
-      {
-        "title": "Hackergarten",
-        "url": "http://skillsmatter.com/podcast/home/hackergarten"
-      }
-    ]
-  },
-  {
-    "date": "2011-11-14",
-    "location": "Antwerp, Belgium",
-    "title": "Devoxx.",
-    "links": []
-  },
-  {
-    "date": "2011-09-28",
-    "location": "Basel, Switzerland",
-    "title": "Android Night in Basel.",
-    "links": []
-  },
-  {
-    "date": "2011-08-26",
-    "location": "Basel, Switzerland",
-    "title": "Mirah Night in Basel.",
-    "links": []
-  },
-  {
-    "date": "2011-05-27",
-    "location": "Basel, Switzerland",
-    "title": "Hackergarten Basel and American BBQ.",
-    "links": []
-  },
-  {
-    "date": "2011-05-17",
-    "location": "Denmark",
-    "title": "GR8 Conference.",
-    "details": "We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.",
-    "links": []
-  },
-  {
-    "date": "2011-05-14",
-    "location": "Krakow",
-    "title": "GeeCON Conference.",
-    "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
-    "links": []
-  },
-  {
-    "date": "2011-03-25",
-    "location": "Basel, Switzerland",
-    "title": "Open Night at Canoo Engineering AG.",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2011-03-16",
-    "location": "Basel, Switzerland",
-    "title": "Magnolia Night in Basel",
-    "details": "The group worked on an OpenSocial plugin for OAUTH support and created a HighChart based paragraph type as a CMS plugin.",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2011-01-26",
-    "location": "Basel, Switzerland",
-    "title": "GPars Night",
-    "details": "The crew worked on some GPars related samples and bug fixes.",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2010-11-26",
-    "location": "unkown",
-    "title": "Screencast Night",
-    "details": "We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.",
-    "links": []
-  },
-  {
-    "date": "2010-10-29",
-    "location": "Basel, Switzerland",
-    "title": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
-    "details": "the November event we created 4 new CodeNarc rules, improved the easyb/junit integration, and made good progress on the FindBugs Gradle plugin.",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2010-10-01",
-    "location": "Basel, Switzerland",
-    "title": "Static Analysis Night",
-    "details": "Wrote 4 new static analysis rules for the CodeNarc project. Great job everyone!",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2010-07-30",
-    "location": "Basel, Switzerland",
-    "title": "Hackergarten Basel",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2010-06-02",
-    "location": "Zürich, Switzerland",
-    "title": "Jazoon",
-    "details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed.",
-    "links": [
-      {
-        "title": "Jazoon",
-        "url": "http://jazoon.com/"
-      }
-    ]
-  },
-  {
-    "date": "2010-05-19",
-    "location": "Copenhagen, Denmark",
-    "title": "Geek Night at GR8 Conference",
-    "details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log.",
-    "links": [
-      {
-        "title": "GR8 Conference",
-        "url": "http://eu.gr8conf.org"
-      }
-    ]
-  },
-  {
-    "date": "2010-04-30",
-    "location": "Basel, Switzerland",
-    "title": "Griffon Night",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  },
-  {
-    "date": "2010-03-26",
-    "location": "Basel, Switzerland",
-    "title": "Gradle Night",
-    "links": [
-      {
-        "title": "Canoo Engineering AG",
-        "url": "http://www.canoo.com"
-      }
-    ]
-  }
+[{
+		"date": "2017-12-07",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/preview/Hackergarten-Basel/events/244280426"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	},
+	{
+		"date": "2017-11-09",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/preview/Hackergarten-Basel/events/244280320"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-11-02",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglywpbdb"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-10-10",
+		"location": "Bern, Switzerland",
+		"title": "SBB Office, Haslerstrasse 30, Bern",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/241663103/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "ngx-translate: translation improvement",
+				"url": "https://github.com/ngx-translate/core/pull/701"
+			},
+			{
+				"title": "sweet-junit-runner: support naming pattern (Issue #6)",
+				"url": "https://github.com/jlupi/sweet-junit-runner/pull/10"
+			},
+			{
+				"title": "Jacoco: Filter for Groovy generated methods",
+				"url": "https://github.com/jacoco/jacoco/pull/610"
+			},
+			{
+				"title": "MyTree: Project started - image recognition PoC",
+				"url": "https://github.com/syzer/MyTree/blob/master/readme.md"
+			}
+		]
+	}, {
+		"date": "2017-10-02",
+		"location": "San Francisco, USA",
+		"title": "JavaOne",
+		"links": [{
+			"title": "Schedule",
+			"url": "https://community.oracle.com/docs/DOC-1017340"
+		}],
+		"achievements": []
+	}, {
+		"date": "2017-09-30",
+		"location": "Wroclaw, Poland",
+		"title": "Luxoft Office, pl. Konstytucji 3 Maja 3, Wroclaw",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/pl-PL/LTS-Logeek-Night-Wroclaw/events/243487038/"
+			},
+			{
+				"title": "Registration form",
+				"url": "https://career.luxoft.com/lp/hackergarten-wroclaw-2017/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-09-27",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/243275544/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "HackADoc: Improve readme",
+				"url": "https://github.com/hackergarten/hackadoc/pull/8"
+			},
+			{
+				"title": "HackADoc: Fix 'piublish' functionality",
+				"url": "https://github.com/hackergarten/hackadoc/pull/9"
+			},
+			{
+				"title": "HackADoc: Use AsciiDoc title as document title",
+				"url": "https://github.com/hackergarten/hackadoc/pull/12"
+			},
+			{
+				"title": "HackADoc: adopt cheatsheet for adoc",
+				"url": "https://github.com/hackergarten/hackadoc/pull/13"
+			},
+			{
+				"title": "asciidoctor-gradle-plugin: release version 1.5.6",
+				"url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/"
+			},
+			{
+				"title": "Jdeferred: reworked PR for Cancelable callbacks",
+				"url": "https://github.com/jdeferred/jdeferred/pull/123"
+			}
+		]
+	}, {
+		"date": "2017-09-26",
+		"location": "Lausanne, Switzerland",
+		"title": "Pix4D Office, EPFL Innovation Park, Building F",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Lausanne-Hackergarten/events/243079383/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://goo.gl/maps/28MW7ykBsCF2"
+			}
+		],
+		"achievements": [{
+				"title": "Mickaël and Nolan worked on starting a JS wrapper around the Swiss opendata API",
+				"url": "https://github.com/nolanrigo/swiss-transport"
+			},
+			{
+				"title": "James and Tom worked on continuing to bootstrap aws_companion",
+				"url": "https://github.com/gbataille/aws_companion"
+			},
+			{
+				"title": "Ieva, Petar and Greg worked on trying to understand why multiprocessing would fail in certain GDAL builds",
+				"url": "https://travis-ci.org/OSGeo/gdal/builds/278755009"
+			},
+			{
+				"title": "Marco and David worked on adding platform independent inotify-like beacon to Salt",
+				"url": ""
+			}
+		]
+	}, {
+		"date": "2017-09-07",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/241787765/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-08-29",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Basel/events/242561179/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+			"title": "HackADoc: create fork of hackmd.io to use AsciiDoctor instead of MarkDown",
+			"url": "https://github.com/hackergarten/hackadoc/"
+		}]
+	}, {
+		"date": "2017-08-08",
+		"location": "Bern, Switzerland",
+		"title": "SBB Office, Haslerstrasse 30, Bern",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/240752468/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "Implement basic event management in komunumo",
+				"url": "https://github.com/komunumo/komunumo-backend/issues/5"
+			},
+			{
+				"title": "Tool for showing who commited most to a file in git",
+				"url": "https://github.com/ehmkah/git_pie"
+			},
+			{
+				"title": "Upgrading dbUp to new .net Framework (unfortunately unfinished)",
+				"url": "https://github.com/DbUp"
+			}
+		]
+	}, {
+		"date": "2017-08-03",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/241448406/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Use Electron for Single Page Applications",
+				"url": "https://bitbucket.org/thomasstauffer666/crow/src"
+			},
+			{
+				"title": "TicTacChallenge: Implementing Explore Mode",
+				"url": "https://github.com/K2InformaticsGmbH/egambo"
+			},
+			{
+				"title": "TicTacChallenge: Using JSON over TCP",
+				"url": "https://github.com/K2InformaticsGmbH/egambo/commit/7d7116f33c1afb84738a640c197a967f9a4e9b98"
+			},
+			{
+				"title": "JDK 9 split package analysis tool: Add Travis Build",
+				"url": "https://github.com/reinhapa/jsplitpkgscan/commit/6418593e8c9b40d45929784245e7ce174a904411"
+			},
+			{
+				"title": "JDK 9 split package analysis tool: Upgrade Gradle and Remove Kill Switch",
+				"url": "https://github.com/reinhapa/jsplitpkgscan/commit/5624aa6d3fad1fb1db039e2da453cc2c6ec3227e"
+			},
+			{
+				"title": "Komunumo: GitHub Organization and Project Setup",
+				"url": "https://github.com/komunumo"
+			},
+			{
+				"title": "Komunumo: Design Project Logo",
+				"url": "https://github.com/komunumo/komunumo-website/issues/1"
+			}
+		]
+	}, {
+		"date": "2017-07-19",
+		"location": "Stuttgart, Germany",
+		"title": "tbd",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-07-06",
+		"location": "Stuttgart, Germany",
+		"title": "JavaForum Stuttgart",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241086075/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://maps.google.com/maps?f=q&hl=en&q=Berliner+Platz+1-3%2C+Stuttgart%2C+de"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-07-06",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/240462846/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-06-29",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Basel/events/240732461/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-06-21",
+		"location": "Krakow, Poland",
+		"title": "Devoxx PL",
+		"links": [{
+			"title": "Schedule",
+			"url": "http://cfp.devoxx.pl/2017/talk/BUR-6513/Hackergarten"
+		}],
+		"achievements": [{
+				"title": "jdeferred: Handle multiple results with type safety",
+				"url": "https://github.com/jdeferred/jdeferred/pull/116"
+			},
+			{
+				"title": "jdeps-gradle-plugin: Configure external report file",
+				"url": "https://github.com/aalmiray/jdeps-gradle-plugin/pull/2"
+			},
+			{
+				"title": "jdeps-gradle-plugin: Released version 0.2.0",
+				"url": "https://github.com/aalmiray/jdeps-gradle-plugin"
+			},
+			{
+				"title": "griffon: GenerateBom task should create a valid POM per Maven Central's requirements",
+				"url": "https://github.com/griffon/griffon/issues/238"
+			}
+		]
+	}, {
+		"date": "2017-06-13",
+		"location": "Dortmund, Germany",
+		"title": "Codecentric / the black frame",
+		"links": [{
+			"title": "Hackergarten",
+			"url": "https://www.xing.com/events/hackergarten-juni-1817832"
+		}],
+		"achievements": []
+	}, {
+		"date": "2017-06-13",
+		"location": "Bern, Switzerland",
+		"title": "SBB Office, Haslerstrasse 30, Bern",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/cpzqxmywjbrb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "Tested that TODO are shown correctly in asciidoctory-intelliJ Plugin",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37"
+			},
+			{
+				"title": "Resolved compilation errors and tests for jdeferred",
+				"url": "https://github.com/aalmiray/jdeferred/pull/3"
+			},
+			{
+				"title": "Improved documentation for asciidoctor-gradle-plugin",
+				"url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197"
+			}
+		]
+	}, {
+		"date": "2017-06-01",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/239815593/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-05-31",
+		"location": "Copenhagen, Denmark",
+		"title": "Gr8conf EU",
+		"links": [{
+			"title": "Hackergarten on Tour",
+			"url": "http://gr8conf.eu/#/talks"
+		}],
+		"achievements": []
+	}, {
+		"date": "2017-05-18",
+		"location": "Tokyo, Japan",
+		"title": "Oracle Code Tokyo 2017",
+		"links": [{
+			"title": "Hackergarten on Tour",
+			"url": "https://developer.oracle.com/code/tokyo"
+		}],
+		"achievements": []
+	}, {
+		"date": "2017-05-17",
+		"location": "Tokyo, Japan",
+		"title": "Java Day Tokyo 2017",
+		"links": [{
+			"title": "Hackergarten on Tour",
+			"url": "http://www.oracle.co.jp/events/javaday/2017/"
+		}],
+		"achievements": [{
+			"title": "jdeps-gradle-plugin: initial release",
+			"url": "https://github.com/aalmiray/jdeps-gradle-plugin"
+		}]
+	}, {
+		"date": "2017-05-04",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/239034003/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-04-27",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Basel/events/239099816/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-04-20",
+		"location": "Bern, Switzerland",
+		"title": "SBB Office, Haslerstrasse 30, Bern",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Bern/events/239065807/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "Opensourced sweet-junit - allows dynamically loading test classes into junit suites",
+				"url": "https://github.com/jlupi/sweet-junit-runner"
+			},
+			{
+				"title": "Researching howto export kotlin static source-code result into sonar-cube",
+				"url": "https://github.com/arturbosch/detekt/issues/21"
+			},
+			{
+				"title": "Working on Jacoco terminal integration",
+				"url": "https://github.com/jacoco/jacoco"
+			}
+		]
+	}, {
+		"date": "2017-04-06",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/237671024/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Logback: New logic to get JDK version",
+				"url": "https://github.com/qos-ch/logback/pull/371"
+			},
+			{
+				"title": "Electronic Game Board: Game web API",
+				"url": "https://github.com/K2InformaticsGmbH/egambo/issues/5"
+			},
+			{
+				"title": "Robotics Hardware Programming: Adding trim",
+				"url": "https://github.com/Robo4J/robo4j/commit/2c049393c238d27f681817e18d84afba32313d78"
+			},
+			{
+				"title": "Robotics Hardware Programming: Better settings",
+				"url": "https://github.com/Robo4J/robo4j/commit/f348048dee0da2d16b184047bd68f512b1d2cb72"
+			},
+			{
+				"title": "Gradle: Making Gradle run on JDK 9",
+				"url": "https://github.com/gradle/gradle"
+			},
+			{
+				"title": "Carrental: Angular 2 and Java EE starting point project",
+				"url": "https://github.com/Angular2Guy/Angular2AndJavaEE"
+			},
+			{
+				"title": "SportChef: Configuring new production servers (own Docker Swarm)",
+				"url": "https://github.com/McPringle/sportchef"
+			},
+			{
+				"title": "JBake Gradle Plugin: Upgrade to latest Gradle wrapper",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/87e4ee19dcf4f541c259d5397c8198d14138cc5d"
+			},
+			{
+				"title": "JBake Gradle Plugin: Update project dependencies ",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/091e53d880521f8e633c4e1e824d9bb9b3e30d86"
+			},
+			{
+				"title": "JBake Gradle Plugin: Refactor build settings",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/c93331a0b2d762f81ee99056a8853b52c038103f"
+			},
+			{
+				"title": "JBake Gradle Plugin: Update license headers",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/e6e5ab90e4740f21fdca50f9c8525be1836173e4"
+			},
+			{
+				"title": "JBake Gradle Plugin:  Change plugin id to 'org.jbake.site'. Related to #21",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/237fd5afbddccf71dff9fd0ef9ee1ddb438b8cb4"
+			},
+			{
+				"title": "Eclipse Git Plugin: initial multi repo fetch logic",
+				"url": "https://github.com/loetscher/egit/commit/31f5f6bfb3169d11b5e08e58c70fe4e9f5f179b1"
+			},
+			{
+				"title": "Eclipse Git Plugin: CCE and NPE fixed",
+				"url": "https://github.com/loetscher/egit/commit/3d5b405971e5703029c2066eaa50997e3257a2c8"
+			}
+		]
+	}, {
+		"date": "2017-03-23",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/238408886/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Add tests to JCTools",
+				"url": "https://github.com/JCTools/JCTools/pull/158"
+			},
+			{
+				"title": "CORS ",
+				"url": "https://github.com/AdamBien/cors/pull/1"
+			},
+			{
+				"title": "Slightly improve Asciidoctor-Diagram Documentation",
+				"url": "https://github.com/asciidoctor/asciidoctor.org/pull/659"
+			}
+		]
+	}, {
+		"date": "2017-03-02",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/237413237/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Robotics Hardware Programming: Cleaning up imports",
+				"url": "https://github.com/Robo4J/robo4j/pull/1"
+			},
+			{
+				"title": "Robotics Hardware Programming: added colors in LCD mock",
+				"url": "https://github.com/Robo4J/robo4j/pull/2"
+			},
+			{
+				"title": "JDK 9 split package analysis tool: better error message for a missing output dir",
+				"url": "https://github.com/AdoptOpenJDK/jsplitpkgscan/pull/2"
+			},
+			{
+				"title": "JDK 9 split package analysis tool: Adds ant fallback build file if gradle does not work",
+				"url": "https://github.com/AdoptOpenJDK/jsplitpkgscan/commit/60eff504bbd8609b3841692d1d6b237fb3dc1960"
+			},
+			{
+				"title": "Erlang in-memory database: add gen-server for tic-tac-challenge",
+				"url": "https://github.com/K2InformaticsGmbH/imem/commit/d84632910e300b1770cb1dba28d50743e19e489f"
+			}
+		]
+	}, {
+		"date": "2017-02-07",
+		"location": "Stockholm, Sweden",
+		"title": "JFokus",
+		"links": [{
+			"title": "Website",
+			"url": "https://www.jfokus.se/jfokus/"
+		}],
+		"achievements": [{
+				"title": "JDeferred: Update gradle wrapper to 3.3",
+				"url": "https://github.com/jdeferred/jdeferred/pull/93"
+			},
+			{
+				"title": "JDeferred: Remove CancellablePromise",
+				"url": "https://github.com/jdeferred/jdeferred/pull/95"
+			},
+			{
+				"title": "Groovy: Support Generics with def",
+				"url": "https://issues.apache.org/jira/browse/GROOVY-7521"
+			},
+			{
+				"title": "Groovy: Anonymous class field initialized with an enclosing argument results in MissingPropertyException",
+				"url": "https://issues.apache.org/jira/browse/GROOVY-6996"
+			},
+			{
+				"title": "Groovy: Templating with bound variables that match class names lead to unexpected results",
+				"url": "https://issues.apache.org/jira/browse/GROOVY-7405"
+			},
+			{
+				"title": "Eclipse IDE: Allow sorting by declaration order",
+				"url": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=511906"
+			}
+		]
+	}, {
+		"date": "2017-02-02",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/236458504/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Robotics Hardware Programming"
+			},
+			{
+				"title": "DDErl: Screensaver utilizing too much CPU",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/issues/327"
+			},
+			{
+				"title": "DDErl: no scrollbars on edit sql",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/issues/381"
+			},
+			{
+				"title": "asciidoctor-intellij-plugin: Work on PR",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+			},
+			{
+				"title": "Moodini: Using Lagom for the backend",
+				"url": "http://github.com/McPringle/moodini"
+			},
+			{
+				"title": "Pong implementation using Lagom",
+				"url": "https://github.com/javaFunAgain/lagomPong"
+			},
+			{
+				"title": "Pong implementation using Ratpack",
+				"url": "https://github.com/javaFunAgain/ratpong"
+			},
+			{
+				"title": "Web Components Polymer Application Prototype",
+				"url": "https://github.com/ahodgkinson/wcpap"
+			}
+		]
+	}, {
+		"date": "2017-01-26",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/236114893/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2017-01-05",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/235825519/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Robotics Hardware Programming"
+			},
+			{
+				"title": "Web Components Polymer Application Prototype",
+				"url": "https://github.com/ahodgkinson/wcpap"
+			},
+			{
+				"title": "asciidoctor-intellij-plugin: Work on PR",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+			},
+			{
+				"title": "SportChef: Designed the project website",
+				"url": "https://www.sportchef.ch/"
+			},
+			{
+				"title": "Moodini Clean Code Refactoring",
+				"url": "https://www.codacy.com/app/McPringle/moodini/dashboard"
+			}
+		]
+	}, {
+		"date": "2016-12-06",
+		"location": "Bern, Switzerland",
+		"title": "SBB Office, Haslerstrasse 30, Bern",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Bern/events/235882541/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: Frontend migration to microservice",
+				"url": "https://github.com/sportchef/sportchef-frontend/pull/1"
+			},
+			{
+				"title": "SportChef: Dockerized the frontend microservice",
+				"url": "https://github.com/sportchef/sportchef-frontend/commit/f2f93df8786a909c87367b89fd9e43d603e52cfd"
+			},
+			{
+				"title": "SportChef: Adding CI build with Travis",
+				"url": "https://github.com/sportchef/sportchef-frontend/commit/1bdea65dc5d607427dcf76ec16e6d7bfba68abc7"
+			},
+			{
+				"title": "Continuing fixing highlting monospace in asccidoctorJ plugin",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/161"
+			}
+		]
+	}, {
+		"date": "2016-12-08",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/234993147/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "jbake-gradle-plugin: make bintray repo and organization configurable",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/4da8e72eb20fc8bb4bffcace4a2cda16fb9e2268"
+			},
+			{
+				"title": "jbake-gradle-plugin: added new template engines thymeleaf, jade4j and groovy MTE",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/4108e2be15e5248ec8a51e8d0ce69633f9f8edbe"
+			},
+			{
+				"title": "jbake-gradle-plugin: Add integrationtest using gradle TestKit",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/3a01a0916bfe2d3c7f86f9fddc3bc2f6c2e72e7d"
+			},
+			{
+				"title": "jbake-gradle-plugin: Conditionally include default repositories",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/b2457264f80e9c7abea3a772acf95f8e8032d157"
+			},
+			{
+				"title": "jbake-gradle-plugin: Activate jacoco and coveralls",
+				"url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/c607ae3f63511124c2db23e28636a51411abd765"
+			},
+			{
+				"title": "griffon-ormlite-plugin: Upgrade to Ormlite 5.0 and release version 1.1.0",
+				"url": "https://github.com/griffon-plugins/griffon-ormlite-plugin/commit/06a5e8ae834ab916381b751a42dd550b16fda6b1"
+			}
+		]
+	}, {
+		"date": "2016-12-08",
+		"location": "Paris, France",
+		"title": "Xebia",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Paris-Hackergarten/events/235761802/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps/place/156+Boulevard+Haussmann,+75008+Paris,+France/@48.8755587,2.3088289,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc7c0eb09d3:0x9b3b3b5b3007b596!8m2!3d48.8755587!4d2.3110176?hl=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-12-01",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvqbcb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "TestFX: Use Java8's Optional/Predicate/Function instead of Guava's",
+				"url": "https://github.com/TestFX/TestFX/pull/318"
+			},
+			{
+				"title": "TestFX: Add WindowMatchers class",
+				"url": "https://github.com/TestFX/TestFX/pull/284"
+			},
+			{
+				"title": "Ikonli: React to changes made to FontIcon.fill and FontIcon.font ",
+				"url": "https://github.com/aalmiray/ikonli/commit/f5f3b7b749ef7ae9d4abca532100907328abf55c"
+			},
+			{
+				"title": "Airomem: Typos in readme",
+				"url": "https://github.com/airomem/airomem/pull/10"
+			},
+			{
+				"title": "Asciidoctor IntelliJ Plugin: Implementing syntax highlighting for monospace with backticks",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/pull/163"
+			},
+			{
+				"title": "JMH Gradle Plugin: Update README to reflect a working code snipplet",
+				"url": "https://github.com/melix/jmh-gradle-plugin/pull/85"
+			}
+		]
+	}, {
+		"date": "2016-11-15",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/234993108/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Needle4J configuration setting to control post construct",
+				"url": "https://github.com/needle4j/needle4j/issues/21"
+			},
+			{
+				"title": "SportChef integration tests with embedded Payara",
+				"url": "https://github.com/sportchef/sportchef-events/commit/84141fe10e1696b90a4168bded2ad85ca7863ed9"
+			},
+			{
+				"title": "jdeferred: move android test to right location and configure build to run it",
+				"url": "https://github.com/aalmiray/jdeferred/pull/2"
+			},
+			{
+				"title": "GROOVY-7997: fix long and BigInteger to BigDecimal conversion in method calls",
+				"url": "https://github.com/apache/groovy/commit/04f1e8636f98388dd04787b5b7028ea870aeef0b"
+			},
+			{
+				"title": "griffon: Add binding utilities",
+				"url": "https://github.com/griffon/griffon/commit/9d43488bdc51a689ad77a4e5075912d0097894c3"
+			},
+			{
+				"title": "basilisk: Add binding utilities",
+				"url": "https://github.com/basilisk-fw/basilisk/commit/52a663ebc992dea23390e05b91faed1020504e51"
+			},
+			{
+				"title": "gluonhq/maps: update gradle build",
+				"url": "https://github.com/gluonhq/maps/pull/6"
+			},
+			{
+				"title": "gluonhq/maps: FXML updates",
+				"url": "https://github.com/gluonhq/maps/pull/7"
+			},
+			{
+				"title": "update Dolphin Platform Spring Boot Lazybones Template to use version 0.8.8",
+				"url": "https://github.com/canoo/dolphin-platform-lazybones-templates/pull/4"
+			}
+		]
+	}, {
+		"date": "2016-11-09",
+		"location": "Antwerp, Belgium",
+		"title": "Devoxx",
+		"links": [{
+			"title": "Schedule",
+			"url": "https://devoxx.be/hackergarten/#tuesday"
+		}],
+		"achievements": [{
+				"title": "jdeferred: create initial gradle build layout",
+				"url": "https://github.com/aalmiray/jdeferred/commit/00b63f697b1092a74164e1102fbd5c82b85ff6a1"
+			},
+			{
+				"title": "jdeferred: added generating of pom files for .aar and .apklib builds in android subproject",
+				"url": "https://github.com/aalmiray/jdeferred/commit/0de50966fa5951e422666e6449da810ff4be5b1e"
+			}
+		]
+	}, {
+		"date": "2016-11-03",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvpbfb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "OpenJDK 9 split package detection tool proposal",
+				"url": "https://github.com/reinhapa/jsplitpkgscan"
+			},
+			{
+				"title": "SportChef: Implement new design of login dialog",
+				"url": "https://github.com/McPringle/sportchef/issues/290"
+			},
+			{
+				"title": "SportChef: Use TLS (HTTPS) on sportchef.ch",
+				"url": "https://github.com/McPringle/sportchef/issues/283"
+			},
+			{
+				"title": "SportChef: Create the design of a project website",
+				"url": "https://github.com/McPringle/sportchef/issues/293"
+			},
+			{
+				"title": "Torch (Machine Learning Framework) Linear & Convolution written in plain C, usable for micro controllers",
+				"url": "https://github.com/syzer/ml-torch"
+			},
+			{
+				"title": "DDErl: Opening a saved view should stay inside the visible screen",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/issues/97"
+			},
+			{
+				"title": "DDErl: Injection of application metrics into the monitoring chain defined"
+			},
+			{
+				"title": "DDErl: Started the definition of a Vagrant machine to make it easier to newcomers to start working on DDErl"
+			},
+			{
+				"title": "Worked through a Vagrant Tutorial"
+			}
+		]
+	}, {
+		"date": "2016-11-02",
+		"location": "Casablanca, Morocco",
+		"title": "Devoxx MA",
+		"links": [{
+			"title": "Program",
+			"url": "https://devoxx.ma/#program"
+		}],
+		"achievements": [{
+				"title": "jdferred: Added cancel capability to Promise.",
+				"url": "https://github.com/jdeferred/jdeferred/pull/81"
+			},
+			{
+				"title": "griffon: Artifact template name is not constraint ",
+				"url": "https://github.com/griffon/griffon/issues/176"
+			},
+			{
+				"title": "lazybones-templates: Upgrade gradle-quickstart template",
+				"url": "https://github.com/aalmiray/lazybones-template-collection/pull/8"
+			},
+			{
+				"title": "grpc-java-demos: Added better RxJava example",
+				"url": "https://github.com/saturnism/grpc-java-demos/commit/f8c95ab87df9356d97369077130659cbe0066a83"
+			},
+			{
+				"title": "javaee-security-spec: Rename LDap to Ldap",
+				"url": "https://github.com/javaee-security-spec/soteria/pull/19"
+			}
+		]
+	}, {
+		"date": "2016-10-27",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/234772591/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: Fixed broken AutoInstall",
+				"url": "https://github.com/McPringle/sportchef/commit/ed942d4e33896def8355ee2a58290256129aeaf0"
+			},
+			{
+				"title": "SportChef: Fixed duplicate imports",
+				"url": "https://github.com/McPringle/sportchef/commit/d08ce933e9cd86a3a05f7bda831736b7426c0732"
+			},
+			{
+				"title": "SportChef: Fixed date/time display format",
+				"url": "https://github.com/McPringle/sportchef/commit/55624dfc72c44f505b54cb1552eadaf58296628a"
+			},
+			{
+				"title": "Naum: set java version of idea project to 1.7",
+				"url": "https://github.com/aalmiray/naum/commit/73dd4378a666e19feb45add57f2a88feddcf697b"
+			},
+			{
+				"title": "Naum: add differ check for field values of final static fields",
+				"url": "https://github.com/aalmiray/naum/commit/e0b0759291fb3cb65688b6874626b05c74385561"
+			},
+			{
+				"title": "Naum: Merge remote-tracking branch 'origin/master' into annotationDiffer",
+				"url": "https://github.com/aalmiray/naum/commit/9aaa975ad6844e7152e47e9debae02ac85dbc8ef"
+			},
+			{
+				"title": "Naum: Add ci/coverage badges to readme",
+				"url": "https://github.com/aalmiray/naum/commit/dc45e347e38e4064f0fa23df54b6a171c6387bf9"
+			},
+			{
+				"title": "Naum: Enable aggregate code coverage reports",
+				"url": "https://github.com/aalmiray/naum/commit/4f39e15fb229ece4b0a815e4a4b87a2633653df4"
+			}
+		]
+	}, {
+		"date": "2016-10-26",
+		"location": "Zurich, Switzerland",
+		"title": "Liip Office Zurich",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Zurich/events/234496644/"
+			},
+			{
+				"title": "where is the Liip Office",
+				"url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-10-06",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Luzern/events/233797179/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: Added Docker Health Checks",
+				"url": "https://github.com/McPringle/sportchef/pull/289"
+			},
+			{
+				"title": "DDErl: Interface design",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "rtc2git: Prototyping of a possible issue solution",
+				"url": "https://github.com/rtcTo/rtc2git/issues/97#issuecomment-252084138"
+			},
+			{
+				"title": "Got BCI injection of JFR events to work",
+				"url": ""
+			},
+			{
+				"title": "Release Basilisk 0.3.0",
+				"url": "http://basilisk-user.1128066.n5.nabble.com/ANN-Basilisk-0-3-0-released-td40.html"
+			},
+			{
+				"title": "basilisk: build scripts don't work with gradle 3.1",
+				"url": "https://github.com/basilisk-fw/basilisk/issues/27"
+			},
+			{
+				"title": "basilisk: Explicitly identify MVC members and arguments in MVC artifacts",
+				"url": "https://github.com/basilisk-fw/basilisk/issues/28"
+			},
+			{
+				"title": "groovyfx: Grape examples appear to be incomplete ",
+				"url": "https://github.com/groovyfx-project/groovyfx/issues/42"
+			},
+			{
+				"title": "groovyfx: Running samples with JDK9 results in exception",
+				"url": "https://github.com/groovyfx-project/groovyfx/issues/52"
+			}
+		]
+	}, {
+		"date": "2016-09-28",
+		"location": "Zurich, Switzerland",
+		"title": "Liip Office Zurich",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Zurich/events/233827030/"
+			},
+			{
+				"title": "where is the Liip Office",
+				"url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-09-28",
+		"location": "Stuttgart, Germany",
+		"title": "codecentric Office Stuttgart",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Stuttgart/events/233761648/"
+			},
+			{
+				"title": "where is the codecentric Office",
+				"url": "https://www.google.de/maps/place/Curiestraße+2,+70563+Stuttgart/@48.73781,9.1104113,17z"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-09-22",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/233558076"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+			"title": "ldap-auth tests with in memory ldap server",
+			"url": "https://github.com/hackergarten/LdapAuth/pull/4"
+		}]
+	}, {
+		"date": "2016-09-19",
+		"location": "San Francisco, USA",
+		"title": "JavaOne",
+		"links": [{
+			"title": "Schedule",
+			"url": "https://community.oracle.com/docs/DOC-997220"
+		}],
+		"achievements": []
+	}, {
+		"date": "2016-09-01",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvmbcb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "JDK 9: ClassLoader: add resource methods returning java.util.stream.Stream",
+				"url": "http://cr.openjdk.java.net/~reinhapa/reviews/8161230/webrev.00/"
+			},
+			{
+				"title": "DDErl: draggable legend for x-y-charts",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/commit/bd3ffa253ec80c92f07ebbcd4f6c2f71d627b18d"
+			},
+			{
+				"title": "SportChef: Switched from JUnit 4 to JUnit 5",
+				"url": "https://github.com/McPringle/sportchef"
+			},
+			{
+				"title": "SportChef: Corrected a problem with the data directory",
+				"url": "https://github.com/McPringle/sportchef"
+			},
+			{
+				"title": "SportChef: Designed the login dialog to look like the mockup",
+				"url": "https://github.com/McPringle/sportchef"
+			}
+		]
+	}, {
+		"date": "2016-08-04",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/231301960/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "RFR: JDK-8161230 – Create Stream from Iterator/Enumeration",
+				"url": "http://mail.openjdk.java.net/pipermail/core-libs-dev/2016-August/042752.html"
+			},
+			{
+				"title": "Clojure Protobuf: Use directly built binaries (via protoc) for the tests",
+				"url": "https://github.com/arpagaus/clj-protobuf/commit/c5464fe2394dd058ed91d52f088b164197df0bc8"
+			},
+			{
+				"title": "5 wiring diagrams for Arduino basic research projects",
+				"url": "https://bitbucket.org/thomasstauffer666/arduino"
+			},
+			{
+				"title": "SportChef: New logo design and new logo font",
+				"url": "https://github.com/McPringle/sportchef/issues/286"
+			},
+			{
+				"title": "SportChef: Load custom imprint dynamically",
+				"url": "https://github.com/McPringle/sportchef/commit/de8092b33975cc0357fb0ccc7e4980a142fb6c93"
+			},
+			{
+				"title": "SportChef: Fix for header hiding parts of modal dialogs",
+				"url": "https://github.com/McPringle/sportchef/commit/b0c1c5e04e33690400604833200577af00e1004e"
+			}
+		]
+	}, {
+		"date": "2016-07-27",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/232733494/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-07-07",
+		"location": "Stuttgart, Germany",
+		"title": "Java Forum Stuttgart",
+		"links": [{
+				"title": "Meetup",
+				"url": "https://www.meetup.com/Hackergarten-Stuttgart/events/231738975/"
+			},
+			{
+				"title": "Conference Program",
+				"url": "http://www.java-forum-stuttgart.de/de/Programm.html"
+			}
+		],
+		"achievements": [{
+				"title": "Spock Tutorial",
+				"url": "https://spockframework.org"
+			},
+			{
+				"title": "Hackergarten Website RSS feed",
+				"url": "https://github.com/hackergarten/hackergarten.github.io/pull/86"
+			},
+			{
+				"title": "JSON Hacking"
+			}
+		]
+	}, {
+		"date": "2016-07-07",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/231301960/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef deployment on GCE",
+				"url": "http://sportchef.ch"
+			},
+			{
+				"title": "DDerl unit test using karma and jasmin",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/tree/dder-refactor-modules"
+			},
+			{
+				"title": "JavaFX editor for Hackergarten Infrastructure",
+				"url": "https://github.com/reinhapa/eventeditor"
+			},
+			{
+				"title": "Java Flight Simulator Demo Code for Conference Talk"
+			},
+			{
+				"title": "DDErl: Created bar chart diagrams based on CSV query result",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "Pick up pictures from CouchDB Attachments and display on the mobile"
+			}
+		]
+	}, {
+		"date": "2016-06-30",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/231793848/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-06-28",
+		"location": "São Paulo, Brazil",
+		"title": "Java One Brazil",
+		"links": [{
+			"title": "June 28/29/30 at JavaHub",
+			"url": "https://www.oracle.com/br/en/javaone/java-hub.html#hackergarten"
+		}],
+		"achievements": []
+	}, {
+		"date": "2016-06-02",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/230485923/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Pong: Created a Pong game with Clojure"
+			},
+			{
+				"title": "DDErl: Created diagrams based on SQL results",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "Moodini: Implemented a RESTful JSON API",
+				"url": "https://github.com/McPringle/moodini"
+			}
+		]
+	}, {
+		"date": "2016-06-01",
+		"location": "Copenhagen, Denmark",
+		"title": "Gr8conf EU",
+		"links": [{
+			"title": "Hackergarten on Tour",
+			"url": "http://gr8conf.eu/#/talk/270"
+		}],
+		"achievements": []
+	}, {
+		"date": "2016-06-01",
+		"location": "Bern, Switzerland",
+		"title": "SBB",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de-DE/Hackergarten-Bern/events/231096131/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "Moodini: Started a Mood Application project",
+				"url": "https://github.com/McPringle/moodini"
+			},
+			{
+				"title": "Babun: Hunting for bugs",
+				"url": "https://github.com/babun/babun"
+			}
+		]
+	}, {
+		"date": "2016-05-26",
+		"location": "Sofia, Bulgaria",
+		"title": "JPrime",
+		"links": [{
+			"title": "Conference Website",
+			"url": "http://jprime.io/"
+		}],
+		"achievements": []
+	}, {
+		"date": "2016-05-12",
+		"location": "Zurich, Switzerland",
+		"title": "ELCA Informatik AG",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Zurich/events/230563975/"
+			},
+			{
+				"title": "Where is ELCA Informatik AG?",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Birmersdorferstrasse+94,+Z%C3%BCrich,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "JUnit 5: Configure additional metadata on JAR manifest",
+				"url": "https://github.com/junit-team/junit5/pull/239"
+			},
+			{
+				"title": "JUnit 5: Gradle build revamp",
+				"url": "https://github.com/junit-team/junit5/pull/256"
+			},
+			{
+				"title": "SportChef: Get rid of Java EE dependency",
+				"url": "https://github.com/McPringle/sportchef/issues/270"
+			},
+			{
+				"title": "SportChef: Use Swagger to document our RESTful JSON API",
+				"url": "https://github.com/McPringle/sportchef/issues/275"
+			}
+		]
+	}, {
+		"date": "2016-05-05",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvhbhb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "DDErl: D3.js graphics visualisation integration",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/issues/233"
+			},
+			{
+				"title": "DDErl: Broken >| and ... icons",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/issues/240"
+			},
+			{
+				"title": "SportChef: Create a design to add/edit/delete events",
+				"url": "https://github.com/McPringle/sportchef/issues/206"
+			},
+			{
+				"title": "SportChef: Design a user profile page",
+				"url": "https://github.com/McPringle/sportchef/issues/266"
+			},
+			{
+				"title": "SportChef: Change the color of the Logout button",
+				"url": "https://github.com/McPringle/sportchef/issues/268"
+			},
+			{
+				"title": "Integrate JUnit 5 Events into Java Flight Recorder"
+			},
+			{
+				"title": "JUnit 5: Configure additional metadata on JAR manifest",
+				"url": "https://github.com/junit-team/junit5/pull/239"
+			}
+		]
+	}, {
+		"date": "2016-04-28",
+		"location": "Lugano, Switzerland",
+		"title": "Devoxx Days Ticino Hackergarten",
+		"links": [{
+				"title": "Location USI - Room SI-008"
+			},
+			{
+				"title": "Announcement",
+				"url": "https://groups.google.com/forum/#!msg/juglugano/cYhpfg91tzY/Ren6E5vxIwAJ"
+			}
+		],
+		"achievements": [{
+				"title": "Alf.io: add logout functionality",
+				"url": "https://github.com/exteso/alf.io/pull/121"
+			},
+			{
+				"title": "jhm-gradle: fix multiple profiler support",
+				"url": "https://github.com/melix/jmh-gradle-plugin/commit/069a4ad12d9bbe9ba5c9eb1885d48ad0146a6889"
+			},
+			{
+				"title": "jmh-gradle: add JaCoCo configuration",
+				"url": "https://github.com/melix/jmh-gradle-plugin/commit/1e82f1c1b85f99ae1effef89f32a828a40fc0038"
+			},
+			{
+				"title": "jmh-gradle: add project badges to README",
+				"url": "https://github.com/melix/jmh-gradle-plugin/commit/72f6c7e9efcef53b9540cae8941dd6813e57dd74"
+			},
+			{
+				"title": "stats-gradle: handle more filey types; aggregate reports; make new 0.2.0 release",
+				"url": "https://github.com/aalmiray/stats-gradle-plugin"
+			}
+		]
+	}, {
+		"date": "2016-04-27",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/230483837/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: The RSA JSON Web Key should persist server restarts",
+				"url": "https://github.com/McPringle/sportchef/issues/239"
+			},
+			{
+				"title": "SportChef: Add Authy Onetouch as Login Alternative",
+				"url": "https://github.com/McPringle/sportchef/issues/259"
+			},
+			{
+				"title": "SportChef: A user should be able to logout",
+				"url": "https://github.com/McPringle/sportchef/issues/260"
+			}
+		]
+	}, {
+		"date": "2016-04-27",
+		"location": "Gdansk, Poland",
+		"title": "Nordea Market Capitals IT",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/230290254/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Aleja+Grunwaldzka+472b,+Gdansk,+pl"
+			}
+		],
+		"achievements": [{
+				"title": "Hazelcast: Optimised type conversion in queries",
+				"url": "https://github.com/hazelcast/hazelcast/pull/8034"
+			},
+			{
+				"title": "Hazelcast: Added caching to value conversion in predicates",
+				"url": "https://github.com/hazelcast/hazelcast/pull/8035"
+			},
+			{
+				"title": "Babun: fixed the build",
+				"url": "https://github.com/babun/babun/pull/616"
+			}
+		]
+	}, {
+		"date": "2016-04-20",
+		"location": "Paris, France",
+		"title": "Devoxx FR",
+		"links": [{
+			"title": "Activities @ Devoxx FR",
+			"url": "http://devoxx.fr/agenda/2016"
+		}],
+		"achievements": [{
+				"title": "Upgrade gradle build on Json-lib",
+				"url": "https://github.com/aalmiray/json-lib"
+			},
+			{
+				"title": "Added stacked icon support",
+				"url": "https://github.com/aalmiray/ikonli"
+			}
+		]
+	}, {
+		"date": "2016-04-07",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvgbkb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "JUnit Compat Library: New release on Maven Central",
+				"url": "http://search.maven.org/#artifactdetails%7Cnet.reini%7Cjunit-compat%7C1.1.0%7Cjar"
+			},
+			{
+				"title": "DDerl: Fixed a bug in the SQL engine",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/pull/199"
+			},
+			{
+				"title": "DDerl: Fixed session timeout bug on login page",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/pull/197"
+			},
+			{
+				"title": "DDerl: Fixed a bug with drag and drop column reordering",
+				"url": "https://github.com/K2InformaticsGmbH/dderl/issues/192"
+			},
+			{
+				"title": "SportChef: Fixed build problem with old Maven version",
+				"url": "https://github.com/McPringle/sportchef/pull/242"
+			},
+			{
+				"title": "SportChef: Create snapshots of persistence store on server shutdown",
+				"url": "https://github.com/McPringle/sportchef/issues/244"
+			}
+		]
+	}, {
+		"date": "2016-03-31",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/229280644/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "groovyFX: PR #38",
+				"url": "https://github.com/groovyfx-project/groovyfx/pull/38"
+			},
+			{
+				"title": "asciidoctorj-screenshot: Version 0.1.0 released",
+				"url": "https://github.com/sclassen/asciidoctorj-screenshot"
+			},
+			{
+				"title": "Lazybones Template for Dolphin Platform released",
+				"url": "https://github.com/canoo/dolphin-platform-lazybones-templates"
+			}
+		]
+	}, {
+		"date": "2016-03-08",
+		"location": "JavaLand Conference, Phantasialand, Brühl/Köln, Germany",
+		"title": "Javaland",
+		"links": [{
+			"title": "Javaland Program, see 'Early Adopters Area'",
+			"url": "http://www.javaland.eu/de/programm/community-aktivitaeten/"
+		}],
+		"achievements": [{
+				"title": "jmh-gradle-plugin: merged PR #57",
+				"url": "https://github.com/melix/jmh-gradle-plugin/pull/57"
+			},
+			{
+				"title": "jmh-gradle-plugin: prepared release 0.3.0",
+				"url": "https://twitter.com/CedricChampeau/status/707482041466667008"
+			},
+			{
+				"title": "groovyfx: Move most metaclass enhancements to groovy module. Fixes #36",
+				"url": "https://github.com/groovyfx-project/groovyfx/commit/f3d0291a61e9a773cbc78e21d95d4134f398b9f2"
+			},
+			{
+				"title": "asciidoctor-gradle-org: PR #184 Use Asciidoctor.requireLibraries()",
+				"url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/pull/184"
+			},
+			{
+				"title": "jbake: PR #269 Enable gemPath and requires properties on Asciidoctor",
+				"url": "https://github.com/jbake-org/jbake/pull/269"
+			}
+		]
+	}, {
+		"date": "2016-03-03",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvfbfb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "DDerl: Authentication Logger",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "JEP 275: Modular Java Application Packaging",
+				"url": "http://openjdk.java.net/jeps/275"
+			},
+			{
+				"title": "SportChef: Create the design for the login dialog",
+				"url": "https://github.com/McPringle/sportchef/issues/147"
+			},
+			{
+				"title": "SportChef: Enhancing code readability",
+				"url": "https://github.com/McPringle/sportchef/pull/192"
+			},
+			{
+				"title": "SportChef: Write tests for the EventRepository",
+				"url": "https://github.com/McPringle/sportchef/issues/187"
+			},
+			{
+				"title": "SportChef: Use a date picker component for the event date",
+				"url": "https://github.com/McPringle/sportchef/issues/115"
+			}
+		]
+	}, {
+		"date": "2016-02-25",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/228425406/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Groja incarnation, a Groovy Java Jointcompiler",
+				"url": "https://github.com/blackdrag/Groja"
+			},
+			{
+				"title": "SportChef: Fixed problems with wrong data directory",
+				"url": "https://github.com/McPringle/sportchef/pull/175"
+			},
+			{
+				"title": "SportChef: Extending Unit Tests for AJAX Uploads",
+				"url": "https://github.com/McPringle/sportchef/issues/176"
+			},
+			{
+				"title": "SportChef: Implemented Optimistic Lock",
+				"url": "https://github.com/McPringle/sportchef/issues/46"
+			}
+		]
+	}, {
+		"date": "2016-02-24",
+		"location": "Zurich, Switzerland",
+		"title": "Liip",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Zurich/events/228779639/"
+			},
+			{
+				"title": "Where is Liip?",
+				"url": "https://maps.google.com/maps?f=q&hl=en&q=Limmatstrasse+183%2C+Zürich%2C+ch"
+			}
+		],
+		"achievements": [{
+			"title": "SportChef: Writing Unit Tests for AJAX Uploads",
+			"url": "https://github.com/McPringle/sportchef/issues/167"
+		}]
+	}, {
+		"date": "2016-02-04",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/225176075/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: Implement passwordless authentication",
+				"url": "https://github.com/McPringle/sportchef/issues/36"
+			},
+			{
+				"title": "DDerl: Fix Oracle CSV export",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "Discussion about event based content management systems"
+			}
+		]
+	}, {
+		"date": "2016-01-28",
+		"location": "Zurich, Switzerland",
+		"title": "Citizen Space Zurich",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Zurich/events/228032480/"
+			},
+			{
+				"title": "where is the Citizen Space Zurich",
+				"url": "https://goo.gl/maps/wq5bcBSM6bk"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2016-01-27",
+		"location": "Bern, Switzerland",
+		"title": "SBB",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Bern/events/228176399/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: Different events should be shown in different colors",
+				"url": "https://github.com/McPringle/sportchef/issues/91"
+			},
+			{
+				"title": "asciidoctor-intellij-plugin: Implement toolbar with bold, italic, etc.",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/38"
+			},
+			{
+				"title": "Babun Shell: Added solution to issue289 on faq",
+				"url": "https://github.com/babun/babun/pull/561"
+			},
+			{
+				"title": "Electron: Evaluation",
+				"url": "http://electron.atom.io/"
+			}
+		]
+	}, {
+		"date": "2016-01-21",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de-DE/Hackergarten-Basel/events/227987876/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Canoo Radio: Fixed localhost Stream-URL",
+				"url": "https://github.com/canoo/canoo-radio/pull/42"
+			},
+			{
+				"title": "Canoo Radio: Backend for recent uploaded list",
+				"url": "https://github.com/canoo/canoo-radio/pull/43"
+			},
+			{
+				"title": "Sportchef: Use default image fallback",
+				"url": "https://github.com/McPringle/sportchef/pull/109"
+			},
+			{
+				"title": "Sportchef: Added some colors",
+				"url": "https://github.com/McPringle/sportchef/pull/110"
+			}
+		]
+	}, {
+		"date": "2016-01-07",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglyvcbkb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "Clojure Protocol Buffer: Schema Definition",
+				"url": "https://github.com/arpagaus/clj-protobuf"
+			},
+			{
+				"title": "Airomem: Make data directory configurable",
+				"url": "https://github.com/airomem/airomem"
+			},
+			{
+				"title": "SportChef: UI fixes &amp: graphic design",
+				"url": "https://github.com/McPringle/sportchef"
+			}
+		]
+	}, {
+		"date": "2015-12-10",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/226695353/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Canoo Radio: Allow voting on current song",
+				"url": "https://github.com/canoo/canoo-radio/issues/12"
+			},
+			{
+				"title": "Canoo Radio: Adding play counts for the top songs",
+				"url": "https://github.com/canoo/canoo-radio/issues/11"
+			},
+			{
+				"title": "Canoo Radio: Show time to and time elapsed in human readable format instead of duration",
+				"url": "https://github.com/canoo/canoo-radio/issues/29"
+			},
+			{
+				"title": "SportChef: Image Upload for Events",
+				"url": "https://github.com/McPringle/sportchef/issues/42"
+			},
+			{
+				"title": "SportChef: CSS Navigation-Styles",
+				"url": "https://github.com/McPringle/sportchef/pull/51"
+			},
+			{
+				"title": "SportChef: Delete Events",
+				"url": "https://github.com/McPringle/sportchef/pull/56"
+			},
+			{
+				"title": "SportChef: Added base style for paper-cards",
+				"url": "https://github.com/McPringle/sportchef/pull/53"
+			}
+		]
+	}, {
+		"date": "2015-12-03",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/226228863/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: Add Persistence Layer (noDB)",
+				"url": "https://github.com/McPringle/sportchef/issues/44"
+			},
+			{
+				"title": "DDerl: Automatic Charset Detection",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "Clojure Protocol Buffer: Schema Definition",
+				"url": "https://github.com/arpagaus/clj-protobuf"
+			},
+			{
+				"title": "Scala &amp; Akka Streams Discussions and Tests"
+			}
+		]
+	}, {
+		"date": "2015-12-02",
+		"location": "Zurich, Switzerland",
+		"title": "Liip",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de/Hackergarten-Zurich/events/226855098/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://goo.gl/maps/mMlSy"
+			}
+		],
+		"achievements": []
+	}, {
+		"date": "2015-11-17",
+		"location": "Casablanca, Morocco",
+		"title": "Devoxx Morocco",
+		"links": [{
+				"title": "Gradle Hackergarten",
+				"url": "http://cfp.devoxx.ma/2015/talks/hack"
+			},
+			{
+				"title": "Get in touch",
+				"url": "http://cfp.devoxx.ma/2015/speaker/rene_groeschke"
+			}
+		]
+	}, {
+		"date": "2015-11-05",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/225176016/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: input form for events (Polymer)",
+				"url": "https://github.com/McPringle/sportchef"
+			},
+			{
+				"title": "DDerl: Bugfixing (Erlang CSV Driver)",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "Clojure Protocol Buffer Library: initial commits",
+				"url": "https://github.com/arpagaus/clj-protobuf"
+			}
+		]
+	}, {
+		"date": "2015-10-26",
+		"location": "San Francisco, USA",
+		"title": "JavaOne",
+		"links": [{
+			"title": "Schedule",
+			"url": "https://community.oracle.com/community/java/jcp/hackergarten"
+		}]
+	}, {
+		"date": "2015-10-22",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/225840462/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+			"title": "SportChef: Evaluation of Google Polymer",
+			"url": "https://github.com/McPringle/sportchef/pull/22"
+		}]
+	}, {
+		"date": "2015-10-01",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglytnbcb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		],
+		"achievements": [{
+				"title": "SportChef: new login page"
+			},
+			{
+				"title": "DDerl: text adaptor to read CSV and JSON files",
+				"url": "https://github.com/K2InformaticsGmbH/dderl"
+			},
+			{
+				"title": "Clojure Protocol Buffer Library: concept creation"
+			}
+		]
+	}, {
+		"date": "2015-09-30",
+		"location": "Bern, Switzerland",
+		"title": "SBB, Haslerstrasse 30",
+		"links": [],
+		"achievements": [{
+				"title": "Created a new Meetup page for Hackergarten Bern",
+				"url": "http://www.meetup.com/Hackergarten-Bern/"
+			},
+			{
+				"title": "IntelliJ AsciiDoc Plugin (wip): Title action should let the cursor on the same line #87",
+				"url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/87"
+			},
+			{
+				"title": "Babun Shell: Remove duplicate property CHECK_TIMEOUT_IN_SECS",
+				"url": "https://github.com/babun/babun/pull/466"
+			}
+		]
+	}, {
+		"date": "2015-09-24",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/225033736/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Lazybones Templates: Updated lazybones afterburner templates",
+				"url": "https://github.com/aalmiray/lazybones-template-collection"
+			},
+			{
+				"title": "griffon-preferences-plugin: Add support for default values to PreferencesNode",
+				"url": "https://github.com/griffon-plugins/griffon-preferences-plugin/pull/6"
+			}
+		]
+	}, {
+		"date": "2015-08-27",
+		"location": "Zurich, Switzerland",
+		"title": "Liip Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Zurich/events/224538776/"
+			},
+			{
+				"title": "How to find us",
+				"url": "https://goo.gl/maps/mMlSy"
+			}
+		]
+	}, {
+		"date": "2015-08-25",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/224530234/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		],
+		"achievements": [{
+				"title": "Added details modal for hackergarten events to main website"
+			},
+			{
+				"title": "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)"
+			},
+			{
+				"title": "GrooxyFx: Upgrade Gradle Version",
+				"url": "https://github.com/groovyfx-project/groovyfx/pull/12"
+			},
+			{
+				"title": "GrooxyFx: Fix MenuDemo",
+				"url": "https://github.com/groovyfx-project/groovyfx/pull/21"
+			},
+			{
+				"title": "GrooxyFx: Fix wrong class reference",
+				"url": "https://github.com/groovyfx-project/groovyfx/pull/22"
+			},
+			{
+				"title": "GrooxyFx: Fix Java8 Compatibility",
+				"url": "https://github.com/groovyfx-project/groovyfx/issues/13"
+			},
+			{
+				"title": "GrooxyFx: Fix FxBindable",
+				"url": "https://github.com/groovyfx-project/groovyfx/issues/23"
+			},
+			{
+				"title": "GrooxyFx: SceneGraphBuilder registered twice",
+				"url": "https://github.com/groovyfx-project/groovyfx/issues/18"
+			}
+		]
+	}, {
+		"date": "2015-08-06",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/222815719/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		]
+	}, {
+		"date": "2015-07-30",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/223735767/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		]
+	}, {
+		"date": "2015-07-23",
+		"location": "Stuttgart, Germany",
+		"title": "codecentric AG",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/de/Hackergarten-Stuttgart/events/223355452/"
+			},
+			{
+				"title": "Find us in the 3rd floor:",
+				"url": "https://www.google.de/maps/place/Curiestra%C3%9Fe+2,+70563+Stuttgart/@48.73781,9.1126,17z/data=!3m1!4b1!4m2!3m1!1s0x4799dc5e98d9e9a3:0x3abf6880c5a75bf7"
+			}
+		]
+	}, {
+		"date": "2015-07-14",
+		"location": "Dortmund, Germany",
+		"title": "JUG DO Hackergarten July",
+		"links": [{
+			"title": "Event on Xing",
+			"url": "https://www.xing.com/events/hackergarten-juli-1571019?came_from=12"
+		}]
+	}, {
+		"date": "2015-07-02",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/222815712/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		]
+	}, {
+		"date": "2015-06-25",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/222449914/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		]
+	}, {
+		"date": "2015-06-24",
+		"location": "Friedrichshafen/Immenstaad, Germany",
+		"title": "JUG Bodensee (3rd Hackergarten)",
+		"links": [{
+			"title": "Meetup",
+			"url": "http://www.meetup.com/JUG-Bodensee/events/223353294/"
+		}]
+	}, {
+		"date": "2015-06-17",
+		"location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
+		"title": "DWX 2015",
+		"links": [{
+			"title": "Hackergarten Activities",
+			"url": "http://www.developer-week.de/Specials/Hackergarten"
+		}]
+	}, {
+		"date": "2015-06-04",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglytjbgb/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		]
+	}, {
+		"date": "2015-06-02",
+		"location": "IT-University, Copenhagen, DK",
+		"title": "GR8Conf Europe 2015",
+		"links": [{
+				"title": "GR8Conf",
+				"url": "http://www.gr8conf.eu"
+			},
+			{
+				"title": "Description",
+				"url": "http://gr8conf.eu/#/talk/158"
+			}
+		]
+	}, {
+		"date": "2015-05-07",
+		"location": "Friedrichshafen/Immenstaad, Germany",
+		"title": "JUG Bodensee (2nd Hackergarten)",
+		"links": [{
+			"title": "Meetup",
+			"url": "http://www.meetup.com/JUG-Bodensee/events/222206632/"
+		}]
+	}, {
+		"date": "2015-05-07",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/hjxkglythbkb/"
+			},
+			{
+				"title": "Attention, we have a new place to meet: How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		]
+	}, {
+		"date": "2015-04-29",
+		"location": "Zürich, Switzerland",
+		"title": "looking for a location",
+		"links": [{
+			"title": "Meetup",
+			"url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/"
+		}]
+	}, {
+		"date": "2015-04-24",
+		"location": "Bangalore, India",
+		"title": "GIDS 2015",
+		"links": [{
+			"title": "GIDS Schedule",
+			"url": "http://www.developermarch.com/developersummit/conference.html"
+		}]
+	}, {
+		"date": "2015-04-23",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/TAdE3eQ8E_4"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/221672648/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		]
+	}, {
+		"date": "2015-04-18",
+		"location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
+		"title": "Voxxed Days Ticino 2015",
+		"links": [{
+			"title": "VoxxedDays Ticino '15 Schedule",
+			"url": "https://www.voxxed.com/days-ticino15/#np-3892"
+		}]
+	}, {
+		"date": "2015-04-14",
+		"location": "Bern, Switzerland",
+		"title": "SBB Offices",
+		"links": [{
+			"title": "Location",
+			"url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"
+		}]
+	}, {
+		"date": "2015-04-08",
+		"location": "Paris, France",
+		"title": "Devoxx FR",
+		"links": [{
+			"title": "Info",
+			"url": "http://www.devoxx.fr/dvxfr15-hackergarten/"
+		}]
+	}, {
+		"date": "2015-04-02",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/sfqpflytgbdb/"
+			},
+			{
+				"title": "Attention, we have a new place to meet: How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			}
+		]
+	}, {
+		"date": "2015-03-26",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/j0Z7SP73Kcc"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/220947562/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		]
+	}, {
+		"date": "2015-03-24",
+		"location": "Javaland",
+		"title": "Hackergarten on tour",
+		"links": [{
+			"title": "Community activities",
+			"url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"
+		}]
+	}, {
+		"date": "2015-03-14",
+		"location": "Skopje",
+		"title": "Netcetera",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://doodle.com/y69k2mstdhr2m32y#table"
+			},
+			{
+				"title": "Address",
+				"url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"
+			}
+		]
+	}, {
+		"date": "2015-03-10",
+		"location": "Gdansk, Poland",
+		"title": "Trojmiasto Java User Group",
+		"links": [{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Trojmiasto-Java-User-Group/events/220850086/"
+			},
+			{
+				"title": "Address",
+				"url": "http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl"
+			}
+		]
+	}, {
+		"date": "2015-03-05",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/rsriBpRJRI8"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/220555938/"
+			},
+			{
+				"title": "How to find us",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+			},
+			{
+				"title": "CSS Versicherung",
+				"url": "https://www.css.ch/"
+			}
+		]
+	}, {
+		"date": "2015-02-26",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/j0Z7SP73Kcc"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/220246661/"
+			},
+			{
+				"title": "where is Canoo Office",
+				"url": "http://www.canoo.com/service/contact/?l=en"
+			}
+		]
+	}, {
+		"date": "2015-01-29",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/1RTOQhHHqx4"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/219080626/"
+			},
+			{
+				"title": "CSS Versicherung",
+				"url": "https://www.css.ch/"
+			}
+		]
+	}, {
+		"date": "2015-01-22",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/ja4dcrMKeOc"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/219062374/"
+			}
+		]
+	}, {
+		"date": "2014-12-10",
+		"location": "Airbus Defence & Space",
+		"title": "BG9 / 9078 ",
+		"links": [{
+			"title": "Meetup",
+			"url": "http://www.meetup.com/JUG-Bodensee/events/219065485/"
+		}]
+	}, {
+		"date": "2014-11-27",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/OqnEwkvjD8w"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/218639052/"
+			}
+		]
+	}, {
+		"date": "2014-11-24",
+		"location": "Lucerne, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "GoogleGroup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+			},
+			{
+				"title": "CSS Versicherung",
+				"url": "https://www.css.ch/"
+			}
+		]
+	}, {
+		"date": "2014-10-30",
+		"location": "Basel, Switzerland",
+		"title": "Hackergarten Basel October",
+		"links": [{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/b4VqwExj5-c"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/211695852/"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com/service/contact/"
+			}
+		]
+	}, {
+		"date": "2014-10-23",
+		"location": "Zürich, Switzerland",
+		"title": "Technopark",
+		"links": [{
+			"title": "Meetup",
+			"url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
+		}]
+	}, {
+		"date": "2014-10-09",
+		"location": "Luzern, Switzerland",
+		"title": "CSS Versicherung",
+		"links": [{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/EFYWD3XY0XQ"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Luzern/events/205357062/"
+			},
+			{
+				"title": "CSS Versicherung",
+				"url": "https://www.css.ch/"
+			}
+		]
+	}, {
+		"date": "2014-09-25",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/Z9zJ0AEyNN4"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/205893392/"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com/service/contact/"
+			}
+		]
+	}, {
+		"date": "2014-09-09",
+		"location": "Oslo, Norway",
+		"title": "Teknologihuset",
+		"links": [{
+			"title": "Meetup",
+			"url": "http://www.meetup.com/javaBin/events/201877622/"
+		}]
+	}, {
+		"date": "2014-08-28",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/gmEb10l3LXw"
+			},
+			{
+				"title": "Meetup",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/202478822/"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com/service/contact/"
+			}
+		]
+	}, {
+		"date": "2014-08-21",
+		"location": "Zürich, Switzerland",
+		"title": "Trivadis AG (Europa-Strasse 5 8152 Glattbrugg)",
+		"links": [{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/3rlRRReDaSg"
+			},
+			{
+				"title": "Google Event",
+				"url": "https://plus.google.com/events/cm2sh2dpdvjkdbqsmh2i456a4ho"
+			}
+		]
+	}, {
+		"date": "2014-06-25",
+		"location": "Basel, Switzerland",
+		"title": "General Hacking",
+		"links": [{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/8jSib53YcJg"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com/service/contact/"
+			}
+		]
+	}, {
+		"date": "2014-06-25",
+		"location": "Bern, Switzerland",
+		"title": "SBB",
+		"links": [{
+			"title": "Doodle Event",
+			"url": "http://doodle.com/2giabtf5dqnkgxw9#table"
+		}]
+	}, {
+		"date": "2014-06-19",
+		"location": "Zürich, Switzerland",
+		"title": "Event on Google+",
+		"links": [{
+			"title": "Google Event",
+			"url": "https://plus.google.com/events/c1jqmnpm8k77jvjhlvu1pfl5s7s"
+		}]
+	}, {
+		"date": "2014-06-02",
+		"location": "unknown",
+		"title": "GR8Conf Europe 2014",
+		"links": [{
+			"title": "GR8Conf",
+			"url": "http://www.gr8conf.eu"
+		}]
+	}, {
+		"date": "2014-05-22",
+		"location": "Basel, Switzerland",
+		"title": "ReGalAndroid, Groovy/Gradle, three.js and some other things.",
+		"links": [{
+				"title": "ReGalAndroid",
+				"url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
+			},
+			{
+				"title": "Meetup",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/MMRJUtPsGeI"
+			},
+			{
+				"title": "GoogleGroups",
+				"url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
+			}
+		]
+	}, {
+		"date": "2014-05-16",
+		"location": "unknown",
+		"title": "GeeCon 2014",
+		"links": [{
+			"title": "GeeCON",
+			"url": "http://2014.geecon.org"
+		}]
+	}, {
+		"date": "2014-05-08",
+		"location": "Technopark, Zürich, Switzerland",
+		"title": "Hacking mainly on JSR-354 API for Java 8 and JSR-354 TDK",
+		"links": [{
+			"title": "Google Event",
+			"url": "https://plus.google.com/events/clnrjmrnvh5dc1ahpd8rtalc2d0"
+		}]
+	}, {
+		"date": "2014-04-24",
+		"location": "Basel, Switzerland",
+		"title": "Some hacking in the area of WebRTC",
+		"links": [{
+				"title": "AngularJS",
+				"url": "https://angularjs.org/"
+			},
+			{
+				"title": "Iconic",
+				"url": "http://www.ionicframework.com"
+			},
+			{
+				"title": "MeetUp",
+				"url": "http://www.meetup.com/Hackergarten-Basel/events/175980272/"
+			},
+			{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/8GEeIoXsu8Q"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com/service/contact/"
+			}
+		]
+	}, {
+		"date": "2014-04-10",
+		"location": "Zürich, Switzerland",
+		"title": "Colab Zurich",
+		"links": [{
+				"title": "Google+",
+				"url": "https://plus.google.com/103936743237262644768/"
+			},
+			{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/pkw-gTCyAXA"
+			},
+			{
+				"title": "Colab Zürich",
+				"url": "http://www.colab-zurich.ch/"
+			}
+		]
+	}, {
+		"date": "2014-03-25",
+		"location": "unkown",
+		"title": "Javaland 2014 - Early Adopter's Area and Hackergarten",
+		"links": [{
+				"title": "Javaland 2014 - Early Adopter's Area",
+				"url": "http://www.javaland.eu/de/programm/community-aktivitaeten/early-adopters-area.html"
+			},
+			{
+				"title": "Javaland 2014 - Early Adopter's Area (english)",
+				"url": "http://www.javaland.eu/en/programm/community-aktivitaeten/early-adopters-area.html"
+			}
+		]
+	}, {
+		"date": "2014-03-22",
+		"location": "Nice, France",
+		"title": "AeroGear Hackergarten",
+		"links": [{
+				"title": "Les Satellites",
+				"url": "http://www.lessatellites.fr/"
+			},
+			{
+				"title": "Event",
+				"url": "http://aerogearhackergarten.eventbrite.com"
+			}
+		]
+	}, {
+		"date": "2014-03-06",
+		"location": "Zürich, Switzerland",
+		"title": "Colab",
+		"links": [{
+				"title": "Google+",
+				"url": "https://plus.google.com/103936743237262644768/posts/HEEDXDRmFTP"
+			},
+			{
+				"title": "GoogleGroups",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/hSH5YkUo-_w"
+			},
+			{
+				"title": "Colab Zürich",
+				"url": "http://www.colab-zurich.ch/"
+			}
+		]
+	}, {
+		"date": "2014-01-30",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+				"title": "more...",
+				"url": "https://groups.google.com/forum/#!topic/hackergarten/pst4SY1Hnt8"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com/service/contact/"
+			}
+		]
+	}, {
+		"date": "2013-12-03",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2013-10-17",
+		"location": "Basel, Switzerland",
+		"title": "Canoo Office",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2013-08-30",
+		"location": "Basel, Switzerland",
+		"title": "Ratpack JDBI Module and more....",
+		"links": [{
+				"title": "Ratpack JDBI Module",
+				"url": "https://github.com/ratpack/ratpack/pull/160"
+			},
+			{
+				"title": "Canoo Engineering AG",
+				"url": "http://www.canoo.com"
+			}
+		]
+	}, {
+		"date": "2013-06-05",
+		"location": "Marseille, France",
+		"title": "Marseille JUG.",
+		"links": [{
+			"title": "Marseille JUG",
+			"url": "http://marsjug.org/"
+		}]
+	}, {
+		"date": "2013-02-01",
+		"location": "Basel, Switzerland",
+		"title": "Spring time.",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2013-02-01",
+		"location": "Stockhold, Sweden",
+		"title": "JFokus 2 Day Hackergarten Event.",
+		"links": []
+	}, {
+		"date": "2012-02-01",
+		"location": "Basel & Lugano, Switzerland",
+		"title": "Mobile Development nights.",
+		"links": []
+	}, {
+		"date": "2011-12-08",
+		"location": "London, United Kingdom",
+		"title": "Groovy/Grails Exchange.",
+		"links": [{
+			"title": "Hackergarten",
+			"url": "http://skillsmatter.com/podcast/home/hackergarten"
+		}]
+	}, {
+		"date": "2011-11-14",
+		"location": "Antwerp, Belgium",
+		"title": "Devoxx.",
+		"links": []
+	}, {
+		"date": "2011-09-28",
+		"location": "Basel, Switzerland",
+		"title": "Android Night in Basel.",
+		"links": []
+	}, {
+		"date": "2011-08-26",
+		"location": "Basel, Switzerland",
+		"title": "Mirah Night in Basel.",
+		"links": []
+	}, {
+		"date": "2011-05-27",
+		"location": "Basel, Switzerland",
+		"title": "Hackergarten Basel and American BBQ.",
+		"links": []
+	}, {
+		"date": "2011-05-17",
+		"location": "Denmark",
+		"title": "GR8 Conference.",
+		"details": "We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.",
+		"links": []
+	}, {
+		"date": "2011-05-14",
+		"location": "Krakow",
+		"title": "GeeCON Conference.",
+		"details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
+		"links": []
+	}, {
+		"date": "2011-03-25",
+		"location": "Basel, Switzerland",
+		"title": "Open Night at Canoo Engineering AG.",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2011-03-16",
+		"location": "Basel, Switzerland",
+		"title": "Magnolia Night in Basel",
+		"details": "The group worked on an OpenSocial plugin for OAUTH support and created a HighChart based paragraph type as a CMS plugin.",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2011-01-26",
+		"location": "Basel, Switzerland",
+		"title": "GPars Night",
+		"details": "The crew worked on some GPars related samples and bug fixes.",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2010-11-26",
+		"location": "unkown",
+		"title": "Screencast Night",
+		"details": "We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.",
+		"links": []
+	}, {
+		"date": "2010-10-29",
+		"location": "Basel, Switzerland",
+		"title": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
+		"details": "the November event we created 4 new CodeNarc rules, improved the easyb/junit integration, and made good progress on the FindBugs Gradle plugin.",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2010-10-01",
+		"location": "Basel, Switzerland",
+		"title": "Static Analysis Night",
+		"details": "Wrote 4 new static analysis rules for the CodeNarc project. Great job everyone!",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2010-07-30",
+		"location": "Basel, Switzerland",
+		"title": "Hackergarten Basel",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2010-06-02",
+		"location": "Zürich, Switzerland",
+		"title": "Jazoon",
+		"details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed.",
+		"links": [{
+			"title": "Jazoon",
+			"url": "http://jazoon.com/"
+		}]
+	}, {
+		"date": "2010-05-19",
+		"location": "Copenhagen, Denmark",
+		"title": "Geek Night at GR8 Conference",
+		"details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log.",
+		"links": [{
+			"title": "GR8 Conference",
+			"url": "http://eu.gr8conf.org"
+		}]
+	}, {
+		"date": "2010-04-30",
+		"location": "Basel, Switzerland",
+		"title": "Griffon Night",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}, {
+		"date": "2010-03-26",
+		"location": "Basel, Switzerland",
+		"title": "Gradle Night",
+		"links": [{
+			"title": "Canoo Engineering AG",
+			"url": "http://www.canoo.com"
+		}]
+	}
 ]
