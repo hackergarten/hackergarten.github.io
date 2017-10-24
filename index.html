@@ -82,7 +82,7 @@
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
-                          <ul ng-if="event.achievements">
+                          <ul ng-if="event.achievements.length > 0">
                               <li><a href="#achievements" ng-click="openModal(event)">Achievements</a></li>
                           </ul>
 					    </li>
