@@ -1,4 +1,16 @@
-[{
+[
+	{
+		"date": "2018-01-14",
+		"location": "Hausham, Germany",
+		"title": "Hackergarten @ JSpirit",
+		"links": [{
+				"title": "https://jspirit.org/",
+				"url": "https://jspirit.org/"
+			},
+		],
+		"achievements": []
+	}, 
+	{
 		"date": "2017-12-12",
 		"location": "Bern, Switzerland",
 		"title": "SBB Office, Haslerstrasse 30, Bern",
@@ -12,7 +24,8 @@
 			}
 		],
 		"achievements": []
-	}, {
+	}, 
+        {
 		"date": "2017-12-07",
 		"location": "Basel, Switzerland",
 		"title": "Canoo Office",
