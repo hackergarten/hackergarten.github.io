@@ -54,7 +54,18 @@
       }
     ],
     "achievements": []
-  }, {
+  }, 
+  {
+    "date": "2017-11-07",
+    "location": "Antwerp, Belgium",
+    "title": "Hackergarten @ Devoxx",
+    "links": [{
+        "title": "Info",
+        "url": "https://devoxx.be/hackergarten/#tuesday"
+      }
+    ],
+    "achievements": []
+  },{
     "date": "2017-11-02",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
