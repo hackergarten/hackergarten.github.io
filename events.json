@@ -23,7 +23,16 @@
         "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
       }
     ],
-    "achievements": []
+    "achievements": [
+    {
+        "title": "Fixed: OS-generated files ends up as local version in list of available candidate version",
+        "url": "https://github.com/sdkman/sdkman-cli/issues/163"
+      },
+      {
+        "title": "Fixed: Add possibility to choose where messages will be displayed",
+        "url": "https://github.com/kreuzerk/primeNG-advanced-growl/issues/149"
+      }
+    ]
   }, 
   {
     "date": "2017-12-07",
