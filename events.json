@@ -9,7 +9,22 @@
       }
     ],
     "achievements": []
-  }, 
+  },
+  {
+    "date": "2018-01-04",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [{
+      "title": "Meetup",
+      "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyxcbgb/"
+    },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2017-12-12",
     "location": "Bern, Switzerland",
@@ -34,6 +49,21 @@
       }
     ]
   }, 
+  {
+    "date": "2017-12-07",
+    "location": "Lucerne, Switzerland",
+    "title": "CSS Versicherung",
+    "links": [{
+      "title": "Meetup",
+      "url": "https://www.meetup.com/Hackergarten-Luzern/events/242581738/"
+    },
+      {
+        "title": "How to find us",
+        "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2017-12-07",
     "location": "Basel, Switzerland",
@@ -88,7 +118,8 @@
       }
     ],
     "achievements": []
-  },{
+  },
+  {
     "date": "2017-11-02",
     "location": "Lucerne, Switzerland",
     "title": "CSS Versicherung",
@@ -102,7 +133,8 @@
       }
     ],
     "achievements": []
-  }, {
+  },
+  {
     "date": "2017-10-24",
     "location": "Lausanne, Switzerland",
     "title": "Pix4D Office, EPFL Innovation Park, Building F",
