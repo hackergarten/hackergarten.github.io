@@ -1,5 +1,36 @@
 [
     {
+      "date": "2018-02-13",
+      "location": "Bern, Switzerland",
+      "title": "SBB Office, Haslerstrasse 30, Bern",
+      "links": [{
+          "title": "Meetup",
+          "url": "https://www.meetup.com/Hackergarten-Bern/events/cpzqxmyxdbrb/"
+        },
+        {
+          "title": "How to find us",
+          "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
+        }
+      ],
+      "achievements": [
+      ]
+    }, 
+    {
+      "date": "2018-02-01",
+      "location": "Lucerne, Switzerland",
+      "title": "CSS Versicherung",
+      "links": [{
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Luzern/events/hjxkglyxdbcb/"
+      },
+        {
+          "title": "How to find us",
+          "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+        }
+      ],
+      "achievements": []
+    },
+    {
     "date": "2018-01-24",
     "location": "Basel, Switzerland",
     "title": "Canoo Office",
