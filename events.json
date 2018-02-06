@@ -1,4 +1,19 @@
 [
+  {
+    "date": "2018-03-01",
+    "location": "Basel, Switzerland",
+    "title": "Canoo Office",
+    "links": [{
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Hackergarten-Basel/events/247542094/"
+      },
+      {
+        "title": "where is Canoo Office",
+        "url": "http://www.canoo.com/service/contact/?l=en"
+      }
+    ],
+    "achievements": []
+  },
     {
       "date": "2018-02-13",
       "location": "Bern, Switzerland",
