@@ -1,4 +1,20 @@
 [
+  
+  {
+    "date": "2018-02-27",
+    "location": "Lausanne, Switzerland",
+    "title": "Pix4D Office, EPFL Innovation Park, Building F",
+    "links": [{
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Lausanne-Hackergarten/events/247768407/"
+      },
+      {
+        "title": "How to find us",
+        "url": "https://goo.gl/maps/28MW7ykBsCF2"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2018-03-01",
     "location": "Basel, Switzerland",
