@@ -1,5 +1,15 @@
 [
-  
+  {
+    "date": "2018-03-10",
+    "location": "Escaldes-Engordany, Andorra",
+    "title": "Andorra Tech a la Neu",
+    "links": [{
+        "title": "Meetup",
+        "url": "https://www.meetup.com/Andorra-Tech/events/248256968/"
+      }
+    ],
+    "achievements": []
+  },
   {
     "date": "2018-02-27",
     "location": "Lausanne, Switzerland",
