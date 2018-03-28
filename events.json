@@ -89,7 +89,28 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": []
+        "achievements": [
+          {
+            "title": "Salah worked on a document scanner with image correction and OCR",
+            "url": "https://github.com/syrianspock/docscan"
+          },
+          {
+            "title": "David continue to work on the Salt iNotify beacon",
+            "url": "https://github.com/saltstack/salt/compare/develop...wagdav:dev-watchdog"
+          },
+          {
+            "title": "Ieva did some R&D or eye tracking systems",
+            "url": ""
+          },
+          {
+            "title": "Tom did not do very much this time :D",
+            "url": ""
+          },
+          {
+            "title": "Greg rebooted his AWS visualization tool and worked on setting up a test environment with a mock AWS server",
+            "url": "https://github.com/gbataille/aws_infra_mapper/commit/9da8e85dfce3581207223a0c16e24174d683d4ee"
+          }
+        ]
     },
     {
         "date": "2018-02-13",
