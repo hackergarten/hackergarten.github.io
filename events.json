@@ -1,5 +1,21 @@
 [
     {
+        "date": "2018-09-08",
+        "location": "Dortmund, Germany",
+        "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Softwerkskammer-Ruhrgebiet/events/248952817/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-04-05",
         "location": "Lucerne, Switzerland",
         "title": "CSS Versicherung",
