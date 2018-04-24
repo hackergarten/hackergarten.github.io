@@ -1,5 +1,21 @@
 [
     {
+        "date": "2018-05-03",
+        "location": "Lucerne, Switzerland",
+        "title": "CSS Versicherung",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxhbfb/"
+            },
+            {
+                "title": "How to find us",
+                "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-09-08",
         "location": "Dortmund, Germany",
         "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
@@ -11,22 +27,6 @@
             {
                 "title": "How to find us",
                 "url": "https://goo.gl/maps/QMCSfvFNJwN2"
-            }
-        ],
-        "achievements": []
-    },
-    {
-        "date": "2018-04-05",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxgbhb/"
-            },
-            {
-                "title": "How to find us",
-                "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
         "achievements": []
