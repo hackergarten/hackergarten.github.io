@@ -1,5 +1,17 @@
 [
     {
+        "date": "2018-05-10",
+        "location": "London, UK",
+        "title": "Hackergarten @ Devoxx UK",
+        "links": [
+            {
+                "title": "Devoxx UK",
+                "url": "https://www.devoxx.co.uk/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-05-03",
         "location": "Lucerne, Switzerland",
         "title": "CSS Versicherung",
