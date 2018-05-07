@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-05-15",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-05-10",
         "location": "London, UK",
         "title": "Hackergarten @ Devoxx UK",
