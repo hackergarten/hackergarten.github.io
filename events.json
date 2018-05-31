@@ -13,6 +13,18 @@
     
     },
     {
+        "date": "2018-05-31",
+        "location": "Copenhagen, Denmark",
+        "title": "Gr8conf EU",
+        "links": [
+            {
+                "title": "Hackergarten on Tour",
+                "url": "http://gr8conf.eu/#/talks"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-05-15",
         "location": "Lausanne, Switzerland",
         "title": "Pix4D Office, EPFL Innovation Park, Building F",
