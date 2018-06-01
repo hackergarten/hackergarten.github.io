@@ -22,7 +22,33 @@
                 "url": "http://gr8conf.eu/#/talks"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "grails-cache: try to update to openjdk8 to support EC crypto",
+                "url": "https://t.co/Gfc9rx0Ne5"
+            },
+            {
+                "title": "grails-cache: Cache evict not working with a custom key",
+                "url": "https://t.co/0OqKw8mX0w"
+            },
+            {
+                "title": "test-containers: VNC recording with BrowserWebdriverContainer in Spock-Extension",
+                "url": "https://github.com/testcontainers/testcontainers-java/pull/726"
+            },
+            {
+                "title": "grails-fields: Updated documentation for f:display Fixes #276",
+                "url": "https://github.com/grails-fields-plugin/grails-fields/pull/280"
+            },
+            {
+                "title": "gradle-pandoc: initial plugin setup",
+                "url": "https://twitter.com/ysb33r/status/1002273742687494144"
+            },
+
+            {
+                "title": "groovy: Groovy Console should have an option to list its current classpath",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-8622"
+            }
+        ]
     },
     {
         "date": "2018-05-15",
