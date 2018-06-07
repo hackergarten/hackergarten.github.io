@@ -1,6 +1,19 @@
 [
     {
-         "date": "2018-06-21",
+        "date": "2018-07-19",
+        "location": "Stuttgart, Germany",
+        "title": "codecentric AG Office",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/251514682"
+            }
+        ],
+        "achievements": []
+    
+    },
+    {
+        "date": "2018-06-21",
         "location": "Basel, Switzerland",
         "title": "Karakun AG Office",
         "links": [
