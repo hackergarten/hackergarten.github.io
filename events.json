@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-06-26",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-07-19",
         "location": "Stuttgart, Germany",
         "title": "codecentric AG Office",
@@ -10,7 +23,6 @@
             }
         ],
         "achievements": []
-    
     },
     {
         "date": "2018-06-21",
@@ -23,7 +35,6 @@
             }
         ],
         "achievements": []
-    
     },
     {
         "date": "2018-05-31",
