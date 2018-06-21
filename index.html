@@ -92,6 +92,12 @@
 					</div>
                 </div>
             </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">Hackergarten Github Open issues</div>
+                <div class="panel-body scrollable" id="githubissues">
+                </div>
+            </div>
         </div>
 
         <!-- about -->
@@ -174,11 +180,44 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-xss/0.3.3/xss.js"></script>
 
 <script src="ng-dialog/js/ngDialog.js"></script>
 
 <script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
+
+<script lang="JavaScript">
+    var urlToGetAllOpenBugs = "https://api.github.com/search/issues?q=label:hackergarten+state:open";
+
+    $(document).ready(function () {
+    $.getJSON(urlToGetAllOpenBugs, function (allIssues) {
+        console.log("Count of isses");
+        console.log(allIssues.total_count);
+        $.each(allIssues.items, function (i, issue) {
+            var repoName = issue.html_url;
+            console.log("1:" + repoName);
+            repoName = repoName.replace("https://github.com/", "");
+            console.log("2:" + repoName);
+            repoName = repoName.replace(/\/issues\/\d+/, "");
+            console.log("3:" + repoName);
+
+            var title = issue.title;
+            console.log(title);
+            title = sanitizeText(title);
+            console.log(title);
+
+            $("#githubissues")
+                .append("<a href='" + issue.html_url + "'>" + title + "</a> <small>(" + repoName + ")</small><br/>")
+        });
+    });
+    function sanitizeText(chars) {
+        return filterXSS(chars, {
+            whiteList: []
+        });
+    }
+});
+</script>
 
 </body>
 </html>
