@@ -94,9 +94,10 @@
             </div>
 
             <div class="panel panel-default">
-                <div class="panel-heading">Hackergarten Github Open issues</div>
+                <div class="panel-heading">Hackergarten Github Open issues (shows up to 100)</div>
                 <div class="panel-body scrollable" id="githubissues">
                 </div>
+                <div class="panel-footer">Full List on <a href="https://github.com/search?q=label%3Ahackergarten+state%3Aopen">Github</a></div>
             </div>
         </div>
 
@@ -188,24 +189,17 @@
 <script src="scripts/eventlist.js"></script>
 
 <script lang="JavaScript">
-    var urlToGetAllOpenBugs = "https://api.github.com/search/issues?q=label:hackergarten+state:open";
+    var urlToGetAllOpenBugs = "https://api.github.com/search/issues?q=label:hackergarten+state:open&sort=updated";
 
     $(document).ready(function () {
     $.getJSON(urlToGetAllOpenBugs, function (allIssues) {
-        console.log("Count of isses");
-        console.log(allIssues.total_count);
         $.each(allIssues.items, function (i, issue) {
             var repoName = issue.html_url;
-            console.log("1:" + repoName);
             repoName = repoName.replace("https://github.com/", "");
-            console.log("2:" + repoName);
             repoName = repoName.replace(/\/issues\/\d+/, "");
-            console.log("3:" + repoName);
 
             var title = issue.title;
-            console.log(title);
             title = sanitizeText(title);
-            console.log(title);
 
             $("#githubissues")
                 .append("<a href='" + issue.html_url + "'>" + title + "</a> <small>(" + repoName + ")</small><br/>")
