@@ -1,19 +1,38 @@
 [
     {
-        "date": "2018-07-31",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "date": "2018-09-08",
+        "location": "Dortmund, Germany",
+        "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
         "links": [
             {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Softwerkskammer-Ruhrgebiet/events/248952817/"
+            },
+            {
                 "title": "How to find us",
-                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
-        "date": "2018-06-26",
+        "date": "2018-08-02",
+        "location": "Lucerne, Switzerland",
+        "title": "CSS Versicherung",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxlbdb/"
+            },
+            {
+                "title": "How to find us",
+                "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2018-07-31",
         "location": "Lausanne, Switzerland",
         "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
@@ -38,6 +57,19 @@
         "achievements": []
     },
     {
+        "date": "2018-06-26",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-06-21",
         "location": "Basel, Switzerland",
         "title": "Karakun AG Office",
@@ -45,6 +77,22 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/251172944/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2018-06-07",
+        "location": "Lucerne, Switzerland",
+        "title": "CSS Versicherung",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxjbkb/"
+            },
+            {
+                "title": "How to find us",
+                "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
         "achievements": []
@@ -124,22 +172,6 @@
             {
                 "title": "How to find us",
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
-            }
-        ],
-        "achievements": []
-    },
-    {
-        "date": "2018-09-08",
-        "location": "Dortmund, Germany",
-        "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/Softwerkskammer-Ruhrgebiet/events/248952817/"
-            },
-            {
-                "title": "How to find us",
-                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
             }
         ],
         "achievements": []
