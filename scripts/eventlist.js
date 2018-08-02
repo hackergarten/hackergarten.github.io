@@ -82,6 +82,20 @@ function eventService($http) {
                 });
                 eventList.map(function(event){
                     event.hashCode = hashCode(event.date + event.location);
+                    if (event.title && event.location) { // old JSON format without venue and address
+                        event.title = "on " + event.date + " at " + event.title + " in " + event.location;
+                    } else { // new JSON format with venue and address
+                        event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
+                        if (!event.links) {
+                            event.links = [];
+                        }
+                        event.links.push(
+                            {
+                                "title": "Show location on map",
+                                "url": "https://www.openstreetmap.org/search?query=" + encodeURI(event.address)
+                            }
+                        );
+                    }
                 });
                 return eventList;
             });

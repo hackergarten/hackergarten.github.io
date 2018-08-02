@@ -17,8 +17,8 @@
     },
     {
         "date": "2018-09-06",
-        "location": "Lucerne, Switzerland",
-        "title": "(new location will be defined soon)",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
             {
                 "title": "Meetup",
@@ -29,16 +29,12 @@
     },
     {
         "date": "2018-08-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxlbdb/"
-            },
-            {
-                "title": "How to find us",
-                "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
         "achievements": []

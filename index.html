@@ -47,14 +47,14 @@
                 <div class="panel-body">
                     <ul>
                         <li id="event-{{event.hashCode}}" class="next-event" ng-repeat="event in nextEventlist">
-                            <b>Hack #{{allEventlistLength - $index}} at {{event.title}} on {{event.date}} in {{event.location}}</b>
+                            <b>Hack #{{allEventlistLength - $index}} {{event.title}}</b>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
                         </li>
 
                         <li id="event-{{event.hashCode}}" ng-repeat="event in futureEventlist">
-                            Hack #{{allEventlistLength + $index + 1}} at {{event.title}} on {{event.date}} in {{event.location}}
+                            Hack #{{allEventlistLength + $index + 1}} {{event.title}}
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
@@ -79,7 +79,7 @@
                 <div class="panel-body scrollable">
                     <ul>
 					    <li id="event-{{event.hashCode}}" ng-repeat="event in pastEventlist | limitTo:totalPEventDisplayed">
-					      Hack #{{pastEventlistLength - $index}} at {{event.title}} on {{event.date}} in {{event.location}}
+					      Hack #{{pastEventlistLength - $index}} {{event.title}}
 					      <ul ng-if="event.links.length > 0">
 					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
 					      </ul>
@@ -169,7 +169,7 @@
 
 <script type="text/ng-template" id="event-achievements">
     <div class="ngdialog-message">
-        <h4><strong>Hack {{ngDialogData.title}} on {{ngDialogData.date}}.</strong></h4>
+        <h4><strong>Hack {{ngDialogData.title}}.</strong></h4>
         <ul>
           <li ng-repeat="item in ngDialogData.achievements"><a ng-if="item.url" href="{{item.url}}">{{item.title}}</a><span ng-if="!item.url">{{item.title}}</span></li>
         </ul>
