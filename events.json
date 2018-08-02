@@ -16,6 +16,18 @@
         "achievements": []
     },
     {
+        "date": "2018-09-06",
+        "location": "Lucerne, Switzerland",
+        "title": "(new location will be defined soon)",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxmbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-08-02",
         "location": "Lucerne, Switzerland",
         "title": "CSS Versicherung",
