@@ -37,7 +37,34 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxlbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Cleaning up GitHub Issues with 'hackergarten' tag",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/165"
+            },
+            {
+                "title": "Hackergarten Website: New event format with venue, address and automatically generated map link",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/165"
+            },
+            {
+                "title": "Project planning and discussions about drEkon",
+                "url": "https://github.com/K2informaticsGmbH/drEkon/wiki"
+            },
+            {
+                "title": "Created a new project: Open School Manager",
+                "url": "https://github.com/domenichelfenstein/openschoolmanager"
+            },
+            {
+                "title": "Research about reinforcement learning for the Tic Tac Toe project",
+                "url": "https://github.com/K2InformaticsGmbH/egambo"
+            },
+            {
+                "title": "Evaluation of QR-Code WebComponents"
+            },
+            {
+                "title": "Java Mission Control: Automatically resolve Jemmy library via maven (work in progress)"
+            }
+        ]
     },
     {
         "date": "2018-07-31",
