@@ -79,7 +79,12 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/251172944/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Show GitHub Issues with 'hackergarten' tag",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/162"
+            }
+        ]
     },
     {
         "date": "2018-06-07",
