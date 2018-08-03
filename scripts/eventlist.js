@@ -68,6 +68,40 @@ function eventListController($scope, ngDialog, eventService) {
 };
 
 function eventService($http) {
+    var sortEventsByDate = function (a, b) {
+        var isLess = new Date(a.date) < new Date(b.date);
+        return (isLess ? 1 : -1);
+    };
+
+    var generateHashCode = function(event) {
+        event.hashCode = hashCode(event.date + event.location);
+        return event;
+    };
+
+    var generateTitle = function(event) {
+        if (event.title && event.location) { // old JSON format without venue and address
+            event.title = "on " + event.date + " at " + event.title + " in " + event.location;
+        } else { // new JSON format with venue and address
+            event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
+        }
+        return event;
+    };
+
+    var generateMapLink = function(event) {
+        if (event.address) {
+            if (!event.links) {
+                event.links = [];
+            }
+            event.links.push(
+                {
+                    "title": "Show location on map",
+                    "url": "https://www.openstreetmap.org/search?query=" + encodeURI(event.address)
+                }
+            );
+        }
+        return event;
+    };
+
     var eventList = [];
     var today = new Date();
     today = new Date(today.setHours(0, 0, 0));
@@ -76,27 +110,10 @@ function eventService($http) {
         queryEvents: function () {
             return $http.get('events.json').then(function (response) {
                 eventList = response.data;
-                eventList.sort(function (a, b) {
-                    var isLess = new Date(a.date) < new Date(b.date);
-                    return (isLess ? 1 : -1);
-                });
-                eventList.map(function(event){
-                    event.hashCode = hashCode(event.date + event.location);
-                    if (event.title && event.location) { // old JSON format without venue and address
-                        event.title = "on " + event.date + " at " + event.title + " in " + event.location;
-                    } else { // new JSON format with venue and address
-                        event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
-                        if (!event.links) {
-                            event.links = [];
-                        }
-                        event.links.push(
-                            {
-                                "title": "Show location on map",
-                                "url": "https://www.openstreetmap.org/search?query=" + encodeURI(event.address)
-                            }
-                        );
-                    }
-                });
+                eventList.sort(sortEventsByDate);
+                eventList.map(generateHashCode);
+                eventList.map(generateTitle);
+                eventList.map(generateMapLink);
                 return eventList;
             });
         },
