@@ -8,7 +8,7 @@
 
 .title > p {
     white-space: nowrap;
-   
+
 }
 
 .panel-body > span {
@@ -39,7 +39,15 @@
 }
 
 .scrollable{
-	overflow:hidden; 
+	overflow:hidden;
 	overflow-y:scroll;
 	height:700px;
+}
+
+.panel-sponsors .panel-body ul {
+    list-style: none;
+}
+
+.panel-sponsors .panel-body ul li{
+    padding-top: 1em;
 }
