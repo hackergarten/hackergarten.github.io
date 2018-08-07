@@ -44,6 +44,10 @@
 	height:700px;
 }
 
+.ngdialog.ngdialog-theme-default .ngdialog-content {
+    max-width: 100%;
+    width: max-content;
+
 .panel-sponsors .panel-body ul {
     list-style: none;
 }

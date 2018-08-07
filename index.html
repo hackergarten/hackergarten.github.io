@@ -14,9 +14,10 @@
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="css/main.css" rel="stylesheet">
     <link href="ng-dialog/css/ngDialog.min.css" rel="stylesheet">
     <link href="ng-dialog/css/ngDialog-theme-default.min.css" rel="stylesheet">
+
+    <link href="css/main.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -46,14 +47,14 @@
                 <div class="panel-body">
                     <ul>
                         <li id="event-{{event.hashCode}}" class="next-event" ng-repeat="event in nextEventlist">
-                            <b>Hack #{{allEventlistLength - $index}} at {{event.title}} on {{event.date}} in {{event.location}}</b>
+                            <b>Hack #{{allEventlistLength - $index}} {{event.title}}</b>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
                         </li>
 
                         <li id="event-{{event.hashCode}}" ng-repeat="event in futureEventlist">
-                            Hack #{{allEventlistLength + $index + 1}} at {{event.title}} on {{event.date}} in {{event.location}}
+                            Hack #{{allEventlistLength + $index + 1}} {{event.title}}
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
                             </ul>
@@ -78,10 +79,10 @@
                 <div class="panel-body scrollable">
                     <ul>
                         <li id="event-{{event.hashCode}}" ng-repeat="event in pastEventlist | limitTo:totalPEventDisplayed">
-                          Hack #{{pastEventlistLength - $index}} at {{event.title}} on {{event.date}} in {{event.location}}
-                          <ul ng-if="event.links.length > 0">
-                              <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
-                          </ul>
+                            Hack #{{pastEventlistLength - $index}} {{event.title}}
+                            <ul ng-if="event.links.length > 0">
+                                <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+                            </ul>
                           <ul ng-if="event.achievements.length > 0">
                               <li><a href="#achievements" ng-click="openModal(event)">Achievements</a></li>
                           </ul>
@@ -94,10 +95,10 @@
             </div>
 
             <div class="panel panel-default">
-                <div class="panel-heading">Hackergarten Github Open issues (shows up to 100)</div>
-                <div class="panel-body scrollable" id="githubissues">
+                <div class="panel-heading">Open Hackergarten Issues from GitHub (max. 30)</div>
+                <div class="panel-body" id="githubissues">
                 </div>
-                <div class="panel-footer">Full List on <a href="https://github.com/search?q=label%3Ahackergarten+state%3Aopen">Github</a></div>
+                <div class="panel-footer">See the complete list on <a href="https://github.com/search?q=label%3Ahackergarten+state%3Aopen">GitHub</a>.</div>
             </div>
         </div>
 
@@ -186,7 +187,7 @@
 
 <script type="text/ng-template" id="event-achievements">
     <div class="ngdialog-message">
-        <h4><strong>Hack {{ngDialogData.title}} on {{ngDialogData.date}}.</strong></h4>
+        <h4><strong>Hack {{ngDialogData.title}}.</strong></h4>
         <ul>
           <li ng-repeat="item in ngDialogData.achievements"><a ng-if="item.url" href="{{item.url}}">{{item.title}}</a><span ng-if="!item.url">{{item.title}}</span></li>
         </ul>
@@ -205,31 +206,7 @@
 
 <script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
-
-<script lang="JavaScript">
-    var urlToGetAllOpenBugs = "https://api.github.com/search/issues?q=label:hackergarten+state:open&sort=updated";
-
-    $(document).ready(function () {
-    $.getJSON(urlToGetAllOpenBugs, function (allIssues) {
-        $.each(allIssues.items, function (i, issue) {
-            var repoName = issue.html_url;
-            repoName = repoName.replace("https://github.com/", "");
-            repoName = repoName.replace(/\/issues\/\d+/, "");
-
-            var title = issue.title;
-            title = sanitizeText(title);
-
-            $("#githubissues")
-                .append("<a href='" + issue.html_url + "'>" + title + "</a> <small>(" + repoName + ")</small><br/>")
-        });
-    });
-    function sanitizeText(chars) {
-        return filterXSS(chars, {
-            whiteList: []
-        });
-    }
-});
-</script>
+<script src="scripts/github.js"></script>
 
 </body>
 </html>

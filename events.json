@@ -16,6 +16,18 @@
         "achievements": []
     },
     {
+        "date": "2018-09-06",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxmbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-08-28",
         "location": "Basel, Switzerland",
         "title": "Trvadis AG",
@@ -29,19 +41,42 @@
     },
     {
         "date": "2018-08-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxlbdb/"
-            },
-            {
-                "title": "How to find us",
-                "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Cleaning up GitHub Issues with 'hackergarten' tag",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/165"
+            },
+            {
+                "title": "Hackergarten Website: New event format with venue, address and automatically generated map link",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/165"
+            },
+            {
+                "title": "Project planning and discussions about drEkon",
+                "url": "https://github.com/K2informaticsGmbH/drEkon/wiki"
+            },
+            {
+                "title": "Created a new project: Open School Manager",
+                "url": "https://github.com/domenichelfenstein/openschoolmanager"
+            },
+            {
+                "title": "Research about reinforcement learning for the Tic Tac Toe project",
+                "url": "https://github.com/K2InformaticsGmbH/egambo"
+            },
+            {
+                "title": "Evaluation of QR-Code WebComponents"
+            },
+            {
+                "title": "Java Mission Control: Automatically resolve Jemmy library via maven (work in progress)"
+            }
+        ]
     },
     {
         "date": "2018-07-31",
@@ -91,7 +126,12 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/251172944/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Show GitHub Issues with 'hackergarten' tag",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/162"
+            }
+        ]
     },
     {
         "date": "2018-06-07",
