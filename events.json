@@ -28,6 +28,18 @@
         "achievements": []
     },
     {
+        "date": "2018-08-28",
+        "location": "Basel, Switzerland",
+        "title": "Trvadis AG",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Basel/events/253558467/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2018-08-02",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",

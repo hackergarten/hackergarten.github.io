@@ -78,19 +78,19 @@
                 <div class="panel-heading">Past Events</div>
                 <div class="panel-body scrollable">
                     <ul>
-					    <li id="event-{{event.hashCode}}" ng-repeat="event in pastEventlist | limitTo:totalPEventDisplayed">
-					      Hack #{{pastEventlistLength - $index}} {{event.title}}
-					      <ul ng-if="event.links.length > 0">
-					  		  <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
-					      </ul>
+                        <li id="event-{{event.hashCode}}" ng-repeat="event in pastEventlist | limitTo:totalPEventDisplayed">
+                            Hack #{{pastEventlistLength - $index}} {{event.title}}
+                            <ul ng-if="event.links.length > 0">
+                                <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+                            </ul>
                           <ul ng-if="event.achievements.length > 0">
                               <li><a href="#achievements" ng-click="openModal(event)">Achievements</a></li>
                           </ul>
-					    </li>
+                        </li>
                     </ul>
-					<div>
-						<button type="button" class="btn btn-secondary btn-lg btn-block" ng-click="loadMore()">Load more events</button>
-					</div>
+                    <div>
+                        <button type="button" class="btn btn-secondary btn-lg btn-block" ng-click="loadMore()">Load more events</button>
+                    </div>
                 </div>
             </div>
 
@@ -142,8 +142,13 @@
                     <ul>
                         <li>
                             <a href="http://www.karakun.com"><img src="pictures/karakun.png" alt="Karakun AG Logo" height="20px"></a>
-                            <p><a href="https://www.karakun.com">Karakun AG</a> is a group of experts who started a startup with a history. Karakun offers technology consulting, full-stack services, and carfree package solutions any of your software-related projects, always customer benefit and success in focus.</p>
-                            <p>Karakun provides us a place to meet in the center of Basel, Internet access, a pizza budget, and (for some of the Hackergardeners) a place to work.</p>
+                            <p><a href="https://www.karakun.com">Karakun AG</a> is a group of experts who started a startup with a history. Karakun offers technology consulting, full-stack services, and carefree package solutions any of your software-related projects, always customer benefit and success in focus.</p>
+                            <p>Karakun provides us a place to meet in the center of Basel, Internet access, a pizza budget, and (for some of the Hackergarteners) a place to work.</p>
+                        </li>
+                        <li>
+                            <a href="http://www.trivadis.com"><img src="https://www.trivadis.com/sites/all/themes/custom/img/trivadis-logo.svg" alt="Trivadis AG Logo"></a>
+                            <p><a href="https://www.trivadis.com">Trivadis AG</a> is your partner and reliable navigator who will lessen this complexity in the IT field for you using Oracle, Microsoft, and open source core technologies, and who will tangibly relieve your organization and facilitate a sustainable and future-proof development within the framework of the digital business transformation. </p>
+                            <p>Trivadis provides us a place to meet in the center of Basel, Internet access, a pizza budget, and (for some of the Hackergarteners) a place to work.</p>
                         </li>
                         <li>
                             <a href="http://www.canoo.com"><img src="pictures/canoo.png" alt="Canoo Engineering AG"></a>
@@ -162,7 +167,7 @@
             <div class="panel panel-default">
                 <div class="panel-heading">License / Rights</div>
                 <div class="panel-body">
-                    As we were asked many times about the license / copyright of "Hackergarten", we decided to put it unter a creative commons license:
+                    As we were asked many times about the license / copyright of "Hackergarten", we decided to put it under a creative commons license:
                     <br />
                     <p>
                         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hackergarten</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.hackergarten.net" property="cc:attributionName" rel="cc:attributionURL">http://www.hackergarten.net</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.hackergarten.net" rel="cc:morePermissions">http://www.hackergarten.net</a>.
