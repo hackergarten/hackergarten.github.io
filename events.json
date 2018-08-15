@@ -40,6 +40,31 @@
         "achievements": []
     },
     {
+        "date": "2018-08-14",
+        "location": "Bern, Switzerland",
+        "title": "SBB Office",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/pl-PL/Hackergarten-Bern/events/247644936/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Jacoco testijg framework for groovy",
+                "url": "https://github.com/jacoco/jacoco/pull/733"
+            },
+            {
+                "title": "Spring configuration for DB-Extractor",
+                "url": "https://github.com/adessoSchweizAG/db-extractor/tree/spring-cfg"
+            },
+            {
+                "title": "Spring 5 Support for Trasier Java Client",
+                "url": "https://github.com/trasiercom/trasier-client/issues/37"
+            }
+        ]
+    },
+    {
         "date": "2018-08-02",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
