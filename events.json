@@ -42,6 +42,18 @@
     },
     {
         "date": "2018-08-28",
+        "location": "Paris, France",
+        "title": "Pivotal",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/251215698/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2018-08-28",
         "location": "Basel, Switzerland",
         "title": "Trvadis AG",
         "links": [
