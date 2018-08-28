@@ -62,7 +62,12 @@
                 "url": "https://www.meetup.com/Hackergarten-Basel/events/253558467/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Add support for transparent color in the Vaadin Sass compiler",
+                "url": "https://github.com/vaadin/sass-compiler/pull/320"
+            }
+        ]
     },
     {
         "date": "2018-08-14",
