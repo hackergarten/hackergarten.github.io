@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-09-18",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-09-08",
         "location": "Dortmund, Germany",
         "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
@@ -38,6 +51,26 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Ieva worked on some viz for ML",
+                "url": "https://github.com/IevaNavikiene/WordsAnnotationVisualization"
+            },
+            {
+                "title": "Eric and Salah worked on integrating Google Vision ot Salah's document scanner",
+                "url": "https://github.com/syrianspock/docscan"
+            },
+            {
+                "title": "Kyle, Marco and David contributed to Conan",
+                "url": "https://github.com/conan-io/conan/pull/3417"
+            },
+            {
+                "title": "Greg worked on terraform, unfortunately unable to reproduce a bug he had in the past",
+                "url": ""
+            },
+            {
+                "title": "Tom worked on a web application for eSport management",
+                "url": ""
+            }
         ]
     },
     {
