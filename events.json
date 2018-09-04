@@ -13,6 +13,18 @@
         ]
     },
     {
+        "date": "2018-09-13",
+        "title": "Hackergarten Basel September",
+        "venue": "Karakun AG Office",
+        "address": "Leonhardsgraben 36, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/254370751/"
+            }
+        ],
+    },
+    {
         "date": "2018-09-08",
         "location": "Dortmund, Germany",
         "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
