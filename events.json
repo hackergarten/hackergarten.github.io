@@ -95,7 +95,20 @@
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/251215698/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Benjamin worked on a Maven JAR plugin issue with the help of Hervé",
+                "url": "https://github.com/apache/maven-jar-plugin/pull/1"
+            },
+            {
+                "title": "Hervé also helped 2 other hackers to get started with Maven issues",
+                "url": "https://s.apache.org/for-the-grabs_maven"
+            }
+            {
+                "title": "Oussama, Florent + 2 others hackers got really close to complete v1 of Liquigraph's bot: Sentinel (private repo for now)",
+                "url": "https://github.com/fbiville/sentinel"
+            }
+        ]
     },
     {
         "date": "2018-08-28",
