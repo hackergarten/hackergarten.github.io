@@ -1,5 +1,30 @@
 [
     {
+        "date": "2018-09-18",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2018-09-13",
+        "title": "Hackergarten Basel September",
+        "venue": "Karakun AG Office",
+        "address": "Leonhardsgraben 36, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/254370751/"
+            }
+        ]
+    },
+    {
         "date": "2018-09-08",
         "location": "Dortmund, Germany",
         "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
@@ -45,6 +70,64 @@
     },
     {
         "date": "2018-08-28",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Ieva worked on some viz for ML",
+                "url": "https://github.com/IevaNavikiene/WordsAnnotationVisualization"
+            },
+            {
+                "title": "Eric and Salah worked on integrating Google Vision ot Salah's document scanner",
+                "url": "https://github.com/syrianspock/docscan"
+            },
+            {
+                "title": "Kyle, Marco and David contributed to Conan",
+                "url": "https://github.com/conan-io/conan/pull/3417"
+            },
+            {
+                "title": "Greg worked on terraform, unfortunately unable to reproduce a bug he had in the past",
+                "url": ""
+            },
+            {
+                "title": "Tom worked on a web application for eSport management",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "date": "2018-08-28",
+        "location": "Paris, France",
+        "title": "Pivotal",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/251215698/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Benjamin worked on a Maven JAR plugin issue with the help of Hervé",
+                "url": "https://github.com/apache/maven-jar-plugin/pull/1"
+            },
+            {
+                "title": "Hervé also helped 2 other hackers to get started with Maven issues",
+                "url": "https://s.apache.org/for-the-grabs_maven"
+            },
+            {
+                "title": "Oussama, Florent + 2 others hackers got really close to complete v1 of Liquigraph's bot: Sentinel (private repo for now)",
+                "url": "https://github.com/fbiville/sentinel"
+            }
+        ]
+    },
+    {
+        "date": "2018-08-28",
         "location": "Basel, Switzerland",
         "title": "Trivadis AG",
         "links": [
@@ -53,7 +136,37 @@
                 "url": "https://www.meetup.com/Hackergarten-Basel/events/253558467/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Add support for transparent color in the Vaadin Sass compiler",
+                "url": "https://github.com/vaadin/sass-compiler/pull/320"
+            }
+        ]
+    },
+    {
+        "date": "2018-08-14",
+        "location": "Bern, Switzerland",
+        "title": "SBB Office",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/pl-PL/Hackergarten-Bern/events/247644936/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Jacoco testijg framework for groovy",
+                "url": "https://github.com/jacoco/jacoco/pull/733"
+            },
+            {
+                "title": "Spring configuration for DB-Extractor",
+                "url": "https://github.com/adessoSchweizAG/db-extractor/tree/spring-cfg"
+            },
+            {
+                "title": "Spring 5 Support for Trasier Java Client",
+                "url": "https://github.com/trasiercom/trasier-client/issues/37"
+            }
+        ]
     },
     {
         "date": "2018-08-02",
