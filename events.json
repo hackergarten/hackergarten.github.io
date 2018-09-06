@@ -25,7 +25,23 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxmbjb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Watch Face",
+                "url": "https://github.com/hackergarten/hackergartenwatchface"
+            },
+            {
+                "title": "Hackergarten Website: Fixing broken links in XML feed",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/174"
+            },
+            {
+                "title": "Tic Tac Toe Engine: Creating UIs to play against the engine",
+                "url": ""
+            },
+            {
+                "title": "Java Mission Control: Fixing builds and tests"
+            }
+        ]
     },
     {
         "date": "2018-08-28",
