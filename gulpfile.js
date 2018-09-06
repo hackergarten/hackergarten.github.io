@@ -55,7 +55,7 @@ gulp.task('default', function() {
 				}
 				xml.push("<item>");
 				xml.push("<title>" + escapeHTML("Hackgarten " + event.title) + "</title>");
-				xml.push("<link><a href=\"http://hackergarten.net/#event-" + hash + "\"></a></link>");
+				xml.push("<link>http://hackergarten.net/#event-" + hash + "</link>");
 				xml.push("<guid>" + hash + "</guid>");
 				xml.push("</item>\n");
 			}
