@@ -38,7 +38,12 @@
                 "url": "https://goo.gl/maps/QMCSfvFNJwN2"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Add support for IBM DB2 database to Testcontainers",
+                "url": "https://github.com/testcontainers/testcontainers-java/pull/860"
+            }
+        ]
     },
     {
         "date": "2018-09-06",
