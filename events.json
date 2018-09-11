@@ -42,6 +42,10 @@
             {
                 "title": "Add support for IBM DB2 database to Testcontainers",
                 "url": "https://github.com/testcontainers/testcontainers-java/pull/860"
+            },
+            {
+                "title": "Detailed Bug report to GitLab for compatibility issue with iOS",
+                "url": "https://gitlab.com/gitlab-org/gitlab-ce/issues/51270"
             }
         ]
     },
