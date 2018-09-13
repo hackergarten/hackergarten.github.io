@@ -58,6 +58,38 @@
             {
                 "title": "Detailed Bug report to GitLab for compatibility issue with iOS",
                 "url": "https://gitlab.com/gitlab-org/gitlab-ce/issues/51270"
+            },
+            {
+                "title": "Add HTTP status code 103 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/77"
+            },
+            {
+                "title": "Add HTTP status code 308 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/78"
+            },
+            {
+                "title": "Add HTTP status code 451 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/80"
+            },
+            {
+                "title": "Add HTTP status code 506 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/82"
+            },
+            {
+                "title": "Add HTTP status code 226 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/83"
+            },
+            {
+                "title": "Add HTTP status code 510 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/81"
+            },
+            {
+                "title": "Add HTTP status code 208, 508 to Apache HTTP Components Core",
+                "url": "https://github.com/apache/httpcomponents-core/pull/79"
+            },
+            {
+                "title": "Add length related assertions to AssertJ",
+                "url": "https://github.com/joel-costigliola/assertj-core/pull/1320"
             }
         ]
     },
