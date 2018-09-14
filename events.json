@@ -34,7 +34,17 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/254370751/"
             }
+        ],"achievements": [
+            {
+                "title": "PR: Improve Changelog for nativescript-secure-storage plugin",
+                "url": "https://github.com/EddyVerbruggen/nativescript-secure-storage/pull/21#event-1844366001"
+            },
+            {
+                "title": "Photo/Tweet: Mob-Programmin WebASM",
+                "url": "https://twitter.com/aalmiray/status/1040338235451498502"
+            }
         ]
+        
     },
     {
         "date": "2018-09-08",
