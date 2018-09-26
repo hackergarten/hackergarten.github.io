@@ -12,6 +12,19 @@
         "achievements": []
     },
     {
+        "date": "2018-10-04",
+        "venue": "NETNODE AG",
+        "address": "Neuweg 3, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/vrjxgqyxnbgb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-09-18",
         "location": "Lausanne, Switzerland",
         "title": "Pix4D Office, EPFL Innovation Park, Building F",
