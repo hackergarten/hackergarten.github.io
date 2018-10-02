@@ -1,4 +1,17 @@
 [
+    {
+        "date": "2018-10-16",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
      {
         "date": "2018-10-17",
         "location": "Stuttgart, Germany",
@@ -35,6 +48,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Marco worked on Spectrum",
+                "url": "https://github.com/arohner/spectrum/pull/30"
+            },
+            {
+                "title": "Greg worked on envstatus, a continuation of githud (repo to come)",
+                "url": "https://github.com/gbataille/gitHUD"
+            },
+            {
+                "title": "Tom and Malik worked on their e-sport application (not yet open sourced, but soon)",
+                "url": ""
+            }
         ]
     },
     {
@@ -57,7 +82,6 @@
                 "url": "https://twitter.com/aalmiray/status/1040338235451498502"
             }
         ]
-        
     },
     {
         "date": "2018-09-08",
