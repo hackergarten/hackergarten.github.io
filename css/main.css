@@ -37,6 +37,10 @@ li.canceled span:first-child {
     text-decoration: line-through;
 }
 
+span.reason {
+    font-weight: bold;
+}
+
 .jumbotron .container {
     position: relative;
 }
