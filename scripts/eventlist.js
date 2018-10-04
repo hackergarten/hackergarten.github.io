@@ -79,10 +79,13 @@ function eventService($http) {
     };
 
     var generateTitle = function(event) {
+        // This code is duplicated in gulpfile.js
         if (event.title && event.location) { // old JSON format without venue and address
             event.title = "on " + event.date + " at " + event.title + " in " + event.location;
-        } else { // new JSON format with venue and address
+        } else if (event.venue && event.address) { // new JSON format with venue and address
             event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
+        } else { // fallback with title and date
+            event.title += " on " + event.date;
         }
         return event;
     };

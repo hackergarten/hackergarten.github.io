@@ -48,9 +48,17 @@ gulp.task('default', function() {
 			for (var i = 0; i < events.length; i++) {
 				var event = events[i];
 				var hash = hashCode(event.date + event.location);
+				// This code is duplicated in eventlist.js
+				if (event.title && event.location) { // old JSON format without venue and address
+					event.title = "on " + event.date + " at " + event.title + " in " + event.location;
+				} else if (event.venue && event.address) { // new JSON format with venue and address
+					event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
+				} else { // fallback with title and date
+					event.title += " on " + event.date;
+				}
 				xml.push("<item>");
-				xml.push("<title>" + escapeHTML("Hackgarten at " + event.title + " on " + event.date + " in " + event.location) + "</title>");
-				xml.push("<link><a href=\"http://hackergarten.net/#event-" + hash + "\"></a></link>");
+				xml.push("<title>" + escapeHTML("Hackgarten " + event.title) + "</title>");
+				xml.push("<link>http://hackergarten.net/#event-" + hash + "</link>");
 				xml.push("<guid>" + hash + "</guid>");
 				xml.push("</item>\n");
 			}

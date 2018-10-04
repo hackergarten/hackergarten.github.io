@@ -25,6 +25,19 @@
         "achievements": []
     },
     {
+        "date": "2018-10-04",
+        "venue": "NETNODE AG",
+        "address": "Neuweg 3, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/vrjxgqyxnbgb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-09-18",
         "location": "Lausanne, Switzerland",
         "title": "Pix4D Office, EPFL Innovation Park, Building F",
@@ -137,7 +150,23 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/wppskpyxmbjb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Watch Face",
+                "url": "https://github.com/hackergarten/hackergartenwatchface"
+            },
+            {
+                "title": "Hackergarten Website: Fixing broken links in XML feed",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/167"
+            },
+            {
+                "title": "Tic Tac Toe Engine: Creating UIs to play against the engine",
+                "url": ""
+            },
+            {
+                "title": "Java Mission Control: Fixing builds and tests"
+            }
+        ]
     },
     {
         "date": "2018-08-28",
