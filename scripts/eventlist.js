@@ -15,6 +15,9 @@ app.filter('html', ['$sce', function ($sce) {
     };    
 }]);
 
+var today = new Date();
+today = new Date(today.setHours(0, 0, 0));
+
 function hashCode(str) {
     var hash = 0;
     if (str.length == 0) return hash;
@@ -73,6 +76,15 @@ function eventService($http) {
         return (isLess ? 1 : -1);
     };
 
+    var generateStatus = function(event) {
+        if (!event.status) {
+            event.status = {
+                "pizza": new Date(event.date) < today ? "past" : "scheduled"
+            };
+        }
+        return event;
+    };
+
     var generateHashCode = function(event) {
         event.hashCode = hashCode(event.date + event.location);
         return event;
@@ -106,14 +118,13 @@ function eventService($http) {
     };
 
     var eventList = [];
-    var today = new Date();
-    today = new Date(today.setHours(0, 0, 0));
 
     return {
         queryEvents: function () {
             return $http.get('events.json').then(function (response) {
                 eventList = response.data;
                 eventList.sort(sortEventsByDate);
+                eventList.map(generateStatus);
                 eventList.map(generateHashCode);
                 eventList.map(generateTitle);
                 eventList.map(generateMapLink);
