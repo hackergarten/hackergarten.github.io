@@ -81,6 +81,8 @@ function eventService($http) {
             event.status = {
                 "pizza": new Date(event.date) < today ? "past" : "scheduled"
             };
+        } else {
+            event.status.title = event.status.pizza.toUpperCase() + ": " + event.status.reason;
         }
         return event;
     };
