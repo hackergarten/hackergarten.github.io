@@ -28,6 +28,10 @@
 	background-color: #74ED8C;
 }
 
+li.rescheduled {
+	background-color: #fffe86;
+}
+
 .jumbotron .container {
     position: relative;
 }
