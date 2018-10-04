@@ -32,6 +32,11 @@ li.rescheduled {
 	background-color: #fffe86;
 }
 
+li.canceled span:first-child {
+    color: #AAAAAA;
+    text-decoration: line-through;
+}
+
 .jumbotron .container {
     position: relative;
 }
