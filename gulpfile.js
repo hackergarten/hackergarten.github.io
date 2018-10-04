@@ -50,8 +50,10 @@ gulp.task('default', function() {
 				var hash = hashCode(event.date + event.location);
 				if (event.title && event.location) { // old JSON format without venue and address
 					event.title = "on " + event.date + " at " + event.title + " in " + event.location;
-				} else { // new JSON format with venue and address
+				} else if (event.venue && event.address) { // new JSON format with venue and address
 					event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
+				} else { // fallback with title and date
+					event.title += " on " + event.date;
 				}
 				xml.push("<item>");
 				xml.push("<title>" + escapeHTML("Hackgarten " + event.title) + "</title>");
