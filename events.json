@@ -35,6 +35,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "jbake-gradle-plugin: merged PR #2",
+                "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/9706045d5ffffcfe2a765c9a784b432efaab5304"
+            },
+            {
+                "title": "jbake-gradle-plugin: fixed for #41",
+                "url": "https://github.com/jbake-org/jbake-gradle-plugin/commit/b16b3e18784da1817463cb34d891a39b351dd38d"
+            },
+            {
+                "title": "jbake-gradle-plugin: released version 1.3.0",
+                "url": "https://github.com/jbake-org/jbake-gradle-plugin/releases/tag/1.3.0"
+            }
         ]
     },
     {
