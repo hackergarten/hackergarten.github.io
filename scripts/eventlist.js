@@ -79,10 +79,10 @@ function eventService($http) {
     var generateStatus = function(event) {
         if (!event.status) {
             event.status = {
-                "pizza": new Date(event.date) < today ? "past" : "scheduled"
+                "key": new Date(event.date) < today ? "past" : "scheduled"
             };
         } else {
-            event.status.title = event.status.pizza.toUpperCase() + ": " + event.status.reason;
+            event.status.title = event.status.key.toUpperCase() + ": " + event.status.reason;
         }
         return event;
     };
