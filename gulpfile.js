@@ -37,6 +37,8 @@ gulp.task('default', function() {
 		.pipe(jsonlint.failOnError())
 	    .pipe(jsonlint.reporter())
 		.pipe(transform(function(contents) {
+			var today = new Date();
+			today = new Date(today.setHours(0, 0, 0));
 			var events = JSON.parse(contents);
 			var xml = [];
 			xml.push("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
@@ -48,19 +50,21 @@ gulp.task('default', function() {
 			for (var i = 0; i < events.length; i++) {
 				var event = events[i];
 				var hash = hashCode(event.date + event.location);
-				// This code is duplicated in eventlist.js
-				if (event.title && event.location) { // old JSON format without venue and address
-					event.title = "on " + event.date + " at " + event.title + " in " + event.location;
-				} else if (event.venue && event.address) { // new JSON format with venue and address
-					event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
-				} else { // fallback with title and date
-					event.title += " on " + event.date;
+				if (new Date(event.date) >= today) {
+					// This code is duplicated in eventlist.js
+					if (event.title && event.location) { // old JSON format without venue and address
+						event.title = "on " + event.date + " at " + event.title + " in " + event.location;
+					} else if (event.venue && event.address) { // new JSON format with venue and address
+						event.title = "on " + event.date + " at " + event.venue + ", " + event.address;
+					} else { // fallback with title and date
+						event.title += " on " + event.date;
+					}
+					xml.push("<item>");
+					xml.push("<title>" + escapeHTML("Hackgarten " + event.title) + "</title>");
+					xml.push("<link>http://hackergarten.net/#event-" + hash + "</link>");
+					xml.push("<guid>" + hash + "</guid>");
+					xml.push("</item>\n");
 				}
-				xml.push("<item>");
-				xml.push("<title>" + escapeHTML("Hackgarten " + event.title) + "</title>");
-				xml.push("<link>http://hackergarten.net/#event-" + hash + "</link>");
-				xml.push("<guid>" + hash + "</guid>");
-				xml.push("</item>\n");
 			}
 			xml.push("</channel>");
 			xml.push("</rss>");
