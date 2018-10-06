@@ -60,7 +60,7 @@ gulp.task('default', function() {
 						event.title += " on " + event.date;
 					}
 					xml.push("<item>");
-					xml.push("<title>" + escapeHTML("Hackgarten " + event.title) + "</title>");
+					xml.push("<title>" + escapeHTML("Hackergarten " + event.title) + "</title>");
 					xml.push("<link>http://hackergarten.net/#event-" + hash + "</link>");
 					xml.push("<guid>" + hash + "</guid>");
 					xml.push("</item>\n");
