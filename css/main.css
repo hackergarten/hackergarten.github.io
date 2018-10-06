@@ -28,6 +28,19 @@
 	background-color: #74ED8C;
 }
 
+li.rescheduled {
+	background-color: #fffe86;
+}
+
+li.canceled span:first-child {
+    color: #AAAAAA;
+    text-decoration: line-through;
+}
+
+span.reason {
+    font-weight: bold;
+}
+
 .jumbotron .container {
     position: relative;
 }
