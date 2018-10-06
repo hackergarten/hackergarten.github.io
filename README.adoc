@@ -1,0 +1,11 @@
+= Hackergarten Website
+
+This is where you find the source for:
+
+http://www.hackergarten.net[www.hackergarten.net]
+
+== License
+
+image:https://i.creativecommons.org/l/by-sa/4.0/88x31.png[Creative Commons License]
+
+This work is licensed under a http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License].
