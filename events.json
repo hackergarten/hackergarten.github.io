@@ -1,5 +1,18 @@
 [
-     {
+    {
+        "date": "2018-11-20",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-10-17",
         "location": "Stuttgart, Germany",
         "title": "codecentric AG Office",
@@ -22,6 +35,22 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Isabella started to work on DOT #645 and familiarizing herself with the OAUTH2 spec",
+                "url": "https://github.com/jazzband/django-oauth-toolkit/issues/645"
+            },
+            {
+                "title": "Salah continued to play with robots (merged!)",
+                "url": "https://github.com/UAVCAN/libuavcan/pull/169"
+            },
+            {
+                "title": "David and Marco continued to enrich conan",
+                "url": "https://github.com/conan-io/conan/pull/3767"
+            },
+            {
+                "title": "Greg got closer to releasing v1 of envstatus",
+                "url": "https://github.com/gbataille/envstatus"
+            }
         ]
     },
     {
