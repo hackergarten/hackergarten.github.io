@@ -1,4 +1,17 @@
-[
+[{
+        "date": "2018-09-13",
+        "title": "Hackergarten Basel September",
+        "venue": "Magnolia HQ",
+        "address": "Oslo-Strasse 2, 4142 Münchenstein (Basel / Dreispitz)",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
+            }
+        ],"achievements": [
+            
+        ]
+    },    
     {
         "date": "2018-11-20",
         "location": "Lausanne, Switzerland",
