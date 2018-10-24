@@ -1,4 +1,17 @@
 [{
+        "date": "2018-10-30",
+        "title": "Paris Hackergarten October",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette, 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxnbnc/"
+            }
+        ],"achievements": [
+            
+        ]
+    },{
         "date": "2018-09-13",
         "title": "Hackergarten Basel September",
         "venue": "Magnolia HQ",
