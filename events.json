@@ -1,18 +1,6 @@
-[{
-        "date": "2018-10-30",
-        "title": "Paris Hackergarten October",
-        "venue": "Pivotal France",
-        "address": "33 rue La Fayette, 75009 Paris",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxnbnc/"
-            }
-        ],"achievements": [
-            
-        ]
-    },{
-        "date": "2018-09-13",
+[
+    {
+        "date": "2018-11-22",
         "title": "Hackergarten Basel September",
         "venue": "Magnolia HQ",
         "address": "Oslo-Strasse 2, 4142 Münchenstein (Basel / Dreispitz)",
@@ -22,9 +10,8 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
             }
         ],"achievements": [
-            
         ]
-    },    
+    },
     {
         "date": "2018-11-20",
         "location": "Lausanne, Switzerland",
@@ -36,6 +23,32 @@
             }
         ],
         "achievements": [
+        ]
+    },
+    {
+        "date": "2018-11-01",
+        "venue": "Workspace Luzern",
+        "address": "Pilatusstrasse 12, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/xmsqhqyxpbcb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2018-10-30",
+        "title": "Paris Hackergarten October",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette, 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxnbnc/"
+            }
+        ],"achievements": [
         ]
     },
     {
@@ -154,7 +167,8 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/254370751/"
             }
-        ],"achievements": [
+        ],
+        "achievements": [
             {
                 "title": "PR: Improve Changelog for nativescript-secure-storage plugin",
                 "url": "https://github.com/EddyVerbruggen/nativescript-secure-storage/pull/21#event-1844366001"
@@ -614,26 +628,26 @@
             }
         ],
         "achievements": [
-          {
-            "title": "Salah worked on a document scanner with image correction and OCR",
-            "url": "https://github.com/syrianspock/docscan"
-          },
-          {
-            "title": "David continue to work on the Salt iNotify beacon",
-            "url": "https://github.com/saltstack/salt/compare/develop...wagdav:dev-watchdog"
-          },
-          {
-            "title": "Ieva did some R&D or eye tracking systems",
-            "url": ""
-          },
-          {
-            "title": "Tom did not do very much this time :D",
-            "url": ""
-          },
-          {
-            "title": "Greg rebooted his AWS visualization tool and worked on setting up a test environment with a mock AWS server",
-            "url": "https://github.com/gbataille/aws_infra_mapper/commit/9da8e85dfce3581207223a0c16e24174d683d4ee"
-          }
+            {
+                "title": "Salah worked on a document scanner with image correction and OCR",
+                "url": "https://github.com/syrianspock/docscan"
+            },
+            {
+                "title": "David continue to work on the Salt iNotify beacon",
+                "url": "https://github.com/saltstack/salt/compare/develop...wagdav:dev-watchdog"
+            },
+            {
+                "title": "Ieva did some R&D or eye tracking systems",
+                "url": ""
+            },
+            {
+                "title": "Tom did not do very much this time :D",
+                "url": ""
+            },
+            {
+                "title": "Greg rebooted his AWS visualization tool and worked on setting up a test environment with a mock AWS server",
+                "url": "https://github.com/gbataille/aws_infra_mapper/commit/9da8e85dfce3581207223a0c16e24174d683d4ee"
+            }
         ]
     },
     {
