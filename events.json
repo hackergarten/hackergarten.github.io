@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-11-20",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-10-30",
         "title": "Paris Hackergarten October",
         "venue": "Pivotal France",
@@ -23,20 +36,6 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
             }
         ],"achievements": [
-
-        ]
-    },
-    {
-        "date": "2018-11-20",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
-        "links": [
-            {
-                "title": "How to find us",
-                "url": "https://goo.gl/maps/28MW7ykBsCF2"
-            }
-        ],
-        "achievements": [
         ]
     },
     {
