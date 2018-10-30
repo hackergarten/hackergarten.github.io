@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-11-22",
+        "title": "Hackergarten Basel September",
+        "venue": "Magnolia HQ",
+        "address": "Oslo-Strasse 2, 4142 Münchenstein (Basel / Dreispitz)",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
+            }
+        ],"achievements": [
+        ]
+    },
+    {
         "date": "2018-11-20",
         "location": "Lausanne, Switzerland",
         "title": "Pix4D Office, EPFL Innovation Park, Building F",
@@ -21,19 +34,6 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxnbnc/"
-            }
-        ],"achievements": [
-        ]
-    },
-    {
-        "date": "2018-09-13",
-        "title": "Hackergarten Basel September",
-        "venue": "Magnolia HQ",
-        "address": "Oslo-Strasse 2, 4142 Münchenstein (Basel / Dreispitz)",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
             }
         ],"achievements": [
         ]
