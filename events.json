@@ -26,6 +26,19 @@
         ]
     },
     {
+        "date": "2018-11-01",
+        "venue": "Workspace Luzern",
+        "address": "Pilatusstrasse 12, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/xmsqhqyxpbcb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-10-30",
         "title": "Paris Hackergarten October",
         "venue": "Pivotal France",
