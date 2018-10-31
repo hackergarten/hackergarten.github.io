@@ -49,6 +49,25 @@
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxnbnc/"
             }
         ],"achievements": [
+            {
+                "title": "Davy, Daniel and Aurélien worked on Maven with Hervé, they found and fixed a bug in Maven Site Skin Archetype",
+                "url": "https://github.com/apache/maven-archetypes/pull/2"
+            },
+            {
+                "title": "Davy, Daniel and Aurélien also started to work on a new site skin"
+            },
+            {
+                "title": "Damien and Mihangy worked on openwhyd.org with Adrien towards creating a recommendation engine. First step was a log anonymizer.",
+                "url": "https://github.com/openwhyd/openwhyd/commit/2c095d22a7245fa67964ed30c0273300ce9db8d2"
+            },
+            {
+                "title": "Nicolas worked on his own Clojure project hubstats trying to generate an executable for GraalVM",
+                "url": "https://github.com/nicokosi/hubstats/pull/13"
+            },
+            {
+                "title": "Oussama and Patrick worked with Florent on Sentinel (still private repo) and managed to automate PR creation as well as write a test for a regression",
+                "url": "https://github.com/fbiville/sentinel/tree/post_pr"
+            }
         ]
     },
     {
