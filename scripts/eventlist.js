@@ -112,7 +112,7 @@ function eventService($http) {
             event.links.push(
                 {
                     "title": "Show location on map",
-                    "url": "https://www.openstreetmap.org/search?query=" + encodeURI(event.address)
+                    "url": "https://www.google.ch/maps/place/" + encodeURI(event.address)
                 }
             );
         }
