@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-12-06",
+        "venue": "Workspace Luzern",
+        "address": "Pilatusstrasse 12, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jtcflqyxqbjb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-11-22",
         "title": "Hackergarten Basel September",
         "venue": "Magnolia HQ",
