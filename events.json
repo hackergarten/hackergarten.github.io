@@ -1,5 +1,18 @@
 [
     {
+        "date": "2018-12-06",
+        "venue": "Workspace Luzern",
+        "address": "Pilatusstrasse 12, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jtcflqyxqbjb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-11-22",
         "title": "Hackergarten Basel September",
         "venue": "Magnolia HQ",
@@ -36,6 +49,30 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Tic Tac Toe: Working on TensorFlow integration",
+                "url": "https://github.com/K2InformaticsGmbH/egambo"
+            },
+            {
+                "title": "Hackergarten Watch Face: It's complicated…",
+                "url": "https://github.com/hackergarten/hackergartenwatchface"
+            },
+            {
+                "title": "Hackergarten Website: Add a \"how to get started\" section",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/194"
+            },
+            {
+                "title": "Hackergarten Website: Add a download section",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/196"
+            },
+            {
+                "title": "Hackergarten Website: Add CSS Insurance as a sponsor for Lucerne",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/197"
+            },
+            {
+                "title": "Hackergarten Website: Fixing deprecated twitter integration",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/199"
+            }
         ]
     },
     {
@@ -276,7 +313,7 @@
             },
             {
                 "title": "Tic Tac Toe Engine: Creating UIs to play against the engine",
-                "url": ""
+                "url": "https://github.com/K2InformaticsGmbH/egambo"
             },
             {
                 "title": "Java Mission Control: Fixing builds and tests"
