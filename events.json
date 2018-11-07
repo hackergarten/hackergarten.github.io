@@ -39,6 +39,17 @@
         ]
     },
     {
+        "date": "2018-11-19",
+        "title": "11. Hackergarten Stuttgart (Winter Edition)",
+        "venue": "codecentric AG, Stuttgart",
+        "address": "Heßbrühlstr 7, Stuttgart",
+        "links": [{
+            "title": "Meetup",
+            "url": "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/256184268/"
+        }],
+        "achievements": []
+    },
+    {
         "date": "2018-11-01",
         "venue": "Workspace Luzern",
         "address": "Pilatusstrasse 12, 6003 Luzern",
