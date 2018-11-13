@@ -152,7 +152,12 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/254552246/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Avoid 404 by adding favicon",
+                "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world/pull/20"
+            }
+        ]
     },
     {
         "date": "2018-10-16",
