@@ -11,6 +11,19 @@
         "achievements": []
     },
     {
+        "date": "2018-12-18",
+        "location": "Lausanne, Switzerland",
+        "title": "Pix4D Office, EPFL Innovation Park, Building F",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2018-12-06",
         "venue": "Workspace Luzern",
         "address": "Pilatusstrasse 12, 6003 Luzern",
@@ -59,6 +72,30 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Greg submitted a bug and a PR to moto",
+                "url": "https://github.com/spulec/moto/pull/1961"
+            },
+            {
+                "title": "Malik, Yann, Florian and Tom worked on their eSport management app (soon to be open sourced)",
+                "url": ""
+            },
+            {
+                "title": "Ieva worked on pix-plot",
+                "url": "https://github.com/IevaNavikiene/pix-plot"
+            },
+            {
+                "title": "Marco and David proposed and discuss a new Conan feature",
+                "url": "https://github.com/conan-io/conan/issues/3971"
+            },
+            {
+                "title": "George worked on a LAS file (point cloud) renderer using Metal for iOS",
+                "url": ""
+            },
+            {
+                "title": "Salah worked on a python script to convert YAML files to C",
+                "url": "https://github.com/cvra/robot-software/issues/118"
+            }
         ]
     },
     {
