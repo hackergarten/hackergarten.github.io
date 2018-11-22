@@ -2601,9 +2601,6 @@
         "date": "2016-04-28",
         "links": [
             {
-                "title": "Location USI - Room SI-008"
-            },
-            {
                 "title": "Announcement",
                 "url": "https://groups.google.com/forum/#!msg/juglugano/cYhpfg91tzY/Ren6E5vxIwAJ"
             }
@@ -2630,7 +2627,7 @@
                 "url": "https://github.com/aalmiray/stats-gradle-plugin"
             }
         ],
-        "venue": "Devoxx Days Ticino Hackergarten",
+        "venue": "Devoxx Days Ticino Hackergarten, Location USI - Room SI-008",
         "address": "Lugano, Switzerland"
     },
     {
