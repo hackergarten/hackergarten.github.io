@@ -1,13 +1,15 @@
 [
-     {
+    {
         "date": "2018-12-19",
         "title": "11. Hackergarten Stuttgart (Winter Edition)",
         "venue": "codecentric AG, Stuttgart",
         "address": "Heßbrühlstr 7, Stuttgart",
-        "links": [{
-            "title": "Meetup",
-            "url": "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/256184268/"
-        }],
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/256184268/"
+            }
+        ],
         "achievements": []
     },
     {
@@ -20,8 +22,7 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2018-12-06",
@@ -33,8 +34,7 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jtcflqyxqbjb/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2018-11-27",
@@ -58,8 +58,8 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
             }
-        ],"achievements": [
-        ]
+        ],
+        "achievements": []
     },
     {
         "date": "2018-11-20",
@@ -157,7 +157,8 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxnbnc/"
             }
-        ],"achievements": [
+        ],
+        "achievements": [
             {
                 "title": "Davy, Daniel and Aurélien worked on Maven with Hervé, they found and fixed a bug in Maven Site Skin Archetype",
                 "url": "https://github.com/apache/maven-archetypes/pull/2"
@@ -546,8 +547,7 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2018-07-19",
@@ -571,8 +571,7 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2018-06-21",
@@ -638,7 +637,6 @@
                 "title": "gradle-pandoc: initial plugin setup",
                 "url": "https://twitter.com/ysb33r/status/1002273742687494144"
             },
-
             {
                 "title": "groovy: Groovy Console should have an option to list its current classpath",
                 "url": "https://issues.apache.org/jira/browse/GROOVY-8622"
@@ -655,8 +653,7 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2018-05-10",
