@@ -14,15 +14,15 @@
     },
     {
         "date": "2018-12-18",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-12-06",
@@ -38,15 +38,15 @@
     },
     {
         "date": "2018-11-27",
-        "location": "Marrakech, Morocco",
-        "title": "Hackergarten @ Devoxx MA",
         "links": [
             {
                 "title": "Info",
                 "url": "https://cfp.devoxx.ma/schedule/day/tuesday"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Hackergarten @ Devoxx MA",
+        "address": "Marrakech, Morocco"
     },
     {
         "date": "2018-11-22",
@@ -63,8 +63,6 @@
     },
     {
         "date": "2018-11-20",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
@@ -96,19 +94,21 @@
                 "title": "Salah worked on a python script to convert YAML files to C",
                 "url": "https://github.com/cvra/robot-software/issues/118"
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-11-13",
-        "location": "Antwerp, Belgium",
-        "title": "Hackergarten @ Devoxx",
         "links": [
             {
                 "title": "Info",
                 "url": "https://devoxx.be/hackergarten/#tuesday"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Hackergarten @ Devoxx",
+        "address": "Antwerp, Belgium"
     },
     {
         "date": "2018-11-01",
@@ -182,8 +182,6 @@
     },
     {
         "date": "2018-10-17",
-        "location": "Stuttgart, Germany",
-        "title": "codecentric AG Office",
         "links": [
             {
                 "title": "Meetup",
@@ -195,12 +193,12 @@
                 "title": "Avoid 404 by adding favicon",
                 "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world/pull/20"
             }
-        ]
+        ],
+        "venue": "codecentric AG Office",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2018-10-16",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
@@ -224,7 +222,9 @@
                 "title": "Greg got closer to releasing v1 of envstatus",
                 "url": "https://github.com/gbataille/envstatus"
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-10-04",
@@ -268,8 +268,6 @@
     },
     {
         "date": "2018-09-18",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
@@ -289,7 +287,9 @@
                 "title": "Tom and Malik worked on their e-sport application (not yet open sourced, but soon)",
                 "url": ""
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-09-13",
@@ -315,8 +315,6 @@
     },
     {
         "date": "2018-09-08",
-        "location": "Dortmund, Germany",
-        "title": "Softwerkskammer Ruhrgebiet - Hackergarten",
         "links": [
             {
                 "title": "Meetup",
@@ -368,7 +366,9 @@
                 "title": "Add length related assertions to AssertJ",
                 "url": "https://github.com/joel-costigliola/assertj-core/pull/1320"
             }
-        ]
+        ],
+        "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
+        "address": "Dortmund, Germany"
     },
     {
         "date": "2018-09-06",
@@ -400,8 +400,6 @@
     },
     {
         "date": "2018-08-28",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
@@ -429,12 +427,12 @@
                 "title": "Tom worked on a web application for eSport management",
                 "url": ""
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-08-28",
-        "location": "Paris, France",
-        "title": "Pivotal",
         "links": [
             {
                 "title": "Meetup",
@@ -454,12 +452,12 @@
                 "title": "Oussama, Florent + 2 others hackers got really close to complete v1 of Liquigraph's bot: Sentinel (private repo for now)",
                 "url": "https://github.com/fbiville/sentinel"
             }
-        ]
+        ],
+        "venue": "Pivotal",
+        "address": "Paris, France"
     },
     {
         "date": "2018-08-28",
-        "location": "Basel, Switzerland",
-        "title": "Trivadis AG",
         "links": [
             {
                 "title": "Meetup",
@@ -471,12 +469,12 @@
                 "title": "Add support for transparent color in the Vaadin Sass compiler",
                 "url": "https://github.com/vaadin/sass-compiler/pull/320"
             }
-        ]
+        ],
+        "venue": "Trivadis AG",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2018-08-14",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office",
         "links": [
             {
                 "title": "Meetup",
@@ -496,7 +494,9 @@
                 "title": "Spring 5 Support for Trasier Java Client",
                 "url": "https://github.com/trasiercom/trasier-client/issues/37"
             }
-        ]
+        ],
+        "venue": "SBB Office",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2018-08-02",
@@ -539,44 +539,42 @@
     },
     {
         "date": "2018-07-31",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-07-19",
-        "location": "Stuttgart, Germany",
-        "title": "codecentric AG Office",
         "links": [
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/251514682"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "codecentric AG Office",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2018-06-26",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-06-21",
-        "location": "Basel, Switzerland",
-        "title": "Karakun AG Office",
         "links": [
             {
                 "title": "Meetup",
@@ -588,12 +586,12 @@
                 "title": "Hackergarten Website: Show GitHub Issues with 'hackergarten' tag",
                 "url": "https://github.com/hackergarten/hackergarten.github.io/pull/162"
             }
-        ]
+        ],
+        "venue": "Karakun AG Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2018-06-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -604,12 +602,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2018-05-31",
-        "location": "Copenhagen, Denmark",
-        "title": "Gr8conf EU",
         "links": [
             {
                 "title": "Hackergarten on Tour",
@@ -641,36 +639,36 @@
                 "title": "groovy: Groovy Console should have an option to list its current classpath",
                 "url": "https://issues.apache.org/jira/browse/GROOVY-8622"
             }
-        ]
+        ],
+        "venue": "Gr8conf EU",
+        "address": "Copenhagen, Denmark"
     },
     {
         "date": "2018-05-15",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "How to find us",
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-05-10",
-        "location": "London, UK",
-        "title": "Hackergarten @ Devoxx UK",
         "links": [
             {
                 "title": "Devoxx UK",
                 "url": "https://www.devoxx.co.uk/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Hackergarten @ Devoxx UK",
+        "address": "London, UK"
     },
     {
         "date": "2018-05-03",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -681,12 +679,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2018-03-22",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -697,24 +695,24 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2018-03-10",
-        "location": "Escaldes-Engordany, Andorra",
-        "title": "Andorra Tech a la Neu",
         "links": [
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Andorra-Tech/events/248256968/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Andorra Tech a la Neu",
+        "address": "Escaldes-Engordany, Andorra"
     },
     {
         "date": "2018-03-01",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -725,12 +723,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2018-03-01",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -741,12 +739,12 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2018-02-27",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "Meetup",
@@ -778,12 +776,12 @@
                 "title": "Greg rebooted his AWS visualization tool and worked on setting up a test environment with a mock AWS server",
                 "url": "https://github.com/gbataille/aws_infra_mapper/commit/9da8e85dfce3581207223a0c16e24174d683d4ee"
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2018-02-13",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -794,12 +792,12 @@
                 "url": "https://www.google.com/maps?f=q&hl=en&q=Haslerstrasse+30,+Bern,+ch"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2018-02-01",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -810,24 +808,24 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2018-01-14",
-        "location": "Hausham, Germany",
-        "title": "Hackergarten @ JSpirit",
         "links": [
             {
                 "title": "https://jspirit.org/",
                 "url": "https://jspirit.org/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Hackergarten @ JSpirit",
+        "address": "Hausham, Germany"
     },
     {
         "date": "2018-01-04",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -838,12 +836,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-12-12",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -863,12 +861,12 @@
                 "title": "Fixed: Add possibility to choose where messages will be displayed",
                 "url": "https://github.com/kreuzerk/primeNG-advanced-growl/issues/149"
             }
-        ]
+        ],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2017-12-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -879,12 +877,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-12-07",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -895,12 +893,12 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-11-28",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "Meetup",
@@ -911,12 +909,12 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2017-11-09",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -927,24 +925,24 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-11-07",
-        "location": "Antwerp, Belgium",
-        "title": "Hackergarten @ Devoxx",
         "links": [
             {
                 "title": "Info",
                 "url": "https://devoxx.be/hackergarten/#tuesday"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Hackergarten @ Devoxx",
+        "address": "Antwerp, Belgium"
     },
     {
         "date": "2017-11-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -955,12 +953,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-10-24",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "Meetup",
@@ -992,12 +990,12 @@
                 "title": "Greg worked on aws_companion, generating a graph from the security groups",
                 "url": "https://www.torproject.org/projects/torbrowser.html.en"
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2017-10-10",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -1025,24 +1023,24 @@
                 "title": "MyTree: Project started - image recognition PoC",
                 "url": "https://github.com/syzer/MyTree/blob/master/readme.md"
             }
-        ]
+        ],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2017-10-02",
-        "location": "San Francisco, USA",
-        "title": "JavaOne",
         "links": [
             {
                 "title": "Schedule",
                 "url": "https://community.oracle.com/docs/DOC-1017340"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "JavaOne",
+        "address": "San Francisco, USA"
     },
     {
         "date": "2017-09-30",
-        "location": "Wroclaw, Poland",
-        "title": "Luxoft Office, pl. Konstytucji 3 Maja 3, Wroclaw",
         "links": [
             {
                 "title": "Meetup",
@@ -1053,12 +1051,12 @@
                 "url": "https://career.luxoft.com/lp/hackergarten-wroclaw-2017/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Luxoft Office, pl. Konstytucji 3 Maja 3, Wroclaw",
+        "address": "Wroclaw, Poland"
     },
     {
         "date": "2017-09-27",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1094,12 +1092,12 @@
                 "title": "Jdeferred: reworked PR for Cancelable callbacks",
                 "url": "https://github.com/jdeferred/jdeferred/pull/123"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-09-26",
-        "location": "Lausanne, Switzerland",
-        "title": "Pix4D Office, EPFL Innovation Park, Building F",
         "links": [
             {
                 "title": "Meetup",
@@ -1127,12 +1125,12 @@
                 "title": "Marco and David worked on adding platform independent inotify-like beacon to Salt",
                 "url": ""
             }
-        ]
+        ],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
     },
     {
         "date": "2017-09-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1143,12 +1141,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-08-29",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1164,12 +1162,12 @@
                 "title": "HackADoc: create fork of hackmd.io to use AsciiDoctor instead of MarkDown",
                 "url": "https://github.com/hackergarten/hackadoc/"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-08-08",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -1193,12 +1191,12 @@
                 "title": "Upgrading dbUp to new .net Framework (unfortunately unfinished)",
                 "url": "https://github.com/DbUp"
             }
-        ]
+        ],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2017-08-03",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1238,12 +1236,12 @@
                 "title": "Komunumo: Design Project Logo",
                 "url": "https://github.com/komunumo/komunumo-website/issues/1"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-07-19",
-        "location": "Stuttgart, Germany",
-        "title": "tbd",
         "links": [
             {
                 "title": "Meetup",
@@ -1254,12 +1252,12 @@
                 "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/241085977/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "tbd",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2017-07-06",
-        "location": "Stuttgart, Germany",
-        "title": "JavaForum Stuttgart",
         "links": [
             {
                 "title": "Meetup",
@@ -1270,12 +1268,12 @@
                 "url": "https://maps.google.com/maps?f=q&hl=en&q=Berliner+Platz+1-3%2C+Stuttgart%2C+de"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "JavaForum Stuttgart",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2017-07-06",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1286,12 +1284,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-06-29",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1302,12 +1300,12 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-06-21",
-        "location": "Krakow, Poland",
-        "title": "Devoxx PL",
         "links": [
             {
                 "title": "Schedule",
@@ -1331,24 +1329,24 @@
                 "title": "griffon: GenerateBom task should create a valid POM per Maven Central's requirements",
                 "url": "https://github.com/griffon/griffon/issues/238"
             }
-        ]
+        ],
+        "venue": "Devoxx PL",
+        "address": "Krakow, Poland"
     },
     {
         "date": "2017-06-13",
-        "location": "Dortmund, Germany",
-        "title": "Codecentric / the black frame",
         "links": [
             {
                 "title": "Hackergarten",
                 "url": "https://www.xing.com/events/hackergarten-juni-1817832"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Codecentric / the black frame",
+        "address": "Dortmund, Germany"
     },
     {
         "date": "2017-06-13",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -1372,12 +1370,12 @@
                 "title": "Improved documentation for asciidoctor-gradle-plugin",
                 "url": "https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197"
             }
-        ]
+        ],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2017-06-01",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1388,36 +1386,36 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-05-31",
-        "location": "Copenhagen, Denmark",
-        "title": "Gr8conf EU",
         "links": [
             {
                 "title": "Hackergarten on Tour",
                 "url": "http://gr8conf.eu/#/talks"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Gr8conf EU",
+        "address": "Copenhagen, Denmark"
     },
     {
         "date": "2017-05-18",
-        "location": "Tokyo, Japan",
-        "title": "Oracle Code Tokyo 2017",
         "links": [
             {
                 "title": "Hackergarten on Tour",
                 "url": "https://developer.oracle.com/code/tokyo"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Oracle Code Tokyo 2017",
+        "address": "Tokyo, Japan"
     },
     {
         "date": "2017-05-17",
-        "location": "Tokyo, Japan",
-        "title": "Java Day Tokyo 2017",
         "links": [
             {
                 "title": "Hackergarten on Tour",
@@ -1429,12 +1427,12 @@
                 "title": "jdeps-gradle-plugin: initial release",
                 "url": "https://github.com/aalmiray/jdeps-gradle-plugin"
             }
-        ]
+        ],
+        "venue": "Java Day Tokyo 2017",
+        "address": "Tokyo, Japan"
     },
     {
         "date": "2017-05-04",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1445,12 +1443,12 @@
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-04-27",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1461,12 +1459,12 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-04-20",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -1490,12 +1488,12 @@
                 "title": "Working on Jacoco terminal integration",
                 "url": "https://github.com/jacoco/jacoco"
             }
-        ]
+        ],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2017-04-06",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1563,12 +1561,12 @@
                 "title": "Eclipse Git Plugin: CCE and NPE fixed",
                 "url": "https://github.com/loetscher/egit/commit/3d5b405971e5703029c2066eaa50997e3257a2c8"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-03-23",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1592,12 +1590,12 @@
                 "title": "Slightly improve Asciidoctor-Diagram Documentation",
                 "url": "https://github.com/asciidoctor/asciidoctor.org/pull/659"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-03-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1629,12 +1627,12 @@
                 "title": "Erlang in-memory database: add gen-server for tic-tac-challenge",
                 "url": "https://github.com/K2InformaticsGmbH/imem/commit/d84632910e300b1770cb1dba28d50743e19e489f"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-02-07",
-        "location": "Stockholm, Sweden",
-        "title": "JFokus",
         "links": [
             {
                 "title": "Website",
@@ -1666,12 +1664,12 @@
                 "title": "Eclipse IDE: Allow sorting by declaration order",
                 "url": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=511906"
             }
-        ]
+        ],
+        "venue": "JFokus",
+        "address": "Stockholm, Sweden"
     },
     {
         "date": "2017-02-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1714,12 +1712,12 @@
                 "title": "Web Components Polymer Application Prototype",
                 "url": "https://github.com/ahodgkinson/wcpap"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2017-01-26",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1730,12 +1728,12 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2017-01-05",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1766,12 +1764,12 @@
                 "title": "Moodini Clean Code Refactoring",
                 "url": "https://www.codacy.com/app/McPringle/moodini/dashboard"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-12-06",
-        "location": "Bern, Switzerland",
-        "title": "SBB Office, Haslerstrasse 30, Bern",
         "links": [
             {
                 "title": "Meetup",
@@ -1799,12 +1797,12 @@
                 "title": "Continuing fixing highlting monospace in asccidoctorJ plugin",
                 "url": "https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/161"
             }
-        ]
+        ],
+        "venue": "SBB Office, Haslerstrasse 30, Bern",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2016-12-08",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1840,12 +1838,12 @@
                 "title": "griffon-ormlite-plugin: Upgrade to Ormlite 5.0 and release version 1.1.0",
                 "url": "https://github.com/griffon-plugins/griffon-ormlite-plugin/commit/06a5e8ae834ab916381b751a42dd550b16fda6b1"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-12-08",
-        "location": "Paris, France",
-        "title": "Xebia",
         "links": [
             {
                 "title": "Meetup",
@@ -1856,12 +1854,12 @@
                 "url": "https://www.google.com/maps/place/156+Boulevard+Haussmann,+75008+Paris,+France/@48.8755587,2.3088289,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc7c0eb09d3:0x9b3b3b5b3007b596!8m2!3d48.8755587!4d2.3110176?hl=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Xebia",
+        "address": "Paris, France"
     },
     {
         "date": "2016-12-01",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -1897,12 +1895,12 @@
                 "title": "JMH Gradle Plugin: Update README to reflect a working code snipplet",
                 "url": "https://github.com/melix/jmh-gradle-plugin/pull/85"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-11-15",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -1950,12 +1948,12 @@
                 "title": "update Dolphin Platform Spring Boot Lazybones Template to use version 0.8.8",
                 "url": "https://github.com/canoo/dolphin-platform-lazybones-templates/pull/4"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-11-09",
-        "location": "Antwerp, Belgium",
-        "title": "Devoxx",
         "links": [
             {
                 "title": "Schedule",
@@ -1971,12 +1969,12 @@
                 "title": "jdeferred: added generating of pom files for .aar and .apklib builds in android subproject",
                 "url": "https://github.com/aalmiray/jdeferred/commit/0de50966fa5951e422666e6449da810ff4be5b1e"
             }
-        ]
+        ],
+        "venue": "Devoxx",
+        "address": "Antwerp, Belgium"
     },
     {
         "date": "2016-11-03",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2021,12 +2019,12 @@
             {
                 "title": "Worked through a Vagrant Tutorial"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-11-02",
-        "location": "Casablanca, Morocco",
-        "title": "Devoxx MA",
         "links": [
             {
                 "title": "Program",
@@ -2054,12 +2052,12 @@
                 "title": "javaee-security-spec: Rename LDap to Ldap",
                 "url": "https://github.com/javaee-security-spec/soteria/pull/19"
             }
-        ]
+        ],
+        "venue": "Devoxx MA",
+        "address": "Casablanca, Morocco"
     },
     {
         "date": "2016-10-27",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2103,12 +2101,12 @@
                 "title": "Naum: Enable aggregate code coverage reports",
                 "url": "https://github.com/aalmiray/naum/commit/4f39e15fb229ece4b0a815e4a4b87a2633653df4"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-10-26",
-        "location": "Zurich, Switzerland",
-        "title": "Liip Office Zurich",
         "links": [
             {
                 "title": "Meetup",
@@ -2119,12 +2117,12 @@
                 "url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Liip Office Zurich",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2016-10-06",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2172,12 +2170,12 @@
                 "title": "groovyfx: Running samples with JDK9 results in exception",
                 "url": "https://github.com/groovyfx-project/groovyfx/issues/52"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-09-28",
-        "location": "Zurich, Switzerland",
-        "title": "Liip Office Zurich",
         "links": [
             {
                 "title": "Meetup",
@@ -2188,12 +2186,12 @@
                 "url": "https://www.google.com/maps/place/Limmatstrasse+183,+8005+Z%C3%BCrich,+Schweiz/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Liip Office Zurich",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2016-09-28",
-        "location": "Stuttgart, Germany",
-        "title": "codecentric Office Stuttgart",
         "links": [
             {
                 "title": "Meetup",
@@ -2204,12 +2202,12 @@
                 "url": "https://www.google.de/maps/place/Curiestraße+2,+70563+Stuttgart/@48.73781,9.1104113,17z"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "codecentric Office Stuttgart",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2016-09-22",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2225,24 +2223,24 @@
                 "title": "ldap-auth tests with in memory ldap server",
                 "url": "https://github.com/hackergarten/LdapAuth/pull/4"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-09-19",
-        "location": "San Francisco, USA",
-        "title": "JavaOne",
         "links": [
             {
                 "title": "Schedule",
                 "url": "https://community.oracle.com/docs/DOC-997220"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "JavaOne",
+        "address": "San Francisco, USA"
     },
     {
         "date": "2016-09-01",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2274,12 +2272,12 @@
                 "title": "SportChef: Designed the login dialog to look like the mockup",
                 "url": "https://github.com/McPringle/sportchef"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-08-04",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2315,12 +2313,12 @@
                 "title": "SportChef: Fix for header hiding parts of modal dialogs",
                 "url": "https://github.com/McPringle/sportchef/commit/b0c1c5e04e33690400604833200577af00e1004e"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-07-27",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2331,12 +2329,12 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-07-07",
-        "location": "Stuttgart, Germany",
-        "title": "Java Forum Stuttgart",
         "links": [
             {
                 "title": "Meetup",
@@ -2359,12 +2357,12 @@
             {
                 "title": "JSON Hacking"
             }
-        ]
+        ],
+        "venue": "Java Forum Stuttgart",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2016-07-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2398,12 +2396,12 @@
             {
                 "title": "Pick up pictures from CouchDB Attachments and display on the mobile"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-06-30",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2414,24 +2412,24 @@
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-06-28",
-        "location": "São Paulo, Brazil",
-        "title": "Java One Brazil",
         "links": [
             {
                 "title": "June 28/29/30 at JavaHub",
                 "url": "https://www.oracle.com/br/en/javaone/java-hub.html#hackergarten"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Java One Brazil",
+        "address": "São Paulo, Brazil"
     },
     {
         "date": "2016-06-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2454,24 +2452,24 @@
                 "title": "Moodini: Implemented a RESTful JSON API",
                 "url": "https://github.com/McPringle/moodini"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-06-01",
-        "location": "Copenhagen, Denmark",
-        "title": "Gr8conf EU",
         "links": [
             {
                 "title": "Hackergarten on Tour",
                 "url": "http://gr8conf.eu/#/talk/270"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Gr8conf EU",
+        "address": "Copenhagen, Denmark"
     },
     {
         "date": "2016-06-01",
-        "location": "Bern, Switzerland",
-        "title": "SBB",
         "links": [
             {
                 "title": "Meetup",
@@ -2491,24 +2489,24 @@
                 "title": "Babun: Hunting for bugs",
                 "url": "https://github.com/babun/babun"
             }
-        ]
+        ],
+        "venue": "SBB",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2016-05-26",
-        "location": "Sofia, Bulgaria",
-        "title": "JPrime",
         "links": [
             {
                 "title": "Conference Website",
                 "url": "http://jprime.io/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "JPrime",
+        "address": "Sofia, Bulgaria"
     },
     {
         "date": "2016-05-12",
-        "location": "Zurich, Switzerland",
-        "title": "ELCA Informatik AG",
         "links": [
             {
                 "title": "Meetup",
@@ -2536,12 +2534,12 @@
                 "title": "SportChef: Use Swagger to document our RESTful JSON API",
                 "url": "https://github.com/McPringle/sportchef/issues/275"
             }
-        ]
+        ],
+        "venue": "ELCA Informatik AG",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2016-05-05",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2580,12 +2578,12 @@
                 "title": "JUnit 5: Configure additional metadata on JAR manifest",
                 "url": "https://github.com/junit-team/junit5/pull/239"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-04-28",
-        "location": "Lugano, Switzerland",
-        "title": "Devoxx Days Ticino Hackergarten",
         "links": [
             {
                 "title": "Location USI - Room SI-008"
@@ -2616,12 +2614,12 @@
                 "title": "stats-gradle: handle more filey types; aggregate reports; make new 0.2.0 release",
                 "url": "https://github.com/aalmiray/stats-gradle-plugin"
             }
-        ]
+        ],
+        "venue": "Devoxx Days Ticino Hackergarten",
+        "address": "Lugano, Switzerland"
     },
     {
         "date": "2016-04-27",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2645,12 +2643,12 @@
                 "title": "SportChef: A user should be able to logout",
                 "url": "https://github.com/McPringle/sportchef/issues/260"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-04-27",
-        "location": "Gdansk, Poland",
-        "title": "Nordea Market Capitals IT",
         "links": [
             {
                 "title": "Meetup",
@@ -2674,12 +2672,12 @@
                 "title": "Babun: fixed the build",
                 "url": "https://github.com/babun/babun/pull/616"
             }
-        ]
+        ],
+        "venue": "Nordea Market Capitals IT",
+        "address": "Gdansk, Poland"
     },
     {
         "date": "2016-04-20",
-        "location": "Paris, France",
-        "title": "Devoxx FR",
         "links": [
             {
                 "title": "Activities @ Devoxx FR",
@@ -2695,12 +2693,12 @@
                 "title": "Added stacked icon support",
                 "url": "https://github.com/aalmiray/ikonli"
             }
-        ]
+        ],
+        "venue": "Devoxx FR",
+        "address": "Paris, France"
     },
     {
         "date": "2016-04-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2736,12 +2734,12 @@
                 "title": "SportChef: Create snapshots of persistence store on server shutdown",
                 "url": "https://github.com/McPringle/sportchef/issues/244"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-03-31",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2765,12 +2763,12 @@
                 "title": "Lazybones Template for Dolphin Platform released",
                 "url": "https://github.com/canoo/dolphin-platform-lazybones-templates"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-03-08",
-        "location": "JavaLand Conference, Phantasialand, Brühl/Köln, Germany",
-        "title": "Javaland",
         "links": [
             {
                 "title": "Javaland Program, see 'Early Adopters Area'",
@@ -2798,12 +2796,12 @@
                 "title": "jbake: PR #269 Enable gemPath and requires properties on Asciidoctor",
                 "url": "https://github.com/jbake-org/jbake/pull/269"
             }
-        ]
+        ],
+        "venue": "Javaland",
+        "address": "JavaLand Conference, Phantasialand, Brühl/Köln, Germany"
     },
     {
         "date": "2016-03-03",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2839,12 +2837,12 @@
                 "title": "SportChef: Use a date picker component for the event date",
                 "url": "https://github.com/McPringle/sportchef/issues/115"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-02-25",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -2872,12 +2870,12 @@
                 "title": "SportChef: Implemented Optimistic Lock",
                 "url": "https://github.com/McPringle/sportchef/issues/46"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-02-24",
-        "location": "Zurich, Switzerland",
-        "title": "Liip",
         "links": [
             {
                 "title": "Meetup",
@@ -2893,12 +2891,12 @@
                 "title": "SportChef: Writing Unit Tests for AJAX Uploads",
                 "url": "https://github.com/McPringle/sportchef/issues/167"
             }
-        ]
+        ],
+        "venue": "Liip",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2016-02-04",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -2921,12 +2919,12 @@
             {
                 "title": "Discussion about event based content management systems"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2016-01-28",
-        "location": "Zurich, Switzerland",
-        "title": "Citizen Space Zurich",
         "links": [
             {
                 "title": "Meetup",
@@ -2937,12 +2935,12 @@
                 "url": "https://goo.gl/maps/wq5bcBSM6bk"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Citizen Space Zurich",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2016-01-27",
-        "location": "Bern, Switzerland",
-        "title": "SBB",
         "links": [
             {
                 "title": "Meetup",
@@ -2970,12 +2968,12 @@
                 "title": "Electron: Evaluation",
                 "url": "http://electron.atom.io/"
             }
-        ]
+        ],
+        "venue": "SBB",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2016-01-21",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3003,12 +3001,12 @@
                 "title": "Sportchef: Added some colors",
                 "url": "https://github.com/McPringle/sportchef/pull/110"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2016-01-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3032,12 +3030,12 @@
                 "title": "SportChef: UI fixes &amp: graphic design",
                 "url": "https://github.com/McPringle/sportchef"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-12-10",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3077,12 +3075,12 @@
                 "title": "SportChef: Added base style for paper-cards",
                 "url": "https://github.com/McPringle/sportchef/pull/53"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-12-03",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3109,12 +3107,12 @@
             {
                 "title": "Scala &amp; Akka Streams Discussions and Tests"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-12-02",
-        "location": "Zurich, Switzerland",
-        "title": "Liip",
         "links": [
             {
                 "title": "Meetup",
@@ -3125,12 +3123,12 @@
                 "url": "https://goo.gl/maps/mMlSy"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "venue": "Liip",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2015-11-17",
-        "location": "Casablanca, Morocco",
-        "title": "Devoxx Morocco",
         "links": [
             {
                 "title": "Gradle Hackergarten",
@@ -3140,12 +3138,12 @@
                 "title": "Get in touch",
                 "url": "http://cfp.devoxx.ma/2015/speaker/rene_groeschke"
             }
-        ]
+        ],
+        "venue": "Devoxx Morocco",
+        "address": "Casablanca, Morocco"
     },
     {
         "date": "2015-11-05",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3169,23 +3167,23 @@
                 "title": "Clojure Protocol Buffer Library: initial commits",
                 "url": "https://github.com/arpagaus/clj-protobuf"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-10-26",
-        "location": "San Francisco, USA",
-        "title": "JavaOne",
         "links": [
             {
                 "title": "Schedule",
                 "url": "https://community.oracle.com/community/java/jcp/hackergarten"
             }
-        ]
+        ],
+        "venue": "JavaOne",
+        "address": "San Francisco, USA"
     },
     {
         "date": "2015-10-22",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3201,12 +3199,12 @@
                 "title": "SportChef: Evaluation of Google Polymer",
                 "url": "https://github.com/McPringle/sportchef/pull/22"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-10-01",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3228,12 +3226,12 @@
             {
                 "title": "Clojure Protocol Buffer Library: concept creation"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-09-30",
-        "location": "Bern, Switzerland",
-        "title": "SBB, Haslerstrasse 30",
         "links": [],
         "achievements": [
             {
@@ -3248,12 +3246,12 @@
                 "title": "Babun Shell: Remove duplicate property CHECK_TIMEOUT_IN_SECS",
                 "url": "https://github.com/babun/babun/pull/466"
             }
-        ]
+        ],
+        "venue": "SBB, Haslerstrasse 30",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2015-09-24",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3273,12 +3271,12 @@
                 "title": "griffon-preferences-plugin: Add support for default values to PreferencesNode",
                 "url": "https://github.com/griffon-plugins/griffon-preferences-plugin/pull/6"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-08-27",
-        "location": "Zurich, Switzerland",
-        "title": "Liip Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3288,12 +3286,12 @@
                 "title": "How to find us",
                 "url": "https://goo.gl/maps/mMlSy"
             }
-        ]
+        ],
+        "venue": "Liip Office",
+        "address": "Zurich, Switzerland"
     },
     {
         "date": "2015-08-25",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3335,12 +3333,12 @@
                 "title": "GrooxyFx: SceneGraphBuilder registered twice",
                 "url": "https://github.com/groovyfx-project/groovyfx/issues/18"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-08-06",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3350,12 +3348,12 @@
                 "title": "How to find us",
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-07-30",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3365,12 +3363,12 @@
                 "title": "where is Canoo Office",
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-07-23",
-        "location": "Stuttgart, Germany",
-        "title": "codecentric AG",
         "links": [
             {
                 "title": "Meetup",
@@ -3380,23 +3378,23 @@
                 "title": "Find us in the 3rd floor:",
                 "url": "https://www.google.de/maps/place/Curiestra%C3%9Fe+2,+70563+Stuttgart/@48.73781,9.1126,17z/data=!3m1!4b1!4m2!3m1!1s0x4799dc5e98d9e9a3:0x3abf6880c5a75bf7"
             }
-        ]
+        ],
+        "venue": "codecentric AG",
+        "address": "Stuttgart, Germany"
     },
     {
         "date": "2015-07-14",
-        "location": "Dortmund, Germany",
-        "title": "JUG DO Hackergarten July",
         "links": [
             {
                 "title": "Event on Xing",
                 "url": "https://www.xing.com/events/hackergarten-juli-1571019?came_from=12"
             }
-        ]
+        ],
+        "venue": "JUG DO Hackergarten July",
+        "address": "Dortmund, Germany"
     },
     {
         "date": "2015-07-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3406,12 +3404,12 @@
                 "title": "How to find us",
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-06-25",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Meetup",
@@ -3421,34 +3419,34 @@
                 "title": "where is Canoo Office",
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-06-24",
-        "location": "Friedrichshafen/Immenstaad, Germany",
-        "title": "JUG Bodensee (3rd Hackergarten)",
         "links": [
             {
                 "title": "Meetup",
                 "url": "http://www.meetup.com/JUG-Bodensee/events/223353294/"
             }
-        ]
+        ],
+        "venue": "JUG Bodensee (3rd Hackergarten)",
+        "address": "Friedrichshafen/Immenstaad, Germany"
     },
     {
         "date": "2015-06-17",
-        "location": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg",
-        "title": "DWX 2015",
         "links": [
             {
                 "title": "Hackergarten Activities",
                 "url": "http://www.developer-week.de/Specials/Hackergarten"
             }
-        ]
+        ],
+        "venue": "DWX 2015",
+        "address": "Nürnberg Convention Center NCC Ost, Messezentrum, D-90471 Nürnberg"
     },
     {
         "date": "2015-06-04",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3458,12 +3456,12 @@
                 "title": "How to find us",
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-06-02",
-        "location": "IT-University, Copenhagen, DK",
-        "title": "GR8Conf Europe 2015",
         "links": [
             {
                 "title": "GR8Conf",
@@ -3473,23 +3471,23 @@
                 "title": "Description",
                 "url": "http://gr8conf.eu/#/talk/158"
             }
-        ]
+        ],
+        "venue": "GR8Conf Europe 2015",
+        "address": "IT-University, Copenhagen, DK"
     },
     {
         "date": "2015-05-07",
-        "location": "Friedrichshafen/Immenstaad, Germany",
-        "title": "JUG Bodensee (2nd Hackergarten)",
         "links": [
             {
                 "title": "Meetup",
                 "url": "http://www.meetup.com/JUG-Bodensee/events/222206632/"
             }
-        ]
+        ],
+        "venue": "JUG Bodensee (2nd Hackergarten)",
+        "address": "Friedrichshafen/Immenstaad, Germany"
     },
     {
         "date": "2015-05-07",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3499,34 +3497,34 @@
                 "title": "Attention, we have a new place to meet: How to find us",
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-04-29",
-        "location": "Zürich, Switzerland",
-        "title": "looking for a location",
         "links": [
             {
                 "title": "Meetup",
                 "url": "http://www.meetup.com/Hackergarten-Zurich/events/221807206/"
             }
-        ]
+        ],
+        "venue": "looking for a location",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2015-04-24",
-        "location": "Bangalore, India",
-        "title": "GIDS 2015",
         "links": [
             {
                 "title": "GIDS Schedule",
                 "url": "http://www.developermarch.com/developersummit/conference.html"
             }
-        ]
+        ],
+        "venue": "GIDS 2015",
+        "address": "Bangalore, India"
     },
     {
         "date": "2015-04-23",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3540,45 +3538,45 @@
                 "title": "where is Canoo Office",
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-04-18",
-        "location": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland",
-        "title": "Voxxed Days Ticino 2015",
         "links": [
             {
                 "title": "VoxxedDays Ticino '15 Schedule",
                 "url": "https://www.voxxed.com/days-ticino15/#np-3892"
             }
-        ]
+        ],
+        "venue": "Voxxed Days Ticino 2015",
+        "address": "Palazzo dei Congressi, on the beautiful front lake of Lugano, Switzerland"
     },
     {
         "date": "2015-04-14",
-        "location": "Bern, Switzerland",
-        "title": "SBB Offices",
         "links": [
             {
                 "title": "Location",
                 "url": "https://de.foursquare.com/v/sbb-haslerstrasse-30/4f7ede72e4b0a4349ad2fd58"
             }
-        ]
+        ],
+        "venue": "SBB Offices",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2015-04-08",
-        "location": "Paris, France",
-        "title": "Devoxx FR",
         "links": [
             {
                 "title": "Info",
                 "url": "http://www.devoxx.fr/dvxfr15-hackergarten/"
             }
-        ]
+        ],
+        "venue": "Devoxx FR",
+        "address": "Paris, France"
     },
     {
         "date": "2015-04-02",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "Meetup",
@@ -3588,12 +3586,12 @@
                 "title": "Attention, we have a new place to meet: How to find us",
                 "url": "http://www.meetup.com/Hackergarten-Luzern/photos/25739213/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-03-26",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3607,23 +3605,23 @@
                 "title": "where is Canoo Office",
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-03-24",
-        "location": "Javaland",
-        "title": "Hackergarten on tour",
         "links": [
             {
                 "title": "Community activities",
                 "url": "http://www.javaland.eu/1/program/practicing-the-community-activities/"
             }
-        ]
+        ],
+        "venue": "Hackergarten on tour",
+        "address": "Javaland"
     },
     {
         "date": "2015-03-14",
-        "location": "Skopje",
-        "title": "Netcetera",
         "links": [
             {
                 "title": "Meetup",
@@ -3633,12 +3631,12 @@
                 "title": "Address",
                 "url": "https://www.google.com/maps/place/Netcetera/@42.003761,21.394854,15z/data=!4m2!3m1!1s0x0:0x9c22f219f1da5327?sa=X&ei=f38DVY7jFsnlUpXAgKgF&ved=0CHoQ_BIwCw"
             }
-        ]
+        ],
+        "venue": "Netcetera",
+        "address": "Skopje"
     },
     {
         "date": "2015-03-10",
-        "location": "Gdansk, Poland",
-        "title": "Trojmiasto Java User Group",
         "links": [
             {
                 "title": "Meetup",
@@ -3648,12 +3646,12 @@
                 "title": "Address",
                 "url": "http://maps.google.com/maps?f=q&hl=en&q=Norwida+2%2C+Gdansk%2C+pl"
             }
-        ]
+        ],
+        "venue": "Trojmiasto Java User Group",
+        "address": "Gdansk, Poland"
     },
     {
         "date": "2015-03-05",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3671,12 +3669,12 @@
                 "title": "CSS Versicherung",
                 "url": "https://www.css.ch/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-02-26",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3690,12 +3688,12 @@
                 "title": "where is Canoo Office",
                 "url": "http://www.canoo.com/service/contact/?l=en"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2015-01-29",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3709,12 +3707,12 @@
                 "title": "CSS Versicherung",
                 "url": "https://www.css.ch/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2015-01-22",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3724,23 +3722,23 @@
                 "title": "Meetup",
                 "url": "http://www.meetup.com/Hackergarten-Basel/events/219062374/"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-12-10",
-        "location": "Airbus Defence & Space",
-        "title": "BG9 / 9078 ",
         "links": [
             {
                 "title": "Meetup",
                 "url": "http://www.meetup.com/JUG-Bodensee/events/219065485/"
             }
-        ]
+        ],
+        "venue": "BG9 / 9078 ",
+        "address": "Airbus Defence & Space"
     },
     {
         "date": "2014-11-27",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3750,12 +3748,12 @@
                 "title": "Meetup",
                 "url": "http://www.meetup.com/Hackergarten-Basel/events/218639052/"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-11-24",
-        "location": "Lucerne, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "GoogleGroup",
@@ -3769,12 +3767,12 @@
                 "title": "CSS Versicherung",
                 "url": "https://www.css.ch/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Lucerne, Switzerland"
     },
     {
         "date": "2014-10-30",
-        "location": "Basel, Switzerland",
-        "title": "Hackergarten Basel October",
         "links": [
             {
                 "title": "GoogleGroups",
@@ -3788,23 +3786,23 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com/service/contact/"
             }
-        ]
+        ],
+        "venue": "Hackergarten Basel October",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-10-23",
-        "location": "Zürich, Switzerland",
-        "title": "Technopark",
         "links": [
             {
                 "title": "Meetup",
                 "url": "http://www.meetup.com/Hackergarten-Zurich/events/211930692/"
             }
-        ]
+        ],
+        "venue": "Technopark",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2014-10-09",
-        "location": "Luzern, Switzerland",
-        "title": "CSS Versicherung",
         "links": [
             {
                 "title": "GoogleGroups",
@@ -3818,12 +3816,12 @@
                 "title": "CSS Versicherung",
                 "url": "https://www.css.ch/"
             }
-        ]
+        ],
+        "venue": "CSS Versicherung",
+        "address": "Luzern, Switzerland"
     },
     {
         "date": "2014-09-25",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroups",
@@ -3837,23 +3835,23 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com/service/contact/"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-09-09",
-        "location": "Oslo, Norway",
-        "title": "Teknologihuset",
         "links": [
             {
                 "title": "Meetup",
                 "url": "http://www.meetup.com/javaBin/events/201877622/"
             }
-        ]
+        ],
+        "venue": "Teknologihuset",
+        "address": "Oslo, Norway"
     },
     {
         "date": "2014-08-28",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "GoogleGroups",
@@ -3867,12 +3865,12 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com/service/contact/"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-08-21",
-        "location": "Zürich, Switzerland",
-        "title": "Trivadis AG (Europa-Strasse 5 8152 Glattbrugg)",
         "links": [
             {
                 "title": "GoogleGroups",
@@ -3882,12 +3880,12 @@
                 "title": "Google Event",
                 "url": "https://plus.google.com/events/cm2sh2dpdvjkdbqsmh2i456a4ho"
             }
-        ]
+        ],
+        "venue": "Trivadis AG (Europa-Strasse 5 8152 Glattbrugg)",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2014-06-25",
-        "location": "Basel, Switzerland",
-        "title": "General Hacking",
         "links": [
             {
                 "title": "GoogleGroups",
@@ -3897,45 +3895,45 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com/service/contact/"
             }
-        ]
+        ],
+        "venue": "General Hacking",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-06-25",
-        "location": "Bern, Switzerland",
-        "title": "SBB",
         "links": [
             {
                 "title": "Doodle Event",
                 "url": "http://doodle.com/2giabtf5dqnkgxw9#table"
             }
-        ]
+        ],
+        "venue": "SBB",
+        "address": "Bern, Switzerland"
     },
     {
         "date": "2014-06-19",
-        "location": "Zürich, Switzerland",
-        "title": "Event on Google+",
         "links": [
             {
                 "title": "Google Event",
                 "url": "https://plus.google.com/events/c1jqmnpm8k77jvjhlvu1pfl5s7s"
             }
-        ]
+        ],
+        "venue": "Event on Google+",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2014-06-02",
-        "location": "unknown",
-        "title": "GR8Conf Europe 2014",
         "links": [
             {
                 "title": "GR8Conf",
                 "url": "http://www.gr8conf.eu"
             }
-        ]
+        ],
+        "venue": "GR8Conf Europe 2014",
+        "address": "unknown"
     },
     {
         "date": "2014-05-22",
-        "location": "Basel, Switzerland",
-        "title": "ReGalAndroid, Groovy/Gradle, three.js and some other things.",
         "links": [
             {
                 "title": "ReGalAndroid",
@@ -3949,34 +3947,34 @@
                 "title": "GoogleGroups",
                 "url": "https://github.com/anthonydahanne/ReGalAndroid/pull/4"
             }
-        ]
+        ],
+        "venue": "ReGalAndroid, Groovy/Gradle, three.js and some other things.",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-05-16",
-        "location": "unknown",
-        "title": "GeeCon 2014",
         "links": [
             {
                 "title": "GeeCON",
                 "url": "http://2014.geecon.org"
             }
-        ]
+        ],
+        "venue": "GeeCon 2014",
+        "address": "unknown"
     },
     {
         "date": "2014-05-08",
-        "location": "Technopark, Zürich, Switzerland",
-        "title": "Hacking mainly on JSR-354 API for Java 8 and JSR-354 TDK",
         "links": [
             {
                 "title": "Google Event",
                 "url": "https://plus.google.com/events/clnrjmrnvh5dc1ahpd8rtalc2d0"
             }
-        ]
+        ],
+        "venue": "Hacking mainly on JSR-354 API for Java 8 and JSR-354 TDK",
+        "address": "Technopark, Zürich, Switzerland"
     },
     {
         "date": "2014-04-24",
-        "location": "Basel, Switzerland",
-        "title": "Some hacking in the area of WebRTC",
         "links": [
             {
                 "title": "AngularJS",
@@ -3998,12 +3996,12 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com/service/contact/"
             }
-        ]
+        ],
+        "venue": "Some hacking in the area of WebRTC",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2014-04-10",
-        "location": "Zürich, Switzerland",
-        "title": "Colab Zurich",
         "links": [
             {
                 "title": "Google+",
@@ -4017,12 +4015,12 @@
                 "title": "Colab Zürich",
                 "url": "http://www.colab-zurich.ch/"
             }
-        ]
+        ],
+        "venue": "Colab Zurich",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2014-03-25",
-        "location": "unkown",
-        "title": "Javaland 2014 - Early Adopter's Area and Hackergarten",
         "links": [
             {
                 "title": "Javaland 2014 - Early Adopter's Area",
@@ -4032,12 +4030,12 @@
                 "title": "Javaland 2014 - Early Adopter's Area (english)",
                 "url": "http://www.javaland.eu/en/programm/community-aktivitaeten/early-adopters-area.html"
             }
-        ]
+        ],
+        "venue": "Javaland 2014 - Early Adopter's Area and Hackergarten",
+        "address": "unkown"
     },
     {
         "date": "2014-03-22",
-        "location": "Nice, France",
-        "title": "AeroGear Hackergarten",
         "links": [
             {
                 "title": "Les Satellites",
@@ -4047,12 +4045,12 @@
                 "title": "Event",
                 "url": "http://aerogearhackergarten.eventbrite.com"
             }
-        ]
+        ],
+        "venue": "AeroGear Hackergarten",
+        "address": "Nice, France"
     },
     {
         "date": "2014-03-06",
-        "location": "Zürich, Switzerland",
-        "title": "Colab",
         "links": [
             {
                 "title": "Google+",
@@ -4066,12 +4064,12 @@
                 "title": "Colab Zürich",
                 "url": "http://www.colab-zurich.ch/"
             }
-        ]
+        ],
+        "venue": "Colab",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2014-01-30",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "more...",
@@ -4081,34 +4079,34 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com/service/contact/"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2013-12-03",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2013-10-17",
-        "location": "Basel, Switzerland",
-        "title": "Canoo Office",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Canoo Office",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2013-08-30",
-        "location": "Basel, Switzerland",
-        "title": "Ratpack JDBI Module and more....",
         "links": [
             {
                 "title": "Ratpack JDBI Module",
@@ -4118,212 +4116,214 @@
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Ratpack JDBI Module and more....",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2013-06-05",
-        "location": "Marseille, France",
-        "title": "Marseille JUG.",
         "links": [
             {
                 "title": "Marseille JUG",
                 "url": "http://marsjug.org/"
             }
-        ]
+        ],
+        "venue": "Marseille JUG.",
+        "address": "Marseille, France"
     },
     {
         "date": "2013-02-01",
-        "location": "Basel, Switzerland",
-        "title": "Spring time.",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Spring time.",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2013-02-01",
-        "location": "Stockhold, Sweden",
-        "title": "JFokus 2 Day Hackergarten Event.",
-        "links": []
+        "links": [],
+        "venue": "JFokus 2 Day Hackergarten Event.",
+        "address": "Stockhold, Sweden"
     },
     {
         "date": "2012-02-01",
-        "location": "Basel & Lugano, Switzerland",
-        "title": "Mobile Development nights.",
-        "links": []
+        "links": [],
+        "venue": "Mobile Development nights.",
+        "address": "Basel & Lugano, Switzerland"
     },
     {
         "date": "2011-12-08",
-        "location": "London, United Kingdom",
-        "title": "Groovy/Grails Exchange.",
         "links": [
             {
                 "title": "Hackergarten",
                 "url": "http://skillsmatter.com/podcast/home/hackergarten"
             }
-        ]
+        ],
+        "venue": "Groovy/Grails Exchange.",
+        "address": "London, United Kingdom"
     },
     {
         "date": "2011-11-14",
-        "location": "Antwerp, Belgium",
-        "title": "Devoxx.",
-        "links": []
+        "links": [],
+        "venue": "Devoxx.",
+        "address": "Antwerp, Belgium"
     },
     {
         "date": "2011-09-28",
-        "location": "Basel, Switzerland",
-        "title": "Android Night in Basel.",
-        "links": []
+        "links": [],
+        "venue": "Android Night in Basel.",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2011-08-26",
-        "location": "Basel, Switzerland",
-        "title": "Mirah Night in Basel.",
-        "links": []
+        "links": [],
+        "venue": "Mirah Night in Basel.",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2011-05-27",
-        "location": "Basel, Switzerland",
-        "title": "Hackergarten Basel and American BBQ.",
-        "links": []
+        "links": [],
+        "venue": "Hackergarten Basel and American BBQ.",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2011-05-17",
-        "location": "Denmark",
-        "title": "GR8 Conference.",
         "details": "We were at GR8 Conference in Denmark doing a Groovy and Grails related hackergarten.",
-        "links": []
+        "links": [],
+        "venue": "GR8 Conference.",
+        "address": "Denmark"
     },
     {
         "date": "2011-05-14",
-        "location": "Krakow",
-        "title": "GeeCON Conference.",
         "details": "We were at the GeeCON Conference in Krakow doing a day-time Hackergarten.",
-        "links": []
+        "links": [],
+        "venue": "GeeCON Conference.",
+        "address": "Krakow"
     },
     {
         "date": "2011-03-25",
-        "location": "Basel, Switzerland",
-        "title": "Open Night at Canoo Engineering AG.",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Open Night at Canoo Engineering AG.",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2011-03-16",
-        "location": "Basel, Switzerland",
-        "title": "Magnolia Night in Basel",
         "details": "The group worked on an OpenSocial plugin for OAUTH support and created a HighChart based paragraph type as a CMS plugin.",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Magnolia Night in Basel",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2011-01-26",
-        "location": "Basel, Switzerland",
-        "title": "GPars Night",
         "details": "The crew worked on some GPars related samples and bug fixes.",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "GPars Night",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2010-11-26",
-        "location": "unkown",
-        "title": "Screencast Night",
         "details": "We made a CodeNarc screencast and a GroovyServ screencast, plus worked on Gradle plugins. Fun stuff.",
-        "links": []
+        "links": [],
+        "venue": "Screencast Night",
+        "address": "unkown"
     },
     {
         "date": "2010-10-29",
-        "location": "Basel, Switzerland",
-        "title": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
         "details": "the November event we created 4 new CodeNarc rules, improved the easyb/junit integration, and made good progress on the FindBugs Gradle plugin.",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Gradle Redux, CodeNarc, and Halloween Fest and Canoo",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2010-10-01",
-        "location": "Basel, Switzerland",
-        "title": "Static Analysis Night",
         "details": "Wrote 4 new static analysis rules for the CodeNarc project. Great job everyone!",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Static Analysis Night",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2010-07-30",
-        "location": "Basel, Switzerland",
-        "title": "Hackergarten Basel",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Hackergarten Basel",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2010-06-02",
-        "location": "Zürich, Switzerland",
-        "title": "Jazoon",
         "details": "Improved @Log annotations added to Groovy, open JSF components created, and a Griffon plugin completed.",
         "links": [
             {
                 "title": "Jazoon",
                 "url": "http://jazoon.com/"
             }
-        ]
+        ],
+        "venue": "Jazoon",
+        "address": "Zürich, Switzerland"
     },
     {
         "date": "2010-05-19",
-        "location": "Copenhagen, Denmark",
-        "title": "Geek Night at GR8 Conference",
         "details": "Created a Grails Elastic Search plugin, a Gradle PMD plugin, added improved support for IntelliJ IDEA to the Griffon and Gradle projects, and added a feature to Groovy called @Log.",
         "links": [
             {
                 "title": "GR8 Conference",
                 "url": "http://eu.gr8conf.org"
             }
-        ]
+        ],
+        "venue": "Geek Night at GR8 Conference",
+        "address": "Copenhagen, Denmark"
     },
     {
         "date": "2010-04-30",
-        "location": "Basel, Switzerland",
-        "title": "Griffon Night",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Griffon Night",
+        "address": "Basel, Switzerland"
     },
     {
         "date": "2010-03-26",
-        "location": "Basel, Switzerland",
-        "title": "Gradle Night",
         "links": [
             {
                 "title": "Canoo Engineering AG",
                 "url": "http://www.canoo.com"
             }
-        ]
+        ],
+        "venue": "Gradle Night",
+        "address": "Basel, Switzerland"
     }
 ]
