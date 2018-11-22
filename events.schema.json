@@ -1,0 +1,131 @@
+{
+    "definitions": {},
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://example.com/root.json",
+    "type": "array",
+    "title": "The Root Schema",
+    "items": {
+        "$id": "#/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "required": [
+            "date",
+            "venue",
+            "address"
+        ],
+        "properties": {
+            "date": {
+                "$id": "#/items/properties/date",
+                "type": "string",
+                "title": "The Date Schema",
+                "default": "",
+                "examples": [
+                    "2018-12-19"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "title": {
+                "$id": "#/items/properties/title",
+                "type": "string",
+                "title": "The Title Schema",
+                "default": "",
+                "examples": [
+                    "11. Hackergarten Stuttgart (Winter Edition)"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "venue": {
+                "$id": "#/items/properties/venue",
+                "type": "string",
+                "title": "The Venue Schema",
+                "default": "",
+                "examples": [
+                    "codecentric AG, Stuttgart"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "address": {
+                "$id": "#/items/properties/address",
+                "type": "string",
+                "title": "The Address Schema",
+                "default": "",
+                "examples": [
+                    "Heßbrühlstr 7, Stuttgart"
+                ],
+                "pattern": "^(.*)$"
+            },
+            "links": {
+                "$id": "#/items/properties/links",
+                "type": "array",
+                "title": "The Links Schema",
+                "items": {
+                    "$id": "#/items/properties/links/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                        "title",
+                        "url"
+                    ],
+                    "properties": {
+                        "title": {
+                            "$id": "#/items/properties/links/items/properties/title",
+                            "type": "string",
+                            "title": "The Title Schema",
+                            "default": "",
+                            "examples": [
+                                "Meetup"
+                            ],
+                            "pattern": "^(.*)$"
+                        },
+                        "url": {
+                            "$id": "#/items/properties/links/items/properties/url",
+                            "type": "string",
+                            "title": "The Url Schema",
+                            "default": "",
+                            "examples": [
+                                "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/256184268/"
+                            ],
+                            "pattern": "^(.*)$"
+                        }
+                    }
+                }
+            },
+            "achievements": {
+                "$id": "#/items/properties/achievements",
+                "type": "array",
+                "title": "The Achievements Schema",
+                "items": {
+                    "$id": "#/items/properties/links/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "required": [
+                        "title",
+                        "url"
+                    ],
+                    "properties": {
+                        "title": {
+                            "$id": "#/items/properties/links/items/properties/title",
+                            "type": "string",
+                            "title": "The Title Schema",
+                            "default": "",
+                            "examples": [
+                                "Meetup"
+                            ],
+                            "pattern": "^(.*)$"
+                        },
+                        "url": {
+                            "$id": "#/items/properties/links/items/properties/url",
+                            "type": "string",
+                            "title": "The Url Schema",
+                            "default": "",
+                            "examples": [
+                                "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/256184268/"
+                            ],
+                            "pattern": "^(.*)$"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
