@@ -50,7 +50,7 @@
     },
     {
         "date": "2018-11-22",
-        "title": "Hackergarten Basel September",
+        "title": "Hackergarten Basel November",
         "venue": "Magnolia HQ",
         "address": "Oslo-Strasse 2, 4142 Münchenstein (Basel / Dreispitz)",
         "links": [
@@ -58,8 +58,12 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
             }
-        ],
-        "achievements": []
+        ],"achievements": [
+            {
+                "title": "Urs, Michael & Mika reproduced a JDK11 issue (up-for-grabs) with Maven Dependency plugin and confirmed related fix",
+                "url": "https://issues.apache.org/jira/browse/MDEP-613?focusedCommentId=16696224&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-16696224"
+            }
+        ]
     },
     {
         "date": "2018-11-20",
