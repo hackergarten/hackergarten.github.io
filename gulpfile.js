@@ -43,7 +43,7 @@ function escapeHTML(string) {
  */
 gulp.task('validate-events', function () {
 
-    gulp.src("./events.json")
+    return gulp.src("./events.json")
         .pipe(jsonlint())
         .pipe(jsonlint.failOnError())
         .pipe(jsonSchema({
