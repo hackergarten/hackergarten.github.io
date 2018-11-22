@@ -9,3 +9,7 @@ http://www.hackergarten.net[www.hackergarten.net]
 image:https://i.creativecommons.org/l/by-sa/4.0/88x31.png[Creative Commons License]
 
 This work is licensed under a http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike 4.0 International License].
+
+== How to add an event
+
+If you want to add your event to the Hackergarten website you need to open the https://github.com/hackergarten/hackergarten.github.io/blob/master/events.json[events.json] file by clicking on the edit button (the pen in the upper right corner). After you've done your changes in the file write a commit title and description in the form under the file and submit your changes. The last step is to submit the pull request.
