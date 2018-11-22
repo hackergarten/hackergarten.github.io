@@ -36,9 +36,27 @@ function escapeHTML(string) {
 }
 
 /**
+ * Validate the events.json file against a schema.
+ *
+ * This task will emit the errors and WILL NOT fail if there is any not defined structure. But it will emit emit a warning
+ * if a structure ist not defined.
+ */
+gulp.task('validate-events', function () {
+
+    gulp.src("./events.json")
+        .pipe(jsonlint())
+        .pipe(jsonlint.failOnError())
+        .pipe(jsonSchema({
+            schema: "./events.schema.json",
+            missing: "warn",
+            emitError: true,
+        }));
+});
+
+/**
  * Generate the xml file based on the events.
  */
-gulp.task('generate-xml', ['validate-events'], function () {
+gulp.task('generate-xml', gulp.series('validate-events', function () {
 
     gulp.src("./events.json")
         .pipe(jsonlint())
@@ -80,24 +98,6 @@ gulp.task('generate-xml', ['validate-events'], function () {
         }))
         .pipe(rename("feed.xml"))
         .pipe(gulp.dest('.'));
-});
+}));
 
-/**
- * Validate the events.json file against a schema.
- *
- * This task will emit the errors and WILL NOT fail if there is any not defined structure. But it will emit emit a warning
- * if a structure ist not defined.
- */
-gulp.task('validate-events', function () {
-
-    return gulp.src("./events.json")
-        .pipe(jsonlint())
-        .pipe(jsonlint.failOnError())
-        .pipe(jsonSchema({
-            schema: "./events.schema.json",
-            missing: "warn",
-            emitError: true,
-        }));
-});
-
-gulp.task('default', ['generate-xml']);
+gulp.task('default', gulp.series('generate-xml'));

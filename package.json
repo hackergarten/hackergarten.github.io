@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/hackergarten/hackergarten.github.io#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-json-schema": "^1.0.0",
     "gulp-jsonlint": "^1.1.2",
     "gulp-rename": "^1.2.2",
