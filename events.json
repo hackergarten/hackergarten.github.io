@@ -164,7 +164,8 @@
                 "url": "https://github.com/apache/maven-archetypes/pull/2"
             },
             {
-                "title": "Davy, Daniel and Aurélien also started to work on a new site skin"
+                "title": "Davy, Daniel and Aurélien also started to work on a new site skin",
+                "url": ""
             },
             {
                 "title": "Damien and Mihangy worked on openwhyd.org with Adrien towards creating a recommendation engine. First step was a log anonymizer.",
@@ -262,7 +263,8 @@
                 "url": "https://github.com/hackergarten/hackergarten.github.io/pull/180"
             },
             {
-                "title": "Bicycle simulator using machine learning algorithms"
+                "title": "Bicycle simulator using machine learning algorithms",
+                "url": ""
             }
         ]
     },
@@ -394,7 +396,8 @@
                 "url": "https://github.com/K2InformaticsGmbH/egambo"
             },
             {
-                "title": "Java Mission Control: Fixing builds and tests"
+                "title": "Java Mission Control: Fixing builds and tests",
+                "url": ""
             }
         ]
     },
@@ -530,10 +533,12 @@
                 "url": "https://github.com/K2InformaticsGmbH/egambo"
             },
             {
-                "title": "Evaluation of QR-Code WebComponents"
+                "title": "Evaluation of QR-Code WebComponents",
+                "url": ""
             },
             {
-                "title": "Java Mission Control: Automatically resolve Jemmy library via maven (work in progress)"
+                "title": "Java Mission Control: Automatically resolve Jemmy library via maven (work in progress)",
+                "url": ""
             }
         ]
     },
@@ -1682,7 +1687,8 @@
         ],
         "achievements": [
             {
-                "title": "Robotics Hardware Programming"
+                "title": "Robotics Hardware Programming",
+                "url": ""
             },
             {
                 "title": "DDErl: Screensaver utilizing too much CPU",
@@ -1746,7 +1752,8 @@
         ],
         "achievements": [
             {
-                "title": "Robotics Hardware Programming"
+                "title": "Robotics Hardware Programming",
+                "url": ""
             },
             {
                 "title": "Web Components Polymer Application Prototype",
@@ -2011,13 +2018,16 @@
                 "url": "https://github.com/K2InformaticsGmbH/dderl/issues/97"
             },
             {
-                "title": "DDErl: Injection of application metrics into the monitoring chain defined"
+                "title": "DDErl: Injection of application metrics into the monitoring chain defined",
+                "url": ""
             },
             {
-                "title": "DDErl: Started the definition of a Vagrant machine to make it easier to newcomers to start working on DDErl"
+                "title": "DDErl: Started the definition of a Vagrant machine to make it easier to newcomers to start working on DDErl",
+                "url": ""
             },
             {
-                "title": "Worked through a Vagrant Tutorial"
+                "title": "Worked through a Vagrant Tutorial",
+                "url": ""
             }
         ],
         "venue": "CSS Versicherung",
@@ -2355,7 +2365,8 @@
                 "url": "https://github.com/hackergarten/hackergarten.github.io/pull/86"
             },
             {
-                "title": "JSON Hacking"
+                "title": "JSON Hacking",
+                "url": ""
             }
         ],
         "venue": "Java Forum Stuttgart",
@@ -2387,14 +2398,16 @@
                 "url": "https://github.com/reinhapa/eventeditor"
             },
             {
-                "title": "Java Flight Simulator Demo Code for Conference Talk"
+                "title": "Java Flight Simulator Demo Code for Conference Talk",
+                "url": ""
             },
             {
                 "title": "DDErl: Created bar chart diagrams based on CSV query result",
                 "url": "https://github.com/K2InformaticsGmbH/dderl"
             },
             {
-                "title": "Pick up pictures from CouchDB Attachments and display on the mobile"
+                "title": "Pick up pictures from CouchDB Attachments and display on the mobile",
+                "url": ""
             }
         ],
         "venue": "CSS Versicherung",
@@ -2442,7 +2455,8 @@
         ],
         "achievements": [
             {
-                "title": "Pong: Created a Pong game with Clojure"
+                "title": "Pong: Created a Pong game with Clojure",
+                "url": ""
             },
             {
                 "title": "DDErl: Created diagrams based on SQL results",
@@ -2572,7 +2586,8 @@
                 "url": "https://github.com/McPringle/sportchef/issues/268"
             },
             {
-                "title": "Integrate JUnit 5 Events into Java Flight Recorder"
+                "title": "Integrate JUnit 5 Events into Java Flight Recorder",
+                "url": ""
             },
             {
                 "title": "JUnit 5: Configure additional metadata on JAR manifest",
@@ -2917,7 +2932,8 @@
                 "url": "https://github.com/K2InformaticsGmbH/dderl"
             },
             {
-                "title": "Discussion about event based content management systems"
+                "title": "Discussion about event based content management systems",
+                "url": ""
             }
         ],
         "venue": "CSS Versicherung",
@@ -3105,7 +3121,8 @@
                 "url": "https://github.com/arpagaus/clj-protobuf"
             },
             {
-                "title": "Scala &amp; Akka Streams Discussions and Tests"
+                "title": "Scala &amp; Akka Streams Discussions and Tests",
+                "url": ""
             }
         ],
         "venue": "CSS Versicherung",
@@ -3217,14 +3234,16 @@
         ],
         "achievements": [
             {
-                "title": "SportChef: new login page"
+                "title": "SportChef: new login page",
+                "url": ""
             },
             {
                 "title": "DDerl: text adaptor to read CSV and JSON files",
                 "url": "https://github.com/K2InformaticsGmbH/dderl"
             },
             {
-                "title": "Clojure Protocol Buffer Library: concept creation"
+                "title": "Clojure Protocol Buffer Library: concept creation",
+                "url": ""
             }
         ],
         "venue": "CSS Versicherung",
@@ -3304,10 +3323,12 @@
         ],
         "achievements": [
             {
-                "title": "Added details modal for hackergarten events to main website"
+                "title": "Added details modal for hackergarten events to main website",
+                "url": ""
             },
             {
-                "title": "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)"
+                "title": "Fixed past event date sorting on hackergarten main website (sort not correctly displaying in chrome)",
+                "url": ""
             },
             {
                 "title": "GrooxyFx: Upgrade Gradle Version",
