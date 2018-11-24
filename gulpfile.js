@@ -153,7 +153,7 @@ gulp.task('generate-projects', gulp.series('validate-events', function () {
             sortedProjects.forEach((value, project) => {
                 html.push('<tr>');
                 html.push('<td>' + i++ + '</td>');
-                html.push('<td><a href="' + value.url + '">' + project + '</a></td>');
+                html.push('<td><a href="' + value.url + '" target="_top">' + project + '</a></td>');
                 html.push('<td>' + value.count + '</td>');
                 html.push('</tr>');
             });
