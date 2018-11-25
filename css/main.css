@@ -69,21 +69,3 @@ span.reason {
 .panel-sponsors .panel-body ul li{
     padding-top: 1em;
 }
-
-
-
-.icon-wrapper {
-    width: 15%;
-    background-color: inherit;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
-    position: absolute;
-    top: 100%;
-    left: 70%;
-}
-.fas, .fab {
-    font-size: 3rem;
-    color: #e0e0e0;
-}

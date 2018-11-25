@@ -11,9 +11,6 @@
 
     <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.rss" />
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-
-
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
 
@@ -36,17 +33,7 @@
     <div class="container">
             <img id="logo" src="pictures/hg-logo-white-small.svg" alt="hackergarten" class="visible-xs pull-left img-responsive" style="max-width: 125px" />
             <img id="logo" src="pictures/hg-logo-white-large.svg" alt="hackergarten" class="hidden-xs pull-left img-responsive" style="min-width: 250px; max-width: 500px"/>
-
-
-           <div class="icon-wrapper">
-               <div><a href="feed.xml"><i class="fas fa-rss-square"></i></a></div>
-               <div><a href="http://github.com/hackergarten"><i class="fab fa-github"></i></a></div>
-               <div><a href="http://www.twitter.com/Hackergarten"><i class="fab fa-twitter"></i></a></div>
-               <div><a href="https://www.facebook.com/pages/Hackergarten/155381234519676"><i class="fab fa-facebook-f"></i></a></div>
-           </div>
-
-        <!--<a href="feed.xml">Hackergarten Events RSS Feed</a>-->
-
+            <div id="rss-icon" class="hidden-xs"><a href="feed.xml"><img src="pictures/rss.png" width="48" height="48"/></a></div>
     </div>
 </div>
 
@@ -149,6 +136,18 @@
                     Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribute their time.
                 </div>
             </div>
+            <div class="panel panel-default">
+                <div id="joinSection" class="panel-heading">Join</div>
+                <div class="panel-body">
+                    <ul>
+                        <li><a href="feed.xml">Hackergarten Events RSS Feed</a></li>
+                        <li><a href="http://github.com/hackergarten">Public Git Repository</a><br>
+                        <li><a href="http://www.twitter.com/Hackergarten">@Hackergarten on Twitter</a></li>
+                        <li><a href="https://www.facebook.com/pages/Hackergarten/155381234519676">Facebook Fanpage</a></li>
+                    </ul>
+                </div>
+            </div>
+
             <div class="panel panel-default">
                 <div class="panel-heading">Twitter</div>
                 <div class="panel-body">
