@@ -2,6 +2,7 @@
 .idea
 .project
 .settings
+hackergarten.github.io.iml
 
 # external dependencies
 node_modules
