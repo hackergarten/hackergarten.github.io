@@ -1,5 +1,10 @@
+# IDE config
 .idea
 .project
 .settings
-feed.xml
+
+# external dependencies
 node_modules
+
+# generated files
+feed.xml
