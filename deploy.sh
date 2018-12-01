@@ -28,7 +28,7 @@ git config user.email "bot@hackergarten.net"
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
 git checkout master
-git add -f feed.xml
+git add -f feed.xml projects.html
 git commit -m "Deploy to GitHub Pages (${SOURCE_BRANCH}) : ${SHA}"
 
 # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
