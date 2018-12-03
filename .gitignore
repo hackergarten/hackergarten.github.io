@@ -1,5 +1,12 @@
+# IDE config
 .idea
 .project
 .settings
-feed.xml
+hackergarten.github.io.iml
+
+# external dependencies
 node_modules
+
+# generated files
+feed.xml
+projects.html
