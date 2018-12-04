@@ -62,6 +62,26 @@
             {
                 "title": "Urs, Michael & Mika reproduced a JDK11 issue (up-for-grabs) with Maven Dependency plugin and confirmed related fix",
                 "url": "https://issues.apache.org/jira/browse/MDEP-613?focusedCommentId=16696224&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-16696224"
+            },
+            {
+                "title": "hackergarten.net: Added a new Gulp Task to validate events.json against a schema",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/205"
+            },
+            {
+                "title": "hackergarten.net: Add instruction how to add an event",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/206"
+            },
+            {
+                "title": "hackergarten.net: Event format migration",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/208"
+            },
+            {
+                "title": "hackergarten.net: Replace the \"join\" section items by icons on the header area",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/209"
+            },
+            {
+                "title": "hackergarten.net: Adding a \"Top Contributed Projects\" section",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/211"
             }
         ]
     },
