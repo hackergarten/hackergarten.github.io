@@ -34,7 +34,28 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jtcflqyxqbjb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "RabbitMQ CDI: Increase coverage of GenericPublisherTest",
+                "url": "https://github.com/reinhapa/rabbitmq-cdi/pull/16"
+            },
+            {
+                "title": "RabbitMQ CDI: Increase coverage of GenericPublisher to 100%",
+                "url": "https://github.com/reinhapa/rabbitmq-cdi/pull/17"
+            },
+            {
+                "title": "egambo: client api changes, updated the example",
+                "url": "https://github.com/K2InformaticsGmbH/egambo-python-client/pull/1"
+            },
+            {
+                "title": "DeepReinforcementLearning: Added some trained models",
+                "url": "https://github.com/K2InformaticsGmbH/DeepReinforcementLearning/releases/tag/0.1"
+            },
+            {
+                "title": "Java User Group Sponsor Slides: initial work",
+                "url": "https://github.com/jugch/sponsorslides/pull/2"
+            }
+        ]
     },
     {
         "date": "2018-11-27",
