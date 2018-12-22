@@ -14,6 +14,18 @@
             ]
     },
     {
+        "date": "2019-01-15",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
+    },
+    {
         "date": "2019-01-03",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
