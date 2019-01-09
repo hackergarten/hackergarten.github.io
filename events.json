@@ -11,7 +11,7 @@
             }
         ],
         "achievements": [
-            ]
+        ]
     },
     {
         "date": "2019-01-15",
@@ -35,7 +35,12 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzcbfb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Add `hackergarten` label to all issues automatically",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/issues/182#issuecomment-451269959"
+            }
+        ]
     },
     {
         "date": "2018-12-19",
