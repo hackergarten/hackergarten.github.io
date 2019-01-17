@@ -1,5 +1,18 @@
 [
     {
+        "title": "Hackergarten Lausanne February 2019",
+        "date": "2019-02-19",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
+    },
+    {
         "date": "2019-02-07",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -34,7 +47,28 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Greg and Tom worked on moto",
+                "url": "https://github.com/spulec/moto/pull/2018"
+            },
+            {
+                "title": "Salah contributed to Conan",
+                "url": "https://github.com/conan-io/conan/issues/1042"
+            },
+            {
+                "title": "Kyle barely started on a C wrapper around a C++ API for micro-manager",
+                "url": "https://github.com/micro-manager/micro-manager"
+            },
+            {
+                "title": "David started to build something on Nomad",
+                "url": "https://github.com/wagdav/kevlar/compare/nomad"
+            },
+            {
+                "title": "Lucas is working on some fancy approach to the chinese postman problem. No code as of yet.",
+                "url": ""
+            }
+        ],
         "venue": "Pix4D Office, EPFL Innovation Park, Building F",
         "address": "Lausanne, Switzerland"
     },
