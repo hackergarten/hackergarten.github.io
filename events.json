@@ -37,6 +37,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "PreferencesFX: Add switch between instant and manual persist",
+                "url": "https://github.com/dlemmermann/PreferencesFX/pull/63"
+            }
         ]
     },
     {
