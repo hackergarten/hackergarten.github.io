@@ -1,5 +1,34 @@
 [
     {
+        "title": "12. Hackergarten Stuttgart February 2019",
+        "date": "2019-02-20",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/258385368/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/fzox7ZqN7dp"
+            }
+        ],
+        "achievements": [],
+        "venue": "Codecentric AG, Heßbrühlstr. 7, Second Floor",
+        "address": "Stuttgart, Germany"
+    },
+    {
+        "date": "2019-02-07",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzdbkb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten Lausanne February 2019",
         "date": "2019-02-19",
         "links": [
@@ -22,8 +51,7 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzdbkb/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2019-01-24",
@@ -40,12 +68,13 @@
             {
                 "title": "PreferencesFX: Add switch between instant and manual persist",
                 "url": "https://github.com/dlemmermann/PreferencesFX/pull/63"
-            },{
+            },
+            {
                 "title": "Created CMakeList for louvain-community",
                 "url": "https://github.com/DrYak/louvain-community/pull/1"
             },
             {
-               "title": "Alibaba/Sentinel: Make build faster by reducing fixed waiting time in tests",
+                "title": "Alibaba/Sentinel: Make build faster by reducing fixed waiting time in tests",
                 "url": "https://github.com/alibaba/Sentinel/pull/449"
             }
         ]
@@ -180,7 +209,8 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/vjgskqyxpbdc/"
             }
-        ],"achievements": [
+        ],
+        "achievements": [
             {
                 "title": "Urs, Michael & Mika reproduced a JDK11 issue (up-for-grabs) with Maven Dependency plugin and confirmed related fix",
                 "url": "https://issues.apache.org/jira/browse/MDEP-613?focusedCommentId=16696224&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-16696224"
