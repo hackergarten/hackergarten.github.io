@@ -27,7 +27,7 @@
     },
     {
         "date": "2019-01-24",
-        "title": "Hackergarten Basel Januar 2018",
+        "title": "Hackergarten Basel Januar 2019",
         "venue": "Karakun AG Office",
         "address": "Leonhardsgraben 36, Basel, Switzerland",
         "links": [
@@ -40,6 +40,9 @@
             {
                 "title": "PreferencesFX: Add switch between instant and manual persist",
                 "url": "https://github.com/dlemmermann/PreferencesFX/pull/63"
+            },{
+                "title": "Created CMakeList for louvain-community",
+                "url": "https://github.com/DrYak/louvain-community/pull/1"
             }
         ]
     },
