@@ -43,6 +43,10 @@
             },{
                 "title": "Created CMakeList for louvain-community",
                 "url": "https://github.com/DrYak/louvain-community/pull/1"
+            },
+            {
+               "title": "Alibaba/Sentinel: Make build faster by reducing fixed waiting time in tests",
+                "url": "https://github.com/alibaba/Sentinel/pull/449"
             }
         ]
     },
