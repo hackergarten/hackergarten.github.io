@@ -38,6 +38,9 @@
         ],
         "achievements": [
             {
+                "title": "PreferencesFX: Add switch between instant and manual persist",
+                "url": "https://github.com/dlemmermann/PreferencesFX/pull/63"
+            },{
                 "title": "Created CMakeList for louvain-community",
                 "url": "https://github.com/DrYak/louvain-community/pull/1"
             }
