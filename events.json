@@ -268,7 +268,8 @@
                 "url": "https://issues.apache.org/jira/browse/MNGSITE-292"
             },
             {
-                "title": "Several bugfixes on celebetrip"
+                "title": "Several bugfixes on celebetrip",
+                "url": ""
             },
             {
                 "title": "Progress on data analysis, towards a music recommendation engine for openwhyd",
