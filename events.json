@@ -42,6 +42,28 @@
         "achievements": []
     },
     {
+        "title": "Hackergarten Paris January 2019",
+        "date": "2019-01-29",
+        "venue": "Pivotal France",
+        "address": "33, rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyzcbmc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "First try and feedback on project riff",
+                "url": "https://projectriff.io/"
+            },
+            {
+                "title": "New comment style contributed to fbiville/headache",
+                "url": "https://github.com/fbiville/headache/pull/38/files"
+            }
+        ]
+    },
+    {
         "date": "2019-01-24",
         "title": "Hackergarten Basel Januar 2019",
         "venue": "Karakun AG Office",
@@ -222,6 +244,40 @@
             {
                 "title": "hackergarten.net: Adding a \"Top Contributed Projects\" section",
                 "url": "https://github.com/hackergarten/hackergarten.github.io/pull/211"
+            }
+        ]
+    },
+     {
+        "date": "2018-11-20",
+        "title": "Hackergarten Paris November 2018",
+        "venue": "Pivotal France",
+        "address": "33, rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyxpbkc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Progress on the Maven JAR plugin issue",
+                "url": "https://issues.apache.org/jira/browse/MJAR-254"
+            },
+            {
+                "title": "Progress on the new guide to write Maven archetypes",
+                "url": "https://issues.apache.org/jira/browse/MNGSITE-292"
+            },
+            {
+                "title": "Several bugfixes on celebetrip",
+                "url": ""
+            },
+            {
+                "title": "Progress on data analysis, towards a music recommendation engine for openwhyd",
+                "url": "https://github.com/openwhyd/openwhyd/issues/83"
+            },
+            {
+                "title": "Progress towards implementing an OAuth server for openwhyd",
+                "url": "https://github.com/openwhyd/openwhyd/issues/55"
             }
         ]
     },
