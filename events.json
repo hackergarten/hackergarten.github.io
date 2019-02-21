@@ -1,5 +1,18 @@
 [
     {
+        "title": "Hackergarten Lausanne March 2019",
+        "date": "2019-03-19",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
+    },
+    {
         "title": "Hackergarten Berlin",
         "date": "2019-03-13",
         "links": [
@@ -42,7 +55,24 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Greg ate crisps",
+                "url": ""
+            },
+            {
+                "title": "Kyle worked on integrating my Video4Linux driver for the Micro-Manager microscope control software with a new browser-based image processing library",
+                "url": "https://micro-manager.org/"
+            },
+            {
+                "title": "David and Marco worked on concourse (or pretended to)",
+                "url": "https://github.com/concourse/concourse/issues/1086"
+            },
+            {
+                "title": "Lucas continued foundation work on his network routing algorithm",
+                "url": ""
+            }
+        ],
         "venue": "Pix4D Office, EPFL Innovation Park, Building F",
         "address": "Lausanne, Switzerland"
     },
