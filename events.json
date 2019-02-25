@@ -30,6 +30,19 @@
         "address": "Ohlauer Str. 43, 10999 Berlin"
     },
     {
+        "title": "Hackergarten Paris February 2019",
+        "date": "2019-02-26",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyzdbjc/"
+            }
+        ],
+        "achievements": [],
+        "venue": "33 rue La Fayette 75009 Paris",
+        "address": "Paris, France"
+    },
+    {
         "title": "12. Hackergarten Stuttgart February 2019",
         "date": "2019-02-20",
         "links": [
