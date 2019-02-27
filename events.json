@@ -1,5 +1,22 @@
 [
     {
+        "title": "Hackergarten Zurich March 2019",
+        "date": "2019-03-21",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Zurich/events/259328488"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/AsbABZQMBkN2"
+            }
+        ],
+        "achievements": [],
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich"
+    },
+    {
         "title": "Hackergarten Lausanne March 2019",
         "date": "2019-03-19",
         "links": [
