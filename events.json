@@ -47,6 +47,18 @@
         "address": "Ohlauer Str. 43, 10999 Berlin"
     },
     {
+        "date": "2019-03-07",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzfbkb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten Paris February 2019",
         "date": "2019-02-26",
         "links": [
