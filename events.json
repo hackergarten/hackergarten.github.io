@@ -42,7 +42,24 @@
                 "url": "https://goo.gl/maps/JKCzwv8y5d72"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Example for a telegram chatbot",
+                "url": "https://github.com/antonrud/test-bot"
+            },
+            {
+                "title": "lsd - show current and parent directory with --all option (unfinished at end of hackergarten)",
+                "url": "https://github.com/Peltoche/lsd/issues/122"
+            },
+            {
+                "title": "junit5 - fixing a bug with temporary-folder (unfinished at the end of hackergarten)",
+                "url": "https://github.com/junit-team/junit5/issues/1814"
+            },
+            {
+                "title": "showstopper - plugin which start/stops video in browser from atom-editor (unpublished at the end of hackergarten)",
+                "url": ""
+            }
+        ],
         "venue": "innoQ Deutschland GmbH",
         "address": "Ohlauer Str. 43, 10999 Berlin"
     },
