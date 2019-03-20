@@ -30,6 +30,19 @@
         "address": "Lausanne, Switzerland"
     },
     {
+        "title": "Hackergarten Lausanne March 2019",
+        "date": "2019-03-19",
+        "links": [
+            {
+                "title": "Community activities",
+                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
+            }
+        ],
+        "achievements": [],
+        "venue": "Phantasialand",
+        "address": "Brühl, Germany"
+    },
+    {
         "title": "Hackergarten Berlin",
         "date": "2019-03-13",
         "links": [
