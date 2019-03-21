@@ -1,5 +1,18 @@
 [
     {
+        "title": "Hackergarten Lausanne April 2019",
+        "date": "2019-04-16",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/28MW7ykBsCF2"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pix4D Office, EPFL Innovation Park, Building F",
+        "address": "Lausanne, Switzerland"
+    },
+    {
         "title": "Hackergarten Zurich March 2019",
         "date": "2019-03-21",
         "links": [
@@ -25,7 +38,36 @@
                 "url": "https://goo.gl/maps/28MW7ykBsCF2"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Greg added some doc to aws-vault",
+                "url": "https://github.com/99designs/aws-vault/pull/349"
+            },
+            {
+                "title": "Kyle worked on the Rust FFI for my project called KPAL, an abstraction layer for peripherals and IoT devices",
+                "url": "https://github.com/kmdouglass/kpal"
+            },
+            {
+                "title": "Salah worked on designing the control system to manage the motion of the arm manipulators on our robots at CVRA",
+                "url": "https://github.com/cvra/robot-software/blob/arm-system-design/master-firmware/doc/arm-system-design.md"
+            },
+            {
+                "title": "Lucas continued foundation work on his network routing algorithm, collecting local data",
+                "url": ""
+            },
+            {
+                "title": "Tom restarted his bot project in NodeJS",
+                "url": ""
+            },
+            {
+                "title": "Dinesh",
+                "url": "https://github.com/oracle/graal/issues/1086"
+            },
+            {
+                "title": "Dinesh",
+                "url": "https://github.com/kubernetes-client/javascript/pull/83"
+            }
+        ],
         "venue": "Pix4D Office, EPFL Innovation Park, Building F",
         "address": "Lausanne, Switzerland"
     },
