@@ -37,7 +37,48 @@
                 "url": "https://goo.gl/maps/AsbABZQMBkN2"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Open issue for Groovy project: Missing @Generated annotation in @Sortable",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9050"
+            },
+            {
+                "title": "Open issue for Groovy project: The default constructor should be annotated with @Generated",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9051"
+            },
+            {
+                "title": "Open issue for Groovy project: Missing @Generated annotation on @Vetoable",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9052"
+            },
+            {
+                "title": "Open issue for Groovy project: Missing @Generated annotation in @Bindable",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9053"
+            },
+            {
+                "title": "Open issue for Groovy project: @groovy.transform.builder.Builder should generate @Generated annotations for build(), builder() and setter methods",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9054"
+            },
+            {
+                "title": "Pull request for Jacoco project: added integration test for groovy @Delegate",
+                "url": "https://github.com/jacoco/jacoco/pull/861"
+            },
+            {
+                "title": "Pull request for Jacoco project: added integration test for groovy @Immutable",
+                "url": "https://github.com/jacoco/jacoco/pull/862"
+            },
+            {
+                "title": "Pull request for Jacoco project: More tests for groovy AST annotations support",
+                "url": "https://github.com/jacoco/jacoco/pull/863"
+            },
+            {
+                "title": "Pull request for Jacoco project: added integration test for groovy @AutoClone",
+                "url": "https://github.com/jacoco/jacoco/pull/864"
+            },
+            {
+                "title": "Pull request for Jacoco project: added integration test for groovy @groovy.transform.builder.Builder",
+                "url": "https://github.com/jacoco/jacoco/pull/865"
+            }
+        ],
         "venue": "Quatico Solutions AG",
         "address": "Förrlibuckstrasse 220, 8005 Zürich"
     },
