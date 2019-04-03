@@ -1,5 +1,17 @@
 [
     {
+        "date": "2019-05-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzhbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten Lausanne April 2019",
         "date": "2019-04-16",
         "links": [
@@ -22,7 +34,11 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Luzern/events/jfqzmqyzgbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Date conflict (annual general meeting of the JUG) and only two registrations for this event."
+        }
     },
     {
         "title": "Hackergarten Zurich March 2019",
