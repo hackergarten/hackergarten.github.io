@@ -25,6 +25,32 @@
         "address": "Lausanne, Switzerland"
     },
     {
+        "title": "Hackergarten Bern April 2019",
+        "date": "2019-04-09",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Bern"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Refresh the JWT token by using the refresh_token",
+                "url": "https://github.com/trasiercom/trasier-client/issues/25"
+            },
+            {
+                "title": "Slack Channel for Hackergarten",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/237"
+            },
+            {
+                "title": "Trasier Opentracing Spring Boot Starter module",
+                "url": "https://github.com/trasiercom/trasier-client/pull/66"
+            }
+        ],
+        "venue": "SBB Haslerstrasse 30",
+        "address": "Bern, Switzerland"
+    },    
+    {
         "date": "2019-04-04",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
