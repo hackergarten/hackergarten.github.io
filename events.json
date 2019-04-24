@@ -1,5 +1,18 @@
 [
     {
+        "title": "Hackergarten Lausanne May 2019 (Careful, new office location)",
+        "date": "2019-05-14",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/ru9CfPjmM6SxM9sv9"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pix4D Office, Route de Renens 24, 1008 Prilly",
+        "address": "Lausanne, Switzerland"
+    },
+    {
         "date": "2019-05-02",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -49,7 +62,7 @@
         ],
         "venue": "SBB Haslerstrasse 30",
         "address": "Bern, Switzerland"
-    },    
+    },
     {
         "date": "2019-04-04",
         "venue": "Hirschengraben Coworking + Innovation",
