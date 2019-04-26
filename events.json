@@ -1,4 +1,21 @@
 [
+   {
+        "title": "13. Hackergarten Stuttgart May 2019",
+        "date": "2019-05-16",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/260666159/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/fzox7ZqN7dp"
+            }
+        ],
+        "achievements": [],
+        "venue": "codecentric AG, Heßbrühlstr. 7, Second Floor",
+        "address": "Stuttgart, Germany"
+    },
     {
         "title": "Hackergarten Lausanne May 2019 (Careful, new office location)",
         "date": "2019-05-14",
