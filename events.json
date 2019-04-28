@@ -1,5 +1,18 @@
 [
-   {
+    {
+        "title": "Hackergarten Zurich May 2019",
+        "date": "2019-05-23",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Zurich/events/260820588"
+            }
+        ],
+        "achievements": [],
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich"
+    },
+    {
         "title": "13. Hackergarten Stuttgart May 2019",
         "date": "2019-05-16",
         "links": [
@@ -197,12 +210,12 @@
         "address": "Lausanne, Switzerland"
     },
     {
-        "title": "Hackergarten Lausanne March 2019",
+        "title": "Hackergarten Javaland 2019",
         "date": "2019-03-19",
         "links": [
             {
                 "title": "Community activities",
-                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
+                "url": "https://programm.javaland.eu/2019/#/scheduledEvent/568959"
             }
         ],
         "achievements": [],
