@@ -81,7 +81,20 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzhbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: Adding photos to the animation video",
+                "url": "https://github.com/zdila/gpx-animator/pull/62"
+            },
+            {
+                "title": "Universum Simulator: Planet Generation",
+                "url": "https://bitbucket.org/thomasstauffer666/garden/commits/53e2705ef97f886baebf930fb9378c6afef6116d"
+            },
+            {
+                "title": "DDErl: Create Docker images",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/pull/589"
+            }
+        ]
     },
     {
         "title": "Hackergarten Lausanne April 2019",
