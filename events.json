@@ -1,20 +1,93 @@
 [
-  {
-      "date": "2019-10-12",
-      "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
-      "address": "Dortmund, Germany",
-      "links": [
-          {
-              "title": "Meetup",
-              "url": "https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/259817215/"
-          },
-          {
-              "title": "How to find us",
-              "url": "https://goo.gl/maps/QMCSfvFNJwN2"
-          }
-      ],
-      "achievements": [ ]
-  },{
+    {
+        "date": "2019-10-12",
+        "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
+        "address": "Dortmund, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/259817215/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
+            }
+        ],
+        "achievements": [ ]
+    },
+    {
+        "date": "2019-06-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzjbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "title": "Hackergarten Zurich May 2019",
+        "date": "2019-05-23",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Zurich/events/260820588"
+            }
+        ],
+        "achievements": [],
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich"
+    },
+    {
+        "title": "13. Hackergarten Stuttgart May 2019",
+        "date": "2019-05-16",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/260666159/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/fzox7ZqN7dp"
+            }
+        ],
+        "achievements": [],
+        "venue": "codecentric AG, Heßbrühlstr. 7, Second Floor",
+        "address": "Stuttgart, Germany"
+    },
+    {
+        "title": "Hackergarten Lausanne May 2019 (Careful, new office location)",
+        "date": "2019-05-14",
+        "links": [
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/ru9CfPjmM6SxM9sv9"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pix4D Office, Route de Renens 24, 1008 Prilly",
+        "address": "Lausanne, Switzerland"
+    },
+    {
+        "title": "Hackergarten Berlin 2nd",
+        "date": "2019-05-08",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/261008137/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/JKCzwv8y5d72"
+            }
+        ],
+        "achievements": [],
+        "venue": "innoQ Deutschland GmbH",
+        "address": "Ohlauer Str. 43, 10999 Berlin"
+    },
+    {
         "date": "2019-05-02",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -24,7 +97,20 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzhbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: Adding photos to the animation video",
+                "url": "https://github.com/zdila/gpx-animator/pull/62"
+            },
+            {
+                "title": "Universum Simulator: Planet Generation",
+                "url": "https://bitbucket.org/thomasstauffer666/garden/commits/53e2705ef97f886baebf930fb9378c6afef6116d"
+            },
+            {
+                "title": "DDErl: Create Docker images",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/pull/589"
+            }
+        ]
     },
     {
         "title": "Hackergarten Lausanne April 2019",
@@ -182,12 +268,12 @@
         "address": "Lausanne, Switzerland"
     },
     {
-        "title": "Hackergarten Lausanne March 2019",
+        "title": "Hackergarten Javaland 2019",
         "date": "2019-03-19",
         "links": [
             {
                 "title": "Community activities",
-                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
+                "url": "https://programm.javaland.eu/2019/#/scheduledEvent/568959"
             }
         ],
         "achievements": [],
