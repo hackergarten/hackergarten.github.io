@@ -1,5 +1,21 @@
 [
     {
+        "date": "2019-10-12",
+        "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
+        "address": "Dortmund, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/259817215/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
+            }
+        ],
+        "achievements": [ ]
+    },
+    {
         "date": "2019-06-06",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
