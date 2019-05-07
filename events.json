@@ -1,22 +1,5 @@
 [
     {
-        "title": "Hackergarten Berlin 2nd",
-        "date": "2019-05-08",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/261008137/"
-            },
-            {
-                "title": "How to find us",
-                "url": "https://goo.gl/maps/JKCzwv8y5d72"
-            }
-        ],
-        "achievements": [],
-        "venue": "innoQ Deutschland GmbH",
-        "address": "Ohlauer Str. 43, 10999 Berlin"
-    },
-    {
         "title": "Hackergarten Zurich May 2019",
         "date": "2019-05-23",
         "links": [
@@ -58,6 +41,23 @@
         "achievements": [],
         "venue": "Pix4D Office, Route de Renens 24, 1008 Prilly",
         "address": "Lausanne, Switzerland"
+    },
+    {
+        "title": "Hackergarten Berlin 2nd",
+        "date": "2019-05-08",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/261008137/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/JKCzwv8y5d72"
+            }
+        ],
+        "achievements": [],
+        "venue": "innoQ Deutschland GmbH",
+        "address": "Ohlauer Str. 43, 10999 Berlin"
     },
     {
         "date": "2019-05-02",
