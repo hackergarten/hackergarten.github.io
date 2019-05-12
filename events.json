@@ -28,6 +28,19 @@
         "achievements": []
     },
     {
+        "title": "Hackergarten on Tour - GR8Conf 2019",
+        "date": "2019-05-27",
+        "links": [
+            {
+                "title": "GR8Conf 2019",
+                "url": "https://gr8conf.eu/talks/605"
+            }
+        ],
+        "achievements": [],
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich"
+    },
+    {
         "title": "Hackergarten Zurich May 2019",
         "date": "2019-05-23",
         "links": [
