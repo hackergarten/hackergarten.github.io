@@ -66,7 +66,16 @@
                 "url": "https://goo.gl/maps/fzox7ZqN7dp"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Vue Form Wizard: Bugfix for nested tab components",
+                "url": "https://github.com/BinarCode/vue-form-wizard/pull/299"
+            },
+            {
+                "title": "clocker: Extract helper functions and write unit tests",
+                "url": "https://github.com/substack/clocker/pull/44"
+            }
+        ],
         "venue": "codecentric AG, Heßbrühlstr. 7, Second Floor",
         "address": "Stuttgart, Germany"
     },
