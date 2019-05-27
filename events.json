@@ -1,6 +1,6 @@
 [
     {
-        "title": "Hackergarten Berlin 3nd",
+        "title": "Hackergarten Berlin 3rd",
         "date": "2019-07-16",
         "links": [
             {
@@ -134,7 +134,7 @@
                          {
                 "title": "Container-based integration testing to be added",
                 "url": "https://github.com/tablevert/tablevert-core/issues/2"
-            },
+            }
         ],
         "venue": "innoQ Deutschland GmbH",
         "address": "Ohlauer Str. 43, 10999 Berlin"
