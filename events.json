@@ -1,5 +1,22 @@
 [
     {
+        "title": "Hackergarten Berlin 3rd",
+        "date": "2019-07-16",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/261811365/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/JKCzwv8y5d72"
+            }
+        ],
+        "achievements": [        ],
+        "venue": "innoQ Deutschland GmbH",
+        "address": "Ohlauer Str. 43, 10999 Berlin"
+    },
+    {
         "date": "2019-10-12",
         "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
         "address": "Dortmund, Germany",
@@ -130,7 +147,20 @@
                 "url": "https://goo.gl/maps/JKCzwv8y5d72"
             }
         ],
-        "achievements": [],
+        "achievements": [{
+                "title": "Set built-in attributes docfile, docname and docfilesuffix",
+                "url": "https://github.com/asciidoctor/asciidoctor-browser-extension/issues/254"
+            },
+                         {
+                "title": "Add a configurable nullValueInput attribute",
+                "url": "https://github.com/uniVocity/univocity-parsers/issues/322"
+            },
+                         
+                         {
+                "title": "Container-based integration testing to be added",
+                "url": "https://github.com/tablevert/tablevert-core/issues/2"
+            }
+        ],
         "venue": "innoQ Deutschland GmbH",
         "address": "Ohlauer Str. 43, 10999 Berlin"
     },
