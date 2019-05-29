@@ -16,6 +16,19 @@
         "achievements": [ ]
     },
     {
+        "title": "Hackergarten Bern June 2019",
+        "date": "2019-06-11",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Bern"
+            }
+        ],
+        "achievements": [],
+        "venue": "SBB Haslerstrasse 30",
+        "address": "Bern, Switzerland"
+    },
+    {
         "date": "2019-06-06",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -49,8 +62,8 @@
             }
         ],
         "achievements": [],
-        "venue": "Quatico Solutions AG",
-        "address": "IT-University of Copenhagen"
+        "venue": "IT-University of Copenhagen",
+        "address": "Rued Langgaards Vej 7, 2300 København"
     },
     {
         "title": "Hackergarten Zurich May 2019",
