@@ -28,6 +28,18 @@
         "achievements": []
     },
     {
+        "date": "2019-05-27",
+        "venue": "Centro de Convenciones Internacionales",
+        "address": "Plaça de Willy Brandt, 11-14, 08019 Barcelona ",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "http://www.jbcnconf.com/2019/hackergarten.html"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten on Tour - GR8Conf 2019",
         "date": "2019-05-27",
         "links": [
@@ -38,7 +50,7 @@
         ],
         "achievements": [],
         "venue": "Quatico Solutions AG",
-        "address": "Förrlibuckstrasse 220, 8005 Zürich"
+        "address": "IT-University of Copenhagen"
     },
     {
         "title": "Hackergarten Zurich May 2019",
