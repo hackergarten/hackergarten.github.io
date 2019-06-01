@@ -58,6 +58,39 @@
         "achievements": []
     },
     {
+        "title": "Hackergarten Paris May 2019",
+        "date": "2019-05-28",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/fr-FR/Paris-Hackergarten/events/tvdrwpyzhblc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Agathe and Gwenaelle started the IndexDefinition assertion in Neo4j",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/22"
+            },
+            {
+                "title": "Jimmy and Chris contributed two new comment style to headache",
+                "url": "https://github.com/fbiville/headache/pull/53"
+            },
+            {
+                "title": "Benjamin paired with Bakary to redeploy his production platform",
+                "url": "http://www.gstack.io/"
+            },
+            {
+                "title": "Édouard submitted a PR to Maven to display PMD version",
+                "url": "https://issues.apache.org/jira/browse/MPMD-269"
+            },
+            {
+                "title": "Arnaud investigated to measure Jansi performance issue on Windows for Maven"
+            }
+        ],
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris"
+    },
+    {
         "date": "2019-05-27",
         "venue": "Centro de Convenciones Internacionales",
         "address": "Plaça de Willy Brandt, 11-14, 08019 Barcelona ",
@@ -193,6 +226,33 @@
         ]
     },
     {
+        "title": "Hackergarten Paris April 2019",
+        "date": "2019-04-30",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/fr-FR/Paris-Hackergarten/events/tvdrwpyzgbnc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Badr worked on the projectriff.io credential command",
+                "url": "https://github.com/projectriff/riff/pull/1254/commits/8f6f6516b4c97f32ca1f6387da69a460b82f6876"
+            },
+            {
+                "title": "Work on OpenWhyd"
+            },
+            {
+                "title": "Work on Maven"
+            },
+            {
+                "title": "Work on Jenkins"
+            }
+        ],
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris"
+    },
+    {
         "title": "Hackergarten Lausanne April 2019",
         "date": "2019-04-16",
         "links": [
@@ -246,6 +306,31 @@
             "key": "canceled",
             "reason": "Date conflict (annual general meeting of the JUG) and only two registrations for this event."
         }
+    },
+    {
+        "title": "Hackergarten Paris March 2019",
+        "date": "2019-04-02",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/fr-FR/Paris-Hackergarten/events/tvdrwpyzfbjc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Work on Jenkins"
+            },
+             {
+                "title": "Aiden and Patrick continued working on OpenWhyd recommendation system",
+                "url": "http://openwhyd.org/"
+            },
+             {
+                "title": "Mohammed fixed a core compatibility issue in Assertj-Neo4j",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/18"
+            }
+        ],
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris"
     },
     {
         "title": "Hackergarten Zurich March 2019",
