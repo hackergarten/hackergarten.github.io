@@ -240,13 +240,16 @@
                 "url": "https://github.com/projectriff/riff/pull/1254/commits/8f6f6516b4c97f32ca1f6387da69a460b82f6876"
             },
             {
-                "title": "Work on OpenWhyd"
+                "title": "Work on OpenWhyd",
+                "url": ""
             },
             {
-                "title": "Work on Maven"
+                "title": "Work on Maven",
+                "url": ""
             },
             {
-                "title": "Work on Jenkins"
+                "title": "Work on Jenkins",
+                "url": ""
             }
         ],
         "venue": "Pivotal France",
@@ -318,7 +321,8 @@
         ],
         "achievements": [
             {
-                "title": "Work on Jenkins"
+                "title": "Work on Jenkins",
+                "url": ""
             },
              {
                 "title": "Aiden and Patrick continued working on OpenWhyd recommendation system",
