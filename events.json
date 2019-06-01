@@ -84,7 +84,8 @@
                 "url": "https://issues.apache.org/jira/browse/MPMD-269"
             },
             {
-                "title": "Arnaud investigated to measure Jansi performance issue on Windows for Maven"
+                "title": "Arnaud investigated to measure Jansi performance issue on Windows for Maven",
+                "url": ""
             }
         ],
         "venue": "Pivotal France",
