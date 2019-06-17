@@ -1,5 +1,22 @@
 [
     {
+        "title": "1. Hackergarten Karlsruhe",
+        "date": "2019-06-26",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/tech-talk-Karlsruhe/events/262316219/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/oWTmJGBVECgSjZJCA"
+            }
+        ],
+        "achievements": [        ],
+        "venue": "codecentric AG",
+        "address": "Gartenstraße 69a, 76135 Karlsruhe"
+    },
+    {
         "title": "Hackergarten Berlin 3rd",
         "date": "2019-07-16",
         "links": [
@@ -15,23 +32,6 @@
         "achievements": [        ],
         "venue": "innoQ Deutschland GmbH",
         "address": "Ohlauer Str. 43, 10999 Berlin"
-    },
-    {
-        "title": "1. Hackergarten Karlsruhe",
-        "date": "2019-07-26",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/tech-talk-Karlsruhe/events/262316219/"
-            },
-            {
-                "title": "How to find us",
-                "url": "https://goo.gl/maps/oWTmJGBVECgSjZJCA"
-            }
-        ],
-        "achievements": [        ],
-        "venue": "codecentric AG",
-        "address": "Gartenstraße 69a, 76135 Karlsruhe"
     },
     {
         "date": "2019-10-12",
