@@ -1,5 +1,18 @@
 [
     {
+        "title": "Paris Hackergarten June 2019",
+        "date": "2019-06-25",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyzjbhc/"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris"
+    },
+    {
         "title": "1. Hackergarten Karlsruhe",
         "date": "2019-06-26",
         "links": [
