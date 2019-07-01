@@ -1,33 +1,19 @@
 [
     {
-        "title": "Paris Hackergarten June 2019",
-        "date": "2019-06-25",
+        "date": "2019-10-12",
+        "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
+        "address": "Dortmund, Germany",
         "links": [
             {
                 "title": "Meetup",
-                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyzjbhc/"
-            }
-        ],
-        "achievements": [],
-        "venue": "Pivotal France",
-        "address": "33 rue La Fayette 75009 Paris"
-    },
-    {
-        "title": "1. Hackergarten Karlsruhe",
-        "date": "2019-06-26",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/tech-talk-Karlsruhe/events/262316219/"
+                "url": "https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/259817215/"
             },
             {
                 "title": "How to find us",
-                "url": "https://goo.gl/maps/oWTmJGBVECgSjZJCA"
+                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
             }
         ],
-        "achievements": [        ],
-        "venue": "codecentric AG",
-        "address": "Gartenstraße 69a, 76135 Karlsruhe"
+        "achievements": [ ]
     },
     {
         "title": "Hackergarten Berlin 3rd",
@@ -47,20 +33,34 @@
         "address": "Ohlauer Str. 43, 10999 Berlin"
     },
     {
-        "date": "2019-10-12",
-        "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
-        "address": "Dortmund, Germany",
+        "title": "1. Hackergarten Karlsruhe",
+        "date": "2019-06-26",
         "links": [
             {
                 "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/259817215/"
+                "url": "https://www.meetup.com/de-DE/tech-talk-Karlsruhe/events/262316219/"
             },
             {
                 "title": "How to find us",
-                "url": "https://goo.gl/maps/QMCSfvFNJwN2"
+                "url": "https://goo.gl/maps/oWTmJGBVECgSjZJCA"
             }
         ],
-        "achievements": [ ]
+        "achievements": [        ],
+        "venue": "codecentric AG",
+        "address": "Gartenstraße 69a, 76135 Karlsruhe"
+    },
+    {
+        "title": "Paris Hackergarten June 2019",
+        "date": "2019-06-25",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyzjbhc/"
+            }
+        ],
+        "achievements": [],
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris"
     },
     {
         "title": "Hackergarten Bern June 2019",
