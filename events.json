@@ -90,7 +90,44 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzkbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Kordamp Gradle Plugins: [integration-test] MPE when Groovy plugin is applied",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/140"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [functional-test] MPE when Groovy plugin is applied",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/141"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] JavaCompilerSettingsTask throws NPE if given sourceSet name does not exist",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/142"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] GroovyCompilerSettingsTask throws NPE if given sourceSet name does not exist",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/143"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] TestSettingsTask throws NPE if given sourceSet name does not exist",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/144"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] Add a task for listing sourceSets",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/145"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] Add a task for displaying SourceSet configuration",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/146"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] Add a task for displaying Configuration settings",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/147"
+            },
+            {
+                "title": "Kordamp Gradle Plugins: [Base] Add a task for listing configurations",
+                "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/148"
+            }
+        ]
     },
     {
         "title": "1. Hackergarten Karlsruhe",
