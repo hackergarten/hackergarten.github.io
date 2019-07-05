@@ -92,6 +92,18 @@
         ],
         "achievements": [
             {
+                "title": "GPX Animator: Fix for photos without time zone offset",
+                "url": "https://github.com/zdila/gpx-animator/commit/e0eeec328a57b0eacfce65a81050e775151772fc"
+            },
+            {
+                "title": "eXist-db: Fixes unattended installation with data directory & admin password",
+                "url": "https://github.com/eXist-db/exist/pull/2864"
+            },
+            {
+                "title": "eXist-db 5.0.0: Fixes unattended installation with data directory & admin password",
+                "url": "https://github.com/eXist-db/exist/pull/2865"
+            },
+            {
                 "title": "Kordamp Gradle Plugins: [integration-test] MPE when Groovy plugin is applied",
                 "url": "https://github.com/aalmiray/kordamp-gradle-plugins/issues/140"
             },
