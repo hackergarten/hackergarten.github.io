@@ -81,6 +81,20 @@
         "achievements": []
     },
     {
+        "date": "2019-07-18",
+        "title": "Hackwarming the new Karakun Office",
+        "venue": "Karakun AG Office",
+        "address": "Elisabethenanlage 25, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Basel/events/262791024/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2019-07-04",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
