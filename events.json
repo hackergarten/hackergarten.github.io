@@ -92,7 +92,16 @@
                 "url": "https://goo.gl/maps/JKCzwv8y5d72"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "dont crash if size of images differ",
+                "url": "https://github.com/ehmkah/imgdiff/issues/1"
+            },
+            {
+                "title": "Refactoring as a preparing to fix the issue",
+                "url": "https://github.com/TNG/ArchUnit/issues/113"
+            }
+        ]
     },
     {
         "date": "2019-07-04",
