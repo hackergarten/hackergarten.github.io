@@ -86,6 +86,10 @@
             {
                 "title": "Hackergarten Website: Add HTTPS support",
                 "url": "https://github.com/hackergarten/hackergarten.github.io/issues/97"
+            },
+            {
+                "title": "auto-deploy: hookup execution script",
+                "url": "https://github.com/wheresvic/auto-deploy/pull/1"
             }
         ]
     },
