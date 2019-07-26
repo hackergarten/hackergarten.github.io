@@ -80,6 +80,10 @@
                 "url": "https://github.com/zdila/gpx-animator/pull/83"
             },
             {
+                "title": "GPX Animator: Implement Configurable Tail Color",
+                "url": "https://github.com/zdila/gpx-animator/pull/87"
+            },
+            {
                 "title": "Spek Framework: Fail fast gherkin style",
                 "url": "https://github.com/spekframework/spek/pull/753"
             },
