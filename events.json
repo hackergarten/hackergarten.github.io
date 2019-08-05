@@ -64,6 +64,53 @@
         "achievements": []
     },
     {
+        "title": "Paris Hackergarten August 2019",
+        "date": "2019-08-27",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "title": "Paris Hackergarten July 2019",
+        "date": "2019-07-30",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzkbnc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Adrien fixed Openwhyd failing unit tests with Marc and Mamane",
+                "url": "https://github.com/openwhyd/openwhyd/issues/212"
+            },
+            {
+                "title": "Jean worked with Hervé to use QuickPerf in order to measure and profile Maven allocation",
+                "url": "https://github.com/quick-perf/quickperf"
+            },
+            {
+                "title": "Hervé worked with Ismail and Jawad on the Maven site plugin",
+                "url": "https://issues.apache.org/jira/browse/MSITE-837"
+            },
+            {
+                "title": "Agathe and Brice continued working on Assertj-Neo4j",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/29/"
+            },
+            {
+                "title": "Mehdi learnt Golang with Florent and implemented a new comment style on headache",
+                "url": "https://github.com/fbiville/headache/pull/56"
+            }
+        ]
+    },
+    {
         "date": "2019-07-18",
         "title": "Hackwarming the new Karakun Office",
         "venue": "Karakun AG Office",
@@ -374,7 +421,7 @@
                 "title": "Add a configurable nullValueInput attribute",
                 "url": "https://github.com/uniVocity/univocity-parsers/issues/322"
             },
-                         
+
                          {
                 "title": "Container-based integration testing to be added",
                 "url": "https://github.com/tablevert/tablevert-core/issues/2"
