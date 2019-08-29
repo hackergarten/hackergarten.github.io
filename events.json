@@ -74,7 +74,12 @@
                 "url": "https://www.meetup.com/Hackergarten-Basel/events/263744856/"
             }
         ],
-        "achievements": [        ]
+        "achievements": [
+            {
+               "title": "pig.js implement onimageclickhandler",
+               "url": "https://github.com/schlosser/pig.js/pull/22"
+            }
+        ]
     },
     {
         "title": "Paris Hackergarten August 2019",
