@@ -155,6 +155,10 @@
                 "title": "auto-deploy: hookup execution script",
                 "url": "https://github.com/wheresvic/auto-deploy/pull/1"
             }
+            {
+                "title": "LdapAuth: cleanup and opensource project",
+                "url": "https://github.com/hackergarten/LdapAuth"
+            }
         ]
     },
     {
