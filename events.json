@@ -64,6 +64,19 @@
         "achievements": []
     },
     {
+        "date": "2019-08-29",
+        "title": "Summer Hackergarten Basel",
+        "venue": "Karakun AG Office",
+        "address": "Elisabethenanlage 25, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Basel/events/263744856/"
+            }
+        ],
+        "achievements": [        ]
+    },
+    {
         "title": "Paris Hackergarten August 2019",
         "date": "2019-08-27",
         "venue": "Pivotal France",
