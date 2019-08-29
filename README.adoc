@@ -2,7 +2,7 @@
 
 This is where you find the source for:
 
-http://www.hackergarten.net[www.hackergarten.net]
+https://hackergarten.net[hackergarten.net]
 
 == License
 
