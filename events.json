@@ -78,7 +78,9 @@
             {
                "title": "pig.js implement onimageclickhandler",
                "url": "https://github.com/schlosser/pig.js/pull/22"
-            }
+            },
+            { "title": "Start to work on Nextcloud - IMAP Docker setup", 
+             "url": "https://github.com/hackergarten/NextCloudTestingDockerSetup"}
         ]
     },
     {
