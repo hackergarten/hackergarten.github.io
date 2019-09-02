@@ -79,8 +79,14 @@
                "title": "pig.js implement onimageclickhandler",
                "url": "https://github.com/schlosser/pig.js/pull/22"
             },
-            { "title": "Start to work on Nextcloud - IMAP Docker setup", 
-             "url": "https://github.com/hackergarten/NextCloudTestingDockerSetup"}
+            {
+               "title": "Start to work on Nextcloud - IMAP Docker setup", 
+               "url": "https://github.com/hackergarten/NextCloudTestingDockerSetup"
+            },
+            { 
+               "title": "Migrate from Field to Element - PreferencesFx",
+               "url": "https://github.com/dlsc-software-consulting-gmbh/PreferencesFX/pull/99"
+            }
         ]
     },
     {
