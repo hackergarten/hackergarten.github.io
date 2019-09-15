@@ -56,6 +56,22 @@
         "venue": "codecentric AG, Heßbrühlstr. 7, Fourth Floor",
         "address": "Stuttgart, Germany"
     },
+        "title": "Hackergarten Berlin 4th",
+        "date": "2019-10-9",
+        "venue": "innoQ Deutschland GmbH",
+        "address": "Ohlauer Str. 43, 10999 Berlin",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/264775730/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/JKCzwv8y5d72"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2019-10-03",
         "venue": "Hirschengraben Coworking + Innovation",
