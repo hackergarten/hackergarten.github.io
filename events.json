@@ -40,6 +40,22 @@
         "achievements": [ ]
     },
     {
+        "title": "14. Hackergarten Stuttgart (Hacktoberfestgarten)",
+        "date": "2019-10-10",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Stuttgart/events/264579999/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/fzox7ZqN7dp"
+            }
+        ],
+        "achievements": [],
+        "venue": "codecentric AG, Heßbrühlstr. 7, Fourth Floor",
+        "address": "Stuttgart, Germany"
+    },
         "title": "Hackergarten Berlin 4th",
         "date": "2019-10-9",
         "venue": "innoQ Deutschland GmbH",
