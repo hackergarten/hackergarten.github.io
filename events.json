@@ -24,6 +24,19 @@
         "achievements": []
     },
     {
+        "date": "2019-10-24",
+        "title": "Autumn Hackergarten Basel",
+        "venue": "Optravis LLC Office",
+        "address": "Stapfelberg 9, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/264986572/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2019-10-12",
         "venue": "Softwerkskammer Ruhrgebiet - Hackergarten",
         "address": "Dortmund, Germany",
