@@ -99,6 +99,24 @@
         "achievements": []
     },
     {
+        "title": "Paris Hackergarten September 2019",
+        "date": "2019-09-24",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Bug fix: Error with no image path for sendFile function",
+                "url": "https://github.com/openwhyd/openwhyd/pull/225"
+            }
+        ]
+    },
+    {
         "date": "2019-09-05",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -127,10 +145,10 @@
                "url": "https://github.com/schlosser/pig.js/pull/22"
             },
             {
-               "title": "Start to work on Nextcloud - IMAP Docker setup", 
+               "title": "Start to work on Nextcloud - IMAP Docker setup",
                "url": "https://github.com/hackergarten/NextCloudTestingDockerSetup"
             },
-            { 
+            {
                "title": "Migrate from Field to Element - PreferencesFx",
                "url": "https://github.com/dlsc-software-consulting-gmbh/PreferencesFX/pull/99"
             }
@@ -147,7 +165,7 @@
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
             }
         ],
-        "achievements": []
+        "achievements": ["Canceled"]
     },
     {
         "title": "Paris Hackergarten July 2019",
