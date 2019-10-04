@@ -24,6 +24,19 @@
         "achievements": []
     },
     {
+        "title": "Hackergarten Beirut"
+        "date": "2019-10-28",
+        "venue": "Beirut Digital District",
+        "address": "Nassif Yazigi street, Beirut, Lebanon",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Beirut-Java-User-Group/events/265406243/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2019-10-24",
         "title": "Autumn Hackergarten Basel",
         "venue": "Optravis LLC Office",
