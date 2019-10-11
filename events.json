@@ -95,7 +95,12 @@
                 "url": "https://goo.gl/maps/fzox7ZqN7dp"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+               "title": "Chaos-monkey: Add example entry in changes.adoc (Fix #132)",
+               "url": "https://github.com/codecentric/chaos-monkey-spring-boot/issues/132"
+            }
+        ],
         "venue": "codecentric AG, Heßbrühlstr. 7, Fourth Floor",
         "address": "Stuttgart, Germany"
     },
