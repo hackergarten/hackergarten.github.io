@@ -95,7 +95,20 @@
                 "url": "https://goo.gl/maps/fzox7ZqN7dp"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "md-schema: Add python test",
+                "url": "https://github.com/f43i4n/md-schema/pull/1"
+            },
+            {
+                "title": "Chaos-monkey: Remove deprecated MetricEvent constructor and adapt usage",
+                "url": "https://github.com/codecentric/chaos-monkey-spring-boot/pull/137"
+            },
+            {
+               "title": "Chaos-monkey: Add example entry in changes.adoc (Fix #132)",
+                "url": "https://github.com/codecentric/chaos-monkey-spring-boot/pull/136"
+            }
+        ],
         "venue": "codecentric AG, Heßbrühlstr. 7, Fourth Floor",
         "address": "Stuttgart, Germany"
     },
