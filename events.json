@@ -80,7 +80,12 @@
                 "url": "https://goo.gl/maps/QMCSfvFNJwN2"
             }
         ],
-        "achievements": [ ]
+        "achievements": [
+            {
+                "title": "Prefer Cucumber Expressions over Regular Expressions for Java 10 minute tutorial",
+                "url": "https://github.com/cucumber/docs.cucumber.io/pull/394"
+            }
+        ]
     },
     {
         "title": "14. Hackergarten Stuttgart (Hacktoberfestgarten)",
