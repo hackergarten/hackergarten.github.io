@@ -84,6 +84,10 @@
             {
                 "title": "Prefer Cucumber Expressions over Regular Expressions for Java 10 minute tutorial",
                 "url": "https://github.com/cucumber/docs.cucumber.io/pull/394"
+            },
+            {
+                "title": "Podlove Web Player: Sort contributors by group and display role.",
+                "url": "https://github.com/podlove/podlove-ui/pull/115"
             }
         ]
     },
