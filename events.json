@@ -88,6 +88,30 @@
             {
                 "title": "Podlove Web Player: Sort contributors by group and display role.",
                 "url": "https://github.com/podlove/podlove-ui/pull/115"
+            },
+            {
+                "title": "Replace Oracle JDK 8 by OpenJDK 8",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/9"
+            },
+            {
+                "title": "Add OpenJDK 12 and OpenJDK 13",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/10"
+            },
+            {
+                "title": "Add Maven Version 3.6.1 and 3.6.2",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/11"
+            },
+            {
+                "title": "Housekeeping - Invoker Extra Artifacts Version Update",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/12"
+            },
+            {
+                "title": "Housekeeping - Focus on important OpenJDK versions",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/13"
+            },
+            {
+                "title": "Housekeeping invoker tests - Add verify scripts",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/14"
             }
         ]
     },
