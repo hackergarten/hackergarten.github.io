@@ -112,6 +112,10 @@
             {
                 "title": "Maven Deployer Extension: Housekeeping invoker tests - Add verify scripts",
                 "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/14"
+            },
+            {
+                "title": "JUnit5: Additional test cases to debug an issue regarding reflective method search",
+                "url": "https://github.com/junit-team/junit5/pull/2058"
             }
         ]
     },
