@@ -116,6 +116,10 @@
             {
                 "title": "Gradle Build Tool: TestLogging should use display names",
                 "url": "https://github.com/gradle/gradle/pull/11026"
+            },
+            {
+                "title": "JUnit5: Additional test cases to debug an issue regarding reflective method search",
+                "url": "https://github.com/junit-team/junit5/pull/2058"
             }
         ]
     },
