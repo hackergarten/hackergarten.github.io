@@ -112,6 +112,10 @@
             {
                 "title": "Maven Deployer Extension: Housekeeping invoker tests - Add verify scripts",
                 "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/14"
+            },
+            {
+                "title": "Gradle Build Tool: TestLogging should use display names",
+                "url": "https://github.com/gradle/gradle/pull/11026"
             }
         ]
     },
