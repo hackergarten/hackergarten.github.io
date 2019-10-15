@@ -116,6 +116,10 @@
             {
                 "title": "JUnit5: Additional test cases to debug an issue regarding reflective method search",
                 "url": "https://github.com/junit-team/junit5/pull/2058"
+            },
+            {
+                "title": "Apache Maven EAR Plugin: Upgrade Maven Invoker Plugin to 3.2.1",
+                "url": "https://github.com/apache/maven-ear-plugin/pull/5"
             }
         ]
     },
