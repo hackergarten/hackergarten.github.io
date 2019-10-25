@@ -65,7 +65,11 @@
             }
         ],
         "achievements": [
-            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"}
+            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"},
+            {
+                "title": "JRis: Molding the API both from a kotlin and from a java project",
+                "url": "https://github.com/ursjoss/JRis/pull/8"
+            }
         ]
     },
     {
