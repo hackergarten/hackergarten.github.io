@@ -65,7 +65,8 @@
             }
         ],
         "achievements": [
-            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"}
+            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"},
+            { "title": "Spek Framework: Fixture aliases for gherkin style", "url": "https://github.com/spekframework/spek/pull/818"}
         ]
     },
     {
