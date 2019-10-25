@@ -65,7 +65,15 @@
             }
         ],
         "achievements": [
-            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"}
+            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"},
+             {
+                "title": "Add possibility to hide the close button in a specific module",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/105"
+            },
+             {
+                "title": "Add possibility to hide the add-Module Button in the entire Workbench",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/106"
+            }
         ]
     },
     {
