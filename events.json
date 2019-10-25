@@ -64,7 +64,9 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/264986572/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"}
+        ]
     },
     {
         "date": "2019-10-12",
