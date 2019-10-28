@@ -67,13 +67,15 @@
         "achievements": [
             { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"},
              {
-                "title": "Add possibility to hide the close button in a specific module",
+                "title": "WorkbenchFX: Add possibility to hide the close button in a specific module",
                 "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/105"
             },
              {
-                "title": "Add possibility to hide the add-Module Button in the entire Workbench",
+                "title": "WorkbenchFX: Add possibility to hide the add-Module Button in the entire Workbench",
                 "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/106"
-            }
+            },
+            { "title": "Spek Framework: Fixture aliases for gherkin style", "url": "https://github.com/spekframework/spek/pull/818"}
+
         ]
     },
     {
