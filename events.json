@@ -41,6 +41,19 @@
         "achievements": []
     },
     {
+        "title": "Hackergarten Paris",
+        "date": "2019-10-29",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryznbmc/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten Beirut",
         "date": "2019-10-28",
         "venue": "Beirut Digital District",
