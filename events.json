@@ -69,7 +69,16 @@
             {
                 "title": "JRis: Molding the API both from a kotlin and from a java project",
                 "url": "https://github.com/ursjoss/JRis/pull/8"
-            }
+            },
+             {
+                "title": "WorkbenchFX: Add possibility to hide the close button in a specific module",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/105"
+            },
+             {
+                "title": "WorkbenchFX: Add possibility to hide the add-Module Button in the entire Workbench",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/106"
+            },
+            { "title": "Spek Framework: Fixture aliases for gherkin style", "url": "https://github.com/spekframework/spek/pull/818"}
         ]
     },
     {
