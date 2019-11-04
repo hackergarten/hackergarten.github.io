@@ -51,7 +51,16 @@
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryznbmc/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "riff - started working on named parameter support",
+                "url": "https://github.com/AElMehdi/node-function-invoker/tree/namedParams"
+            },
+            {
+                "title": "Liquigraph - started adding a new Cypher extension for Liquigraph",
+                "url": "https://github.com/AYASN/liquigraph/tree/extension"
+            }
+        ]
     },
     {
         "title": "Hackergarten Beirut",
