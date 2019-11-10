@@ -38,7 +38,24 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzpbkb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: v1.4-SNAPSHOT now available for download",
+                "url": "https://github.com/zdila/gpx-animator/commit/aa601202ce5270b617b67d88efb50f0d388c24ab"
+            },
+            {
+                "title": "GPX Animator: Add Unit Testing to the Maven structure",
+                "url": "https://github.com/zdila/gpx-animator/pull/92"
+            },
+            {
+                "title": "GPX Animator: Working on timezone problems (in progress)",
+                "url": ""
+            },
+            {
+                "title": "DDErl: Send and receive bugfix",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/pull/634"
+            }
+        ]
     },
     {
         "title": "Hackergarten Paris",
