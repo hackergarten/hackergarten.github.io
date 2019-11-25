@@ -46,6 +46,19 @@
         "address": "Gartenstraße 69a, 76135 Karlsruhe, Germany"
     },
     {
+        "title": "Hackergarten Paris",
+        "date": "2019-11-26",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzpbjc/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2019-11-07",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -258,7 +271,7 @@
         "achievements": []
     },
     {
-        "title": "Paris Hackergarten September 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-09-24",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette 75009 Paris",
@@ -314,7 +327,7 @@
         ]
     },
     {
-        "title": "Paris Hackergarten August 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-08-27",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette 75009 Paris",
@@ -327,7 +340,7 @@
         "achievements": []
     },
     {
-        "title": "Paris Hackergarten July 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-07-30",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette 75009 Paris",
@@ -503,7 +516,7 @@
         "address": "Gartenstraße 69a, 76135 Karlsruhe"
     },
     {
-        "title": "Paris Hackergarten June 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-06-25",
         "links": [
             {
@@ -541,7 +554,7 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Paris May 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-05-28",
         "links": [
             {
@@ -710,7 +723,7 @@
         ]
     },
     {
-        "title": "Hackergarten Paris April 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-04-30",
         "links": [
             {
@@ -795,7 +808,7 @@
         }
     },
     {
-        "title": "Hackergarten Paris March 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-04-02",
         "links": [
             {
@@ -980,7 +993,7 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Paris February 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-02-26",
         "links": [
             {
@@ -1052,7 +1065,7 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Paris January 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-01-29",
         "venue": "Pivotal France",
         "address": "33, rue La Fayette 75009 Paris",
@@ -1259,7 +1272,7 @@
     },
      {
         "date": "2018-11-20",
-        "title": "Hackergarten Paris November 2018",
+        "title": "Hackergarten Paris",
         "venue": "Pivotal France",
         "address": "33, rue La Fayette 75009 Paris",
         "links": [
@@ -1379,7 +1392,7 @@
     },
     {
         "date": "2018-10-30",
-        "title": "Paris Hackergarten October",
+        "title": "Hackergarten Paris",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette, 75009 Paris",
         "links": [
@@ -3080,6 +3093,7 @@
         "address": "Basel, Switzerland"
     },
     {
+        "title": "Hackergarten Paris",
         "date": "2016-12-08",
         "links": [
             {
