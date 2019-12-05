@@ -132,18 +132,13 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Berlin 5th",
-        "date": "2019-12-04",
-        "venue": "innoQ Deutschland GmbH",
-        "address": "Ohlauer Str. 43, 10999 Berlin",
+        "date": "2019-12-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
         "links": [
             {
                 "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/266443708/"
-            },
-            {
-                "title": "How to find us",
-                "url": "https://goo.gl/maps/JKCzwv8y5d72"
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzqbhb/"
             }
         ],
         "achievements": []
