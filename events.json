@@ -1,5 +1,137 @@
 [
     {
+        "date": "2020-12-03",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcqbfb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-11-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcpbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-10-01",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcnbcb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-09-03",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcmbfb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-08-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybclbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-07-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybckbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-06-04",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcjbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-05-07",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-04-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcgbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-03-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-02-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcdbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten Berlin 5th",
         "date": "2019-12-04",
         "venue": "innoQ Deutschland GmbH",
