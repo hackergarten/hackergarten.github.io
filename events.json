@@ -132,6 +132,18 @@
         "achievements": []
     },
     {
+        "date": "2019-12-10",
+        "venue": "SBB",
+        "address": "Haslerstrasse 30, 3008 Bern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/cpzqxmyzqbnb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2019-12-05",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -167,18 +179,6 @@
                 "url": "https://github.com/reinhapa/rabbitmq-cdi/commit/d12ebb6429b2594b6d7b4967f43f2ee515085353"
             }
         ]
-    },
-    {
-        "date": "2019-12-05",
-        "venue": "Hirschengraben Coworking + Innovation",
-        "address": "Hirschengraben 40, 6003 Luzern",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzqbhb/"
-            }
-        ],
-        "achievements": []
     },
     {
         "title": "2. Hackergarten Karlsruhe",
