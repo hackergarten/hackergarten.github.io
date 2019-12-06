@@ -1,20 +1,172 @@
 [
     {
-        "title": "Hackergarten Berlin 5th",
-        "date": "2019-12-04",
-        "venue": "innoQ Deutschland GmbH",
-        "address": "Ohlauer Str. 43, 10999 Berlin",
+        "date": "2020-12-03",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
         "links": [
             {
                 "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/266443708/"
-            },
-            {
-                "title": "How to find us",
-                "url": "https://goo.gl/maps/JKCzwv8y5d72"
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcqbfb/"
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2020-11-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcpbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-10-01",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcnbcb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-09-03",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcmbfb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-08-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybclbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-07-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybckbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-06-04",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcjbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-05-07",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-04-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcgbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-03-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-02-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcdbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2019-12-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzqbhb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "GPX Animator: Bike icon now configurable via GUI and CLI",
+                "url": "https://github.com/zdila/gpx-animator/pull/116"
+            },
+            {
+                "title": "DDErl: fixing table name parsing for partitioned and sharded tables",
+                "url": "https://github.com/K2InformaticsGmbH/imem/commit/5225f9ea58def89eb03f12fa5262bb6953693961"
+            },
+            {
+                "title": "DDErl: fix rows format for diff",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/commit/94c75f3926a3cec0737ba94800aa5f928c65dbee"
+            },
+            {
+                "title": "DDErl: fix rows emission for diff",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/commit/d22475ab0cd7ce7a75c5c639232774a819754b94"
+            },
+            {
+                "title": "OraLixir: namespace bug fixes",
+                "url": "https://github.com/c-bik/OraLixir/commit/e3d02d575ca642a0f023b545a598ae042f70608e"
+            },
+            {
+                "title": "RabbitMQ-CDI: migrated to kordamp plugin",
+                "url": "https://github.com/reinhapa/rabbitmq-cdi/commit/d12ebb6429b2594b6d7b4967f43f2ee515085353"
+            }
+        ]
     },
     {
         "date": "2019-12-05",
