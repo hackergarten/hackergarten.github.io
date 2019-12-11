@@ -141,7 +141,16 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/cpzqxmyzqbnb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Trasier Server: Project initialization, continuous integration builds, docker image generation",
+                "url": "https://github.com/trasiercom/trasier-server"
+            },
+            {
+                "title": "Trasier Server API: Project creation and first version",
+                "url": "https://github.com/trasiercom/trasier-server-api"
+            }
+        ]
     },
     {
         "date": "2019-12-05",
