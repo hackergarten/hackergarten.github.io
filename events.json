@@ -132,6 +132,19 @@
         "achievements": []
     },
     {
+        "date": "2020-02-03",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.jfokus.se/jfokus/"
+            }
+        ],
+        "achievements": [
+        ],
+        "venue": "JFokus",
+        "address": "Stockholm, Sweden"
+    },
+    {
         "date": "2019-12-10",
         "venue": "SBB",
         "address": "Haslerstrasse 30, 3008 Bern",
