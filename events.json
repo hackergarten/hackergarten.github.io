@@ -1,5 +1,18 @@
 [
     {
+        "title": "Hackergarten Berlin 6th",
+        "date": "2020-02-26",
+        "venue": "IBM Deutschland",
+        "address": "Französische Straße 24, Berlin",
+        "links": [
+            {
+                "title": "Event",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/268359252/"
+            }
+        ],
+        "achievements": []
+    }, 
+    {
         "title": "Hackergarten Genève",
         "date": "2020-02-12",
         "venue": "Ramada Encore",
