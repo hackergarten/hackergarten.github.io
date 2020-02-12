@@ -1,5 +1,18 @@
 [
     {
+        "title": "Hackergarten JWild",
+        "date": "2020-04-25",
+        "venue": "Fairy Knowe Hotel",
+        "address": "1 Dumbleton Road, Wilderness, South Africa",
+        "links": [
+            {
+                "title": "JWild",
+                "url": "https://wilderness-software.com/jwild-2020/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten Genève",
         "date": "2020-02-12",
         "venue": "Ramada Encore",
