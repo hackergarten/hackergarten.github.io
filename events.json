@@ -23,7 +23,32 @@
                 "url": "https://www.eventbrite.com/e/hackergarten-geneve-registration-92691417525"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Closed issue in JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/issues/1021"
+            },
+            {
+                "title": "Created issue for Groovy project: Captured arguments in closures are not annotated with @Generated",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9396"
+            },
+            {
+                "title": "Opened pull request for Groovy project",
+                "url": "https://github.com/apache/groovy/pull/1166"
+            },
+            {
+                "title": "Opened pull request for JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/pull/1022"
+            },
+            {
+                "title": "Opened pull request for JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/pull/1023"
+            },
+            {
+                "title": "Opened pull request for JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/pull/1024"
+            }
+        ]
     },
     {
         "date": "2020-12-03",
