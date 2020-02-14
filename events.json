@@ -133,6 +133,19 @@
         ],
         "achievements": []
     },
+      {
+        "date": "2020-03-25",
+        "title": "Hackergarten Basel",
+        "venue": "Optravis LLC Office",
+        "address": "Stapfelberg 9, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/268707937/"
+            }
+        ],
+        "achievements": []
+      },
     {
         "date": "2020-03-05",
         "venue": "Hirschengraben Coworking + Innovation",
@@ -141,6 +154,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-02-27",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun Office",
+        "address": "Elisabethenanlage 25, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/268707924/"
             }
         ],
         "achievements": []
