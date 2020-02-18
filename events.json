@@ -244,7 +244,16 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/cpzqxmyzqbnb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Trasier Server API - project created",
+                "url": "https://github.com/trasiercom/trasier-server-api"
+            },
+            {
+                "title": "Trasier Server - project created",
+                "url": "https://github.com/trasiercom/trasier-server"
+            }
+        ]
     },
     {
         "date": "2019-12-05",
