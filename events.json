@@ -11,7 +11,7 @@
             }
         ],
         "achievements": []
-    }, 
+    },
     {
         "title": "Hackergarten JWild",
         "date": "2020-04-25",
@@ -21,6 +21,19 @@
             {
                 "title": "JWild",
                 "url": "https://wilderness-software.com/jwild-2020/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2020-02-25",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
             }
         ],
         "achievements": []
@@ -235,6 +248,40 @@
         "address": "Stockholm, Sweden"
     },
     {
+        "title": "Hackergarten Paris",
+        "date": "2020-01-28",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "@DebugQuickPerf should display the QuickPerf JVM options (done)",
+                "url": "https://github.com/quick-perf/quickperf/issues/35"
+            },
+            {
+                "title": "Add @ExpectMaxQueryExecutionTime (done)",
+                "url": "https://github.com/quick-perf/quickperf/issues/4"
+            },
+            {
+                "title": "@ProfileHeapAllocation (in progress)",
+                "url": "https://github.com/quick-perf/quickperf/issues/8"
+            },
+            {
+                "title": "Test cypress as an alternative to Webdriver, for e2e tests (in progress)",
+                "url": "https://github.com/openwhyd/openwhyd/issues/199"
+            },
+            {
+                "title": "Secure login with argon2 instead of md5 hash (in progress)",
+                "url": "https://github.com/openwhyd/openwhyd/issues/258"
+            }
+        ]
+    },
+    {
         "date": "2019-12-10",
         "venue": "SBB",
         "address": "Haslerstrasse 30, 3008 Bern",
@@ -321,6 +368,36 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2020-11-26",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "(not provided)",
+                "url": "https://github.com/apache/maven"
+            },
+            {
+                "title": "How to use QuickPerf in a project offered as example",
+                "url": "https://github.com/quick-perf/quickperf"
+            },
+            {
+                "title": "How to measure Maven's performance with QuickPerf",
+                "url": "https://github.com/quick-perf/quickperf"
+            },
+            {
+                "title": "Secure login with argon2 instead of md5 hash (in progress)",
+                "url": "https://github.com/openwhyd/openwhyd/issues/258"
+            }
+        ]
     },
     {
         "date": "2019-11-07",
