@@ -1,5 +1,308 @@
 [
     {
+        "title": "Hackergarten Berlin 6th",
+        "date": "2020-02-26",
+        "venue": "IBM Deutschland",
+        "address": "Französische Straße 24, Berlin",
+        "links": [
+            {
+                "title": "Event",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/268359252/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "title": "Hackergarten JWild",
+        "date": "2020-04-25",
+        "venue": "Fairy Knowe Hotel",
+        "address": "1 Dumbleton Road, Wilderness, South Africa",
+        "links": [
+            {
+                "title": "JWild",
+                "url": "https://wilderness-software.com/jwild-2020/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2020-02-25",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "title": "Hackergarten Genève",
+        "date": "2020-02-12",
+        "venue": "Ramada Encore",
+        "address": "Route des Jeunes 10-12, 1227 Genève",
+        "links": [
+            {
+                "title": "Event",
+                "url": "https://www.eventbrite.com/e/hackergarten-geneve-registration-92691417525"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Closed issue in JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/issues/1021"
+            },
+            {
+                "title": "Created issue for Groovy project: Captured arguments in closures are not annotated with @Generated",
+                "url": "https://issues.apache.org/jira/browse/GROOVY-9396"
+            },
+            {
+                "title": "Opened pull request for Groovy project",
+                "url": "https://github.com/apache/groovy/pull/1166"
+            },
+            {
+                "title": "Opened pull request for JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/pull/1022"
+            },
+            {
+                "title": "Opened pull request for JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/pull/1023"
+            },
+            {
+                "title": "Opened pull request for JaCoCo project",
+                "url": "https://github.com/jacoco/jacoco/pull/1024"
+            }
+        ]
+    },
+    {
+        "date": "2020-12-03",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcqbfb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-11-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcpbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-10-01",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcnbcb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-09-03",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcmbfb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-08-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybclbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-07-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybckbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-06-04",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcjbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-05-07",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-04-02",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcgbdb/"
+            }
+        ],
+        "achievements": []
+    },
+      {
+        "date": "2020-03-25",
+        "title": "Hackergarten Basel",
+        "venue": "Optravis LLC Office",
+        "address": "Stapfelberg 9, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/268707937/"
+            }
+        ],
+        "achievements": []
+      },
+    {
+        "date": "2020-03-05",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-02-27",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun Office",
+        "address": "Elisabethenanlage 25, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/268707924/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-02-06",
+        "venue": "Hirschengraben Coworking + Innovation",
+        "address": "Hirschengraben 40, 6003 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcdbjb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2020-02-03",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://www.jfokus.se/jfokus/"
+            }
+        ],
+        "achievements": [
+        ],
+        "venue": "JFokus",
+        "address": "Stockholm, Sweden"
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2020-01-28",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "@DebugQuickPerf should display the QuickPerf JVM options (done)",
+                "url": "https://github.com/quick-perf/quickperf/issues/35"
+            },
+            {
+                "title": "Add @ExpectMaxQueryExecutionTime (done)",
+                "url": "https://github.com/quick-perf/quickperf/issues/4"
+            },
+            {
+                "title": "@ProfileHeapAllocation (in progress)",
+                "url": "https://github.com/quick-perf/quickperf/issues/8"
+            },
+            {
+                "title": "Test cypress as an alternative to Webdriver, for e2e tests (in progress)",
+                "url": "https://github.com/openwhyd/openwhyd/issues/199"
+            },
+            {
+                "title": "Secure login with argon2 instead of md5 hash (in progress)",
+                "url": "https://github.com/openwhyd/openwhyd/issues/258"
+            }
+        ]
+    },
+    {
+        "date": "2019-12-10",
+        "venue": "SBB",
+        "address": "Haslerstrasse 30, 3008 Bern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Bern/events/cpzqxmyzqbnb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Trasier Server API - project created",
+                "url": "https://github.com/trasiercom/trasier-server-api"
+            },
+            {
+                "title": "Trasier Server - project created",
+                "url": "https://github.com/trasiercom/trasier-server"
+            }
+        ]
+    },
+    {
         "date": "2019-12-05",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -9,7 +312,92 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzqbhb/"
             }
         ],
+        "achievements": [
+            {
+                "title": "GPX Animator: Bike icon now configurable via GUI and CLI",
+                "url": "https://github.com/zdila/gpx-animator/pull/116"
+            },
+            {
+                "title": "DDErl: fixing table name parsing for partitioned and sharded tables",
+                "url": "https://github.com/K2InformaticsGmbH/imem/commit/5225f9ea58def89eb03f12fa5262bb6953693961"
+            },
+            {
+                "title": "DDErl: fix rows format for diff",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/commit/94c75f3926a3cec0737ba94800aa5f928c65dbee"
+            },
+            {
+                "title": "DDErl: fix rows emission for diff",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/commit/d22475ab0cd7ce7a75c5c639232774a819754b94"
+            },
+            {
+                "title": "OraLixir: namespace bug fixes",
+                "url": "https://github.com/c-bik/OraLixir/commit/e3d02d575ca642a0f023b545a598ae042f70608e"
+            },
+            {
+                "title": "RabbitMQ-CDI: migrated to kordamp plugin",
+                "url": "https://github.com/reinhapa/rabbitmq-cdi/commit/d12ebb6429b2594b6d7b4967f43f2ee515085353"
+            }
+        ]
+    },
+    {
+        "title": "2. Hackergarten Karlsruhe",
+        "date": "2019-11-28",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/tech-talk-Karlsruhe/events/265477354/"
+            },
+            {
+                "title": "How to find us",
+                "url": "https://goo.gl/maps/YGcY7GhHau2j2MmK9"
+            }
+        ],
+        "achievements": [],
+        "venue": "codecentric AG",
+        "address": "Gartenstraße 69a, 76135 Karlsruhe, Germany"
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2019-11-26",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzpbjc/"
+            }
+        ],
         "achievements": []
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2020-11-26",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryzlbkc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "(not provided)",
+                "url": "https://github.com/apache/maven"
+            },
+            {
+                "title": "How to use QuickPerf in a project offered as example",
+                "url": "https://github.com/quick-perf/quickperf"
+            },
+            {
+                "title": "How to measure Maven's performance with QuickPerf",
+                "url": "https://github.com/quick-perf/quickperf"
+            },
+            {
+                "title": "Secure login with argon2 instead of md5 hash (in progress)",
+                "url": "https://github.com/openwhyd/openwhyd/issues/258"
+            }
+        ]
     },
     {
         "date": "2019-11-07",
@@ -19,6 +407,58 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqyzpbkb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "GPX Animator: v1.4-SNAPSHOT now available for download",
+                "url": "https://github.com/zdila/gpx-animator/commit/aa601202ce5270b617b67d88efb50f0d388c24ab"
+            },
+            {
+                "title": "GPX Animator: Add Unit Testing to the Maven structure",
+                "url": "https://github.com/zdila/gpx-animator/pull/92"
+            },
+            {
+                "title": "GPX Animator: Working on timezone problems (in progress)",
+                "url": ""
+            },
+            {
+                "title": "DDErl: Send and receive bugfix",
+                "url": "https://github.com/K2InformaticsGmbH/dderl/pull/634"
+            }
+        ]
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2019-10-29",
+        "venue": "Pivotal France",
+        "address": "33 rue La Fayette 75009 Paris",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfryznbmc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "riff - started working on named parameter support",
+                "url": "https://github.com/AElMehdi/node-function-invoker/tree/namedParams"
+            },
+            {
+                "title": "Liquigraph - started adding a new Cypher extension for Liquigraph",
+                "url": "https://github.com/AYASN/liquigraph/tree/extension"
+            }
+        ]
+    },
+    {
+        "title": "Hackergarten Beirut",
+        "date": "2019-10-28",
+        "venue": "Beirut Digital District",
+        "address": "Nassif Yazigi street, Beirut, Lebanon",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Beirut-Java-User-Group/events/265406243/"
             }
         ],
         "achievements": []
@@ -34,7 +474,22 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/264986572/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"},
+            {
+                "title": "JRis: Molding the API both from a kotlin and from a java project",
+                "url": "https://github.com/ursjoss/JRis/pull/8"
+            },
+             {
+                "title": "WorkbenchFX: Add possibility to hide the close button in a specific module",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/105"
+            },
+             {
+                "title": "WorkbenchFX: Add possibility to hide the add-Module Button in the entire Workbench",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/106"
+            },
+            { "title": "Spek Framework: Fixture aliases for gherkin style", "url": "https://github.com/spekframework/spek/pull/818"}
+        ]
     },
     {
         "date": "2019-10-12",
@@ -50,7 +505,52 @@
                 "url": "https://goo.gl/maps/QMCSfvFNJwN2"
             }
         ],
-        "achievements": [ ]
+        "achievements": [
+            {
+                "title": "Prefer Cucumber Expressions over Regular Expressions for Java 10 minute tutorial",
+                "url": "https://github.com/cucumber/docs.cucumber.io/pull/394"
+            },
+            {
+                "title": "Podlove Web Player: Sort contributors by group and display role.",
+                "url": "https://github.com/podlove/podlove-ui/pull/115"
+            },
+            {
+                "title": "Maven Deployer Extension: Replace Oracle JDK 8 by OpenJDK 8",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/9"
+            },
+            {
+                "title": "Maven Deployer Extension: Add OpenJDK 12 and OpenJDK 13",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/10"
+            },
+            {
+                "title": "Maven Deployer Extension: Add Maven Version 3.6.1 and 3.6.2",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/11"
+            },
+            {
+                "title": "Maven Deployer Extension: Housekeeping - Invoker Extra Artifacts Version Update",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/12"
+            },
+            {
+                "title": "Maven Deployer Extension: Housekeeping - Focus on important OpenJDK versions",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/13"
+            },
+            {
+                "title": "Maven Deployer Extension: Housekeeping invoker tests - Add verify scripts",
+                "url": "https://github.com/khmarbaise/maven-deployer-extension/pull/14"
+            },
+            {
+                "title": "Gradle Build Tool: TestLogging should use display names",
+                "url": "https://github.com/gradle/gradle/pull/11026"
+            },
+            {
+                "title": "JUnit5: Additional test cases to debug an issue regarding reflective method search",
+                "url": "https://github.com/junit-team/junit5/pull/2058"
+            },
+            {
+                "title": "Apache Maven EAR Plugin: Upgrade Maven Invoker Plugin to 3.2.1",
+                "url": "https://github.com/apache/maven-ear-plugin/pull/5"
+            }
+        ]
     },
     {
         "title": "14. Hackergarten Stuttgart (Hacktoberfestgarten)",
@@ -65,7 +565,20 @@
                 "url": "https://goo.gl/maps/fzox7ZqN7dp"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "md-schema: Add python test",
+                "url": "https://github.com/f43i4n/md-schema/pull/1"
+            },
+            {
+                "title": "Chaos-monkey: Remove deprecated MetricEvent constructor and adapt usage",
+                "url": "https://github.com/codecentric/chaos-monkey-spring-boot/pull/137"
+            },
+            {
+               "title": "Chaos-monkey: Add example entry in changes.adoc (Fix #132)",
+                "url": "https://github.com/codecentric/chaos-monkey-spring-boot/pull/136"
+            }
+        ],
         "venue": "codecentric AG, Heßbrühlstr. 7, Fourth Floor",
         "address": "Stuttgart, Germany"
     },
@@ -99,7 +612,7 @@
         "achievements": []
     },
     {
-        "title": "Paris Hackergarten September 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-09-24",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette 75009 Paris",
@@ -155,7 +668,7 @@
         ]
     },
     {
-        "title": "Paris Hackergarten August 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-08-27",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette 75009 Paris",
@@ -168,7 +681,7 @@
         "achievements": []
     },
     {
-        "title": "Paris Hackergarten July 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-07-30",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette 75009 Paris",
@@ -344,7 +857,7 @@
         "address": "Gartenstraße 69a, 76135 Karlsruhe"
     },
     {
-        "title": "Paris Hackergarten June 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-06-25",
         "links": [
             {
@@ -382,7 +895,7 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Paris May 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-05-28",
         "links": [
             {
@@ -551,7 +1064,7 @@
         ]
     },
     {
-        "title": "Hackergarten Paris April 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-04-30",
         "links": [
             {
@@ -636,7 +1149,7 @@
         }
     },
     {
-        "title": "Hackergarten Paris March 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-04-02",
         "links": [
             {
@@ -821,7 +1334,7 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Paris February 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-02-26",
         "links": [
             {
@@ -893,7 +1406,7 @@
         "achievements": []
     },
     {
-        "title": "Hackergarten Paris January 2019",
+        "title": "Hackergarten Paris",
         "date": "2019-01-29",
         "venue": "Pivotal France",
         "address": "33, rue La Fayette 75009 Paris",
@@ -1100,7 +1613,7 @@
     },
      {
         "date": "2018-11-20",
-        "title": "Hackergarten Paris November 2018",
+        "title": "Hackergarten Paris",
         "venue": "Pivotal France",
         "address": "33, rue La Fayette 75009 Paris",
         "links": [
@@ -1220,7 +1733,7 @@
     },
     {
         "date": "2018-10-30",
-        "title": "Paris Hackergarten October",
+        "title": "Hackergarten Paris",
         "venue": "Pivotal France",
         "address": "33 rue La Fayette, 75009 Paris",
         "links": [
@@ -2921,6 +3434,7 @@
         "address": "Basel, Switzerland"
     },
     {
+        "title": "Hackergarten Paris",
         "date": "2016-12-08",
         "links": [
             {
