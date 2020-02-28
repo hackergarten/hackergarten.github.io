@@ -1,2 +1,2 @@
-python -m SimpleHTTPServer 8080
-
+#!/bin/bash
+python -m SimpleHTTPServer ${1:-8080}
