@@ -10,7 +10,20 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Berlin/events/268359252/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Implemented feature for quasar-framework",
+                "url": "https://github.com/quasarframework/quasar/issues/6493"
+            },
+            {
+                "title": "Implemented feature for quasar-framework",
+                "url": "https://github.com/quasarframework/quasar/issues/5338"
+            },
+              {
+                "title": "Build spider for city-scrapers",
+                "url": "https://github.com/City-Bureau/city-scrapers/issues/914"
+            }
+        ]
     },
     {
         "title": "Hackergarten JWild",
