@@ -36,7 +36,32 @@
                 "url": "https://www.meetup.com/fr-FR/Paris-Hackergarten/events/wsrdfrybcdbhc/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Minh-Trieu made Quickperf build reproducible",
+                "url": "https://github.com/quick-perf/quickperf/pull/58"
+            },
+            {
+                "title": "Bakary worked on making several libs' (Commons, Logback) build reproducible as well",
+                "url": "https://maven.apache.org/"
+            },
+            {
+                "title": "Arnaud worked on making felix:bundle result reproducible",
+                "url": "https://issues.apache.org/jira/browse/FELIX-6203"
+            },
+            {
+                "title": "@AElMehdi continued his work on riff stream alias validation",
+                "url": "https://github.com/projectriff/system/pull/318"
+            },
+            {
+                "title": "Ismail started working on introducing alias to riff runtimes in CLI",
+                "url": "https://github.com/projectriff/cli/pull/227"
+            },
+            {
+                "title": "Started work on introducing a Cypher procedure to remove Liquigraph history",
+                "url": "https://github.com/liquigraph/liquigraph/issues/218"
+            }
+        ]
     },
     {
         "title": "Hackergarten Genève",
