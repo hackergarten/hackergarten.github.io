@@ -156,7 +156,12 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/268707924/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: Adding a track color setting to the preferences",
+                "url": "https://github.com/zdila/gpx-animator/issues/165"
+            }
+        ]
     },
     {
         "title": "Hackergarten Berlin 6th",
@@ -270,7 +275,22 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcdbjb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "nanoPi: a pin selector for voltage control",
+                "url": "https://bitbucket.org/lukaskempf/poeportexpandercontrol/commits/b19d5f8edf423a7f2ab69a40cdf2dfb3d3e27fcb"
+            },
+            {
+                "title": "GPX Animator: Create a common dialog to display Markdown formatted data",
+                "url": "https://github.com/zdila/gpx-animator/issues/175"
+            },
+            {
+                "title": "GPX Animator: new icon brainstorming"
+            },
+            {
+                "title": "Preparing JavaFX Tweetwall for Voxxed Days Zürich 2020"
+            }
+        ]
     },
     {
         "date": "2020-02-03",
