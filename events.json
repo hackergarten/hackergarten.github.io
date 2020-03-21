@@ -93,7 +93,11 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcfbhb/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Due to the current situation regarding the corona virus."
+        }
     },
     {
         "title": "Hackergarten JWild",
@@ -106,7 +110,11 @@
                 "url": "https://wilderness-software.com/jwild-2020/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "rescheduled",
+            "reason": "Due to the current situation regarding the corona virus. Most probably around November. New dates will be published ASAP."
+        }
     },
     {
         "date": "2020-04-02",
@@ -118,7 +126,11 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcgbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Due to the current situation regarding the corona virus."
+        }
     },
     {
         "date": "2020-03-25",
@@ -131,7 +143,11 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/268707937/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Due to the current situation regarding the corona virus."
+        }
     },
     {
         "date": "2020-03-18",
@@ -145,7 +161,6 @@
             }
         ],
         "achievements": []
-        
     },
     {
         "date": "2020-03-05",
