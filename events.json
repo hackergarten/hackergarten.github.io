@@ -81,7 +81,11 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcjbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Due to the current situation regarding the corona virus."
+        }
     },
     {
         "date": "2020-05-07",
