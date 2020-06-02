@@ -100,6 +100,19 @@
         }
     },
     {
+        "title": "Hackergarten Paris",
+        "date": "2020-04-28",
+        "venue": "Paris - Online",
+        "address": "zoom.us",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/269897230/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "title": "Hackergarten JWild",
         "date": "2020-04-25",
         "venue": "Fairy Knowe Hotel",
@@ -117,6 +130,36 @@
         }
     },
     {
+        "title": "Hackergarten Paris",
+        "date": "2020-04-14",
+        "venue": "Paris - Online",
+        "address": "zoom.us",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/269897230/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Ismail worked with Florent on a new riff Golang function invoker",
+                "url": "https://github.com/yeshzaoui/golang-function-invoker/tree/gRPC"
+            },
+            {
+                "title": "Agathe worked on Assertj-Neo4j",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/40"
+            },
+            {
+                "title": "Bakary worked with Hervé on Maven Fluido skin",
+                "url": "https://github.com/apache/maven-fluido-skin/pull/16"
+            },
+            {
+                "title": "Bakary also worked on Assertj-Neo4j",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/34"
+            }
+        ]
+    },
+    {
         "date": "2020-04-02",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -131,6 +174,36 @@
             "key": "canceled",
             "reason": "Due to the current situation regarding the corona virus."
         }
+    },
+    {
+        "title": "Hackergarten Paris",
+        "date": "2020-03-31",
+        "venue": "Paris - Online",
+        "address": "zoom.us",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Paris-Hackergarten/events/wsrdfrybcfbpc/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Ismail worked with Adrien on making OpenWhyd sessions accessible to third parties",
+                "url": "https://github.com/openwhyd/openwhyd/pull/257"
+            },
+            {
+                "title": "Bakary finished work with Hervé on making Logback Maven build reproducible",
+                "url": "https://github.com/qos-ch/logback/pull/484"
+            },
+            {
+                "title": "El Mehdi started working with Florent on using TestContainers in Liquigraph",
+                "url": "https://github.com/AElMehdi/liquigraph/tree/issue_254"
+            },
+            {
+                "title": "Agathe started working with Florent on Assertj-Neo4j IndexDefinition assertions",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/33"
+            }
+        ]
     },
     {
         "date": "2020-03-25",
