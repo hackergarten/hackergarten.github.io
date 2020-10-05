@@ -127,7 +127,20 @@
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/269897230/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Jean and Hervé reworked the introduction text of QuickPerf",
+                "url": "https://github.com/quick-perf/maven-test-bench/pull/16"
+            },
+            {
+                "title": "Adrien added the XML comment style to headache",
+                "url": "https://github.com/fbiville/headache/pull/80"
+            },
+            {
+                "title": "Bakary contributed a new Assertj-Neo4j assertion",
+                "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/51"
+            }
+        ]
     },
     {
         "title": "Hackergarten Paris",
