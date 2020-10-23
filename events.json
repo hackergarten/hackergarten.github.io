@@ -42,7 +42,11 @@
                 "url": "https://wilderness-software.com/jwild-2020/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "rescheduled",
+            "reason": "Unfortunately postponed to 2021"
+        }
     },
     {
         "date": "2020-10-01",
