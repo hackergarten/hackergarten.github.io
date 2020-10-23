@@ -9,7 +9,11 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcqbfb/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Due to the current situation regarding the corona virus."
+        }
     },
     {
         "date": "2020-11-05",
@@ -21,7 +25,11 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/jfqzmqybcpbhb/"
             }
         ],
-        "achievements": []
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Due to the current situation regarding the corona virus."
+        }
     },
     {
         "title": "Hackergarten JWild",
