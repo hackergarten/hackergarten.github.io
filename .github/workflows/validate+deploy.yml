@@ -36,19 +36,6 @@ jobs:
           path:  |
             feed.xml
             projects.html
-      - id: initial
-        uses: juztcode/gitter-github-action@v1
-        with:
-          room-id: ${{ secrets.GITTER_ROOM_ID }}
-          token: ${{ secrets.GITTER_TOKEN }}
-          text: Pending
-
-      - uses: juztcode/gitter-github-action@v1
-        with:
-          room-id: ${{ secrets.GITTER_ROOM_ID }}
-          token: ${{ secrets.GITTER_TOKEN }}
-          text: Success
-          message-id: ${{ steps.initial.outputs.message-id }}
 
 
   release:
