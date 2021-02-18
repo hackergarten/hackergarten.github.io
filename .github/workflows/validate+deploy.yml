@@ -38,10 +38,11 @@ jobs:
             projects.html
       - name: Webhook
         uses: joelwmale/webhook-action@master
+        if: always()
         with:
-          url: https://webhooks.gitter.im/e/8159b56253161aad725a
+          url: https://webhooks.gitter.im/e/4b8ef8a3f4c10c79049c
           headers: '{"repository": "hackergarten/hackergarten.github.io"}'
-          body: '{"event": "build", "repository": "hackergarten/hackergarten.github.io"}'
+          body: '{"event": "build $((job.status))", "repository": "hackergarten/hackergarten.github.io"}'
 
 
   release:
@@ -69,7 +70,8 @@ jobs:
 
       - name: Webhook
         uses: joelwmale/webhook-action@master
+        if: always()
         with:
-          url: https://webhooks.gitter.im/e/8159b56253161aad725a
+          url: https://webhooks.gitter.im/e/4b8ef8a3f4c10c79049c
           headers: '{"repository": "hackergarten/hackergarten.github.io"}'
-          body: '{"event": "deployment", "repository": "hackergarten/hackergarten.github.io"}'
+          body: '{"event": "build $((job.status))", "repository": "hackergarten/hackergarten.github.io"}'
