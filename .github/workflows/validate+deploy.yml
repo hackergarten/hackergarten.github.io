@@ -30,9 +30,35 @@ jobs:
       - name: run gulp
         run: npm run gulp
 
-      # Runs a set of commands using the runners shell
-      - name: Run the deployment script
-        run: ./deploy.sh
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Feed-and-Projects
+          path:  |
+            feed.xml
+            projects.html
+
+  release:
+    name: 'Release'
+    needs: build
+    if: github.event_name == 'push' && github.repository == 'hackergarten/hackergarten.github.io' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: Feed-and-Projects
+          path:  |
+            feed.xml
+            projects.html
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: . # The folder the action should deploy.
+          BASE_BRANCH: master
 
       - name: Webhook
         uses: joelwmale/webhook-action@master
