@@ -54,6 +54,8 @@ jobs:
           
       - name: Commit+push gh_pages
         run: |
+            git config user.name "GH Actions bot"
+            git config user.email "bot@hackergarten.net"
             git add -f feed.xml projects.html
             git commit -m "Deploy to GitHub Pages"
             git push
