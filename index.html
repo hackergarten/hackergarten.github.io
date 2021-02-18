@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="hackergartenPage">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Hackergarten</title>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.rss" />
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="ng-dialog/css/ngDialog.min.css" rel="stylesheet">
+    <link href="ng-dialog/css/ngDialog-theme-default.min.css" rel="stylesheet">
+
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+      var host = "www.hackergarten.net";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+</head>
+
+<body>
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron" random-header-image="image">
+    <div class="container">
+            <img id="logo" src="pictures/hg-logo-white-small.svg" alt="hackergarten" class="visible-xs pull-left img-responsive" style="max-width: 125px" />
+            <img id="logo" src="pictures/hg-logo-white-large.svg" alt="hackergarten" class="hidden-xs pull-left img-responsive" style="min-width: 250px; max-width: 500px"/>
+            <div id="rss-icon" class="hidden-xs"><a href="feed.xml"><img src="pictures/rss.png" width="48" height="48"/></a></div>
+    </div>
+</div>
+
+<div class="container fade" ng-controller="eventlistController" ng-strict-di ng-init="ngLoaded = true" ng-class="{ in: ngLoaded }">
+
+    <div class="row">
+        <div class="col-md-6">
+            <!-- next events -->
+            <div class="panel panel-default">
+                <div class="panel-heading">Next Events</div>
+                <div class="panel-body">
+                    <ul>
+                        <li id="event-{{event.hashCode}}" class="next-event {{event.status.key}}" title="{{event.status.title}}" ng-repeat="event in nextEventlist">
+                            <span><b>Hack #{{allEventlistLength - $index}} {{event.title}}</b></span>
+                            <span class="reason" ng-if="event.status.title"><br/>&rarr; {{event.status.title}}</span>
+                            <ul ng-if="event.links.length > 0">
+                                <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+                            </ul>
+                        </li>
+
+                        <li id="event-{{event.hashCode}}" class="{{event.status.key}}" title="{{event.status.title}}" ng-repeat="event in futureEventlist">
+                            <span>Hack #{{allEventlistLength + $index + 1}} {{event.title}}</span>
+                            <span class="reason" ng-if="event.status.title"><br/>&rarr; {{event.status.title}}</span>
+                            <ul ng-if="event.links.length > 0">
+                                <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                    <span  class="hidden-sm hidden-xs">   more coming up ...look at the <em>Join</em> section on the <a href="#joinSection">right...</a></span><span class="visible-sm visible-xs">   more coming up ...look at the <em>Join</em> section <a href="#joinSection">below...</a></span>
+                </div>
+            </div>
+
+            <!-- about -->
+            <div class="panel panel-default visible-sm visible-xs">
+                <div class="panel-heading">About</div>
+                <div class="panel-body">
+                    Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribute their time.
+                </div>
+            </div>
+
+            <!-- past events -->
+            <div class="panel panel-default">
+                <div class="panel-heading">Past Events</div>
+                <div class="panel-body scrollable">
+                    <ul>
+                        <li id="event-{{event.hashCode}}" class="{{event.status.key}}" title="{{event.status.title}}" ng-repeat="event in pastEventlist | limitTo:totalPEventDisplayed">
+                            <span>Hack #{{pastEventlistLength - $index}} {{event.title}}</span>
+                            <span class="reason" ng-if="event.status.title"><br/>&rarr; {{event.status.title}}</span>
+                            <ul ng-if="event.links.length > 0">
+                                <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
+                            </ul>
+                          <ul ng-if="event.achievements.length > 0">
+                              <li><a href="#achievements" ng-click="openModal(event)">Achievements</a></li>
+                          </ul>
+                        </li>
+                    </ul>
+                    <div>
+                        <button type="button" class="btn btn-secondary btn-lg btn-block" ng-click="loadMore()">Load more events</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">Open Hackergarten Issues from GitHub (max. 30)</div>
+                <div class="panel-body" id="githubissues">
+                </div>
+                <div class="panel-footer">See the complete list on <a href="https://github.com/search?q=label%3Ahackergarten+state%3Aopen">GitHub</a>.</div>
+            </div>
+
+            <div class="panel panel-default">
+                <div id="downloadSection" class="panel-heading">Downloads</div>
+                <div class="panel-body">
+                    <p>
+                        Please note: To use the Hackergarten logo, you must agree to the
+                        <a href="#licenseSection">license terms</a>, which you can also find on
+                        <a href="#licenseSection">this page</a>.
+                    </p>
+                    <form>
+                        <input type="checkbox" id="acceptLicense" />
+                        <label for="acceptLicense">Yes, I accept the license agreement!</label>
+                    </form>
+                    <ul>
+                        <li><a download href="pictures/hackergarten-logo.png" onclick="return checkLicense();">Hackergarten Logo (PNG)</a></li>
+                        <li><a download href="pictures/hg-logo-black.png" onclick="return checkLicense();">Hackergarten Logo black (PNG)</a><br>
+                        <li><a download href="pictures/hg-logo-white.png" onclick="return checkLicense();">Hackergarten Logo white (PNG)</a><br>
+                        <li><a download href="pictures/hg-logo-white-large.svg" onclick="return checkLicense();">Hackergarten Logo white large (SVG)</a><br>
+                        <li><a download href="pictures/hg-logo-white-small.svg" onclick="return checkLicense();">Hackergarten Logo white small (SVG)</a><br>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- about -->
+        <div class="col-md-6">
+            <div class="panel panel-default hidden-sm hidden-xs">
+                <div class="panel-heading">About</div>
+                <div class="panel-body">
+                    Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribute their time.
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div id="joinSection" class="panel-heading">Join</div>
+                <div class="panel-body">
+                    <ul>
+                        <li><a href="feed.xml">Hackergarten Events RSS Feed</a></li>
+                        <li><a href="http://github.com/hackergarten">Public Git Repository</a><br>
+                        <li><a href="http://www.twitter.com/Hackergarten">@Hackergarten on Twitter</a></li>
+                        <li><a href="https://gitter.im/hackergarten?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Gitter</a></li>
+                        <li><a href="https://forms.gle/93guiZ3rXtW4azdo6">Slack Community</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading">Twitter</div>
+                <div class="panel-body">
+                    <a class="twitter-timeline" data-width="500" data-height="500" data-dnt="true" data-link-color="#428bca" href="https://twitter.com/Hackergarten?ref_src=twsrc%5Etfw">Tweets by Hackergarten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div id="projectSection" class="panel-heading">Top Contributed Projects</div>
+                <div class="panel-body">
+                    <iframe src="projects.html" width="100%" frameBorder="0"></iframe>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div id="startSection" class="panel-heading">How to get started</div>
+                <div class="panel-body">
+                    <p>If you want to organize a Hackergarten for the first time, it is a good idea to have visited another Hackergarten as a participant yourself. Then of course you need a room where the Hackergarten can take place. There must be enough connection possibilities (electricity) for the notebooks of the participants and a WiFi with Internet access. Every Hackergarten offers drinks, snacks and pizza for the participants. The pizza is for the break in between, which is very important for networking. We do not order one pizza for each participant, we simply put together a selection of different pizzas. Not everyone always eats a whole pizza and so there is less waste. A formula that has proven itself in Lucerne, for example, is "number of participants multiplied by 0.8, rounded up to a whole number". 😀</p>
+                    <p>In order to facilitate the organization, we recommend the use of <a href="https://www.meetup.com/">Meetup</a>. This platform has proven itself at many events, e.g. in <a href="https://www.meetup.com/Hackergarten-Basel/">Basel</a> and <a href="https://www.meetup.com/Hackergarten-Luzern/">Lucerne</a>. We are happy to add your Hackergarten to our list of events. You can fork our <a href="https://github.com/hackergarten/hackergarten.github.io/">repository</a>, add your event to the file <a href="https://github.com/hackergarten/hackergarten.github.io/blob/master/events.json">events.json</a> and create a pull request.</p>
+                    <p>If you want to use the Hackergarten logo, you can download it in the <a href="#downloadSection">download section</a> on this page after you agree to the <a href="#licenseSection">license terms</a>.</p>
+                </div>
+            </div>
+
+            <div class="panel panel-default panel-sponsors">
+                <div class="panel-heading">Sponsors</div>
+                <div class="panel-body">
+                    <ul>
+                        <li>
+                            <a href="http://www.karakun.com"><img src="pictures/karakun.png" alt="Karakun AG Logo" height="20px"></a>
+                            <p><a href="https://www.karakun.com">Karakun AG</a> is a group of experts who started a startup with a history. Karakun offers technology consulting, full-stack services, and carefree package solutions any of your software-related projects, always customer benefit and success in focus.</p>
+                            <p>Karakun provides us a place to meet in the center of Basel, Internet access, a pizza budget, and (for some of the Hackergarteners) a place to work.</p>
+                        </li>
+                        <li>
+                            <p><a href="https://www.css.ch/"><img src="pictures/css.gif" alt="CSS Insurance" style="float: left; clear:both; margin-right: 15px;"></a><a href="https://www.css.ch/">CSS Insurance</a>, headquartered in Lucerne, is a Swiss insurance group specializing in health insurance. With 1.34 million insured persons in compulsory health insurance, CSS is the largest basic insurer in Switzerland.</p>
+                            <p><a href="https://www.css.ch/">CSS Insurance</a> provides us snacks, drinks and a pizza budget.</p>
+                        </li>
+                        <li>
+                            <p><a href="https://www.jug.ch/"><img src="pictures/jugch.png" alt="Java User Group Switzerland" style="float: left; clear:both; margin-right: 15px;"></a>The <a href="https://www.jug.ch/">Java User Group Switzerland</a> aims at promoting the application of Java technology in Switzerland. The Java User Group Switzerland facilitates the sharing of experience and information among its members. This is accomplished through workshops, seminars and conferences. JUG Switzerland also encourages the cooperation between commercial organizations and research institutions.</p>
+                            <p><a href="https://www.jug.ch/">JUG.CH</a> provides us snacks, drinks and a pizza budget.</p>
+                        </li>
+                        <li>
+                            Want to see the Sponsor of your Hackergarten here?
+                            <a href="https://github.com/hackergarten/hackergarten.github.io/edit/master/index.html"
+                               target="_blank">Edit & Create a Pull Request on GitHub!</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div id="licenseSection" class="panel-heading">License / Rights</div>
+                <div class="panel-body">
+                    As we were asked many times about the license / copyright of "Hackergarten", we decided to put it under a creative commons license:
+                    <br />
+                    <p>
+                        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Hackergarten</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://hackergarten.net" property="cc:attributionName" rel="cc:attributionURL">https://hackergarten.net</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://hackergarten.net" rel="cc:morePermissions">https://hackergarten.net</a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <footer>
+        <p>Copyright &copy; Hackergarten</p>
+    </footer>
+</div> <!-- /container -->
+
+
+<script type="text/ng-template" id="event-achievements">
+    <div class="ngdialog-message">
+        <h4><strong>Hack {{ngDialogData.title}}.</strong></h4>
+        <ul>
+          <li ng-repeat="item in ngDialogData.achievements"><a ng-if="item.url" href="{{item.url}}">{{item.title}}</a><span ng-if="!item.url">{{item.title}}</span></li>
+        </ul>
+    </div>
+</script>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-xss/0.3.3/xss.js"></script>
+
+<script src="ng-dialog/js/ngDialog.js"></script>
+
+<script src="scripts/hgMainPage.js"></script>
+<script src="scripts/eventlist.js"></script>
+<script src="scripts/github.js"></script>
+
+<script>
+    function checkLicense() {
+        if (document.getElementById("acceptLicense").checked) {
+            return true; // license accepted, download okay
+        }
+        alert("Please accept the license agreement before downloading!");
+        return false;
+    }
+</script>
+
+</body>
+</html>

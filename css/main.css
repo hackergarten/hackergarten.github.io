@@ -1,0 +1,71 @@
+.title {
+    padding: 10px;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 6px;
+    min-width: 300px;
+    display: inline-block;
+}
+
+.title > p {
+    white-space: nowrap;
+
+}
+
+.panel-body > span {
+    display: inline-block;
+}
+
+
+.title h1 {
+    font-size: 2em;
+}
+
+.title p {
+    font-size: 1em;
+}
+
+.next-event {
+	background-color: #74ED8C;
+}
+
+li.rescheduled {
+	background-color: #fffe86;
+}
+
+li.canceled span:first-child {
+    color: #AAAAAA;
+    text-decoration: line-through;
+}
+
+span.reason {
+    font-weight: bold;
+}
+
+.jumbotron .container {
+    position: relative;
+}
+
+#rss-icon {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.scrollable{
+	overflow:hidden;
+	overflow-y:scroll;
+	height:700px;
+}
+
+.ngdialog.ngdialog-theme-default .ngdialog-content {
+    max-width: 100%;
+    width: max-content;
+}
+
+.panel-sponsors .panel-body ul {
+    list-style: none;
+}
+
+.panel-sponsors .panel-body ul li{
+    padding-top: 1em;
+}

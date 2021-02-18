@@ -1,0 +1,31 @@
+{
+  "name": "hackergarten.github.io",
+  "version": "1.0.0",
+  "description": "hackergarten.github.io ======================",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackergarten/hackergarten.github.io.git"
+  },
+  "keywords": [
+    "Hackergarten",
+    "Homepage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackergarten/hackergarten.github.io/issues"
+  },
+  "homepage": "https://github.com/hackergarten/hackergarten.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-json-schema": "^1.0.0",
+    "gulp-jsonlint": "^1.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-transform": "^1.0.8"
+  }
+}
