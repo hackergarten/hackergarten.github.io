@@ -52,10 +52,8 @@ jobs:
         with:
           name: Feed-and-Projects
           
-      - name: Commit+push gh_pages
-        run: |
-            git config user.name "GH Actions bot"
-            git config user.email "bot@hackergarten.net"
-            git add -f feed.xml projects.html
-            git commit -m "Deploy to GitHub Pages"
-            git push
+     - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: . # The folder the action should deploy.
