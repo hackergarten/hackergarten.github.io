@@ -45,18 +45,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: 'gh-pages'
 
       - uses: actions/download-artifact@v2
         with:
           name: Feed-and-Projects
-          path:  |
-            feed.xml
-            projects.html
-
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: . # The folder the action should deploy.
-          BASE_BRANCH: master
+          
+      - name: Commit+push gh_pages
+        run: |
+            git add -f feed.xml projects.html
+            git commit -m "Deploy to GitHub Pages"
+            git push

@@ -66,6 +66,7 @@ gulp.task('generate-xml', gulp.series('validate-events', function () {
             var today = new Date();
             today = new Date(today.setHours(0, 0, 0));
             var events = JSON.parse(contents);
+            console.log('found ' + events.length + ' events');
             var xml = [];
             xml.push("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
             xml.push("<rss version=\"2.0\">");
@@ -160,7 +161,7 @@ gulp.task('generate-projects', gulp.series('validate-events', function () {
             html.push('</table>');
             html.push('</body>');
             html.push('</html>');
-            return html.join('');
+            return html.join('\n');
         }))
         .pipe(rename("projects.html"))
         .pipe(gulp.dest('.'));
