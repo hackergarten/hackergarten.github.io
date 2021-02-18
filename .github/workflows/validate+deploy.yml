@@ -36,13 +36,19 @@ jobs:
           path:  |
             feed.xml
             projects.html
-      - name: Webhook
-        uses: joelwmale/webhook-action@master
-        if: always()
+      - id: initial
+        uses: juztcode/gitter-github-action@v1
         with:
-          url: ${{ secrets.WEBHOOK_URL }}
-          headers: '{"repository": "hackergarten/hackergarten.github.io"}'
-          body: '{"event": "build ${{job.status}}", "repository": "hackergarten/hackergarten.github.io"}'
+          room-id: ${{ secrets.GITTER_ROOM_ID }}
+          token: ${{ secrets.GITTER_TOKEN }}
+          text: Pending
+
+      - uses: juztcode/gitter-github-action@v1
+        with:
+          room-id: ${{ secrets.GITTER_ROOM_ID }}
+          token: ${{ secrets.GITTER_TOKEN }}
+          text: Success
+          message-id: ${{ steps.initial.outputs.message-id }}
 
 
   release:
@@ -67,11 +73,3 @@ jobs:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: . # The folder the action should deploy.
           BASE_BRANCH: master
-
-      - name: Webhook
-        uses: joelwmale/webhook-action@master
-        if: always()
-        with:
-          url: ${{ secrets.WEBHOOK_URL }}
-          headers: '{"repository": "hackergarten/hackergarten.github.io"}'
-          body: '{"event": "build ${{job.status}}", "repository": "hackergarten/hackergarten.github.io"}'
