@@ -1,5 +1,18 @@
 [
     {
+        "date": "2021-03-16",
+        "title": "Hackergarten @ Conference - JavaLand 2021",
+        "venue": "The Internet",
+        "address": "",
+        "links": [
+            {
+                "title": "Homepage",
+                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2021-02-18",
         "title": "Hackergarten Basel - Virtual Edition",
         "venue": "The Internet",
