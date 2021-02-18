@@ -10,7 +10,13 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/276308761/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Homepage Deployment: Switch to GH Actions",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/319"
+            },
+
+        ]
     },
     {
         "date": "2020-12-03",
