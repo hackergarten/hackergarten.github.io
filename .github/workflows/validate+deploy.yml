@@ -36,6 +36,13 @@ jobs:
           path:  |
             feed.xml
             projects.html
+      - name: Webhook
+        uses: joelwmale/webhook-action@master
+        with:
+          url: https://webhooks.gitter.im/e/8159b56253161aad725a
+          headers: '{"repository": "hackergarten/hackergarten.github.io"}'
+          body: '{"event": "build", "repository": "hackergarten/hackergarten.github.io"}'
+
 
   release:
     name: 'Release'
@@ -64,5 +71,5 @@ jobs:
         uses: joelwmale/webhook-action@master
         with:
           url: https://webhooks.gitter.im/e/8159b56253161aad725a
-          headers: '{"repository": "joelwmale/webhook-action"}'
-          body: '{"event": "deployment", "repository": "joelwmale/webhook-action"}'
+          headers: '{"repository": "hackergarten/hackergarten.github.io"}'
+          body: '{"event": "deployment", "repository": "hackergarten/hackergarten.github.io"}'
