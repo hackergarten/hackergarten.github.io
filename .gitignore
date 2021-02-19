@@ -6,7 +6,3 @@ hackergarten.github.io.iml
 
 # external dependencies
 node_modules
-
-# generated files
-feed.xml
-projects.html

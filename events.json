@@ -1,5 +1,44 @@
 [
     {
+        "date": "2021-03-16",
+        "title": "Hackergarten @ Conference - JavaLand 2021",
+        "venue": "The Internet",
+        "address": "",
+        "links": [
+            {
+                "title": "Homepage",
+                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2021-02-18",
+        "title": "Hackergarten Basel - Virtual Edition",
+        "venue": "The Internet",
+        "address": "",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/276308761/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Hackergarten Homepage Deployment: Switch to GH Actions",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/319"
+            },
+            {
+                "title": "Hackergarten Org on GitHub new Icon",
+                "url": "https://github.com/hackergarten/"
+            },
+            {
+                "title": "gif generation for ImageDiff",
+                "url": "https://github.com/ehmkah/imgdiff/pull/62"
+            }
+        ]
+    },
+    {
         "date": "2020-12-03",
         "venue": "Hirschengraben Coworking + Innovation",
         "address": "Hirschengraben 40, 6003 Luzern",
@@ -47,6 +86,28 @@
             "key": "rescheduled",
             "reason": "Unfortunately postponed to 2021"
         }
+    },
+    {
+        "date": "2020-10-22",
+        "title": "17. Hackergarten - Hacktoberfest Edition - remote",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/273801520/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Vue: extract default value function as string",
+                "url": "https://github.com/JetBrains/web-types/pull/22"
+            },
+            {
+                "title": "Set notificationUri for debts",
+                "url": "https://github.com/AndreAle94/moneywallet/pull/149"
+            }
+        ]
     },
     {
         "date": "2020-10-01",
