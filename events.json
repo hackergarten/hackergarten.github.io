@@ -35,6 +35,10 @@
             {
                 "title": "gif generation for ImageDiff",
                 "url": "https://github.com/ehmkah/imgdiff/pull/62"
+            },
+            {
+                "title": "GPX Animator Design Brainstorming",
+                "url": "https://gpx-animator.app/"
             }
         ]
     },
