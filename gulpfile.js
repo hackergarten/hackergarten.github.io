@@ -161,7 +161,7 @@ gulp.task('generate-projects', gulp.series('validate-events', function () {
             html.push('</table>');
             html.push('</body>');
             html.push('</html>');
-            return html.join('\n');
+            return html.join('');
         }))
         .pipe(rename("projects.html"))
         .pipe(gulp.dest('.'));

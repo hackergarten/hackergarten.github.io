@@ -31,6 +31,10 @@
             {
                 "title": "Hackergarten Org on GitHub new Icon",
                 "url": "https://github.com/hackergarten/"
+            },
+            {
+                "title": "gif generation for ImageDiff",
+                "url": "https://github.com/ehmkah/imgdiff/pull/62"
             }
         ]
     },
