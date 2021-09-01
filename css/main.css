@@ -69,3 +69,9 @@ span.reason {
 .panel-sponsors .panel-body ul li{
     padding-top: 1em;
 }
+
+#slack {
+    float: right;
+    height: 100px;
+    width: 100px;
+}
