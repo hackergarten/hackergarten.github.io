@@ -1,5 +1,18 @@
 [
     {
+        "date": "2022-01-06",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/281889776/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2021-03-16",
         "title": "Hackergarten @ Conference - JavaLand 2021",
         "venue": "The Internet",
