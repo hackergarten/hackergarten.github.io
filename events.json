@@ -1,6 +1,6 @@
 [
     {
-        "date": "2022-01-06",
+        "date": "2022-03-03",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
@@ -10,7 +10,11 @@
             }
         ],
         "achievements": [
-        ]
+        ],
+        "status": {
+            "key": "rescheduled",
+            "reason": "Postponed until March due to the corona virus."
+        }
     },
     {
         "date": "2021-03-16",
