@@ -1,6 +1,6 @@
 .title {
     padding: 10px;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255,255,255,0.8);
     border-radius: 6px;
     min-width: 300px;
     display: inline-block;
@@ -8,11 +8,13 @@
 
 .title > p {
     white-space: nowrap;
+
 }
 
 .panel-body > span {
     display: inline-block;
 }
+
 
 .title h1 {
     font-size: 2em;
@@ -27,11 +29,12 @@ li.rescheduled {
 }
 
 li.next-event {
-    background-color: #74ed8c;
+	background-color: #74ED8C;
 }
 
+
 li.canceled span:first-child {
-    color: #aaaaaa;
+    color: #AAAAAA;
     text-decoration: line-through;
 }
 
@@ -49,10 +52,10 @@ span.reason {
     right: 0;
 }
 
-.scrollable {
-    overflow: hidden;
-    overflow-y: scroll;
-    height: 700px;
+.scrollable{
+	overflow:hidden;
+	overflow-y:scroll;
+	height:700px;
 }
 
 .ngdialog.ngdialog-theme-default .ngdialog-content {
@@ -64,7 +67,7 @@ span.reason {
     list-style: none;
 }
 
-.panel-sponsors .panel-body ul li {
+.panel-sponsors .panel-body ul li{
     padding-top: 1em;
 }
 
