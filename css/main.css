@@ -24,13 +24,14 @@
     font-size: 1em;
 }
 
-.next-event {
+li.rescheduled {
+    background-color: #fffe86;
+}
+
+li.next-event {
 	background-color: #74ED8C;
 }
 
-li.rescheduled {
-	background-color: #fffe86;
-}
 
 li.canceled span:first-child {
     color: #AAAAAA;
