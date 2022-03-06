@@ -23,6 +23,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Hackergarten website: hide canceled events from past events",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/328"
+            },
+            {
+                "title": "Hackergarten website: First next event shows always in green",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/328"
+            }
         ],
         "status": {
             "key": "rescheduled",
