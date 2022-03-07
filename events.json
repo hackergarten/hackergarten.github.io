@@ -1,12 +1,12 @@
 [
     {
-        "date": "2022-01-20",
-        "venue": "Online",
-        "address": "Online / Remote",
+        "date": "2022-04-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
             {
                 "title": "Meetup",
-                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/283220432/"
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/284461300/"
             }
         ],
         "achievements": [
@@ -78,6 +78,19 @@
                 "title": "GPX Animator Design Brainstorming",
                 "url": "https://gpx-animator.app/"
             }
+        ]
+    },
+    {
+        "date": "2022-01-20",
+        "venue": "Online",
+        "address": "Online / Remote",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/283220432/"
+            }
+        ],
+        "achievements": [
         ]
     },
     {
