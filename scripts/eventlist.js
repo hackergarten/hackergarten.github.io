@@ -45,9 +45,9 @@ function eventListController($scope, ngDialog, eventService) {
         $scope.futureEventlist = eventService.filterFutureEvents();
         $scope.pastEventlist = eventService.filterPastEvents();
 
-        if ($scope.futureEventlist.length > 0) {
-            $scope.nextEventlist = [$scope.futureEventlist.pop()];
-        }
+        // if ($scope.futureEventlist.length > 0) {
+        //     $scope.nextEventlist = [$scope.futureEventlist.pop()];
+        // }
 		$scope.pastEventlistLength = $scope.pastEventlist.length;
 		$scope.allEventlistLength = $scope.pastEventlistLength + $scope.futureEventlist.length;
         $scope.futureEventlist.reverse();
@@ -71,16 +71,40 @@ function eventListController($scope, ngDialog, eventService) {
 };
 
 function eventService($http) {
-    var sortEventsByDate = function (a, b) {
+    
+    var sortEventsByDateAsc = function (b, a) {
         var isLess = new Date(a.date) < new Date(b.date);
-        return (isLess ? 1 : -1);
+        return isLess ? 1 : -1;
     };
 
+    var sortEventsByDateDesc = function (a, b) {
+        var isLess = new Date(a.date) < new Date(b.date);
+        return isLess ? 1 : -1;
+    };
+
+    var foundNextEvent = false
+
     var generateStatus = function(event) {
+
+        console.log(event.date);
         if (!event.status) {
-            event.status = {
-                "key": new Date(event.date) < today ? "past" : "scheduled"
-            };
+            if (new Date(event.date) < today) {
+                event.status = {
+                    key: "past"
+                };
+            } else {
+                if (!foundNextEvent) {
+                    event.status = {
+                        key: "next-event"
+                    };
+                    foundNextEvent = true;
+                } else {
+                    event.status = {
+                        key: "scheduled"
+                    };
+                }
+            }
+                
         } else {
             event.status.title = event.status.key.toUpperCase() + ": " + event.status.reason;
         }
@@ -125,8 +149,9 @@ function eventService($http) {
         queryEvents: function () {
             return $http.get('events.json').then(function (response) {
                 eventList = response.data;
-                eventList.sort(sortEventsByDate);
+                eventList.sort(sortEventsByDateAsc);
                 eventList.map(generateStatus);
+                eventList.sort(sortEventsByDateDesc);
                 eventList.map(generateHashCode);
                 eventList.map(generateTitle);
                 eventList.map(generateMapLink);
