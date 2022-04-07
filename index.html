@@ -48,17 +48,10 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Next Events</div>
                 <div class="panel-body">
-                    <ul>
-                        <li id="event-{{event.hashCode}}" class="next-event {{event.status.key}}" title="{{event.status.title}}" ng-repeat="event in nextEventlist">
-                            <span><b>Hack #{{allEventlistLength - $index}} {{event.title}}</b></span>
-                            <span class="reason" ng-if="event.status.title"><br/>&rarr; {{event.status.title}}</span>
-                            <ul ng-if="event.links.length > 0">
-                                <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>
-                            </ul>
-                        </li>
+                    <ul class="next-events">
 
                         <li id="event-{{event.hashCode}}" class="{{event.status.key}}" title="{{event.status.title}}" ng-repeat="event in futureEventlist">
-                            <span>Hack #{{allEventlistLength + $index + 1}} {{event.title}}</span>
+                            <span>Hack #{{allEventlistLength + $index}} {{event.title}}</span>
                             <span class="reason" ng-if="event.status.title"><br/>&rarr; {{event.status.title}}</span>
                             <ul ng-if="event.links.length > 0">
                                 <li ng-repeat="link in event.links"><a href="{{link.url}}">{{link.title}}</a></li>

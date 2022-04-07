@@ -28,10 +28,14 @@ li.rescheduled {
     background-color: #fffe86;
 }
 
-li.next-event {
+
+li.next-event{
 	background-color: #74ED8C;
 }
 
+ul.next-events li.canceled {
+	background-color: rgba(255, 0, 0, 0.4);
+}
 
 li.canceled span:first-child {
     color: #AAAAAA;
