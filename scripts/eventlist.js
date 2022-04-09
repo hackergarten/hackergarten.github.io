@@ -133,12 +133,14 @@ function eventService($http) {
             if (!event.links) {
                 event.links = [];
             }
-            event.links.push(
-                {
-                    "title": "Show location on map",
-                    "url": "https://nominatim.openstreetmap.org/ui/search.html?q=" + encodeURI(event.address)
-                }
-            );
+            if (event.venue.toUpperCase() !== "ONLINE") {
+                event.links.push(
+                    {
+                        "title": "Show location on map",
+                        "url": "https://nominatim.openstreetmap.org/ui/search.html?q=" + encodeURI(event.address)
+                    }
+                );
+            }
         }
         return event;
     };
