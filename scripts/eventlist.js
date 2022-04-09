@@ -9,10 +9,10 @@ app.config(['$compileProvider', function ($compileProvider) {
   $compileProvider.debugInfoEnabled(false);
 }]);
 
-app.filter('html', ['$sce', function ($sce) { 
+app.filter('html', ['$sce', function ($sce) {
     return function (text) {
         return $sce.trustAsHtml(text);
-    };    
+    };
 }]);
 
 var today = new Date();
@@ -64,14 +64,14 @@ function eventListController($scope, ngDialog, eventService) {
             className: 'ngdialog-theme-default'
         });
     };
-	
+
 	$scope.loadMore = function() {
         $scope.totalPEventDisplayed+= 10;
     }
 };
 
 function eventService($http) {
-    
+
     var sortEventsByDateAsc = function (b, a) {
         var isLess = new Date(a.date) < new Date(b.date);
         return isLess ? 1 : -1;
@@ -104,7 +104,7 @@ function eventService($http) {
                     };
                 }
             }
-                
+
         } else {
             event.status.title = event.status.key.toUpperCase() + ": " + event.status.reason;
         }
@@ -136,7 +136,7 @@ function eventService($http) {
             event.links.push(
                 {
                     "title": "Show location on map",
-                    "url": "https://www.google.ch/maps/place/" + encodeURI(event.address)
+                    "url": "https://nominatim.openstreetmap.org/ui/search.html?q=" + encodeURI(event.address)
                 }
             );
         }
