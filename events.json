@@ -1,5 +1,18 @@
 [
     {
+        "date": "2022-05-05",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/285166450/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2022-04-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -10,7 +23,28 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Hackergarten website: Marking the next event green should ignore canceled and rescheduled events",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/331"
+            },
+            {
+                "title": "MapStruct IDEA Plugin: Suppress redundant default parameter value assignment warning",
+                "url": "https://github.com/mapstruct/mapstruct-idea/commit/9eb646c37274480c9c2cdaa65769cbfbbea023ea"
+            }
         ]
+    },
+    {
+        "date": "2021-03-16",
+        "title": "Hackergarten @ Conference - JavaLand 2021",
+        "venue": "The Internet",
+        "address": "",
+        "links": [
+            {
+                "title": "Homepage",
+                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
+            }
+        ],
+        "achievements": []
     },
     {
         "date": "2022-03-03",
@@ -31,24 +65,7 @@
                 "title": "Hackergarten website: First next event shows always in green",
                 "url": "https://github.com/hackergarten/hackergarten.github.io/pull/328"
             }
-        ],
-        "status": {
-            "key": "rescheduled",
-            "reason": "Postponed until March due to the corona virus."
-        }
-    },
-    {
-        "date": "2021-03-16",
-        "title": "Hackergarten @ Conference - JavaLand 2021",
-        "venue": "The Internet",
-        "address": "",
-        "links": [
-            {
-                "title": "Homepage",
-                "url": "https://www.javaland.eu/de/programm/community-aktivitaeten/"
-            }
-        ],
-        "achievements": []
+        ]
     },
     {
         "date": "2021-02-18",
@@ -92,6 +109,21 @@
         ],
         "achievements": [
         ]
+    },
+    {
+        "date": "2022-01-06",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/281889776/"
+            }
+        ],
+        "status": {
+            "key": "rescheduled",
+            "reason": "Postponed until March due to the corona virus."
+        }
     },
     {
         "date": "2020-12-03",
