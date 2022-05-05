@@ -10,8 +10,11 @@
                 "url": "https://www.meetup.com/Hackergarten-Stuttgart/events/285521744/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": [],
+        "status": {
+            "key": "canceled",
+            "reason": "Canceled, due to too few participants and lack of organizers."
+        }
     },
     {
         "date": "2022-05-05",
