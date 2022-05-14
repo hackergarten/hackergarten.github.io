@@ -1,5 +1,18 @@
 [
     {
+        "date": "2022-06-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/285903984/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2022-05-06",
         "title": "Hackergarten - welcome back!",
         "venue": "codecentric AG",
@@ -27,6 +40,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Hackergarten Event Editor: Gradle update and code cleanup",
+                "url": "https://github.com/reinhapa/eventeditor/commit/5ece552519dd8deaaf0373e9aaf0067b63253290"
+            },
+            {
+                "title": "GPX Animator: Fix Exception when using newlines with an empty line in 'attribution'",
+                "url": "https://github.com/zdila/gpx-animator/commit/2433c7d71bec51dbdb5df9c2a78f504f10a70573"
+            },
+            {
+                "title": "GPX Animator: Fix wrong tooltip on browse button for track icon",
+                "url": "https://github.com/zdila/gpx-animator/commit/2ad4bb3bb32c44bc2d0c901f9c6f2053b7dc811c"
+            }
         ]
     },
     {
