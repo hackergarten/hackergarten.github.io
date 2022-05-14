@@ -1,5 +1,18 @@
 [
     {
+        "date": "2022-06-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Luzern/events/285903984/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2022-05-06",
         "title": "Hackergarten - welcome back!",
         "venue": "codecentric AG",
