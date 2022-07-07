@@ -10,6 +10,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Java Mission Control: Add build artifact for macOS on Apple Silicon",
+                "url": "https://github.com/adoptium/jmc-build/pull/44"
+            }
         ]
     },
     {
