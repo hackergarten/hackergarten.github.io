@@ -13,6 +13,19 @@
         ]
     },
     {
+        "date": "2022-08-25",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/Hackergarten-Zurich/events/287035407/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2022-07-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
