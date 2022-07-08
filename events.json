@@ -13,6 +13,10 @@
             {
                 "title": "Java Mission Control: Add build artifact for macOS on Apple Silicon",
                 "url": "https://github.com/adoptium/jmc-build/pull/44"
+            },
+            {
+                "title": "DCR - Document Content Recognition: Brainstorming",
+                "url": "https://github.com/KonnexionsGmbH/dcr/"
             }
         ]
     },
