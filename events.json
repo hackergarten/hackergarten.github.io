@@ -26,6 +26,23 @@
         ]
     },
     {
+        "date": "2022-08-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/287421959/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "AWS-CDK: feat(lambda-event-sources): add encryption property to SelfManagedKafkaEventSource",
+                "url": "https://github.com/aws/aws-cdk/pull/21422"
+            }
+        ]
+    },
+    {
         "date": "2022-07-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
