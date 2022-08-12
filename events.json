@@ -65,6 +65,19 @@
         ]
     },
     {
+        "date": "2022-08-31",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG Office",
+        "address": "Elisabethenanlage 25, Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/287781440"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2022-08-25",
         "venue": "Quatico Solutions AG",
         "address": "Förrlibuckstrasse 220, 8005 Zürich",
