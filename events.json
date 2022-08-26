@@ -129,6 +129,27 @@
         ]
     },
     {
+        "date": "2022-06-30",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/286233505/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "JUnit 5: Fix display name and improve assertions for @TempDir test case",
+                "url": "https://github.com/junit-team/junit5/pull/2966"
+            },
+            {
+                "title": "JUnit 5: Add factory SPI for @TempDir",
+                "url": "https://github.com/junit-team/junit5/pull/2958"
+            }
+        ]
+    },
+    {
         "date": "2022-06-02",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
