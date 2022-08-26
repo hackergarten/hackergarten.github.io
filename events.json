@@ -88,6 +88,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Spring Framework: assessment request for InstantiationAwareBeanPostProcessor public usage",
+                "url": "https://github.com/spring-projects/spring-framework/issues/29015"
+            }
         ]
     },
     {
