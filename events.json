@@ -67,15 +67,20 @@
     {
         "date": "2022-08-31",
         "title": "Hackergarten Basel",
-        "venue": "Karakun AG Office",
-        "address": "Elisabethenanlage 25, Basel, Switzerland",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
         "links": [
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/287781440"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "NativeScript PDFView plugin migration to official plugins repository.",
+                "url": "https://github.com/NativeScript/plugins/pull/306"
+            }
+        ]
     },
     {
         "date": "2022-08-25",
