@@ -79,6 +79,30 @@
             {
                 "title": "NativeScript PDFView plugin migration to official plugins repository.",
                 "url": "https://github.com/NativeScript/plugins/pull/306"
+            },
+            {
+                "title": "JReleaser: Prevent smoke test executions on forks",
+                "url": "https://github.com/jreleaser/jreleaser/pull/931"
+            },
+            {
+                "title": "JReleaser: Update Italian translation of CLI resources",
+                "url": "https://github.com/jreleaser/jreleaser/pull/932"
+            },
+            {
+                "title": "JReleaser: NPE when updating Quarkus CLI release to 1.2.0",
+                "url": "https://github.com/jreleaser/jreleaser/issues/930"
+            },
+            {
+                "title": "JReleaser: Add a --changelog flag to the config command",
+                "url": "https://github.com/jreleaser/jreleaser/issues/933"
+            },
+            {
+                "title": "JReleaser: Add a --announce flag to the config command",
+                "url": "https://github.com/jreleaser/jreleaser/issues/934"
+            },
+            {
+                "title": "AssertJ: Maven module with tests in the module path not working with multi-release dependency from the same Maven multi-module project",
+                "url": "https://youtrack.jetbrains.com/issue/IDEA-301032"
             }
         ]
     },
