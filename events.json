@@ -101,6 +101,10 @@
                 "url": "https://github.com/jreleaser/jreleaser/issues/934"
             },
             {
+                "title": "AssertJ: Add integration test infrastructure for the module path",
+                "url": "https://github.com/assertj/assertj/pull/2759"
+            },
+            {
                 "title": "AssertJ: Maven module with tests in the module path not working with multi-release dependency from the same Maven multi-module project",
                 "url": "https://youtrack.jetbrains.com/issue/IDEA-301032"
             }
