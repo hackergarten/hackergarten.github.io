@@ -75,6 +75,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "JRelease: Support additional properties in release auto-config",
+                "url": "https://github.com/McPringle/jreleaser/commit/347fece4992e7d338abf966ea16dfaea64624ab1"
+            },
+            {
+                "title": "JReleaser: Update Maven doc on website",
+                "url": "https://github.com/McPringle/jreleaser.github.io/commit/814ad6192ac87eb1dedd6f9331c53f45bcd66257"
+            }
         ]
     },
     {
