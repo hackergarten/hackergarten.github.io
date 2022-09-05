@@ -204,6 +204,10 @@
             {
                 "title": "JUnit 5: Add factory SPI for @TempDir",
                 "url": "https://github.com/junit-team/junit5/pull/2958"
+            },
+            {
+                "title": "Timeago: Issue cleanup + Release v.1.0.16 with slovakian locale",
+                "url": "https://github.com/hustcc/timeago/pull/39"
             }
         ]
     },
