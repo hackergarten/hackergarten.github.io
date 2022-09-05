@@ -82,6 +82,10 @@
             {
                 "title": "JReleaser: Update Maven doc on website",
                 "url": "https://github.com/McPringle/jreleaser.github.io/commit/814ad6192ac87eb1dedd6f9331c53f45bcd66257"
+            },
+            {
+                "title": "ddErl support for running without ssl",
+                "url": "https://github.com/KonnexionsGmbH/dderl/pull/53"
             }
         ]
     },
