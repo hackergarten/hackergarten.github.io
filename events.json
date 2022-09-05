@@ -10,6 +10,19 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/gvvlwsydcqbjb/"
             }
         ],
+        "achievements": []  
+    },
+    {
+        "date": "2022-11-24",
+        "title": "Hackergarten Zurich November 2022",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/288280108/"
+            }
+        ],
         "achievements": []
     },
     {
@@ -21,6 +34,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/dvvlwsydcpbcb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2022-10-27",
+        "title": "Hackergarten Zurich October 2022",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/288280031/"
             }
         ],
         "achievements": []
@@ -47,6 +73,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/dxzpwsydcnbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2022-09-29",
+        "title": "Hackergarten Zurich September 2022",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/286234354/"
             }
         ],
         "achievements": []
@@ -137,6 +176,7 @@
     },
     {
         "date": "2022-08-25",
+        "title": "Hackergarten Zurich August 2022",
         "venue": "Quatico Solutions AG",
         "address": "Förrlibuckstrasse 220, 8005 Zürich",
         "links": [
@@ -149,6 +189,10 @@
             {
                 "title": "Spring Framework: assessment request for InstantiationAwareBeanPostProcessor public usage",
                 "url": "https://github.com/spring-projects/spring-framework/issues/29015"
+            },
+            {
+                "title": "https://storycoder.dev: Initial project setup on github, first stories and code riddles",
+                "url": "https://github.com/roseTech/storycoder.dev"
             }
         ]
     },
@@ -192,6 +236,7 @@
     },
     {
         "date": "2022-06-30",
+        "title": "Hackergarten Zurich June 2022",
         "venue": "Quatico Solutions AG",
         "address": "Förrlibuckstrasse 220, 8005 Zürich",
         "links": [
