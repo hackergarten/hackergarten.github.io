@@ -1,5 +1,18 @@
 [
     {
+        "date": "2023-01-05",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/scjlxsyfccbhb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2022-12-06",
         "title": "22. Hackergarten Stuttgart",
         "venue": "codecentric AG",
@@ -10,7 +23,20 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/gvvlwsydcqbjb/"
             }
         ],
-        "achievements": []  
+        "achievements": []
+    },
+    {
+        "date": "2022-12-01",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/scjlxsydcqbcb/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2022-11-24",
@@ -37,6 +63,19 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2022-11-03",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/scjlxsydcpbfb/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2022-10-27",
