@@ -101,6 +101,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "GPX Animator: Use EXIF orientation for photo rendering",
+                "url": "https://github.com/zdila/gpx-animator/pull/422"
+            }
         ]
     },
     {
