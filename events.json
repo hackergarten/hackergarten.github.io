@@ -88,7 +88,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/288280031/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: Fix test after ffmpeg upgrade",
+                "url": "https://github.com/gpx-animator/gpx-animator/commit/39035dddb39f13c6869de618e545433aa1fe37b2"
+            }
+        ]
     },
     {
         "date": "2022-10-06",
