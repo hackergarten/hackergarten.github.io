@@ -75,6 +75,22 @@
             }
         ],
         "achievements": [
+            {
+                "title": "GPX Animator: Implement finish icon for track animation",
+                "url": "https://confluence.css.ch/confluence/display/SWEKUBE/DevOps+Tonno"
+            },
+            {
+                "title": "Gnome Shell Extension 'Dev Tools': New version released",
+                "url": "https://extensions.gnome.org/extension/5393/dev-tools/"
+            },
+            {
+                "title": "Getting into Go: Bugfixing Komoot GPX Explorer",
+                "url": "https://github.com/pieterclaerhout/export-komoot/pull/1"
+            },
+            {
+                "title": "JReleaser: Extending JRelease announcing capabilities for Mastodon",
+                "url": "https://jreleaser.org/"
+            }
         ]
     },
     {
