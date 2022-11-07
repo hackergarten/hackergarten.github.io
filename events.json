@@ -88,8 +88,8 @@
                 "url": "https://github.com/pieterclaerhout/export-komoot/pull/1"
             },
             {
-                "title": "JReleaser: Extending JRelease announcing capabilities for Mastodon",
-                "url": "https://jreleaser.org/"
+                "title": "JReleaser: Add support threaded statuses in Mastodon",
+                "url": "https://github.com/jreleaser/jreleaser/pull/1027"
             }
         ]
     },
