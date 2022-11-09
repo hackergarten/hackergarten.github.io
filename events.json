@@ -1,5 +1,31 @@
 [
     {
+        "date": "2023-03-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ctlkzsyfcfbdb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2023-02-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ctlkzsyfcdbdb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2023-01-05",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
