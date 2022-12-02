@@ -62,6 +62,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Java Mission Control: Jenkins Build Setup on Eclipse CI",
+                "url": "https://github.com/adoptium/jmc-build/commits/sandbox"
+            }
         ]
     },
     {
