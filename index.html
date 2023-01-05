@@ -21,6 +21,25 @@
     <link href="ng-dialog/css/ngDialog-theme-default.min.css" rel="stylesheet">
 
     <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/mastodon.widget.css">
+    <script type="text/javascript" src="mastodon.widget.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // jQUERY is required!
+		var mapi = new MastodonApi({
+			target_selector          : '#myTimeline'
+			,instance_uri            : '[MASTODON INSTANCE]'
+			,access_token            : '[ACCESS TOKEN]'
+			,account_id              : '[ACCOUNT ID]'
+			// === optional parameters ===
+			//,toots_limit           : 5
+			// samples below require http://fontawesome.io
+			//,pic_icon              : '<i class="fa fa-picture-o"></i>'
+			//,boosts_count_icon     : '<i class="fa fa-retweet"></i>'
+			//,favourites_count_icon : '<i class="fa fa-star"></i>'
+		});
+	});
+    </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -144,6 +163,9 @@
                         <li>Slack: <a href="https://forms.gle/93guiZ3rXtW4azdo6">request invitation</a> and/or <a href="https://hackergarten.slack.com/">enter workspace</a></li>
                     </ul>
                 </div>
+            </div>
+
+            <div class="panel panel-default mastodon-timeline mastodon-timeline-light" id="myTimeline">
             </div>
 
             <div class="panel panel-default">
