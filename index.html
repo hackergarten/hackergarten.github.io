@@ -21,6 +21,15 @@
     <link href="ng-dialog/css/ngDialog-theme-default.min.css" rel="stylesheet">
 
     <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/mastodon.widget.css">
+    <script type="text/javascript" src="mastodon.widget.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+		var mapi = new MastodonApi({
+			target_selector          : '#mastodon-timeline'
+		});
+	});
+    </script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -144,6 +153,11 @@
                         <li>Slack: <a href="https://forms.gle/93guiZ3rXtW4azdo6">request invitation</a> and/or <a href="https://hackergarten.slack.com/">enter workspace</a></li>
                     </ul>
                 </div>
+            </div>
+
+            <div class="panel panel-default">
+              <div class="panel-heading">Mastodon</div>
+              <div class="mastodon-timeline mastodon-timeline-light" id="mastodon-timeline"></div>
             </div>
 
             <div class="panel panel-default">
