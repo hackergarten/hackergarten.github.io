@@ -255,7 +255,10 @@
 <script>
     document.addEventListener("DOMContentLoaded", function() {
     var mapi = new MastodonApi({
-        target_selector: '#mastodon-timeline'
+        target_selector: '#mastodon-timeline',
+        pic_icon              : '<i class="fa fa-picture-o"></i>',
+		boosts_count_icon     : '<i class="fa fa-retweet"></i>',
+		favourites_count_icon : '<i class="fa fa-star"></i>'
     });
 });
 </script>
