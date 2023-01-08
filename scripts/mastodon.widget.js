@@ -2,7 +2,7 @@
  * Mastodon User Timeline Widget
  * Copyright (c) 2017 有限会社アゼット
  * ライセンスに関して、LICENSEファイルを参照下さい。
- * see license file for details.
+ * see license file for details: https://github.com/AzetJP/mastodon-timeline-widget/blob/master/LICENSE.txt
  *
  * @author Azet <http://www.azet.jp>
  * @version 1.07 (also update MastodonAPI.version below)
@@ -16,7 +16,7 @@
 
 /* constructor >>> */
 var MastodonApi = function(params_) {
-	
+
 	// endpoint access settings
 	this.INSTANCE_URI        = params_.instance_uri;
 	this.ACCESS_TOKEN        = params_.access_token;
@@ -142,7 +142,7 @@ MastodonApi.text = {
 MastodonApi.prototype.makeWidget = function() {
 	this.widget.addClass('mastodon-timeline');
 	this.widget.append($('<div class="mt-body"><div class="mt-loading">loading...</div></div>'));
-	this.widget.append($('<div class="mt-footer">View on <a href="https://fosstodon.org/tags/hackergarten">Mastodon</a></div>'));
+	this.widget.append($('<div class="mt-footer">View more on <a href="https://fosstodon.org/tags/hackergarten">Mastodon</a></div>'));
 };
 
 
