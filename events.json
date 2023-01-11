@@ -1,5 +1,18 @@
 [
     {
+        "date": "2023-03-30",
+        "title": "Hackergarten Zurich March 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/290866624/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2023-03-07",
         "title": "25. Hackergarten Stuttgart",
         "venue": "codecentric AG",
@@ -26,6 +39,19 @@
         ]
     },
     {
+        "date": "2023-02-23",
+        "title": "Hackergarten Zurich February 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/290866609/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2023-02-07",
         "title": "24. Hackergarten Stuttgart",
         "venue": "codecentric AG",
@@ -50,6 +76,19 @@
         ],
         "achievements": [
         ]
+    },
+    {
+        "date": "2023-01-26",
+        "title": "Hackergarten Zurich January 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/290866584/"
+            }
+        ],
+        "achievements": []
     },
     {
         "date": "2023-01-10",
