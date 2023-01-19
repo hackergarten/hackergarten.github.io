@@ -114,6 +114,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Hackergarten Website: Add Mastodon Widget",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/362"
+            },
+            {
+                "title": "StoryCoder: Move stories to a GitHub repo",
+                "url": "https://storycoder.dev/"
+            },
+            {
+                "title": "Storytelling for Kids: Identify objects on drawings",
+                "url": "https://github.com/linalopes/AI-storytelling-for-kids"
+            }
         ]
     },
     {
