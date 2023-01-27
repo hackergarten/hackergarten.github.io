@@ -88,7 +88,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/290866584/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: Fixed CLI bug with tail color fadeout",
+                "url": "https://github.com/gpx-animator/gpx-animator/pull/476"
+            }
+        ]
     },
     {
         "date": "2023-01-10",
