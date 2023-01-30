@@ -92,6 +92,22 @@
             {
                 "title": "GPX Animator: Fixed CLI bug with tail color fadeout",
                 "url": "https://github.com/gpx-animator/gpx-animator/pull/476"
+            },
+            {
+                "title": "storycoder.dev: Rework DarkNet of the Night and update code",
+                "url": "https://github.com/roseTech/storycoder.dev/pull/29"
+            },
+            {
+                "title": "storycoder.dev: Add a solution for Percy and the Humans",
+                "url": "https://github.com/roseTech/storycoder.dev/pull/30"
+            },
+            {
+                "title": "storycoder.dev: Create Raw Scratch Story",
+                "url": "https://github.com/roseTech/storycoder.dev/commit/92ee1d3d7158228cd0c01a5c4714f626ec5dd4db"
+            },
+            {
+                "title": "Dark Mode Support for Plone with Bootstrap 5.3",
+                "url": "https://github.com/plone/plonetheme.barceloneta/pull/320"
             }
         ]
     },
