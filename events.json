@@ -75,6 +75,22 @@
             }
         ],
         "achievements": [
+            {
+                "title": "GPX Animator: Add support for API keys for maps",
+                "url": "https://github.com/gpx-animator/gpx-animator/pull/479"
+            },
+            {
+                "title": "Chat application using Kafka for reliable message transport",
+                "url": "https://github.com/thomasstauffer666/kafka-tutorial"
+            },
+            {
+                "title": "Document Content Recognition with Python",
+                "url": ""
+            },
+            {
+                "title": "Bugfixing Komoot Export Tool in Go",
+                "url": ""
+            }
         ]
     },
     {
