@@ -49,7 +49,16 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/290866609/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "GPX Animator: Fix photo orientation bug",
+                "url": "https://github.com/gpx-animator/gpx-animator/commit/f53b728418784f9e90cb214c32e066b69ca98f72"
+            },
+            {
+                "title": "GPX Animator: Fix portrait photo size bug",
+                "url": "https://github.com/gpx-animator/gpx-animator/commit/59cf47637ff79ac55f50d7b0d23044f4571d1961"
+            }
+        ]
     },
     {
         "date": "2023-02-07",
