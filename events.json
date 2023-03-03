@@ -36,6 +36,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Mastodon4J: Access the Mastodon API from Java, initial API setup",
+                "url": "https://github.com/Mastodon4J/Mastodon4J/pull/1"
+            },
+            {
+                "title": "ROS: Robot Operating System - checking out, playing around, and learning",
+                "url": "https://www.ros.org/"
+            }
         ]
     },
     {
