@@ -1,5 +1,57 @@
 [
     {
+        "date": "2023-07-06",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfckbjb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfcjbcb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2023-05-04",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfchbgb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2023-04-06",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfcgbjb/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2023-03-30",
         "title": "Hackergarten Zurich March 2023",
         "venue": "Quatico Solutions AG",
@@ -36,6 +88,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Mastodon4J: Access the Mastodon API from Java, initial API setup",
+                "url": "https://github.com/Mastodon4J/Mastodon4J/pull/1"
+            },
+            {
+                "title": "ROS: Robot Operating System - checking out, playing around, and learning",
+                "url": "https://www.ros.org/"
+            }
         ]
     },
     {
