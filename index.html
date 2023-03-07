@@ -20,6 +20,10 @@
     <link href="ng-dialog/css/ngDialog.min.css" rel="stylesheet">
     <link href="ng-dialog/css/ngDialog-theme-default.min.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+          integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+          crossorigin=""/>
+
     <link href="css/main.css" rel="stylesheet">
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -71,6 +75,14 @@
                 <div class="panel-heading">About</div>
                 <div class="panel-body">
                     Hackergarten is a craftmen's workshop, classroom, a laboratory, a social circle, a writing group, a playground, and an artist's studio. Our goal is to create something that others can use; whether it be working software, improved documentation, or better educational materials. Our intent is to end each meeting with a patch or similar contribution submitted to an open and public project. Membership is open to anyone willing to contribute their time.
+                </div>
+            </div>
+
+            <!-- locations -->
+            <div class="panel panel-default">
+                <div class="panel-heading">Locations</div>
+                <div class="panel-body">
+                    <div id="map"></div>
                 </div>
             </div>
 
@@ -245,12 +257,16 @@
 <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-xss/0.3.3/xss.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+        crossorigin=""></script>
 
 <script src="ng-dialog/js/ngDialog.js"></script>
 
 <script src="scripts/hgMainPage.js"></script>
 <script src="scripts/eventlist.js"></script>
 <script src="scripts/github.js"></script>
+<script src="scripts/locations.js"></script>
 
 <script src="scripts/mastodon.widget.js"></script>
 <script>
