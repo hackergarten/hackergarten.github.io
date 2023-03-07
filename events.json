@@ -26,6 +26,18 @@
         ]
     },
     {
+        "date": "2023-05-09",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/289891296/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2023-05-04",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -50,6 +62,18 @@
         ],
         "achievements": [
         ]
+    },
+    {
+        "date": "2023-04-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/289891284/"
+            }
+        ],
+        "achievements": []
     },
     {
         "date": "2023-03-30",
