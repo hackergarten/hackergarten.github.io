@@ -196,7 +196,17 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/290866624/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "ZIG: Implemented Cardiac Emulator instructions in ZIG",
+                "url": "https://ziglang.org/"
+            },
+            {
+                "title": "ROS: Robot Operating System - playing around and bug hunting",
+                "url": "https://www.ros.org/"
+            }
+
+        ]
     },
     {
         "date": "2023-03-07",
@@ -244,6 +254,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Fediverse: Deep dive into the ActivityPub API with Express.js",
+                "url": "https://github.com/dariusk/express-activitypub"
+            },
             {
                 "title": "GPX Animator: Fix photo orientation bug",
                 "url": "https://github.com/gpx-animator/gpx-animator/commit/f53b728418784f9e90cb214c32e066b69ca98f72"
