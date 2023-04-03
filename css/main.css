@@ -80,3 +80,10 @@ span.reason {
     height: 100px;
     width: 100px;
 }
+
+#map {
+    height: 350px;
+}
+#map .location-marker {
+    font-size: 16px;
+}
