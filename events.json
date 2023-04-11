@@ -171,6 +171,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "GPX Animator: Working on the GPX file parser",
+                "url": "https://github.com/gpx-animator/gpx-animator/commits/master?since=2023-04-06&until=2023-04-06"
+            }
         ]
     },
     {
