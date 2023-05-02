@@ -158,7 +158,21 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/292130112/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "websmith: Upgrade to use the new TypeScript 5 and Webpack 5",
+                "url": "https://github.com/quatico-solutions/websmith/pull/35"
+            },
+            {
+                "title": "Slackdump2Html: Improve project structure and documentation, add support for downloading attachments",
+                "url": "https://github.com/kununu/slackdump2html/pull/8"
+            },
+            {
+                "title": "Micropython and esp32: Played with apa102 aka dotstar LEDs",
+                "url": "https://github.com/mattytrentini/micropython-dotstar"
+            }
+
+        ]
     },
     {
         "date": "2023-04-06",
