@@ -132,7 +132,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/289891296/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Social Income mobile App: Contact information in profile screen",
+                "url": "https://github.com/socialincome-san/public/pull/426/"
+            }
+        ]
     },
     {
         "date": "2023-05-04",
@@ -237,7 +242,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/289891274/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Add location section that shows active Hackergarten locations",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/376"
+            }
+        ]
     },
     {
         "date": "2023-03-02",
