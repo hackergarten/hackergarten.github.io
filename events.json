@@ -1,5 +1,19 @@
 [
     {
+        "date": "2023-06-15",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/293585727"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2023-12-05",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
