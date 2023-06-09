@@ -173,7 +173,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/292130164/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "storycoder.dev: 2 new stories were written, 1 in C# by a first-time Open Source contributor!",
+                "url": "https://github.com/roseTech/storycoder.dev/pull/35"
+            },
+            {
+                "title": "this-or-that: Discussed and implemented a new algorithm to optimise the number of comparisons a user needs to do when ranking a list.",
+                "url": "https://github.com/RFS-0/this-or-that"
+            },
+            {
+                "title": "Robot Operating System: Started setting up a docker-compose based local development environment for ROS including the Gazebo simulator, with the goal of starting up a tutorial/playground with as little commands as possible.",
+                "url": "https://www.ros.org/"
+            }
+        ]
     },
     {
         "date": "2023-05-09",
