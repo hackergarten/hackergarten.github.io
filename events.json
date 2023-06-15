@@ -11,6 +11,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "AssertJ: Different enum classes with same names result in the same output for expected and actual when comparing lists",
+                "url": "https://github.com/assertj/assertj/issues/3083"
+            },
+            {
+                "title": "AssertJ: `UnambiguousRepresentation` computes same output when types have same name but different packages",
+                "url": "https://github.com/assertj/assertj/issues/3084"
+            },
+            {
+                "title": "JUnit: `assertSame` fails with primitive type values outside the autobox cache",
+                "url": "https://github.com/junit-team/junit5/issues/3358"
+            }
         ]
     },
     {
