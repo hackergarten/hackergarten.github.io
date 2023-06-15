@@ -12,6 +12,10 @@
         ],
         "achievements": [
             {
+                "title": "NativeScript: Migrate secure-storage plugin",
+                "url": "https://github.com/NativeScript/plugins/pull/513"
+            },
+            {
                 "title": "AssertJ: Different enum classes with same names result in the same output for expected and actual when comparing lists",
                 "url": "https://github.com/assertj/assertj/issues/3083"
             },
