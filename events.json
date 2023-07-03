@@ -151,7 +151,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/293543707/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Cardiac Emulator now also runs in the browser, thanks to Wasm",
+                "url": "https://github.com/ClaCodes/CardiacX/commit/292eb4f6c714b6ff0baf1ab516ac2a82f4e38f7b"
+            },
+            {
+                "title": "Grafana loki: Fix excludepath not evaluated on newly added files with Promtail",
+                "url": "https://github.com/grafana/loki/pull/9831"
+            },
+            {
+                "title": "OpenAPI codegen: Add support to run fetch without a window.",
+                "url": "https://github.com/fabien0102/openapi-codegen/pull/181"
+            }
+        ]
     },
     {
         "date": "2023-06-06",
