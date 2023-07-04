@@ -84,6 +84,26 @@ span.reason {
 #map {
     height: 350px;
 }
+#map .location-popup p {
+    margin: 0;
+}
 #map .location-marker {
     font-size: 16px;
+}
+#map .location-sponsors {
+    font-size: 13px;
+    color: gray;
+}
+#map p.location-meetup {
+    font-size: 13px;
+    margin-top: 4px;
+}
+#map .location-meetup a {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: #F64060;
+}
+#map .location-meetup img {
+    height: 26px;
 }
