@@ -126,6 +126,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "fully automatic Mastodon installation",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/1befd86e26db92952417cd7b3f559233bb44a905"
+            },
+            {
+                "title": "created new kotlin project Pechrad(Wheel of Unfortune)",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
+            },
+            {
+                "title": "Brainstorming about an MVP for a public access to electroscopy",
+                "url": ""
+            }
         ]
     },
     {
