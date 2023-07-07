@@ -8,7 +8,11 @@ $(document).ready(function () {
 
     var markers = locations.map((location) =>
         L.marker([location.lat, location.lon]).bindPopup(
-            '<span class="location-marker">' + location.venue + "</span>"
+            '<div class="location-popup">' +
+            '<p class="location-marker">' + location.title + '</p>' +
+            '<p class="location-sponsors">sponsored by ' + location.sponsors.join(', ') + '</p>' +
+            '<p class="location-meetup"><a href="' + location.link + '"><img src="../pictures/meetup.svg" alt=""> Meetup group</p>' +
+            '</div>'
         )
     );
     markers.forEach((marker) => {
@@ -21,22 +25,30 @@ $(document).ready(function () {
 
 var locations = [
     {
-        venue: "Quatico Solutions AG",
+        title: "Hackergarten Zürich",
+        sponsors: ["Quatico Solutions AG"],
+        link: "https://www.meetup.com/hackergarten-zurich/",
         lat: 47.3925495,
         lon: 8.507826793619888,
     },
     {
-        venue: "codecentric AG",
+        title: "Hackergarten Stuttgart",
+        sponsors: ["codecentric AG"],
+        link: "https://www.meetup.com/de-DE/hackergarten-stuttgart/",
         lat: 48.72592,
         lon: 9.1144,
     },
     {
-        venue: "CSS Versicherung",
+        title: "Hackergarten Luzern",
+        sponsors: ["CSS Versicherung"],
+        link: "https://www.meetup.com/hackergarten-luzern/",
         lat: 47.0435895,
         lon: 8.315118,
     },
     {
-        venue: "Karakun AG",
+        title: "Hackergarten Basel",
+        sponsors: ["Karakun AG"],
+        link: "https://www.meetup.com/hackergarten-basel/",
         lat: 47.5487602,
         lon: 7.5879349,
     },
