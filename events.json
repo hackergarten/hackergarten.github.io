@@ -113,7 +113,24 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/293543716/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Worked on how to generate a document indexer for Scribus in Python.",
+                "url": "https://forums.scribus.net/index.php/topic,4618.msg21427.html#msg21427"
+            },
+            {
+                "title": "Fixed the automatic story upload for StoryCoder.dev",
+                "url": "https://storycoder.dev/submit-a-story/"
+            },
+            {
+                "title": "Learned about OAuth for Project Provisioning of Eclipse Che with Kubernetes.",
+                "url": "https://eclipse.dev/che/"
+            },
+            {
+                "title": "Discussed how to run asynchronous tasks on an esp32 with MicroPython and found Microdot, a minimalistic web framework for Python and MicroPython",
+                "url": "https://microdot.readthedocs.io"
+            }
+        ]
     },
     {
         "date": "2023-07-06",
