@@ -100,7 +100,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448378/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Improve log output of jest-when if verifyAllWhenMocksCalled() fails.",
+                "url": "https://github.com/timkindberg/jest-when/pull/106"
+            }
+        ]
     },
     {
         "date": "2023-07-20",
@@ -155,7 +160,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448368/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Enhance location info of hackergarten location map.",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/390"
+            }
+        ]
     },
     {
         "date": "2023-06-29",
