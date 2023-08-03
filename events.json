@@ -66,6 +66,18 @@
         "achievements": []
     },
     {
+        "date": "2023-09-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-luzern/events/mkxjbtyfcmbkb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2023-09-05",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -89,6 +101,31 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2023-08-03",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfclbfb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Introduced configuration file for Pechrad",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/commit/ec2998a4d7a98843ec937432d9035d386d0bff4b"
+            },
+            {
+                "title": "Intro to Zig to analyse UI capabilities",
+                "url": ""
+            },
+            {
+                "title": "Add Blobs for exposed framework in Kotlin",
+                "url": "https://github.com/JetBrains/Exposed/pull/1822"
+            }
+        ]
     },
     {
         "date": "2023-08-01",
@@ -148,6 +185,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "fully automatic Mastodon installation",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/1befd86e26db92952417cd7b3f559233bb44a905"
+            },
+            {
+                "title": "created new kotlin project Pechrad(Wheel of Unfortune)",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
+            },
+            {
+                "title": "Brainstorming about an MVP for a public access to electroscopy",
+                "url": ""
+            }
         ]
     },
     {
