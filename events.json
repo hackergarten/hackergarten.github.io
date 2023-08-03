@@ -100,7 +100,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448378/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Improve log output of jest-when if verifyAllWhenMocksCalled() fails.",
+                "url": "https://github.com/timkindberg/jest-when/pull/106"
+            }
+        ]
     },
     {
         "date": "2023-07-20",
@@ -113,7 +118,24 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/293543716/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Worked on how to generate a document indexer for Scribus in Python.",
+                "url": "https://forums.scribus.net/index.php/topic,4618.msg21427.html#msg21427"
+            },
+            {
+                "title": "Fixed the automatic story upload for StoryCoder.dev",
+                "url": "https://storycoder.dev/submit-a-story/"
+            },
+            {
+                "title": "Learned about OAuth for Project Provisioning of Eclipse Che with Kubernetes.",
+                "url": "https://eclipse.dev/che/"
+            },
+            {
+                "title": "Discussed how to run asynchronous tasks on an esp32 with MicroPython and found Microdot, a minimalistic web framework for Python and MicroPython",
+                "url": "https://microdot.readthedocs.io"
+            }
+        ]
     },
     {
         "date": "2023-07-06",
@@ -150,7 +172,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448368/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Enhance location info of hackergarten location map.",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/390"
+            }
+        ]
     },
     {
         "date": "2023-06-29",
