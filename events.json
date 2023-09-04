@@ -42,6 +42,20 @@
         "achievements": []
     },
     {
+        "date": "2023-11-30",
+        "title": "Hackergarten Zurich November 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/295382027/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2023-11-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -54,6 +68,20 @@
         "achievements": []
     },
     {
+        "date": "2023-10-26",
+        "title": "Hackergarten Zurich October 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/295382022/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2023-10-10",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -64,6 +92,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2023-09-28",
+        "title": "Hackergarten Zurich September 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/295382013/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2023-09-07",
@@ -100,7 +142,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/293543727/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "JReleaser: New 1.8.0 Release",
+                "url": "https://github.com/jreleaser/jreleaser/releases/tag/v1.8.0"
+            },
+            {
+                "title": "Analysed how to revive the publication process for https://switching.software/",
+                "url": "https://codeberg.org/swiso/website/issues/221"
+            },
+            {
+                "title": "Introduction to music live coding with Strudel",
+                "url": "https://strudel.tidalcycles.org/"
+            }
+        ]
     },
     {
         "date": "2023-08-03",
