@@ -100,7 +100,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/293543727/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "JReleaser: New 1.8.0 Release",
+                "url": "https://github.com/jreleaser/jreleaser/releases/tag/v1.8.0"
+            },
+            {
+                "title": "Analysed how to revive the publication process for https://switching.software/",
+                "url": "https://codeberg.org/swiso/website/issues/221"
+            },
+            {
+                "title": "Introduction to music live coding with Strudel",
+                "url": "https://strudel.tidalcycles.org/"
+            }
+        ]
     },
     {
         "date": "2023-08-03",
