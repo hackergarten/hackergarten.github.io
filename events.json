@@ -1,4 +1,16 @@
-[
+[    {
+        "date": "2023-09-20",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/295922589"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2023-06-15",
         "title": "Hackergarten Basel",
