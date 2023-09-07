@@ -142,6 +142,7 @@
             }
         ],
         "achievements": [
+            {
                 "title": "Experimenting with Progressive Web Apps",
                 "url": "https://gitlab.com/thomasstauffer/garden/-/tree/master/prototypes/html-pwa"
             }
