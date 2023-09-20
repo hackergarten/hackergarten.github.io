@@ -9,7 +9,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/295922589"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "AssertJ: Update workflows to Java 21",
+                "url": "https://github.com/assertj/assertj/pull/3191"
+            }
+        ]
     },
     {
         "date": "2023-06-15",
