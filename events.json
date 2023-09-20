@@ -33,6 +33,10 @@
             {
                 "title":"Fix Hackergarten Homepage Issue to make toots clickable",
                 "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
+            },
+            {
+                "title":"Improve Hackergarten Homepage: reduce header image sizes",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
             }
         ]
     },
