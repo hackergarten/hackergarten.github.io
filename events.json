@@ -33,6 +33,10 @@
             {
                 "title":"Fix Hackergarten Homepage Issue to make toots clickable",
                 "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
+            },
+            {
+                "title":"Improve Hackergarten Homepage: reduce header image sizes",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
             }
         ]
     },
@@ -100,6 +104,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448393/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2023-11-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-luzern/events/296564779/"
             }
         ],
         "achievements": []
