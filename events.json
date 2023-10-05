@@ -9,7 +9,36 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/295922589"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "AssertJ: Update workflows to Java 21",
+                "url": "https://github.com/assertj/assertj/pull/3191"
+            },
+            {
+                "title":"Create issue to Mastodon timeline feature: show toot stats",
+                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/21"
+            },
+            {
+                "title":"Implement fix for issue to Mastodon timeline feature: show toot stats",
+                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/merge_requests/22"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue by activating Slack integration",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/275"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue: Use SSL links in RSS ",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/276"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue to make toots clickable",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
+            },
+            {
+                "title":"Improve Hackergarten Homepage: reduce header image sizes",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
+            }
+        ]
     },
     {
         "date": "2023-06-15",

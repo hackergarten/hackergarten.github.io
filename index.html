@@ -27,7 +27,7 @@
     <link href="css/main.css" rel="stylesheet">
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/mastodon.widget.css" rel="stylesheet">
+    <link href="css/mastodon-timeline.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -155,7 +155,6 @@
                         <li><a href="feed.xml">Hackergarten Events RSS Feed</a></li>
                         <li><a href="http://github.com/hackergarten">Public Git Repository</a><br>
                             <li><a href="https://fosstodon.org/@hackergarten">@Hackergarten on Mastodon</a></li>
-                            <li><a href="http://www.twitter.com/Hackergarten">@Hackergarten on Twitter</a></li>
                             <li><a href="https://gitter.im/hackergarten?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Gitter</a></li>
                         <li>Slack: <a href="https://forms.gle/93guiZ3rXtW4azdo6">request invitation</a> and/or <a href="https://hackergarten.slack.com/">enter workspace</a></li>
                     </ul>
@@ -163,15 +162,12 @@
             </div>
 
             <div class="panel panel-default">
-              <div class="panel-heading">Mastodon</div>
-              <div class="mastodon-timeline mastodon-timeline-light" id="mastodon-timeline"></div>
-            </div>
-
-            <div class="panel panel-default">
-                <div class="panel-heading">Twitter</div>
-                <div class="panel-body">
-                    <a class="twitter-timeline" data-width="500" data-height="500" data-dnt="true" data-link-color="#428bca" href="https://twitter.com/Hackergarten?ref_src=twsrc%5Etfw">Tweets by Hackergarten</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              <div class="panel-heading">#Hackergarten on fosstodon.org Mastodon Instance</div>
+              <div class="mt-timeline">
+                <div id="mt-body" class="mt-body" role="feed">
+                  <div class="loading-spinner"></div>
                 </div>
+              </div>
             </div>
 
             <div class="panel panel-default">
@@ -275,17 +271,7 @@
 <script src="scripts/github.js"></script>
 <script src="scripts/locations.js"></script>
 
-<script src="scripts/mastodon.widget.js"></script>
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-    var mapi = new MastodonApi({
-        target_selector: '#mastodon-timeline',
-        pic_icon              : '<i class="fa fa-picture-o"></i>',
-		boosts_count_icon     : '<i class="fa fa-retweet"></i>',
-		favourites_count_icon : '<i class="fa fa-star"></i>'
-    });
-});
-</script>
+<script src="scripts/mastodon-timeline.js"></script>
 
 <script>
     function checkLicense() {
