@@ -170,6 +170,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Created a POC for ingredient filters in fathub, a static site generator for food recipes",
+                "url": "https://fathub.org"
+            },
+            {
+                "title": "Upgraded Scribus CI for qt6",
+                "url": "https://gitlab.com/scribus/scribus-ci-docker/-/blob/main/Dockerfile?ref_type=heads"
+            }
         ]
     },
     {
