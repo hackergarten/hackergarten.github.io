@@ -132,6 +132,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Further improvement of ingredient filtering for fathub - supports multiple filter terms now.",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/commit/841b27ba672922091ca50298a144dc6490f31702"
+            },
+            {
+                "title": "Fantasy map generation with map-yard: Explored ways to detect outlines",
+                "url": "https://github.com/thomasstauffer666/map-yard"
+            }
         ]
     },
     {
