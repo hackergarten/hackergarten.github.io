@@ -1,75 +1,4 @@
-[    {
-        "date": "2023-09-20",
-        "title": "Hackergarten Basel",
-        "venue": "Karakun AG",
-        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-basel/events/295922589"
-            }
-        ],
-        "achievements": [
-            {
-                "title": "AssertJ: Update workflows to Java 21",
-                "url": "https://github.com/assertj/assertj/pull/3191"
-            },
-            {
-                "title":"Create issue to Mastodon timeline feature: show toot stats",
-                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/21"
-            },
-            {
-                "title":"Implement fix for issue to Mastodon timeline feature: show toot stats",
-                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/merge_requests/22"
-            },
-            {
-                "title":"Fix Hackergarten Homepage Issue by activating Slack integration",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/275"
-            },
-            {
-                "title":"Fix Hackergarten Homepage Issue: Use SSL links in RSS ",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/276"
-            },
-            {
-                "title":"Fix Hackergarten Homepage Issue to make toots clickable",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
-            },
-            {
-                "title":"Improve Hackergarten Homepage: reduce header image sizes",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
-            }
-        ]
-    },
-    {
-        "date": "2023-06-15",
-        "title": "Hackergarten Basel",
-        "venue": "Karakun AG",
-        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-basel/events/293585727"
-            }
-        ],
-        "achievements": [
-            {
-                "title": "NativeScript: Migrate secure-storage plugin",
-                "url": "https://github.com/NativeScript/plugins/pull/513"
-            },
-            {
-                "title": "AssertJ: Different enum classes with same names result in the same output for expected and actual when comparing lists",
-                "url": "https://github.com/assertj/assertj/issues/3083"
-            },
-            {
-                "title": "AssertJ: `UnambiguousRepresentation` computes same output when types have same name but different packages",
-                "url": "https://github.com/assertj/assertj/issues/3084"
-            },
-            {
-                "title": "JUnit: `assertSame` fails with primitive type values outside the autobox cache",
-                "url": "https://github.com/junit-team/junit5/issues/3358"
-            }
-        ]
-    },
+[    
     {
         "date": "2023-12-05",
         "venue": "codecentric AG",
@@ -96,6 +25,19 @@
         "achievements": [
         ]
     },
+     {
+        "date": "2023-11-15",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/"
+            }
+        ],
+        "achievements": []
+     },
     {
         "date": "2023-11-07",
         "venue": "codecentric AG",
@@ -165,6 +107,48 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2023-09-20",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/295922589"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "AssertJ: Update workflows to Java 21",
+                "url": "https://github.com/assertj/assertj/pull/3191"
+            },
+            {
+                "title":"Create issue to Mastodon timeline feature: show toot stats",
+                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/21"
+            },
+            {
+                "title":"Implement fix for issue to Mastodon timeline feature: show toot stats",
+                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/merge_requests/22"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue by activating Slack integration",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/275"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue: Use SSL links in RSS ",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/276"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue to make toots clickable",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
+            },
+            {
+                "title":"Improve Hackergarten Homepage: reduce header image sizes",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
+            }
+        ]
     },
     {
         "date": "2023-09-28",
@@ -406,6 +390,36 @@
             }
         ],
         "achievements": [
+        ]
+    },
+    {
+        "date": "2023-06-15",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/293585727"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "NativeScript: Migrate secure-storage plugin",
+                "url": "https://github.com/NativeScript/plugins/pull/513"
+            },
+            {
+                "title": "AssertJ: Different enum classes with same names result in the same output for expected and actual when comparing lists",
+                "url": "https://github.com/assertj/assertj/issues/3083"
+            },
+            {
+                "title": "AssertJ: `UnambiguousRepresentation` computes same output when types have same name but different packages",
+                "url": "https://github.com/assertj/assertj/issues/3084"
+            },
+            {
+                "title": "JUnit: `assertSame` fails with primitive type values outside the autobox cache",
+                "url": "https://github.com/junit-team/junit5/issues/3358"
+            }
         ]
     },
     {
