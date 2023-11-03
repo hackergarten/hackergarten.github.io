@@ -1,4 +1,16 @@
-[    
+[
+    {
+        "date": "2023-12-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/297122946/"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2023-12-05",
         "venue": "codecentric AG",
@@ -60,7 +72,16 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-luzern/events/296564779/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Introduced a CLI, CSV parsing functionality and vacation consideration of candidates' holidays for Pechrad",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/pulls/5"
+            },
+            {
+                "title": "Work on an art installation controller",
+                "url": "https://notebin.de/?865a030f7a48cf2e#8ord6HW1TRBsRz72RFF3L7vm6vPYnHx2rHKG63xiSZkD"
+            }
+        ]
     },
     {
         "date": "2023-10-26",
