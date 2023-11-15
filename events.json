@@ -52,6 +52,10 @@
             {
                 "title": "Auto convert links for Bluesky",
                 "url": "https://github.com/jreleaser/jreleaser/issues/1525"
+            },
+            {
+                "title": "Extend README of mastodon autosetup",
+                "url": "https://github.com/McPringle/mastodon-autosetup/pull/6"
             }
         ]
      },
