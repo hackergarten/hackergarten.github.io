@@ -48,7 +48,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Auto convert links for Bluesky",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1525"
+            }
+        ]
      },
     {
         "date": "2023-11-07",
