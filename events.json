@@ -54,7 +54,18 @@
                 "url": "https://github.com/jreleaser/jreleaser/issues/1525"
             },
             {
-                "title": "Extend README of mastodon autosetup",
+                "title": "Mastodon Autosetup: code cleanup",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/d8b23a4c6140804cb23f6a4383eb2911b055cf05"
+            },
+            {
+                "title": "Mastodon Autosetup: extract setup to config file",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/f8f827cd699c0b663f23768039dd962f8f522c07"
+            },
+            {
+                "title": "Mastodon Autosetup: Much more cleanups..."
+            },
+            {
+                "title": "Mastodon Autosetup: Extend README",
                 "url": "https://github.com/McPringle/mastodon-autosetup/pull/6"
             }
         ]
