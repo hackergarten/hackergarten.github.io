@@ -1,5 +1,17 @@
 [
     {
+        "date": "2023-12-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/297122946/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2023-12-05",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -12,6 +24,42 @@
         "achievements": []
     },
     {
+        "date": "2023-11-30",
+        "title": "Hackergarten Zurich November 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/295382027/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+     {
+        "date": "2023-11-15",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Auto convert links for Bluesky",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1525"
+            },
+            {
+                "title": "Extend README of mastodon autosetup",
+                "url": "https://github.com/McPringle/mastodon-autosetup/pull/6"
+            }
+        ]
+     },
+    {
         "date": "2023-11-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -22,6 +70,49 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2023-11-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-luzern/events/296564779/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Introduced a CLI, CSV parsing functionality and vacation consideration of candidates' holidays for Pechrad",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/pulls/5"
+            },
+            {
+                "title": "Work on an art installation controller",
+                "url": "https://notebin.de/?865a030f7a48cf2e#8ord6HW1TRBsRz72RFF3L7vm6vPYnHx2rHKG63xiSZkD"
+            }
+        ]
+    },
+    {
+        "date": "2023-10-26",
+        "title": "Hackergarten Zurich October 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/295382022/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Further improvement of ingredient filtering for fathub - supports multiple filter terms now.",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/commit/841b27ba672922091ca50298a144dc6490f31702"
+            },
+            {
+                "title": "Fantasy map generation with map-yard: Explored ways to detect outlines",
+                "url": "https://github.com/thomasstauffer666/map-yard"
+            }
+        ]
     },
     {
         "date": "2023-10-10",
@@ -36,6 +127,99 @@
         "achievements": []
     },
     {
+        "date": "2023-10-05",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-luzern/events/mkxjbtyfcmbkb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2023-09-20",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/295922589"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "AssertJ: Update workflows to Java 21",
+                "url": "https://github.com/assertj/assertj/pull/3191"
+            },
+            {
+                "title":"Create issue to Mastodon timeline feature: show toot stats",
+                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/21"
+            },
+            {
+                "title":"Implement fix for issue to Mastodon timeline feature: show toot stats",
+                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/merge_requests/22"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue by activating Slack integration",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/275"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue: Use SSL links in RSS ",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/276"
+            },
+            {
+                "title":"Fix Hackergarten Homepage Issue to make toots clickable",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
+            },
+            {
+                "title":"Improve Hackergarten Homepage: reduce header image sizes",
+                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
+            }
+        ]
+    },
+    {
+        "date": "2023-09-28",
+        "title": "Hackergarten Zurich September 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/295382013/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Created a POC for ingredient filters in fathub, a static site generator for food recipes",
+                "url": "https://fathub.org"
+            },
+            {
+                "title": "Upgraded Scribus CI for qt6",
+                "url": "https://gitlab.com/scribus/scribus-ci-docker/-/blob/main/Dockerfile?ref_type=heads"
+            }
+        ]
+    },
+    {
+        "date": "2023-09-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-luzern/events/mkxjbtyfcmbkb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Experimenting with Progressive Web Apps",
+                "url": "https://gitlab.com/thomasstauffer/garden/-/tree/master/prototypes/html-pwa"
+            }
+        ]
+    },
+    {
         "date": "2023-09-05",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -48,6 +232,57 @@
         "achievements": []
     },
     {
+        "date": "2023-08-31",
+        "title": "Hackergarten Zurich August 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/293543727/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "JReleaser: New 1.8.0 Release",
+                "url": "https://github.com/jreleaser/jreleaser/releases/tag/v1.8.0"
+            },
+            {
+                "title": "Analysed how to revive the publication process for https://switching.software/",
+                "url": "https://codeberg.org/swiso/website/issues/221"
+            },
+            {
+                "title": "Introduction to music live coding with Strudel",
+                "url": "https://strudel.tidalcycles.org/"
+            }
+        ]
+    },
+    {
+        "date": "2023-08-03",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfclbfb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Introduced configuration file for Pechrad",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/commit/ec2998a4d7a98843ec937432d9035d386d0bff4b"
+            },
+            {
+                "title": "Intro to Zig to analyse UI capabilities",
+                "url": ""
+            },
+            {
+                "title": "Add Blobs for exposed framework in Kotlin",
+                "url": "https://github.com/JetBrains/Exposed/pull/1822"
+            }
+        ]
+    },
+    {
         "date": "2023-08-01",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -57,7 +292,42 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448378/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Improve log output of jest-when if verifyAllWhenMocksCalled() fails.",
+                "url": "https://github.com/timkindberg/jest-when/pull/106"
+            }
+        ]
+    },
+    {
+        "date": "2023-07-20",
+        "title": "Hackergarten Zurich July 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/293543716/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Worked on how to generate a document indexer for Scribus in Python.",
+                "url": "https://forums.scribus.net/index.php/topic,4618.msg21427.html#msg21427"
+            },
+            {
+                "title": "Fixed the automatic story upload for StoryCoder.dev",
+                "url": "https://storycoder.dev/submit-a-story/"
+            },
+            {
+                "title": "Learned about OAuth for Project Provisioning of Eclipse Che with Kubernetes.",
+                "url": "https://eclipse.dev/che/"
+            },
+            {
+                "title": "Discussed how to run asynchronous tasks on an esp32 with MicroPython and found Microdot, a minimalistic web framework for Python and MicroPython",
+                "url": "https://microdot.readthedocs.io"
+            }
+        ]
     },
     {
         "date": "2023-07-06",
@@ -70,6 +340,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "fully automatic Mastodon installation",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/1befd86e26db92952417cd7b3f559233bb44a905"
+            },
+            {
+                "title": "created new kotlin project Pechrad(Wheel of Unfortune)",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
+            },
+            {
+                "title": "Brainstorming about an MVP for a public access to electroscopy",
+                "url": ""
+            }
         ]
     },
     {
@@ -82,7 +364,38 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/292448368/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Enhance location info of hackergarten location map.",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/390"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-29",
+        "title": "Hackergarten Zurich June 2023",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/293543707/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Cardiac Emulator now also runs in the browser, thanks to Wasm",
+                "url": "https://github.com/ClaCodes/CardiacX/commit/292eb4f6c714b6ff0baf1ab516ac2a82f4e38f7b"
+            },
+            {
+                "title": "Grafana loki: Fix excludepath not evaluated on newly added files with Promtail",
+                "url": "https://github.com/grafana/loki/pull/9831"
+            },
+            {
+                "title": "OpenAPI codegen: Add support to run fetch without a window.",
+                "url": "https://github.com/fabien0102/openapi-codegen/pull/181"
+            }
+        ]
     },
     {
         "date": "2023-06-06",
@@ -110,6 +423,36 @@
         ]
     },
     {
+        "date": "2023-06-15",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/293585727"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "NativeScript: Migrate secure-storage plugin",
+                "url": "https://github.com/NativeScript/plugins/pull/513"
+            },
+            {
+                "title": "AssertJ: Different enum classes with same names result in the same output for expected and actual when comparing lists",
+                "url": "https://github.com/assertj/assertj/issues/3083"
+            },
+            {
+                "title": "AssertJ: `UnambiguousRepresentation` computes same output when types have same name but different packages",
+                "url": "https://github.com/assertj/assertj/issues/3084"
+            },
+            {
+                "title": "JUnit: `assertSame` fails with primitive type values outside the autobox cache",
+                "url": "https://github.com/junit-team/junit5/issues/3358"
+            }
+        ]
+    },
+    {
         "date": "2023-05-25",
         "title": "Hackergarten Zurich May 2023",
         "venue": "Quatico Solutions AG",
@@ -120,7 +463,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/292130164/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "storycoder.dev: 2 new stories were written, 1 in C# by a first-time Open Source contributor!",
+                "url": "https://github.com/roseTech/storycoder.dev/pull/35"
+            },
+            {
+                "title": "this-or-that: Discussed and implemented a new algorithm to optimise the number of comparisons a user needs to do when ranking a list.",
+                "url": "https://github.com/RFS-0/this-or-that"
+            },
+            {
+                "title": "Robot Operating System: Started setting up a docker-compose based local development environment for ROS including the Gazebo simulator, with the goal of starting up a tutorial/playground with as little commands as possible.",
+                "url": "https://www.ros.org/"
+            }
+        ]
     },
     {
         "date": "2023-05-09",
@@ -132,7 +488,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/289891296/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Social Income mobile App: Contact information in profile screen",
+                "url": "https://github.com/socialincome-san/public/pull/426/"
+            }
+        ]
     },
     {
         "date": "2023-05-04",
@@ -158,7 +519,21 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/292130112/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "websmith: Upgrade to use TypeScript 5 and Webpack 5",
+                "url": "https://github.com/quatico-solutions/websmith/pull/35"
+            },
+            {
+                "title": "Slackdump2Html: Improve project structure and documentation, add support for downloading attachments",
+                "url": "https://github.com/kununu/slackdump2html/pull/8"
+            },
+            {
+                "title": "Micropython and esp32: Played with apa102 aka dotstar LEDs",
+                "url": "https://github.com/mattytrentini/micropython-dotstar"
+            }
+
+        ]
     },
     {
         "date": "2023-04-06",
@@ -223,7 +598,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-stuttgart/events/289891274/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hackergarten Website: Add location section that shows active Hackergarten locations",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/376"
+            }
+        ]
     },
     {
         "date": "2023-03-02",

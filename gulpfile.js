@@ -72,7 +72,7 @@ gulp.task('generate-xml', gulp.series('validate-events', function () {
             xml.push("<rss version=\"2.0\">");
             xml.push("<channel>");
             xml.push("<title>Hackergarten Events</title>");
-            xml.push("<link>http://hackergarten.net</link>");
+            xml.push("<link>https://hackergarten.net</link>");
             xml.push("<language>en-en</language>");
             for (var i = 0; i < events.length; i++) {
                 var event = events[i];
@@ -88,7 +88,7 @@ gulp.task('generate-xml', gulp.series('validate-events', function () {
                     }
                     xml.push("<item>");
                     xml.push("<title>" + escapeHTML("Hackergarten " + event.title) + "</title>");
-                    xml.push("<link>http://hackergarten.net/#event-" + hash + "</link>");
+                    xml.push("<link>https://hackergarten.net/#event-" + hash + "</link>");
                     xml.push("<guid>" + hash + "</guid>");
                     xml.push("</item>\n");
                 }
