@@ -37,7 +37,7 @@
         "achievements": [
         ]
     },
-     {
+    {
         "date": "2023-11-15",
         "title": "Hackergarten Basel",
         "venue": "Karakun AG",
@@ -58,7 +58,7 @@
                 "url": "https://github.com/McPringle/mastodon-autosetup/pull/6"
             }
         ]
-     },
+    },
     {
         "date": "2023-11-07",
         "venue": "codecentric AG",
