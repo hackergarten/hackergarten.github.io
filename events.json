@@ -68,6 +68,14 @@
             {
                 "title": "Mastodon Autosetup: Extend README",
                 "url": "https://github.com/McPringle/mastodon-autosetup/pull/6"
+            },
+            {
+                "title": "Apache SOLR: exclude eclipse settings from validation",
+                "url": "https://github.com/apache/solr/pull/2082"
+            },
+            {
+                "title": "Apache SOLR: Solr should warn about low disk space upon startup",
+                "url": "https://github.com/apache/solr/pull/2080"
             }
         ]
     },
