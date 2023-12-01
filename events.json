@@ -35,6 +35,15 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Ferdium: Fix persisting of todos sidebar width",
+                "url": "https://github.com/ferdium/ferdium-app/pull/1460"
+            },
+            {
+                "title": "JReleaser: Identify labelers by committers",
+                "url": "https://github.com/jreleaser/jreleaser/commit/e6ad1afa6789f18484a83862eedf58a60f3bd6a7"
+            }
+
         ]
     },
     {
