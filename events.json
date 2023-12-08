@@ -1,5 +1,17 @@
 [
     {
+        "date": "2024-01-04",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/297838524/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2023-12-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -9,7 +21,21 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/297122946/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Hello World Tutorial for Wuffs",
+                "url": "https://github.com/thomasstauffer666/wuffs-hello-world"
+            },
+            {
+                "title": "Work on magnetic leviation project",
+                "url": "https://github.com/FadriPestalozzi/MagLev"
+            },
+            {
+                "title": "Pechrad: Improvements",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
+            }
+
+        ]
     },
     {
         "date": "2023-12-05",
