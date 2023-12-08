@@ -35,9 +35,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Ferdium: Fix persisting of todos sidebar width",
+                "url": "https://github.com/ferdium/ferdium-app/pull/1460"
+            },
+            {
+                "title": "JReleaser: Identify labelers by committers",
+                "url": "https://github.com/jreleaser/jreleaser/commit/e6ad1afa6789f18484a83862eedf58a60f3bd6a7"
+            }
+
         ]
     },
-     {
+    {
         "date": "2023-11-15",
         "title": "Hackergarten Basel",
         "venue": "Karakun AG",
@@ -48,8 +57,37 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/296908585/"
             }
         ],
-        "achievements": []
-     },
+        "achievements": [
+            {
+                "title": "Auto convert links for Bluesky",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1525"
+            },
+            {
+                "title": "Mastodon Autosetup: code cleanup",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/d8b23a4c6140804cb23f6a4383eb2911b055cf05"
+            },
+            {
+                "title": "Mastodon Autosetup: extract setup to config file",
+                "url": "https://github.com/McPringle/mastodon-autosetup/commit/f8f827cd699c0b663f23768039dd962f8f522c07"
+            },
+            {
+                "title": "Mastodon Autosetup: Much more cleanups...",
+                "url": "https://github.com/McPringle/mastodon-autosetup"
+            },
+            {
+                "title": "Mastodon Autosetup: Extend README",
+                "url": "https://github.com/McPringle/mastodon-autosetup/pull/6"
+            },
+            {
+                "title": "Apache SOLR: exclude eclipse settings from validation",
+                "url": "https://github.com/apache/solr/pull/2082"
+            },
+            {
+                "title": "Apache SOLR: Solr should warn about low disk space upon startup",
+                "url": "https://github.com/apache/solr/pull/2080"
+            }
+        ]
+    },
     {
         "date": "2023-11-07",
         "venue": "codecentric AG",
