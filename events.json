@@ -1,5 +1,149 @@
 [
     {
+        "date": "2024-12-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939776/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-11-05",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939770/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-10-01",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939767/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-09-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939657/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-08-06",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939652/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-07-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939649/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-06-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939647/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-05-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939646/ "
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-04-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939642/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-03-05",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939636/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-02-06",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939631/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-01-09",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939624/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-01-04",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
