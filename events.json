@@ -1,5 +1,17 @@
 [
     {
+        "date": "2024-12-05",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcqbhb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-12-03",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -7,6 +19,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939776/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-11-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcpbkb/"
             }
         ],
         "achievements": []
@@ -24,6 +48,18 @@
         "achievements": []
     },
     {
+        "date": "2024-10-03",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcnbfb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-10-01",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -31,6 +67,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939767/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-09-05",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcmbhb/"
             }
         ],
         "achievements": []
@@ -60,6 +108,18 @@
         "achievements": []
     },
     {
+        "date": "2024-07-04",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygckbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-07-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -67,6 +127,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939649/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-06-06",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcjbjb/"
             }
         ],
         "achievements": []
@@ -96,6 +168,30 @@
         "achievements": []
     },
     {
+        "date": "2024-05-02",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygchbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-04-04",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcgbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-04-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -103,6 +199,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939642/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-03-07",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcfbkb/"
             }
         ],
         "achievements": []
@@ -132,6 +240,18 @@
         "achievements": []
     },
     {
+        "date": "2024-02-01",
+        "venue": "CSS Versicherung",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcdbcb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-01-09",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -153,7 +273,16 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/297838524/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Pechrad: Add Kotlin Multiplatform Setup",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/pulls/6"
+            },
+            {
+                "title": "Pechrad: Add Android Support",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/pulls/8"
+            }
+        ]
     },
     {
         "date": "2023-12-07",
@@ -178,7 +307,6 @@
                 "title": "Pechrad: Improvements",
                 "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
             }
-
         ]
     },
     {
