@@ -273,7 +273,16 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/297838524/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Pechrad: Add Kotlin Multiplatform Setup",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/pulls/6"
+            },
+            {
+                "title": "Pechrad: Add Android Support",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad/pulls/8"
+            }
+        ]
     },
     {
         "date": "2023-12-07",
@@ -298,7 +307,6 @@
                 "title": "Pechrad: Improvements",
                 "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
             }
-
         ]
     },
     {
