@@ -99,8 +99,7 @@
                     "type": "object",
                     "title": "The Items Schema",
                     "required": [
-                        "title",
-                        "url"
+                        "title"
                     ],
                     "properties": {
                         "title": {
