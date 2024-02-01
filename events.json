@@ -204,6 +204,20 @@
         "achievements": []
     },
     {
+        "date": "2024-03-28",
+        "title": "Hackergarten Zurich March 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/298903266/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-03-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -228,6 +242,20 @@
         "achievements": []
     },
     {
+        "date": "2024-02-29",
+        "title": "Hackergarten Zurich February 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/298903257/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-02-06",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -250,6 +278,29 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2024-01-26",
+        "title": "Hackergarten Zurich January 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/298461856/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Fathub: Added dietary filter to exclude recipes based on their ingriedients.",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/commit/57bbe912aa26af415a7c115b37503a8d4aa710cb"
+            },
+            {
+                "title": "Pong with Rust and Ggez",
+                "url": "https://github.com/DominikStefancik/Games/tree/master/pong-with-rust-and-ggez"
+            }
+
+        ]
     },
     {
         "date": "2024-01-09",
