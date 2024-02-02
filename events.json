@@ -277,7 +277,20 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcdbcb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "hackergarten.github.io: Fix schema validation",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/416"
+            },
+            {
+                "title": "Pechrad fixing session",
+                "url": "https://codeberg.org/LokalesNetzwerk/Pechrad"
+            },
+            {
+                "title": "Firefly simulation",
+                "url": "https://github.com/artist-collective-billeter-mischler/firefly-playground"
+            }
+        ]
     },
     {
         "date": "2024-01-26",
