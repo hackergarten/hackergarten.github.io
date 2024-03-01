@@ -266,6 +266,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Reproducible Builds: Fixed building gradle projects in docker.",
+                "url": "https://github.com/jvm-repo-rebuild/reproducible-central/pull/143"
+            },
+            {
+                "title": "Cat Volleyball: Implemented showing score.",
+                "url": "https://github.com/DominikStefancik/Games/commit/8db6c8fafc1ebf3eee362e59cf6d5be440ece058"
+            },
+            {
+                "title": "javabubble.org: Introduce client side dynamic search.",
+                "url": "https://github.com/marchof/javabubble/pull/351"
+            }
         ]
     },
     {
