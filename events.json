@@ -239,7 +239,20 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcfbkb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Map-Yard: New pathing for streets and colored trees",
+                "url": "https://github.com/thomasstauffer666/map-yard/commit/b270f4cd14ac348666b2d4a56f776af5453aff6c"
+            },
+            {
+                "title": "coqui library: play around and get to know",
+                "url": ""
+	    },
+            {
+                "title": "Civilazation V Mod: Add a distillery building .",
+	        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3174874808&searchtext=Distillery"
+            }
+        ]
     },
     {
         "date": "2024-03-06",
