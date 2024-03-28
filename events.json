@@ -132,6 +132,20 @@
         "achievements": []
     },
     {
+        "date": "2024-06-27",
+        "title": "Hackergarten Zurich June 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066537/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-06-06",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -156,6 +170,20 @@
         "achievements": []
     },
     {
+        "date": "2024-05-30",
+        "title": "Hackergarten Zurich May 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066534/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-05-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -178,6 +206,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2024-04-25",
+        "title": "Hackergarten Zurich April 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066514/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2024-04-18",
