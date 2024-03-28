@@ -216,20 +216,6 @@
         "achievements": []
     },
     {
-        "date": "2024-03-28",
-        "title": "Hackergarten Zurich March 2024",
-        "venue": "Quatico Solutions AG",
-        "address": "Förrlibuckstrasse 220, 8005 Zürich",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-zurich/events/298903266/"
-            }
-        ],
-        "achievements": [
-        ]
-    },
-    {
         "date": "2024-03-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
