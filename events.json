@@ -243,7 +243,19 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcgbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Designed new Hackergarten flyer",
+                "url": ""
+            },
+            {
+                "title": "Analysed M-Bus standard for m-bus-parser",
+                "url": "https://github.com/maebli/m-bus-parser"
+            },
+            {
+                "title": "Worked on AI-storytelling-for-kids",
+                "url": "https://github.com/linalopes/AI-storytelling-for-kids"
+            }]
     },
     {
         "date": "2024-04-02",
@@ -275,10 +287,10 @@
             {
                 "title": "coqui library: play around and get to know",
                 "url": ""
-	    },
+            },
             {
                 "title": "Civilazation V Mod: Add a distillery building .",
-	        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3174874808&searchtext=Distillery"
+                "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3174874808&searchtext=Distillery"
             }
         ]
     },
