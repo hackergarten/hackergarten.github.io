@@ -132,6 +132,20 @@
         "achievements": []
     },
     {
+        "date": "2024-06-27",
+        "title": "Hackergarten Zurich June 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066537/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-06-06",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -156,6 +170,20 @@
         "achievements": []
     },
     {
+        "date": "2024-05-30",
+        "title": "Hackergarten Zurich May 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066534/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-05-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -175,6 +203,32 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygchbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2024-04-25",
+        "title": "Hackergarten Zurich April 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066514/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2024-04-18",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/299529730/"
             }
         ],
         "achievements": []
@@ -204,20 +258,6 @@
         "achievements": []
     },
     {
-        "date": "2024-03-28",
-        "title": "Hackergarten Zurich March 2024",
-        "venue": "Quatico Solutions AG",
-        "address": "Förrlibuckstrasse 220, 8005 Zürich",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-zurich/events/298903266/"
-            }
-        ],
-        "achievements": [
-        ]
-    },
-    {
         "date": "2024-03-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -227,7 +267,33 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcfbkb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Map-Yard: New pathing for streets and colored trees",
+                "url": "https://github.com/thomasstauffer666/map-yard/commit/b270f4cd14ac348666b2d4a56f776af5453aff6c"
+            },
+            {
+                "title": "coqui library: play around and get to know",
+                "url": ""
+	    },
+            {
+                "title": "Civilazation V Mod: Add a distillery building .",
+	        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3174874808&searchtext=Distillery"
+            }
+        ]
+    },
+    {
+        "date": "2024-03-06",
+        "title": "Hackergarten Basel",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/299460904/"
+            }
+        ],
+        "achievements": [ ]
     },
     {
         "date": "2024-03-05",
@@ -253,6 +319,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Reproducible Builds: Fixed building gradle projects in docker.",
+                "url": "https://github.com/jvm-repo-rebuild/reproducible-central/pull/143"
+            },
+            {
+                "title": "Cat Volleyball: Implemented showing score.",
+                "url": "https://github.com/DominikStefancik/Games/commit/8db6c8fafc1ebf3eee362e59cf6d5be440ece058"
+            },
+            {
+                "title": "javabubble.org: Introduce client side dynamic search.",
+                "url": "https://github.com/marchof/javabubble/pull/351"
+            }
         ]
     },
     {
