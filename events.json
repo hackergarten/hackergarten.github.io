@@ -231,7 +231,12 @@
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/299529730/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Analyzed possible improvement for NativeScript-SecureStorage",
+                "url": "https://github.com/hackergarten/contributions/issues/10"
+            }
+        ]
     },
     {
         "date": "2024-04-04",
