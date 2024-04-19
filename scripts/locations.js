@@ -52,4 +52,11 @@ var locations = [
         lat: 47.5487602,
         lon: 7.5879349,
     },
+        {
+        title: "Hackergarten Dortmund",
+        sponsors: ["Karakun AG"],
+        link: "https://www.meetup.com/hackergarten-dortmund/",
+        lat: 51.53003,
+        lon: 7.44409,
+    },
 ];
