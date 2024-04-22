@@ -184,6 +184,20 @@
         ]
     },
     {
+        "date": "2024-05-22",
+        "title": "Hackergarten Basel May 2024",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/300579477/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-05-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
