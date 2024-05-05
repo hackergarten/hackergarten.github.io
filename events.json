@@ -233,6 +233,26 @@
             }
         ],
         "achievements": [
+            {
+                "title": "mcuboot - Bootloader for embedded system: Located the problem with status change on image swap.",
+                "url": "https://github.com/mcu-tools/mcuboot"
+            },
+            {
+                "title": "Fathub: Implemented a multi diet filter with the power of CSS.",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/commit/065590dd7c4e5b5a2f169f884e9eccb74dde9f95"
+            },
+            {
+                "title": "JReleaser: Discussion about expanding Changelog configuration Options.",
+                "url": "https://github.com/jreleaser/jreleaser/discussions/1641"
+            },
+            {
+                "title": "apus social wall: Synchronize GitHub README with Docker Hub using GitHub actions und replace language flag emojis with SVGs to show the flags in Windows.                ",
+                "url": "https://github.com/McPringle/apus"
+            },
+            {
+                "title": "Assertj: Raise required Java version to 17 towards 4.0.0 release",
+                "url": "https://github.com/assertj/assertj/pull/3447"
+            }
         ]
     },
     {
