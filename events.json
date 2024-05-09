@@ -219,7 +219,12 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygchbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Apus (Social Wall): run nightly build only when there are changes",
+                "url": "https://github.com/McPringle/apus"
+            }
+        ]
     },
     {
         "date": "2024-04-25",
