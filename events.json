@@ -255,7 +255,7 @@
                 "url": "https://github.com/McPringle/apus"
             },
             {
-                "title": "Assertj: Raise required Java version to 17 towards 4.0.0 release",
+                "title": "AssertJ: Raise required Java version to 17 towards 4.0.0 release",
                 "url": "https://github.com/assertj/assertj/pull/3447"
             }
         ]
@@ -1947,7 +1947,7 @@
                 "url": "https://github.com/fbiville/headache/pull/80"
             },
             {
-                "title": "Bakary contributed a new Assertj-Neo4j assertion",
+                "title": "Bakary contributed a new AssertJ-Neo4j assertion",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/51"
             }
         ]
@@ -1969,7 +1969,7 @@
                 "url": "https://github.com/yeshzaoui/golang-function-invoker/tree/gRPC"
             },
             {
-                "title": "Agathe worked on Assertj-Neo4j",
+                "title": "Agathe worked on AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/40"
             },
             {
@@ -1977,7 +1977,7 @@
                 "url": "https://github.com/apache/maven-fluido-skin/pull/16"
             },
             {
-                "title": "Bakary also worked on Assertj-Neo4j",
+                "title": "Bakary also worked on AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/34"
             }
         ]
@@ -2023,7 +2023,7 @@
                 "url": "https://github.com/AElMehdi/liquigraph/tree/issue_254"
             },
             {
-                "title": "Agathe started working with Florent on Assertj-Neo4j IndexDefinition assertions",
+                "title": "Agathe started working with Florent on AssertJ-Neo4j IndexDefinition assertions",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/33"
             }
         ]
@@ -2677,7 +2677,7 @@
                 "url": "https://issues.apache.org/jira/browse/MSITE-837"
             },
             {
-                "title": "Agathe and Brice continued working on Assertj-Neo4j",
+                "title": "Agathe and Brice continued working on AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/29/"
             },
             {
@@ -3139,7 +3139,7 @@
                 "url": "http://openwhyd.org/"
             },
              {
-                "title": "Mohammed fixed a core compatibility issue in Assertj-Neo4j",
+                "title": "Mohammed fixed a core compatibility issue in AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/18"
             }
         ],
