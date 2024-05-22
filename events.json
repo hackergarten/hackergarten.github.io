@@ -209,6 +209,18 @@
             {
                 "title": "ZioHttp: Parsing multi form data requires CRLF termination",
                 "url": "https://github.com/zio/zio-http/issues/2411"
+            },
+            {
+                "title": "Use maven.compiler.release flags",
+                "url": "https://github.com/sparsick/testcontainers-git/pull/115"
+            },
+            {
+                "title": "Remove unnecessary dependency versions from pom",
+                "url": "https://github.com/sparsick/testcontainers-git/pull/114"
+            },
+            {
+                "title": "Move sources and javadoc plugins to release profile",
+                "url": "https://github.com/sparsick/testcontainers-git/pull/113"
             }
         ]
     },
