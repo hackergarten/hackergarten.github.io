@@ -206,6 +206,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "ZioHttp: Parsing multi form data requires CRLF termination",
+                "url": "https://github.com/zio/zio-http/issues/2411"
+            }
         ]
     },
     {
