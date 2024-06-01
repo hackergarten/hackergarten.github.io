@@ -192,6 +192,22 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): Create an icon (WiP)",
+                "url": "https://github.com/McPringle/apus/issues/105"
+            },
+            {
+                "title": "Apus (Social Media Wall): Create Docker images for ARM",
+                "url": "https://github.com/McPringle/apus/issues/83"
+            },
+            {
+                "title": "Apus (Social Media Wall): Make update frequency configurable",
+                "url": "https://github.com/McPringle/apus/issues/98"
+            },
+            {
+                "title": "Apus (Social Media Wall): Add track information to session",
+                "url": "https://github.com/McPringle/apus/issues/56"
+            }
         ]
     },
     {
