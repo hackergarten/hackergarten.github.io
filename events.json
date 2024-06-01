@@ -237,6 +237,10 @@
             {
                 "title": "Move sources and javadoc plugins to release profile",
                 "url": "https://github.com/sparsick/testcontainers-git/pull/113"
+            },
+            {
+                "title": "Create website for hack.commit.push event in Switzerland",
+                "url": "https://github.com/hack-commit-push/switzerland2024/commits/main/?since=2024-05-22&until=2024-05-22"
             }
         ]
     },
