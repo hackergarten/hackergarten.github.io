@@ -178,7 +178,12 @@
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939647/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Fix layout issue in evcc frontend",
+                "url": "https://github.com/evcc-io/evcc/pull/14185"
+            }
+        ]
     },
     {
         "date": "2024-05-30",
