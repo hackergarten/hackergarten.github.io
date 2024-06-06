@@ -166,7 +166,32 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcjbjb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Apus Social Wall post layout changes",
+                "url": "https://github.com/McPringle/apus/pull/134"
+            },
+            {
+                "title": "Apus Social Wall event layout changes",
+                "url": "https://github.com/McPringle/apus/commit/b38e59bed6189aa4d1fc4c175d4dd944741ee0aa"
+            },
+            {
+                "title": "Hack.Comit.Push Ticketsystem configured",
+                "url": "https://switzerland2024.hack-commit-pu.sh/"
+            },
+            {
+                "title": "Jreleaser Add include/exclusion lists to Slsa and Github catalogers",
+                "url": "https://github.com/jreleaser/jreleaser/commit/b23d6f1da265c5f4fb78628396f32d6d446c7a95#diff-3572572a795ecd44374f9ba8cec1ad49dab1deb710f3910cb9aafc157e1e2cbb"
+            },
+            {
+                "title": "Bugfix model page error",
+                "url": "https://github.com/olivierluethy/TackPad/commit/cefbbb41678866f2ecd8c17efa27ba2cdab1d9b4"
+            },
+            {
+                "title": "Firefly project add BrowserAudioLight",
+                "url": "https://github.com/artist-collective-billeter-mischler/firefly-playground/commit/dd7aaec66c892673f70b267bdae7d0d08d150ec1"
+            }
+        ]
     },
     {
         "date": "2024-06-04",
