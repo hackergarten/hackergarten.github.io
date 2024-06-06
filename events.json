@@ -132,6 +132,31 @@
         "achievements": []
     },
     {
+        "date": "2024-06-27",
+        "title": "Hackergarten Zurich June 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066537/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2024-06-13",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/301080466/"
+            }
+        ]
+    },
+    {
         "date": "2024-06-06",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -153,7 +178,76 @@
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/297939647/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Fix layout issue in evcc frontend",
+                "url": "https://github.com/evcc-io/evcc/pull/14185"
+            }
+        ]
+    },
+    {
+        "date": "2024-05-30",
+        "title": "Hackergarten Zurich May 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066534/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Apus (Social Media Wall): Create an icon (WiP)",
+                "url": "https://github.com/McPringle/apus/issues/105"
+            },
+            {
+                "title": "Apus (Social Media Wall): Create Docker images for ARM",
+                "url": "https://github.com/McPringle/apus/issues/83"
+            },
+            {
+                "title": "Apus (Social Media Wall): Make update frequency configurable",
+                "url": "https://github.com/McPringle/apus/issues/98"
+            },
+            {
+                "title": "Apus (Social Media Wall): Add track information to session",
+                "url": "https://github.com/McPringle/apus/issues/56"
+            }
+        ]
+    },
+    {
+        "date": "2024-05-22",
+        "title": "Hackergarten Basel May 2024",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/300579477/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "ZioHttp: Parsing multi form data requires CRLF termination",
+                "url": "https://github.com/zio/zio-http/pull/2862"
+            },
+            {
+                "title": "Use maven.compiler.release flags",
+                "url": "https://github.com/sparsick/testcontainers-git/pull/115"
+            },
+            {
+                "title": "Remove unnecessary dependency versions from pom",
+                "url": "https://github.com/sparsick/testcontainers-git/pull/114"
+            },
+            {
+                "title": "Move sources and javadoc plugins to release profile",
+                "url": "https://github.com/sparsick/testcontainers-git/pull/113"
+            },
+            {
+                "title": "Create website for hack.commit.push event in Switzerland",
+                "url": "https://github.com/hack-commit-push/switzerland2024/commits/main/?since=2024-05-22&until=2024-05-22"
+            }
+        ]
     },
     {
         "date": "2024-05-07",
@@ -177,7 +271,46 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygchbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Apus (Social Wall): run nightly build only when there are changes",
+                "url": "https://github.com/McPringle/apus"
+            }
+        ]
+    },
+    {
+        "date": "2024-04-25",
+        "title": "Hackergarten Zurich April 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/300066514/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "mcuboot - Bootloader for embedded system: Located the problem with status change on image swap.",
+                "url": "https://github.com/mcu-tools/mcuboot"
+            },
+            {
+                "title": "Fathub: Implemented a multi diet filter with the power of CSS.",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/commit/065590dd7c4e5b5a2f169f884e9eccb74dde9f95"
+            },
+            {
+                "title": "JReleaser: Discussion about expanding Changelog configuration Options.",
+                "url": "https://github.com/jreleaser/jreleaser/discussions/1641"
+            },
+            {
+                "title": "apus social wall: Synchronize GitHub README with Docker Hub using GitHub actions und replace language flag emojis with SVGs to show the flags in Windows.                ",
+                "url": "https://github.com/McPringle/apus"
+            },
+            {
+                "title": "AssertJ: Raise required Java version to 17 towards 4.0.0 release",
+                "url": "https://github.com/assertj/assertj/pull/3447"
+            }
+        ]
     },
     {
         "date": "2024-04-18",
@@ -189,7 +322,12 @@
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/299529730/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Analyzed possible improvement for NativeScript-SecureStorage",
+                "url": "https://github.com/hackergarten/contributions/issues/10"
+            }
+        ]
     },
     {
         "date": "2024-04-04",
@@ -201,7 +339,19 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygcgbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Designed new Hackergarten flyer",
+                "url": ""
+            },
+            {
+                "title": "Analysed M-Bus standard for m-bus-parser",
+                "url": "https://github.com/maebli/m-bus-parser"
+            },
+            {
+                "title": "Worked on AI-storytelling-for-kids",
+                "url": "https://github.com/linalopes/AI-storytelling-for-kids"
+            }]
     },
     {
         "date": "2024-04-02",
@@ -214,20 +364,6 @@
             }
         ],
         "achievements": []
-    },
-    {
-        "date": "2024-03-28",
-        "title": "Hackergarten Zurich March 2024",
-        "venue": "Quatico Solutions AG",
-        "address": "Förrlibuckstrasse 220, 8005 Zürich",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-zurich/events/298903266/"
-            }
-        ],
-        "achievements": [
-        ]
     },
     {
         "date": "2024-03-07",
@@ -247,10 +383,10 @@
             {
                 "title": "coqui library: play around and get to know",
                 "url": ""
-	    },
+            },
             {
                 "title": "Civilazation V Mod: Add a distillery building .",
-	        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3174874808&searchtext=Distillery"
+                "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3174874808&searchtext=Distillery"
             }
         ]
     },
@@ -1863,7 +1999,7 @@
                 "url": "https://github.com/fbiville/headache/pull/80"
             },
             {
-                "title": "Bakary contributed a new Assertj-Neo4j assertion",
+                "title": "Bakary contributed a new AssertJ-Neo4j assertion",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/51"
             }
         ]
@@ -1885,7 +2021,7 @@
                 "url": "https://github.com/yeshzaoui/golang-function-invoker/tree/gRPC"
             },
             {
-                "title": "Agathe worked on Assertj-Neo4j",
+                "title": "Agathe worked on AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/40"
             },
             {
@@ -1893,7 +2029,7 @@
                 "url": "https://github.com/apache/maven-fluido-skin/pull/16"
             },
             {
-                "title": "Bakary also worked on Assertj-Neo4j",
+                "title": "Bakary also worked on AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/34"
             }
         ]
@@ -1939,7 +2075,7 @@
                 "url": "https://github.com/AElMehdi/liquigraph/tree/issue_254"
             },
             {
-                "title": "Agathe started working with Florent on Assertj-Neo4j IndexDefinition assertions",
+                "title": "Agathe started working with Florent on AssertJ-Neo4j IndexDefinition assertions",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/issues/33"
             }
         ]
@@ -2593,7 +2729,7 @@
                 "url": "https://issues.apache.org/jira/browse/MSITE-837"
             },
             {
-                "title": "Agathe and Brice continued working on Assertj-Neo4j",
+                "title": "Agathe and Brice continued working on AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/29/"
             },
             {
@@ -3055,7 +3191,7 @@
                 "url": "http://openwhyd.org/"
             },
              {
-                "title": "Mohammed fixed a core compatibility issue in Assertj-Neo4j",
+                "title": "Mohammed fixed a core compatibility issue in AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/18"
             }
         ],
