@@ -96,6 +96,20 @@
         "achievements": []
     },
     {
+        "date": "2024-08-29",
+        "title": "Hackergarten Zurich August 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/301596805/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-08-06",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -106,6 +120,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2024-07-25",
+        "title": "Hackergarten Zurich July 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/301596785/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2024-07-04",
