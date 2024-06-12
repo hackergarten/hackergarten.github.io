@@ -237,6 +237,14 @@
             {
                 "title": "Apus (Social Media Wall): Add track information to session",
                 "url": "https://github.com/McPringle/apus/issues/56"
+            },
+            {
+                "title": "Fathub: Improve CSS formatting for table grids and fix column alignment in desktop view",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/commit/a25e85ab094779461dde5c1db8518593c2c74779"
+            },
+            {
+                "title": "Data Version Control: Fix fish shell support",
+                "url": "https://github.com/iterative/dvc/pull/10445"
             }
         ]
     },
