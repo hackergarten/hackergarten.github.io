@@ -182,6 +182,12 @@
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/301080466/"
             }
+        ],
+        "achievements": [
+            {
+                "title": "Initiated work on OpenIDConnect capabilities for twenty CRM",
+                "url": "https://github.com/twentyhq/twenty/issues/4328#issuecomment-2185262308"
+            },
         ]
     },
     {
