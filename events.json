@@ -171,6 +171,22 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Map-Yard (random fantasy SVG maps): Fixed mountains bezier prototype",
+                "url": "https://github.com/thomasstauffer666/map-yard/pull/5"
+            },
+            {
+                "title": "JReleaser: fix(gradle) - MavenCentralMavenDeployer.maxRetries should be an Integer",
+                "url": "https://github.com/jreleaser/jreleaser/commit/4ba9b4ff772b42c73a2c89b1bb7a6568910541b5"
+            },
+            {
+                "title": "Apus (Social Media Wall): Replace emojis with icons",
+                "url": "https://github.com/McPringle/apus/commit/721eee5971c553b1356a83ac44e8a6d66035c68c"
+            },
+            {
+                "title": "Apus (Social Media Wall): Add sessionize api integration",
+                "url": "https://github.com/McPringle/apus/pull/152"
+            }
         ]
     },
     {
