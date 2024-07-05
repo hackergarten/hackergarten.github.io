@@ -145,7 +145,28 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtygckbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Brainstorming next steps of a mobile application for type 1 diabetics to calculate carbohydrates",
+                "url": "https://github.com/BasilTschopp/carbs.ch"
+            },
+            {
+                "title": "Kickstart IT for attendees of 'Jugend hackt'",
+                "url": "https://jugendhackt.org/"
+            },
+            {
+                "title": "Working on a Meter-Bus parser (wired m-bus protocol)",
+                "url": "https://github.com/maebli/m-bus-parser"
+            },
+            {
+                "title": "Experiments with the Bevy Game Engine",
+                "url": "https://github.com/maebli/encondnator/"
+            },
+            {
+                "title": "hack.commit.push: Configure payment for event in Switzerland",
+                "url": "https://switzerland2024.hack-commit-pu.sh/"
+            }
+        ]
     },
     {
         "date": "2024-07-02",
