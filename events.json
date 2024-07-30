@@ -71,6 +71,19 @@
         ],
         "achievements": []
     },
+        {
+        "date": "2024-09-26",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/302531589/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
     {
         "date": "2024-09-05",
         "venue": "CSS Versicherung",
