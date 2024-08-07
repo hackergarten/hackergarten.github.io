@@ -102,6 +102,56 @@ gulp.task('generate-xml', gulp.series('validate-events', function () {
 }));
 
 /**
+ * Generate the location json file based on the events.
+ */
+gulp.task('generate-locations', gulp.series('validate-events', function () {
+
+    return gulp.src("./events.json")
+        .pipe(jsonlint())
+        .pipe(jsonlint.failOnError())
+        .pipe(jsonlint.reporter())
+        .pipe(transform(function (contents) {
+            var oneYearAgo = new Date();
+            oneYearAgo.setDate(oneYearAgo.getDate()-52*7);
+            var events = JSON.parse(contents);
+            var recentEvents = events.filter(function(event) {
+               return new Date(event.date) > oneYearAgo;
+            });
+            var uniqueLocations = {};
+            for (var i = 0; i < recentEvents.length; i++) {
+                if (!uniqueLocations[recentEvents[i].address]) {
+                    uniqueLocations[recentEvents[i].address] = [];
+                }
+                uniqueLocations[recentEvents[i].address].push(recentEvents[i]);
+            }
+            var locations = [];
+            for (var address in uniqueLocations) {
+                // TODO: use https://www.npmjs.com/package/hero-geo-location search to get long, lat and city
+                locations.push({
+                    title: 'Hackergarten City',
+                    sponsors: [uniqueLocations[address][0].venue],
+                    link: getLink(uniqueLocations[address][0]),
+                    lat: 0,
+                    long: 0,
+                });
+            }
+            console.log('Found', events.length, 'events at', locations.length, 'unique locations.');
+            return JSON.stringify(locations);
+        }))
+        .pipe(rename("locations.json"))
+        .pipe(gulp.dest('.'));
+}));
+
+function getLink(event) {
+    if(event.links && event.links[0]) {
+        var url = event.links[0].url;
+        if(url && url.includes('meetup.com')) {
+            return url.split('events')[0];
+        }
+    }
+}
+
+/**
  * Generate the HTML file containing the top contributed projects.
  */
 gulp.task('generate-projects', gulp.series('validate-events', function () {
@@ -167,4 +217,4 @@ gulp.task('generate-projects', gulp.series('validate-events', function () {
         .pipe(gulp.dest('.'));
 }));
 
-gulp.task('default', gulp.series('generate-xml', 'generate-projects'));
+gulp.task('default', gulp.series('generate-xml', 'generate-projects', 'generate-locations'));
