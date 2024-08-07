@@ -146,6 +146,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "OpenCV: Analyze incorrect result of cv2.remap",
+                "url": "https://github.com/opencv/opencv/issues/25937"
+            },
+            {
+                "title": "Fathub: Added course filter (main, side, desert) in addition to the diet filter, UI improvements",
+                "url": "https://git.sr.ht/~puer-robustus/fathub/log"
+            },
+            {
+                "title": "Connect-4 with Rust ",
+                "url": "https://github.com/DominikStefancik/Games/tree/master/connect-4-simple-with-rust"
+            }
         ]
     },
     {
