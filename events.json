@@ -71,7 +71,21 @@
         ],
         "achievements": []
     },
-        {
+    {
+        "date": "2024-09-26",
+        "title": "Hackergarten Zurich September 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/303195057/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-09-26",
         "venue": "Karakun @ Digitale Werkbank Dortmund",
         "address": "Kanalstr. 25, 44147 Dortmund",
@@ -120,6 +134,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "WorkHorz: Blog example in tailwind",
+                "url": "https://github.com/CodeCubicle-Org/WorkHorz/pull/1"
+            },
+            {
+                "title": "JReleaser: Make java.groupId settable using env vars or sys props",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1709"
+            }
         ]
     },
     {
