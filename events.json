@@ -120,6 +120,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "WorkHorz: Blog example in tailwind",
+                "url": "https://github.com/CodeCubicle-Org/WorkHorz/pull/1"
+            },
+            {
+                "title": "JReleaser: Make java.groupId settable using env vars or sys props",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1709"
+            }
         ]
     },
     {
