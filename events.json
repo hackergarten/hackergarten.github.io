@@ -83,6 +83,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): Add speaker profile picture to conference sessions",
+                "url": "https://github.com/McPringle/apus/commit/050950cc40244948bdfa1af46bbe965b2a2d88d2"
+            }
         ]
     },
     {
