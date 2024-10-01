@@ -101,7 +101,7 @@
         ],
         "achievements": [
             {
-                "title": "Update GitHub Workflow for JavaDoc",
+                "title": "Gradle Plugin for Node: Update GitHub Workflow for JavaDoc",
                 "url": "https://github.com/node-gradle/gradle-node-plugin/pull/322"
             }
         ]
