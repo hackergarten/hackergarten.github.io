@@ -114,6 +114,14 @@
             {
                 "title": "Apus (Social Media Wall): Add speaker profile picture to conference sessions",
                 "url": "https://github.com/McPringle/apus/commit/050950cc40244948bdfa1af46bbe965b2a2d88d2"
+            },
+            {
+                "title": "Neural network visualizaiton and learning app in JS",
+                "url": "https://vitaliiznak.github.io/parametric_regressor_aka_neural_network_with_visualization/"
+            },
+            {
+                "title": "Super Sudoku: Dark Mode",
+                "url": "https://github.com/TN1ck/super-sudoku/pull/15"
             }
         ]
     },
