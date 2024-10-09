@@ -24,6 +24,20 @@
         "achievements": []
     },
     {
+        "date": "2024-11-28",
+        "title": "Hackergarten Zurich November 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/303915242/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2024-11-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -46,6 +60,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2024-10-31",
+        "title": "Hackergarten Zurich October 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/303915238/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2024-10-03",
@@ -86,6 +114,14 @@
             {
                 "title": "Apus (Social Media Wall): Add speaker profile picture to conference sessions",
                 "url": "https://github.com/McPringle/apus/commit/050950cc40244948bdfa1af46bbe965b2a2d88d2"
+            },
+            {
+                "title": "Neural network visualizaiton and learning app in JS",
+                "url": "https://vitaliiznak.github.io/parametric_regressor_aka_neural_network_with_visualization/"
+            },
+            {
+                "title": "Super Sudoku: Dark Mode",
+                "url": "https://github.com/TN1ck/super-sudoku/pull/15"
             }
         ]
     },
