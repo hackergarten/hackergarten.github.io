@@ -48,6 +48,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Frontend Maven Plugin Documentation updated",
+                "url": "https://github.com/eirslett/frontend-maven-plugin/pull/1167"
+            }
         ]
     },
     {
