@@ -193,6 +193,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): create Bluesky plugin",
+                "url": "https://github.com/McPringle/apus/pull/258"
+            },
+            {
+                "title": "JReleaser: Add support for Conda-Forge",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1772"
+            }
         ]
     },
     {
