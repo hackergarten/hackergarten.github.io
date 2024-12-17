@@ -132,6 +132,20 @@
         "achievements": []
     },
     {
+        "date": "2025-01-30",
+        "title": "Hackergarten Zurich January 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/305130435/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2025-01-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -179,6 +193,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): create Bluesky plugin",
+                "url": "https://github.com/McPringle/apus/pull/258"
+            },
+            {
+                "title": "JReleaser: Add support for Conda-Forge",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1772"
+            }
         ]
     },
     {
