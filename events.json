@@ -1,5 +1,180 @@
 [
     {
+        "date": "2025-12-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576942/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-11-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576939/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-10-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576938/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-09-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576936/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-08-05",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576917/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-07-01",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576916/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-06-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576913/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-05-06",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576912/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-04-01",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576908/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-03-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576907/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-02-13",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/305627465/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-02-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576898/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "fix: Replace deprecated read-package-json dependency #3 ",
+                "url": "https://github.com/Semigradsky/read-installed/pull/3"
+            }
+        ]
+    },
+    {
+        "date": "2025-01-30",
+        "title": "Hackergarten Zurich January 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/305130435/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2025-01-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576896/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2024-12-05",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -24,6 +199,45 @@
         "achievements": []
     },
     {
+        "date": "2024-11-28",
+        "title": "Hackergarten Zurich November 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/303915242/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Apus (Social Media Wall): create Bluesky plugin",
+                "url": "https://github.com/McPringle/apus/pull/258"
+            },
+            {
+                "title": "JReleaser: Add support for Conda-Forge",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1772"
+            }
+        ]
+    },
+    {
+        "date": "2024-11-14",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/304123160/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Frontend Maven Plugin Documentation updated",
+                "url": "https://github.com/eirslett/frontend-maven-plugin/pull/1167"
+            }
+        ]
+    },
+    {
         "date": "2024-11-07",
         "venue": "CSS Versicherung",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -46,6 +260,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2024-10-31",
+        "title": "Hackergarten Zurich October 2024",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/303915238/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2024-10-03",
@@ -83,6 +311,18 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): Add speaker profile picture to conference sessions",
+                "url": "https://github.com/McPringle/apus/commit/050950cc40244948bdfa1af46bbe965b2a2d88d2"
+            },
+            {
+                "title": "Neural network visualizaiton and learning app in JS",
+                "url": "https://vitaliiznak.github.io/parametric_regressor_aka_neural_network_with_visualization/"
+            },
+            {
+                "title": "Super Sudoku: Dark Mode",
+                "url": "https://github.com/TN1ck/super-sudoku/pull/15"
+            }
         ]
     },
     {
@@ -96,6 +336,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Gradle Plugin for Node: Update GitHub Workflow for JavaDoc",
+                "url": "https://github.com/node-gradle/gradle-node-plugin/pull/322"
+            }
         ]
     },
     {
