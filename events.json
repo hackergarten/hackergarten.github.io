@@ -141,7 +141,12 @@
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576898/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "fix: Replace deprecated read-package-json dependency #3 ",
+                "url": "https://github.com/Semigradsky/read-installed/pull/3"
+            }
+        ]
     },
     {
         "date": "2025-01-30",
