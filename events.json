@@ -168,7 +168,12 @@
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/305627465/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "ArgoCD: Update documentation",
+                "url": "https://github.com/argoproj/argo-cd/pull/21873"
+            }
+        ]
     },
     {
         "date": "2025-02-06",
