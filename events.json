@@ -24,6 +24,18 @@
         "achievements": []
     },
     {
+        "date": "2025-11-04",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-DE/hackergarten-dortmund/events/306416460"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-10-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -72,6 +84,18 @@
         "achievements": []
     },
     {
+        "date": "2025-06-24",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/306416450"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-06-03",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -91,6 +115,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576912/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-04-01",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/306416425"
             }
         ],
         "achievements": []
