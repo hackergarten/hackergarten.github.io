@@ -179,6 +179,19 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): Theme for Voxxed Days Zurich",
+                "url": "https://github.com/McPringle/apus/issues/308"
+            },
+            {
+                "title": "Apus (Social Media Wall): Datetime Bugfix",
+                "url": "https://github.com/McPringle/apus/issues/313"
+            },
+            {
+                "title": "30 Day Challenge - result of AI assisted 'coding' experiment",
+                "url": "https://github.com/CodeCubicle-Org/30DayChallenge"
+            }
+
         ]
     },
     {
@@ -269,6 +282,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "JugeEscrime - Fencing Referee App: Added support for penalty cards",
+                "url": "https://github.com/darrasse/juge-escrime"
+            },
+            {
+                "title": "Scribus - Make the Align and distribute tool more comfortable to use.",
+                "url": "https://bugs.scribus.net/view.php?id=17393"
+            }
         ]
     },
     {
