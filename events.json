@@ -108,6 +108,20 @@
         "achievements": []
     },
     {
+        "date": "2025-05-22",
+        "title": "Hackergarten Zurich May 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/306458699"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2025-05-06",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -118,6 +132,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2025-04-24",
+        "title": "Hackergarten Zurich April 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/306458674"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2025-04-01",
@@ -142,6 +170,20 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2025-03-27",
+        "title": "Hackergarten Zurich March 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/306458632"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2025-03-06",
@@ -179,6 +221,19 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Apus (Social Media Wall): Theme for Voxxed Days Zurich",
+                "url": "https://github.com/McPringle/apus/issues/308"
+            },
+            {
+                "title": "Apus (Social Media Wall): Datetime Bugfix",
+                "url": "https://github.com/McPringle/apus/issues/313"
+            },
+            {
+                "title": "30 Day Challenge - result of AI assisted 'coding' experiment",
+                "url": "https://github.com/CodeCubicle-Org/30DayChallenge"
+            }
+
         ]
     },
     {
@@ -269,6 +324,14 @@
             }
         ],
         "achievements": [
+            {
+                "title": "JugeEscrime - Fencing Referee App: Added support for penalty cards",
+                "url": "https://github.com/darrasse/juge-escrime"
+            },
+            {
+                "title": "Scribus - Make the Align and distribute tool more comfortable to use.",
+                "url": "https://bugs.scribus.net/view.php?id=17393"
+            }
         ]
     },
     {
