@@ -207,7 +207,20 @@
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576907/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "ASOLR-17684: SolrJ Reference Guide (Ping) - Incorrect Status Retrieval",
+                "url": "https://github.com/apache/solr/pull/3237/commits/dd5117fbba702d44ffa6c26bfddf0bb03b806103"
+            },
+            {
+                "title": "Team Learning: CrewAI - Orchestrating autonomous AI agents",
+                "url": "https://docs.crewai.com/introduction"
+            },
+            {
+                "title": "intellij-alloy-plugin",
+                "url": "https://github.com/RykoL/intellij-alloy-plugin"
+            }
+        ]
     },
     {
         "date": "2025-02-27",
