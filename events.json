@@ -243,7 +243,16 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/305907382/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Apus (Social Media Wall): cleaned up nested configuration",
+                "url": "https://github.com/McPringle/apus/pull/321"
+            },
+            {
+                "title": "Apus (Social Media Wall): start work on Bluesky account mentions",
+                "url": "https://github.com/McPringle/apus/issues/309"
+            }
+        ]
     },
     {
         "date": "2025-03-04",
