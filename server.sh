@@ -1,2 +1,2 @@
 #!/bin/bash
-python -m SimpleHTTPServer ${1:-8080}
+python -m http.server "${1:-8080}"
