@@ -107,3 +107,7 @@ span.reason {
 #map .location-meetup img {
     height: 26px;
 }
+
+#project-frame {
+    height: 410px;
+}
