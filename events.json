@@ -232,7 +232,21 @@
         ],
         "achievements": [
         ]
-    },
+    },    
+    {
+         "date": "2025-03-20",
+         "title": "Hackergarten Basel March 2025",
+         "venue": "Karakun AG",
+         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+         "links": [
+             {
+                 "title": "Meetup",
+                 "url": "https://www.meetup.com/hackergarten-basel/events/306785813/"
+             }
+         ],
+         "achievements": [
+         ]
+     },
     {
         "date": "2025-03-06",
         "venue": "CSS Versicherung",
