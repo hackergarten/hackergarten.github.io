@@ -245,6 +245,22 @@
              }
          ],
          "achievements": [
+		    {
+			    "title": "[core] Cannot resolve app-image packager when selected #1829",
+				"url": "https://github.com/jreleaser/jreleaser/issues/1829"
+			},
+		    {
+			    "title": "[assemble] Outputs from unselected assembler are still being validated #1828",
+				"url": "https://github.com/jreleaser/jreleaser/issues/1828"
+			},
+		    {
+			    "title": "[packager] jreleaser failed to publish 0.125 of jbang to docker #1827",
+				"url": "https://github.com/jreleaser/jreleaser/issues/1827"
+			},
+		    {
+			    "title": "[deploy] Warn when publishing to Maven Central runs out of time #1826",
+				"url": "https://github.com/jreleaser/jreleaser/issues/1826"
+			}
          ]
      },
     {
