@@ -120,6 +120,20 @@
         "achievements": []
     },
     {
+         "date": "2025-06-04",
+         "title": "Hackergarten Basel June 2025",
+         "venue": "Karakun AG",
+         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+         "links": [
+             {
+                 "title": "Meetup",
+                 "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+             }
+         ],
+         "achievements": [
+         ]
+     },
+    {
         "date": "2025-06-03",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -157,6 +171,20 @@
         ],
         "achievements": []
     },
+    {
+         "date": "2025-05-06",
+         "title": "Hackergarten Basel June 2025",
+         "venue": "Karakun AG",
+         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+         "links": [
+             {
+                 "title": "Meetup",
+                 "url": "https://www.meetup.com/hackergarten-basel/events/306785914/"
+             }
+         ],
+         "achievements": [
+         ]
+     },
     {
         "date": "2025-05-01",
         "venue": "CSS Versicherung",
