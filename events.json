@@ -226,6 +226,10 @@
             {
                 "title": "mqtt-postgres-scrapper: Publish docker image",
                 "url": "https://hub.docker.com/r/timotheeclolus/mqtt-postgres-scrapper"
+            },
+            {
+                "title": "Fix documentation",
+                "url": "https://github.com/CloudCannon/pagefind/pull/799"
             }
         ]
     },
