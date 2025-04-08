@@ -193,7 +193,20 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/305907402/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Started work on poscards-rpc on a nucleo board",
+                "url": "https://github.com/maebli/nucleo-h723zg-postcard-rpc"
+            },
+            {
+                "title": "Worked on PromptIn: AI Prompt Management System",
+                "url": "https://github.com/olivierluethy/PromptIn"
+            },
+            {
+                "title": "Experiments in split keyboard design with KICAD",
+                "url": "https://github.com/lokalesnetzwerk/male_keybaord"
+            }
+        ]
     },
     {
         "date": "2025-04-01",
