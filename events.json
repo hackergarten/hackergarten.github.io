@@ -253,6 +253,14 @@
             }
         ],
         "achievements": [
+		    {
+			    "title": "Hotswap: Library for hot reloading JVM applications",
+				"url": "https://github.com/raphiz/hotswap"
+			},
+		    {
+			    "title": "Scribus: Dev Container setup and documentation",
+				"url": "https://github.com/aoloe/scribus-manual-development/blob/master/content/compiling-with-docker-en.md"
+			}
         ]
     },
     {
