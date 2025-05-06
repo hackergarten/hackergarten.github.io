@@ -199,7 +199,12 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyhchbcb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: Create and validate database schema",
+                "url": "https://github.com/McPringle/komunumo/issues/70"
+            }
+        ]
     },
     {
         "date": "2025-04-24",
