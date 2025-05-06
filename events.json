@@ -183,6 +183,10 @@
              }
          ],
          "achievements": [
+            {
+                "title": "Komunumo: Show communities on the home page",
+                "url": "https://github.com/McPringle/komunumo/commit/384159c092720c6c4f53cd9f6381285327b217a7"
+            }
          ]
      },
     {
