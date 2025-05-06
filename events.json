@@ -209,6 +209,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "AssertJ: Improve `hasAnnotation` implementation",
+                "url": "https://github.com/assertj/assertj/pull/3823"
+            }
         ]
     },
     {
