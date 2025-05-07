@@ -120,19 +120,44 @@
         "achievements": []
     },
     {
-         "date": "2025-06-04",
-         "title": "Hackergarten Basel June 2025",
-         "venue": "Karakun AG",
-         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-         "links": [
-             {
-                 "title": "Meetup",
-                 "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
-             }
-         ],
-         "achievements": [
-         ]
-     },
+        "date": "2025-05-04",
+        "title": "Hackergarten Basel May 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Add link to instructions for building from sources in README.md",
+                "url": "https://github.com/JabRef/jabref/pull/13070"
+            },
+            {
+                "title": "Fix subdirectory in which JabRef is to be found after building from sources",
+                "url": "https://github.com/JabRef/user-documentation/pull/563"
+            },
+            {
+                "title": "Open source and publish jFun (Java Functional library) using jReleaser",
+                "url": "https://github.com/seakayone/jfun"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-04",
+        "title": "Hackergarten Basel June 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2025-06-03",
         "venue": "codecentric AG",
@@ -156,8 +181,7 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/306458699"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2025-05-06",
@@ -172,23 +196,23 @@
         "achievements": []
     },
     {
-         "date": "2025-05-06",
-         "title": "Hackergarten Basel June 2025",
-         "venue": "Karakun AG",
-         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-         "links": [
-             {
-                 "title": "Meetup",
-                 "url": "https://www.meetup.com/hackergarten-basel/events/306785914/"
-             }
-         ],
-         "achievements": [
+        "date": "2025-05-06",
+        "title": "Hackergarten Basel June 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306785914/"
+            }
+        ],
+        "achievements": [
             {
                 "title": "Komunumo: Show communities on the home page",
                 "url": "https://github.com/McPringle/komunumo/commit/384159c092720c6c4f53cd9f6381285327b217a7"
             }
-         ]
-     },
+        ]
+    },
     {
         "date": "2025-05-01",
         "venue": "CSS Versicherung",
@@ -298,46 +322,46 @@
             }
         ],
         "achievements": [
-		    {
-			    "title": "Hotswap: Library for hot reloading JVM applications",
-				"url": "https://github.com/raphiz/hotswap"
-			},
-		    {
-			    "title": "Scribus: Dev Container setup and documentation",
-				"url": "https://github.com/aoloe/scribus-manual-development/blob/master/content/compiling-with-docker-en.md"
-			}
+            {
+                "title": "Hotswap: Library for hot reloading JVM applications",
+                "url": "https://github.com/raphiz/hotswap"
+            },
+            {
+                "title": "Scribus: Dev Container setup and documentation",
+                "url": "https://github.com/aoloe/scribus-manual-development/blob/master/content/compiling-with-docker-en.md"
+            }
         ]
     },
     {
-         "date": "2025-03-20",
-         "title": "Hackergarten Basel March 2025",
-         "venue": "Karakun AG",
-         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-         "links": [
-             {
-                 "title": "Meetup",
-                 "url": "https://www.meetup.com/hackergarten-basel/events/306785813/"
-             }
-         ],
-         "achievements": [
-		    {
-			    "title": "[core] Cannot resolve app-image packager when selected #1829",
-				"url": "https://github.com/jreleaser/jreleaser/issues/1829"
-			},
-		    {
-			    "title": "[assemble] Outputs from unselected assembler are still being validated #1828",
-				"url": "https://github.com/jreleaser/jreleaser/issues/1828"
-			},
-		    {
-			    "title": "[packager] jreleaser failed to publish 0.125 of jbang to docker #1827",
-				"url": "https://github.com/jreleaser/jreleaser/issues/1827"
-			},
-		    {
-			    "title": "[deploy] Warn when publishing to Maven Central runs out of time #1826",
-				"url": "https://github.com/jreleaser/jreleaser/issues/1826"
-			}
-         ]
-     },
+        "date": "2025-03-20",
+        "title": "Hackergarten Basel March 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306785813/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "[core] Cannot resolve app-image packager when selected #1829",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1829"
+            },
+            {
+                "title": "[assemble] Outputs from unselected assembler are still being validated #1828",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1828"
+            },
+            {
+                "title": "[packager] jreleaser failed to publish 0.125 of jbang to docker #1827",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1827"
+            },
+            {
+                "title": "[deploy] Warn when publishing to Maven Central runs out of time #1826",
+                "url": "https://github.com/jreleaser/jreleaser/issues/1826"
+            }
+        ]
+    },
     {
         "date": "2025-03-06",
         "venue": "CSS Versicherung",
@@ -408,7 +432,6 @@
                 "title": "30 Day Challenge - result of AI assisted 'coding' experiment",
                 "url": "https://github.com/CodeCubicle-Org/30DayChallenge"
             }
-
         ]
     },
     {
@@ -619,8 +642,7 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/303915238/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2024-10-03",
@@ -1093,7 +1115,8 @@
             {
                 "title": "Worked on AI-storytelling-for-kids",
                 "url": "https://github.com/linalopes/AI-storytelling-for-kids"
-            }]
+            }
+        ]
     },
     {
         "date": "2024-04-02",
@@ -1143,7 +1166,7 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-basel/events/299460904/"
             }
         ],
-        "achievements": [ ]
+        "achievements": []
     },
     {
         "date": "2024-03-05",
@@ -1240,7 +1263,6 @@
                 "title": "Pong with Rust and Ggez",
                 "url": "https://github.com/DominikStefancik/Games/tree/master/pong-with-rust-and-ggez"
             }
-
         ]
     },
     {
@@ -1333,7 +1355,6 @@
                 "title": "JReleaser: Identify labelers by committers",
                 "url": "https://github.com/jreleaser/jreleaser/commit/e6ad1afa6789f18484a83862eedf58a60f3bd6a7"
             }
-
         ]
     },
     {
@@ -1474,28 +1495,28 @@
                 "url": "https://github.com/assertj/assertj/pull/3191"
             },
             {
-                "title":"Create issue to Mastodon timeline feature: show toot stats",
-                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/21"
+                "title": "Create issue to Mastodon timeline feature: show toot stats",
+                "url": "https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/21"
             },
             {
-                "title":"Implement fix for issue to Mastodon timeline feature: show toot stats",
-                "url":"https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/merge_requests/22"
+                "title": "Implement fix for issue to Mastodon timeline feature: show toot stats",
+                "url": "https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/merge_requests/22"
             },
             {
-                "title":"Fix Hackergarten Homepage Issue by activating Slack integration",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/275"
+                "title": "Fix Hackergarten Homepage Issue by activating Slack integration",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/issues/275"
             },
             {
-                "title":"Fix Hackergarten Homepage Issue: Use SSL links in RSS ",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/issues/276"
+                "title": "Fix Hackergarten Homepage Issue: Use SSL links in RSS ",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/issues/276"
             },
             {
-                "title":"Fix Hackergarten Homepage Issue to make toots clickable",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/402"
+                "title": "Fix Hackergarten Homepage Issue to make toots clickable",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/402"
             },
             {
-                "title":"Improve Hackergarten Homepage: reduce header image sizes",
-                "url":"https://github.com/hackergarten/hackergarten.github.io/pull/401"
+                "title": "Improve Hackergarten Homepage: reduce header image sizes",
+                "url": "https://github.com/hackergarten/hackergarten.github.io/pull/401"
             }
         ]
     },
@@ -1738,8 +1759,7 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfcjbcb/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2023-06-15",
@@ -1824,8 +1844,7 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/mkxjbtyfchbgb/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2023-04-27",
@@ -1851,7 +1870,6 @@
                 "title": "Micropython and esp32: Played with apa102 aka dotstar LEDs",
                 "url": "https://github.com/mattytrentini/micropython-dotstar"
             }
-
         ]
     },
     {
@@ -1903,7 +1921,6 @@
                 "title": "ROS: Robot Operating System - playing around and bug hunting",
                 "url": "https://www.ros.org/"
             }
-
         ]
     },
     {
@@ -2411,8 +2428,7 @@
                 "url": "https://www.meetup.com/Hackergarten-Luzern/events/285903984/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2022-05-06",
@@ -2551,8 +2567,7 @@
                 "url": "https://www.meetup.com/de-DE/Hackergarten-Basel/events/283220432/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2022-01-06",
@@ -3021,8 +3036,7 @@
                 "url": "https://www.jfokus.se/jfokus/"
             }
         ],
-        "achievements": [
-        ],
+        "achievements": [],
         "venue": "JFokus",
         "address": "Stockholm, Sweden"
     },
@@ -3241,20 +3255,26 @@
             }
         ],
         "achievements": [
-            { "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS", "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"},
+            {
+                "title": "NativeScript-PDF-View: Add margins for Android to layout aligns with iOS",
+                "url": "https://github.com/madmas/nativescript-pdf-view/pull/4"
+            },
             {
                 "title": "JRis: Molding the API both from a kotlin and from a java project",
                 "url": "https://github.com/ursjoss/JRis/pull/8"
             },
-             {
+            {
                 "title": "WorkbenchFX: Add possibility to hide the close button in a specific module",
                 "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/105"
             },
-             {
+            {
                 "title": "WorkbenchFX: Add possibility to hide the add-Module Button in the entire Workbench",
                 "url": "https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX/pull/106"
             },
-            { "title": "Spek Framework: Fixture aliases for gherkin style", "url": "https://github.com/spekframework/spek/pull/818"}
+            {
+                "title": "Spek Framework: Fixture aliases for gherkin style",
+                "url": "https://github.com/spekframework/spek/pull/818"
+            }
         ]
     },
     {
@@ -3341,7 +3361,7 @@
                 "url": "https://github.com/codecentric/chaos-monkey-spring-boot/pull/137"
             },
             {
-               "title": "Chaos-monkey: Add example entry in changes.adoc (Fix #132)",
+                "title": "Chaos-monkey: Add example entry in changes.adoc (Fix #132)",
                 "url": "https://github.com/codecentric/chaos-monkey-spring-boot/pull/136"
             }
         ],
@@ -3420,16 +3440,16 @@
         ],
         "achievements": [
             {
-               "title": "pig.js implement onimageclickhandler",
-               "url": "https://github.com/schlosser/pig.js/pull/22"
+                "title": "pig.js implement onimageclickhandler",
+                "url": "https://github.com/schlosser/pig.js/pull/22"
             },
             {
-               "title": "Start to work on Nextcloud - IMAP Docker setup",
-               "url": "https://github.com/hackergarten/NextCloudTestingDockerSetup"
+                "title": "Start to work on Nextcloud - IMAP Docker setup",
+                "url": "https://github.com/hackergarten/NextCloudTestingDockerSetup"
             },
             {
-               "title": "Migrate from Field to Element - PreferencesFx",
-               "url": "https://github.com/dlsc-software-consulting-gmbh/PreferencesFX/pull/99"
+                "title": "Migrate from Field to Element - PreferencesFx",
+                "url": "https://github.com/dlsc-software-consulting-gmbh/PreferencesFX/pull/99"
             }
         ]
     },
@@ -3618,7 +3638,7 @@
                 "url": "https://goo.gl/maps/oWTmJGBVECgSjZJCA"
             }
         ],
-        "achievements": [        ],
+        "achievements": [],
         "venue": "codecentric AG",
         "address": "Gartenstraße 69a, 76135 Karlsruhe"
     },
@@ -3715,10 +3735,12 @@
                 "url": "https://gr8conf.eu/talks/605"
             }
         ],
-        "achievements": [{
-              "title": "Testcontainers: Add support for tmpfs to ContainerDatabaseDriver",
-              "url": "https://github.com/testcontainers/testcontainers-java/pull/1500"
-          }],
+        "achievements": [
+            {
+                "title": "Testcontainers: Add support for tmpfs to ContainerDatabaseDriver",
+                "url": "https://github.com/testcontainers/testcontainers-java/pull/1500"
+            }
+        ],
         "venue": "IT-University of Copenhagen",
         "address": "Rued Langgaards Vej 7, 2300 København"
     },
@@ -3787,16 +3809,17 @@
                 "url": "https://goo.gl/maps/JKCzwv8y5d72"
             }
         ],
-        "achievements": [{
+        "achievements": [
+            {
                 "title": "Set built-in attributes docfile, docname and docfilesuffix",
                 "url": "https://github.com/asciidoctor/asciidoctor-browser-extension/issues/254"
             },
-                         {
+            {
                 "title": "Add a configurable nullValueInput attribute",
                 "url": "https://github.com/uniVocity/univocity-parsers/issues/322"
             },
 
-                         {
+            {
                 "title": "Container-based integration testing to be added",
                 "url": "https://github.com/tablevert/tablevert-core/issues/2"
             }
@@ -3928,11 +3951,11 @@
                 "title": "Work on Jenkins",
                 "url": ""
             },
-             {
+            {
                 "title": "Aiden and Patrick continued working on OpenWhyd recommendation system",
                 "url": "http://openwhyd.org/"
             },
-             {
+            {
                 "title": "Mohammed fixed a core compatibility issue in AssertJ-Neo4j",
                 "url": "https://github.com/joel-costigliola/assertj-neo4j/pull/18"
             }
@@ -4377,7 +4400,7 @@
             }
         ]
     },
-     {
+    {
         "date": "2018-11-20",
         "title": "Hackergarten Paris",
         "venue": "Pivotal France",
