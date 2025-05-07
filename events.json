@@ -120,32 +120,6 @@
         "achievements": []
     },
     {
-        "date": "2025-05-04",
-        "title": "Hackergarten Basel May 2025",
-        "venue": "Karakun AG",
-        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
-            }
-        ],
-        "achievements": [
-            {
-                "title": "Add link to instructions for building from sources in README.md",
-                "url": "https://github.com/JabRef/jabref/pull/13070"
-            },
-            {
-                "title": "Fix subdirectory in which JabRef is to be found after building from sources",
-                "url": "https://github.com/JabRef/user-documentation/pull/563"
-            },
-            {
-                "title": "Open source and publish jFun (Java Functional library) using jReleaser",
-                "url": "https://github.com/seakayone/jfun"
-            }
-        ]
-    },
-    {
         "date": "2025-06-04",
         "title": "Hackergarten Basel June 2025",
         "venue": "Karakun AG",
@@ -197,7 +171,7 @@
     },
     {
         "date": "2025-05-06",
-        "title": "Hackergarten Basel June 2025",
+        "title": "Hackergarten Basel May 2025",
         "venue": "Karakun AG",
         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
         "links": [
@@ -210,6 +184,18 @@
             {
                 "title": "Komunumo: Show communities on the home page",
                 "url": "https://github.com/McPringle/komunumo/commit/384159c092720c6c4f53cd9f6381285327b217a7"
+            },
+            {
+                "title": "Add link to instructions for building from sources in README.md",
+                "url": "https://github.com/JabRef/jabref/pull/13070"
+            },
+            {
+                "title": "Fix subdirectory in which JabRef is to be found after building from sources",
+                "url": "https://github.com/JabRef/user-documentation/pull/563"
+            },
+            {
+                "title": "Open source and publish jFun (Java Functional library) using jReleaser",
+                "url": "https://github.com/seakayone/jfun"
             }
         ]
     },
