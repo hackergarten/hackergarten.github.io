@@ -144,7 +144,12 @@
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/306416450"
             }
         ],
-        "achievements": []
+        "achievements": [
+             {
+                "title": "Eeasy-E-EInvoice - Einfach zu nutzende Typescript Bib, die  XRechnung-XMLs erstellt",
+                "url": "https://www.npmjs.com/package/easy-e-invoice"
+            },
+        ]
     },
     {
         "date": "2025-06-05",
@@ -1115,10 +1120,6 @@
             {
                 "title": "Analyzed possible improvement for NativeScript-SecureStorage",
                 "url": "https://github.com/hackergarten/contributions/issues/10"
-            },
-            {
-                "title": "Fix detection of plugdev group for Linux users",
-                "url": "https://github.com/OpenBCI/OpenBCI_GUI/pull/1214"
             }
         ]
     },
