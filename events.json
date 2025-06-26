@@ -144,7 +144,15 @@
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/306416450"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "WIP fix for fail2ban github issue: https://github.com/fail2ban/fail2ban/issues/3566",
+                "url": "https://github.com/MaKaNu/fail2ban/tree/feature/json-parser"
+            },
+            {
+                "title": "Introduction and discussion around CrewAi and generally AI Agents"
+            }
+        ]
     },
     {
         "date": "2025-06-05",
