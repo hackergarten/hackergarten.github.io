@@ -1,5 +1,17 @@
 [
     {
+        "date": "2025-12-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcqbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-12-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -7,6 +19,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576942/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-11-06",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcpbjb/"
             }
         ],
         "achievements": []
@@ -48,6 +72,30 @@
         "achievements": []
     },
     {
+        "date": "2025-10-02",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-09-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcmbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-09-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -68,6 +116,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524511/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-08-07",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhclbkb/"
             }
         ],
         "achievements": []
