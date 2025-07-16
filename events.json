@@ -1,5 +1,17 @@
 [
     {
+        "date": "2025-12-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcqbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-12-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -11,8 +23,8 @@
         ],
         "achievements": []
     },
-    {
-        "date": "2025-11-26",
+  {
+       "date": "2025-11-26",
         "title": "Hackergarten Basel November 2025",
         "venue": "Karakun AG",
         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
@@ -20,6 +32,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-11-06",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcpbjb/"
+
             }
         ],
         "achievements": []
@@ -87,6 +112,30 @@
         "achievements": []
     },
     {
+        "date": "2025-10-02",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-09-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcmbgb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-09-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -111,7 +160,8 @@
         ],
         "achievements": []
     },
-    {
+  {
+        tammari-patch-1
         "date": "2025-08-27",
         "title": "Hackergarten Basel August 2025",
         "venue": "Karakun AG",
@@ -120,6 +170,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-08-07",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhclbkb/"
             }
         ],
         "achievements": []
@@ -196,7 +258,15 @@
                 "url": "https://www.meetup.com/hackergarten-dortmund/events/306416450"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "WIP fix for fail2ban github issue: https://github.com/fail2ban/fail2ban/issues/3566",
+                "url": "https://github.com/MaKaNu/fail2ban/tree/feature/json-parser"
+            },
+            {
+                "title": "Introduction and discussion around CrewAi and generally AI Agents"
+            }
+        ]
     },
     {
         "date": "2025-06-05",
@@ -1167,6 +1237,10 @@
             {
                 "title": "Analyzed possible improvement for NativeScript-SecureStorage",
                 "url": "https://github.com/hackergarten/contributions/issues/10"
+            },
+            {
+                "title": "Fix detection of plugdev group for Linux users",
+                "url": "https://github.com/OpenBCI/OpenBCI_GUI/pull/1214"
             }
         ]
     },
