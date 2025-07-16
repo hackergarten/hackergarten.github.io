@@ -23,6 +23,19 @@
         ],
         "achievements": []
     },
+  {
+       "date": "2025-11-26",
+        "title": "Hackergarten Basel November 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2025-11-06",
         "venue": "CSS ICT Campus Zentralschweiz",
@@ -31,6 +44,7 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcpbjb/"
+
             }
         ],
         "achievements": []
@@ -59,6 +73,19 @@
         ],
         "achievements": []
     },
+        {
+        "date": "2025-10-29",
+        "title": "Hackergarten Basel October 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2025-10-07",
         "venue": "codecentric AG",
@@ -67,6 +94,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576938/"
+            }
+        ],
+        "achievements": []
+    },
+        {
+        "date": "2025-10-01",
+        "title": "Hackergarten Basel October 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
             }
         ],
         "achievements": []
@@ -116,6 +156,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524511/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-08-27",
+        "title": "Hackergarten Basel August 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/306831769/"
             }
         ],
         "achievements": []
