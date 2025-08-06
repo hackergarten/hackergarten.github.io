@@ -124,6 +124,19 @@
         "achievements": []
     },
     {
+        "date": "2025-09-11",
+        "title": "Cyberland Open Source Camp",
+        "venue": "Cyberland",
+        "address": "Remote/Workadventure",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://cyberland.ijug.eu/2025-09-open-source-camp/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-09-04",
         "venue": "CSS ICT Campus Zentralschweiz",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -169,6 +182,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-basel/events/309853513/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-08-13",
+        "title": "Cyberland Open Source Camp",
+        "venue": "Cyberland",
+        "address": "Remote/Workadventure",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://cyberland.ijug.eu/2025-08-open-source-camp/"
             }
         ],
         "achievements": []
