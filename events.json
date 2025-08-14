@@ -23,6 +23,19 @@
         ],
         "achievements": []
     },
+    {
+        "date": "2025-11-27",
+        "title": "Hackergarten Zurich November 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/310517967/"
+            }
+        ],
+        "achievements": []
+    },
   {
        "date": "2025-11-26",
         "title": "Hackergarten Basel November 2025",
@@ -73,6 +86,19 @@
         ],
         "achievements": []
     },
+    {
+        "date": "2025-10-30",
+        "title": "Hackergarten Zurich October 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/310517964/"
+            }
+        ],
+        "achievements": []
+    },
         {
         "date": "2025-10-29",
         "title": "Hackergarten Basel October 2025",
@@ -119,6 +145,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-09-25",
+        "title": "Hackergarten Zurich September 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/310517961/"
             }
         ],
         "achievements": []
@@ -208,7 +247,13 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524486/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: Support for custom logos.",
+                "url": "https://github.com/McPringle/komunumo/issues/204"
+            }
+
+        ]
     },
     {
         "date": "2025-07-03",
@@ -245,7 +290,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524462/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "diffoscope: Fix for regression when metadata differ when comparing byte-by-byte identical files",
+                "url": "https://salsa.debian.org/reproducible-builds/diffoscope/-/issues/411"
+            },
+            {
+                "title": "SolarSoundBytes: Added image carousel to project website",
+                "url": "https://github.com/FadriPestalozzi/SolarSoundBytes"
+            },
+            {
+                "title": "Komunumo: Style fix for cards without image",
+                "url": "https://github.com/McPringle/komunumo/issues/158"
+            }
+        ]
     },
     {
         "date": "2025-06-24",
