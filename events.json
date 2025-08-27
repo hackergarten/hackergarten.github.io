@@ -210,7 +210,10 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/309853513/"
             }
         ],
-        "achievements": []
+        "achievements": [{
+                "title": "biomedit/portal: make getting started guide in docs foolproof",
+                "url": "https://gitlab.com/biomedit/portal/-/merge_requests/1864"
+            }]
     },
     {
         "date": "2025-08-07",
