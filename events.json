@@ -197,7 +197,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524511/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "JUnit Converters: Add `@Bytes` converter",
+                "url": "https://github.com/scordio/junit-converters/pull/13"
+            }
+        ]
     },
     {
         "date": "2025-08-27",
