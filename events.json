@@ -176,6 +176,14 @@
             {
                 "title": "Upgrade @nativescipt/pdf library",
                 "url": "https://github.com/NativeScript/plugins/pull/645"
+            },
+            {
+                "title": "Make socket configurable in fail2ban-dashboard",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/4"
+            },
+            {
+                "title": "Update README in fail2ban-dashboard",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/5"
             }
         ]
     },
