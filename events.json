@@ -162,6 +162,23 @@
         ],
         "achievements": []
     },
+     {
+        "date": "2025-09-04",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/310484088/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Upgrade @nativescipt/pdf library",
+                "url": "https://github.com/NativeScript/plugins/pull/645"
+            }
+        ]
+    },
     {
         "date": "2025-09-04",
         "venue": "CSS ICT Campus Zentralschweiz",
