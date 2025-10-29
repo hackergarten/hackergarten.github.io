@@ -122,6 +122,14 @@
             {
                 "title": "Gradle 9: Deprecated Flags",
                 "url": "https://github.com/kordamp/gm/issues/56"
+            },
+            {
+                "title": "question-driven-talk-assistant: Reported issue regarding necessary reload of after changing localstorage in test",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/issues/698"
+            },
+            {
+                "title": "question-driven-talk-assistant: Fixed #584 - Replace magic number for default QR code size",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/pull/699"
             }
         ]
     },
