@@ -114,6 +114,10 @@
              {
                 "title": "question-driven-talk-assistant: Reported issue on keyboard shortcuts",
                 "url": "https://github.com/martinfrancois/question-driven-talk-assistant/issues/696"
+            },
+            {
+                "title": "question-driven-talk-assistant: Fixed #20 - Allow editing empty header and footer",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/pull/697"
             }
         ]
     },
