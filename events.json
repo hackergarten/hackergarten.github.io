@@ -172,7 +172,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/309857779/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: feat(community): show upcoming events on community detail page",
+                "url": "https://github.com/McPringle/komunumo/pull/297"
+            }
+        ]
     },
     {
         "date": "2025-09-25",
