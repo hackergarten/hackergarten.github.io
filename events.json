@@ -203,7 +203,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/310517961/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: chore: Analyze Domain Logic for future UX work",
+                "url": "https://github.com/McPringle/komunumo"
+            }
+        ]
     },
      {
         "date": "2025-09-04",
