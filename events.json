@@ -159,7 +159,20 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: feat(config): add convenience methods to easily use different types for config options",
+                "url": "https://github.com/McPringle/komunumo/commit/29bb0526f70e75f732134a4e35192ae7cfbfd07c"
+            },
+            {
+                "title": "Komunumo: refactor: move settings to config table",
+                "url": "https://github.com/McPringle/komunumo/commit/f8b6feae80f4bd1de97b5996d9cc102b198e1110"
+            },
+            {
+                "title": "Komunumo: feat(pages): add a tab-sheet for upcoming events",
+                "url": "https://github.com/McPringle/komunumo/commit/b53ce5a720eef95a26f5273d4bd75520f2b1ab85"
+            }
+        ]
     },
     {
         "date": "2025-10-01",
