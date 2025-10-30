@@ -149,19 +149,6 @@
         ],
         "achievements": []
     },
-        {
-        "date": "2025-10-01",
-        "title": "Hackergarten Basel October 2025",
-        "venue": "Karakun AG",
-        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-basel/events/309857779/"
-            }
-        ],
-        "achievements": []
-    },
     {
         "date": "2025-10-02",
         "venue": "CSS ICT Campus Zentralschweiz",
@@ -170,6 +157,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-10-01",
+        "title": "Hackergarten Basel October 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/309857779/"
             }
         ],
         "achievements": []
