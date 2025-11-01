@@ -97,7 +97,16 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/310517964/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: show past events on community detail page",
+                "url": "https://github.com/McPringle/komunumo/pull/334"
+            },
+            {
+                "title": "Komunumo: design work on the logo",
+                "url": "https://github.com/McPringle/komunumo"
+            }
+        ]
     },
         {
         "date": "2025-10-29",
