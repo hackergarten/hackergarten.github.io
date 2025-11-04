@@ -72,7 +72,12 @@
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576939/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Added functionality to specify specific address instead of port only",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/7"
+            }
+        ]
     },
     {
         "date": "2025-11-04",
