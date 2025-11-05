@@ -73,10 +73,7 @@
             }
         ],
         "achievements": [
-            {
-                "title": "Added functionality to specify specific address instead of port only",
-                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/7"
-            }
+            
         ]
     },
     {
@@ -97,6 +94,10 @@
             {
                 "title": "Resolve static analysis findings in Operaton",
                 "url": "https://github.com/operaton/operaton/issues/1532"
+            },
+            {
+                "title": "Added functionality to specify specific address instead of port only",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/7"
             }
         ]
     },
