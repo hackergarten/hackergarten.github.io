@@ -91,6 +91,10 @@
         ],
         "achievements": [
             {
+                "title": "Implement Github Action run Mastodon Reminder Bot for Hackergarten Events",
+                "url": "https://github.com/hackergarten/mastodon-bot-automation/blob/main/.github/workflows/bot-execution.yml"
+            },
+            {
                 "title": "Resolve static analysis findings in Operaton",
                 "url": "https://github.com/operaton/operaton/issues/1532"
             }
