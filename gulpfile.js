@@ -95,7 +95,7 @@ gulp.task('generate-xml', gulp.series('validate-events', function () {
             }
             xml.push("</channel>");
             xml.push("</rss>");
-            return xml.join('');
+            return Buffer.from(xml.join(''), 'utf8');
         }))
         .pipe(rename("feed.xml"))
         .pipe(gulp.dest('.'));
@@ -125,6 +125,7 @@ gulp.task('generate-projects', gulp.series('validate-events', function () {
             html.push('<html lang="en">');
             html.push('<head>');
             html.push('<meta charset="utf-8"/>');
+            html.push('<meta name="generated-at" content="' + new Date().toISOString() + '"/>');
             html.push('<title>Top Contributed Projects</title>');
             html.push('<link href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet"/>');
             html.push('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>');
@@ -161,7 +162,7 @@ gulp.task('generate-projects', gulp.series('validate-events', function () {
             html.push('</table>');
             html.push('</body>');
             html.push('</html>');
-            return html.join('');
+            return Buffer.from(html.join('\n'), 'utf8');
         }))
         .pipe(rename("projects.html"))
         .pipe(gulp.dest('.'));
