@@ -89,7 +89,12 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-dortmund/events/306416460"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Resolve static analysis findings in Operaton",
+                "url": "https://github.com/operaton/operaton/issues/1532"
+            }
+        ]
     },
     {
         "date": "2025-10-30",
