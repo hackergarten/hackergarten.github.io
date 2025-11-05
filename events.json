@@ -107,7 +107,16 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/310517964/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: show past events on community detail page",
+                "url": "https://github.com/McPringle/komunumo/pull/334"
+            },
+            {
+                "title": "Komunumo: design work on the logo",
+                "url": "https://github.com/McPringle/komunumo"
+            }
+        ]
     },
         {
         "date": "2025-10-29",
@@ -121,7 +130,7 @@
             }
         ],
         "achievements": [
-             {
+            {
                 "title": "question-driven-talk-assistant: Reported issue on keyboard shortcuts",
                 "url": "https://github.com/martinfrancois/question-driven-talk-assistant/issues/696"
             },
@@ -140,6 +149,10 @@
             {
                 "title": "question-driven-talk-assistant: Fixed #584 - Replace magic number for default QR code size",
                 "url": "https://github.com/martinfrancois/question-driven-talk-assistant/pull/699"
+            },
+            {
+                "title": "Komunumo: feat(ui):create a new profile name component",
+                "url": "https://github.com/McPringle/komunumo/pull/332"
             }
         ]
     },
@@ -155,19 +168,6 @@
         ],
         "achievements": []
     },
-        {
-        "date": "2025-10-01",
-        "title": "Hackergarten Basel October 2025",
-        "venue": "Karakun AG",
-        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
-        "links": [
-            {
-                "title": "Meetup",
-                "url": "https://www.meetup.com/hackergarten-basel/events/309857779/"
-            }
-        ],
-        "achievements": []
-    },
     {
         "date": "2025-10-02",
         "venue": "CSS ICT Campus Zentralschweiz",
@@ -178,7 +178,38 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: feat(config): add convenience methods to easily use different types for config options",
+                "url": "https://github.com/McPringle/komunumo/commit/29bb0526f70e75f732134a4e35192ae7cfbfd07c"
+            },
+            {
+                "title": "Komunumo: refactor: move settings to config table",
+                "url": "https://github.com/McPringle/komunumo/commit/f8b6feae80f4bd1de97b5996d9cc102b198e1110"
+            },
+            {
+                "title": "Komunumo: feat(pages): add a tab-sheet for upcoming events",
+                "url": "https://github.com/McPringle/komunumo/commit/b53ce5a720eef95a26f5273d4bd75520f2b1ab85"
+            }
+        ]
+    },
+    {
+        "date": "2025-10-01",
+        "title": "Hackergarten Basel October 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/309857779/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: feat(community): show upcoming events on community detail page",
+                "url": "https://github.com/McPringle/komunumo/pull/297"
+            }
+        ]
     },
     {
         "date": "2025-09-25",
@@ -191,7 +222,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/310517961/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: chore: Analyze Domain Logic for future UX work",
+                "url": "https://github.com/McPringle/komunumo"
+            }
+        ]
     },
      {
         "date": "2025-09-04",
