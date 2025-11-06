@@ -260,6 +260,19 @@
         ]
     },
     {
+        "date": "2025-09-11",
+        "title": "Cyberland Open Source Camp",
+        "venue": "Cyberland",
+        "address": "Remote/Workadventure",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://cyberland.ijug.eu/2025-09-open-source-camp/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2025-09-04",
         "venue": "CSS ICT Campus Zentralschweiz",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -316,6 +329,19 @@
                 "title": "biomedit/portal: make getting started guide in docs foolproof",
                 "url": "https://gitlab.com/biomedit/portal/-/merge_requests/1864"
             }]
+    },
+    {
+        "date": "2025-08-13",
+        "title": "Cyberland Open Source Camp",
+        "venue": "Cyberland",
+        "address": "Remote/Workadventure",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://cyberland.ijug.eu/2025-08-open-source-camp/"
+            }
+        ],
+        "achievements": []
     },
     {
         "date": "2025-08-07",
