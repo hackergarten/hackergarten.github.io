@@ -51,6 +51,10 @@
             {
                 "title": "Komunumo: add participant count to event detail page",
                 "url": "https://github.com/McPringle/komunumo/commit/374ab31fef9941a8fedb7eaa6835c7eebab96703"
+            },
+            {
+                "title": "Evaluate templates in missing assembler properties",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2020"
             }
         ]
     },
