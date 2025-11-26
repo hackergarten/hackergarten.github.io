@@ -47,7 +47,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/309859141/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: add participant count to event detail page",
+                "url": "https://github.com/McPringle/komunumo/commit/374ab31fef9941a8fedb7eaa6835c7eebab96703"
+            }
+        ]
     },
     {
         "date": "2025-11-06",
