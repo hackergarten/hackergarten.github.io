@@ -49,7 +49,12 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcqbgb/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: add multi-language help to Markdown editor",
+                "url":"https://github.com/McPringle/komunumo/issues/356"
+            }
+        ]
     },
     {
         "date": "2025-12-02",
