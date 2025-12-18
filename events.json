@@ -25,7 +25,20 @@
         ],
         "achievements": []
     },
-      {
+    {
+        "date": "2026-01-22",
+        "title": "Hackergarten Zurich January 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/312487770/"
+            }
+        ],
+        "achievements": []
+    },
+    {
        "date": "2026-01-21",
         "title": "Hackergarten Basel January 2026",
         "venue": "Karakun AG",
@@ -127,7 +140,7 @@
             }
         ],
         "achievements": [
-            
+
         ]
     },
     {
