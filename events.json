@@ -1,5 +1,101 @@
 [
     {
+        "date": "2026-12-01",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178343/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-11-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178340/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-10-06",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178335/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-08-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178333/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-07-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178330/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-06-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178327/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-05-05",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178325/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-04-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178323/"
+            }
+        ],
+        "achievements": []
+    },
+    {
        "date": "2026-03-18",
         "title": "Hackergarten Basel March 2026",
         "venue": "Karakun AG",
@@ -13,6 +109,18 @@
         "achievements": []
     },
     {
+        "date": "2026-03-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178318/"
+            }
+        ],
+        "achievements": []
+    },
+    {
        "date": "2026-02-04",
         "title": "Hackergarten Basel February 2026",
         "venue": "Karakun AG",
@@ -21,6 +129,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-basel/events/312253263/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-02-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178314/"
             }
         ],
         "achievements": []
@@ -51,7 +171,18 @@
         ],
         "achievements": []
     },
-
+    {
+        "date": "2026-01-13",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178383/"
+            }
+        ],
+        "achievements": []
+    },
     {
         "date": "2025-12-04",
         "venue": "CSS ICT Campus Zentralschweiz",
