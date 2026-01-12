@@ -24,6 +24,19 @@
         "achievements": []
     },
     {
+        "date": "2026-11-03",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845304/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2026-10-06",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -46,6 +59,19 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2026-08-04",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845289/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2026-07-07",
@@ -84,6 +110,19 @@
         "achievements": []
     },
     {
+        "date": "2026-05-05",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845285"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
         "date": "2026-04-07",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -119,6 +158,19 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2026-02-10",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845270/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
        "date": "2026-02-04",
