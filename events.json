@@ -221,7 +221,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/312253237/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Found and fixed copr spec file wrapper script",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2051"
+            }
+        ]
     },
     {
         "date": "2026-01-13",
