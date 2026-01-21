@@ -223,6 +223,10 @@
         ],
         "achievements": [
             {
+              "title": "PeerTube: introduce new email template and change notifier code to use it",
+              "url": "https://github.com/Chocobozzz/PeerTube/pull/7395"
+            },
+            {
                 "title": "Found and fixed copr spec file wrapper script",
                 "url": "https://github.com/jreleaser/jreleaser/issues/2051"
             }
