@@ -9,7 +9,7 @@ on:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    environment: bot-automation
+    environment: reminder-bot-automation
     
     steps:
       - name: Checkout current repository
