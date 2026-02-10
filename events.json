@@ -170,6 +170,10 @@
             }
         ],
         "achievements": [
+            {
+              "title": "PeerTube: add missing German translations",
+              "url": "https://github.com/Chocobozzz/PeerTube/pull/7439"
+            }
         ]
     },
     {
