@@ -260,7 +260,24 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/312487770/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+              "title": "Scribus: Draft ui concept and feature to manage presets for pdf export",
+              "url": "https://bugs.scribus.net/view.php?id=16257"
+            },
+            {
+              "title": "JReleaser: Improve Error Message from Exceptions",
+              "url": "https://github.com/jreleaser/jreleaser/issues/2050"
+            },
+            {
+              "title": "JReleaser: Fix failure to publish JReleaser v1.22.0 docker images",
+              "url": "https://github.com/jreleaser/jreleaser/issues/2042"
+            },
+            {
+              "title": "Komunumo: add JSON data export functionality",
+              "url": "https://github.com/McPringle/komunumo/pull/407"
+            }
+        ]
     },
     {
        "date": "2026-01-21",
