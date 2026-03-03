@@ -86,6 +86,19 @@
         "achievements": []
     },
     {
+        "date": "2026-06-23",
+        "title": "Hackergarten Basel June 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/313616213/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2026-06-04",
         "venue": "CSS ICT Campus Zentralschweiz",
         "address": "Rösslimatte 52, 6005 Luzern",
@@ -118,6 +131,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-zurich/events/313127411/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-05-20",
+        "title": "Hackergarten Basel May 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/313616130/"
             }
         ],
         "achievements": []
@@ -168,6 +194,19 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-zurich/events/313127382/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-04-29",
+        "title": "Hackergarten Basel April 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/313616011/"
             }
         ],
         "achievements": []
