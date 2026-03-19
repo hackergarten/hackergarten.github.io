@@ -33,8 +33,7 @@
                 "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845304/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2026-10-06",
@@ -70,8 +69,7 @@
                 "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845289/"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2026-07-07",
@@ -182,8 +180,7 @@
                 "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845285"
             }
         ],
-        "achievements": [
-        ]
+        "achievements": []
     },
     {
         "date": "2026-04-30",
@@ -250,6 +247,24 @@
     },
     {
         "date": "2026-03-18",
+        "title": "Hackergarten Zurich March 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/313127324/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "I shared my knowledge with someone who had no programming experience",
+                "url": "https://threlte.xyz/"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-18",
         "title": "Hackergarten Basel March 2026",
         "venue": "Karakun AG",
         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
@@ -264,10 +279,10 @@
                 "title": "discord-guild-configurator: Finish migration away from single script to separate application",
                 "url": "https://github.com/NMertsch/discord-guild-configurator/commit/2ea1f96f8b9d71077fd15060b106e10d90350f8c"
             },
-             {
+            {
                 "title": "QR Code TypeScript Migration, fixed tests on Windows",
                 "url": "https://github.com/Greenheart/qrcode/commit/640dec5c841b977c1be82f7d52991512e8979b9f"
-             },
+            },
             {
                 "title": "KeePassXC: troubleshoot dead keys input issue in the password field and submmit a bug report",
                 "url": "https://github.com/keepassxreboot/keepassxc/issues/13167"
@@ -442,7 +457,7 @@
         "achievements": [
             {
                 "title": "Komunumo: add multi-language help to Markdown editor",
-                "url":"https://github.com/McPringle/komunumo/issues/356"
+                "url": "https://github.com/McPringle/komunumo/issues/356"
             }
         ]
     },
@@ -471,8 +486,8 @@
         ],
         "achievements": []
     },
-  {
-       "date": "2025-11-26",
+    {
+        "date": "2025-11-26",
         "title": "Hackergarten Basel November 2025",
         "venue": "Karakun AG",
         "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
@@ -501,7 +516,6 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcpbjb/"
-
             }
         ],
         "achievements": []
@@ -516,9 +530,7 @@
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576939/"
             }
         ],
-        "achievements": [
-
-        ]
+        "achievements": []
     },
     {
         "date": "2025-11-04",
@@ -567,7 +579,7 @@
             }
         ]
     },
-        {
+    {
         "date": "2025-10-29",
         "title": "Hackergarten Basel October 2025",
         "venue": "Karakun AG",
@@ -678,7 +690,7 @@
             }
         ]
     },
-     {
+    {
         "date": "2025-09-04",
         "venue": "Karakun @ Digitale Werkbank Dortmund",
         "address": "Kanalstr. 25, 44147 Dortmund",
@@ -756,10 +768,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/309853513/"
             }
         ],
-        "achievements": [{
+        "achievements": [
+            {
                 "title": "biomedit/portal: make getting started guide in docs foolproof",
                 "url": "https://gitlab.com/biomedit/portal/-/merge_requests/1864"
-            }]
+            }
+        ]
     },
     {
         "date": "2025-08-07",
@@ -801,7 +815,6 @@
                 "title": "Komunumo: Support for custom logos.",
                 "url": "https://github.com/McPringle/komunumo/issues/204"
             }
-
         ]
     },
     {
