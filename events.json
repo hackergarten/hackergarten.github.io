@@ -275,6 +275,24 @@
         ]
     },
     {
+        "date": "2026-03-18",
+        "title": "Hackergarten Basel March 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/312253273/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "docs: update README",
+                "url": "https://github.com/NasaboyZ/Expense_tracker"
+            }
+        ]
+    },
+    {
         "date": "2026-03-05",
         "venue": "CSS ICT Campus Zentralschweiz",
         "address": "Rösslimatte 52, 6005 Luzern",
