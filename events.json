@@ -104,6 +104,10 @@
         "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
             {
+                "title": "Komunumo",
+                "url": "https://events.hackergarten.net/events/67d86dab-c382-4493-a95c-76ddf365b0db"
+            },
+            {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/313553934/"
             }
@@ -153,6 +157,10 @@
         "venue": "CSS ICT Campus Zentralschweiz",
         "address": "Rösslimatte 52, 6005 Luzern",
         "links": [
+            {
+                "title": "Komunumo",
+                "url": "https://events.hackergarten.net/events/e2ea55fc-b95d-4556-be2e-da538e87206b"
+            },
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-luzern/events/313553924/"
