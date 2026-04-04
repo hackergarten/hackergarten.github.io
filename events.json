@@ -233,7 +233,28 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/313553910/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: Update Spring Boot Starter Parent",
+                "url": "https://github.com/komunumo/komunumo/commit/0470a3743f61369e6381bfcf8f1fdbf0287e18ea"
+            },
+            {
+                "title": "Komunumo: Update Vaadin Flow",
+                "url": "https://github.com/komunumo/komunumo/commit/1efc87eca7653c1363309181c96411bf90dad89a"
+            },
+            {
+                "title": "OpenJDK Mission Control: Release 9.1.2",
+                "url": "https://openjdk.org/projects/jmc/"
+            },
+            {
+                "title": "SeaRobots: Adding native jME map to avoid Java2D related problems on Mac",
+                "url": "https://github.com/thegreystone/searobots/commit/d570c0d0592ddd3fd42b597352ee51bbfb733268"
+            },
+            {
+                "title": "Anki: Working on an Add-On",
+                "url": "https://github.com/ankitects/anki"
+            }
+        ]
     },
     {
         "date": "2026-03-26",
