@@ -221,6 +221,22 @@
             {
                 "title": "JReleaser: support GPG subkeys for signing",
                 "url": "https://github.com/jreleaser/jreleaser/issues/2086"
+            },
+            {
+                "title": "Vaadin Flow: added a reproduction for a special-character path bug using the latest version",
+                "url": "https://github.com/vaadin/flow/issues/11871#issuecomment-4346767699"
+            },
+            {
+                "title": "komunumo: add compatibility with Colima for local development",
+                "url": "https://github.com/komunumo/komunumo/pull/458"
+            },
+            {
+                "title": "komunumo: add Vaadin path troubleshooting",
+                "url": "https://github.com/komunumo/komunumo/pull/459"
+            },
+            {
+                "title": "komunumo: add Testcontainers troubleshooting",
+                "url": "https://github.com/komunumo/komunumo/pull/460"
             }
         ]
     },
