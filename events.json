@@ -221,7 +221,7 @@
             {
                 "title": "JReleaser: support GPG subkeys for signing",
                 "url": "https://github.com/jreleaser/jreleaser/issues/2086"
-            },
+            }
         ]
     },
     {
