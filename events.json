@@ -217,7 +217,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/313616011/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "JReleaser: support GPG subkeys for signing",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2086"
+            }
+        ]
     },
     {
         "date": "2026-04-07",
