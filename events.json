@@ -204,7 +204,16 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/313127382/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: evaluating ICAL libraries",
+                "url": "https://github.com/komunumo/komunumo/issues/391"
+            },
+            {
+                "title": "Fedora COSMIC Spin: tracking down keyboard layout problems in COSMIC Greeter",
+                "url": "https://fedoraproject.org/atomic-desktops/cosmic/"
+            }
+        ]
     },
     {
         "date": "2026-04-29",
@@ -227,16 +236,20 @@
                 "url": "https://github.com/vaadin/flow/issues/11871#issuecomment-4346767699"
             },
             {
-                "title": "komunumo: add compatibility with Colima for local development",
+                "title": "Komunumo: add compatibility with Colima for local development",
                 "url": "https://github.com/komunumo/komunumo/pull/458"
             },
             {
-                "title": "komunumo: add Vaadin path troubleshooting",
+                "title": "Komunumo: add Vaadin path troubleshooting",
                 "url": "https://github.com/komunumo/komunumo/pull/459"
             },
             {
-                "title": "komunumo: add Testcontainers troubleshooting",
+                "title": "Komunumo: add Testcontainers troubleshooting",
                 "url": "https://github.com/komunumo/komunumo/pull/460"
+            },
+            {
+                "title": "Komunumo: add custom favicon support",
+                "url": "https://github.com/komunumo/komunumo/commit/5c93312f1ad1170a9048c997bfa9ec738cec9bea"
             }
         ]
     },
