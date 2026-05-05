@@ -34,6 +34,10 @@
             }
         ],
         "achievements": [
+            {
+                "title": "Komunumo: local stack Maven profile and ARM-compatible container images",
+                "url": "https://github.com/komunumo/komunumo/pull/463"
+            }
         ]
     },
     {
