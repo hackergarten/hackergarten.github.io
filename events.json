@@ -254,6 +254,10 @@
             {
                 "title": "Komunumo: add custom favicon support",
                 "url": "https://github.com/komunumo/komunumo/commit/5c93312f1ad1170a9048c997bfa9ec738cec9bea"
+            },
+            {
+                "title": "Videos comparision evaluation",
+                "url": "https://github.com/stbornowski/VideosComparision"
             }
         ]
     },
