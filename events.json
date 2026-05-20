@@ -141,12 +141,7 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/313127411/"
             }
         ],
-        "achievements": [
-            {
-                "title": "OpenClaw: Triage on #84607 'Bug: No automatic retry with fallback when primary model returns overloaded_error'",
-                "url": "https://github.com/openclaw/openclaw/issues/84607#issuecomment-4500808188"
-            }
-        ]
+        "achievements": []
     },
     {
         "date": "2026-05-20",
@@ -160,9 +155,13 @@
             }
         ],
         "achievements": [
-                        {
+            {
                 "title": "githup-speckit: Triage on #1030 'md linting errors'",
                 "url": "https://github.com/github/spec-kit/issues/1030#issuecomment-4501717345"
+            },
+            {
+                "title": "OpenClaw: Triage on #84607 'Bug: No automatic retry with fallback when primary model returns overloaded_error'",
+                "url": "https://github.com/openclaw/openclaw/issues/84607#issuecomment-4500808188"
             }
         ]
     },
