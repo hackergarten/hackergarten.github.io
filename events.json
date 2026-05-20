@@ -159,7 +159,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/313616130/"
             }
         ],
-        "achievements": []
+        "achievements": [
+                        {
+                "title": "githup-speckit: Triage on #1030 'md linting errors'",
+                "url": "https://github.com/github/spec-kit/issues/1030#issuecomment-4501717345"
+            }
+        ]
     },
     {
         "date": "2026-05-07",
