@@ -141,7 +141,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/313127411/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "OpenClaw: Triage on #84607 'Bug: No automatic retry with fallback when primary model returns overloaded_error'",
+                "url": "https://github.com/openclaw/openclaw/issues/84607#issuecomment-4500808188"
+            }
+        ]
     },
     {
         "date": "2026-05-20",
