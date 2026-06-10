@@ -142,6 +142,10 @@
             {
                 "title": "jFun: Update build and Java 25",
                 "url": "https://github.com/seakayone/jfun/pull/1"
+            },
+            {
+                "title": "Prod deployment iJUG registration",
+                "url": "https://github.com/ijug-ev/registration"
             }
         ]
     },
