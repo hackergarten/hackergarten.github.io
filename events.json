@@ -125,7 +125,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/313616213/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "punit: Add STT dummy experiment",
+                "url": "https://github.com/mavai-org/mavai-stt-bench/pull/1"
+            }
+        ]
     },
     {
         "date": "2026-06-10",
