@@ -129,6 +129,10 @@
             {
                 "title": "punit: Add STT dummy experiment",
                 "url": "https://github.com/mavai-org/mavai-stt-bench/pull/1"
+            }, 
+            {
+                "title": "java-streams-skill: Review PR on discouraging multi-line lambdas",
+                "url": "https://github.com/martinfrancois/java-streams-skill/pull/37"
             }
         ]
     },
