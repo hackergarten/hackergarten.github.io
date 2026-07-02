@@ -1,5 +1,17 @@
 [
     {
+        "date": "2026-12-03",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497438/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2026-12-01",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -7,6 +19,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178343/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-11-05",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497435/"
             }
         ],
         "achievements": []
@@ -53,6 +77,18 @@
         "achievements": []
     },
     {
+        "date": "2026-10-01",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497431/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2026-09-29",
         "title": "Hackergarten Basel September 2026",
         "venue": "Karakun AG",
@@ -66,6 +102,18 @@
         "achievements": []
     },
     {
+        "date": "2026-09-03",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497426/"
+            }
+        ],
+        "achievements": []
+    },
+    {
         "date": "2026-08-25",
         "title": "Hackergarten Basel August 2026",
         "venue": "Karakun AG",
@@ -74,6 +122,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-basel/events/314977118/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-08-06",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497423/"
             }
         ],
         "achievements": []
@@ -110,6 +170,18 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178330/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-07-02",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497401/"
             }
         ],
         "achievements": []
