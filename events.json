@@ -150,7 +150,7 @@
                 "url": "https://github.com/martin-francois/symphony-trello/issues/661"
             },
             {
-                "title": "symphony-trello: docs(README): explain that the token link is hidden inside a paragrap…",
+                "title": "symphony-trello: docs(README): explain that the token link is hidden inside a paragraph and ensure that instructions are valid for desktop and mobile",
                 "url": "https://github.com/martin-francois/symphony-trello/pull/664"
             },
             {
@@ -158,7 +158,7 @@
                 "url": "https://github.com/martin-francois/symphony-trello/pull/663"
             },
             {
-                "title": "symphony-trello: docs(README): don't require knowledge of WORKFLOW.md when using insta…",
+                "title": "symphony-trello: docs(README): don't require knowledge of WORKFLOW.md when using installer",
                 "url": "https://github.com/martin-francois/symphony-trello/pull/662"
             }
         ]
