@@ -124,7 +124,12 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/314977118/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Diego, Anish, Chris, and some help with Claude created tiffer",
+                "url": "https://github.com/McKean/tiffer"
+            }
+        ]
     },
     {
         "date": "2026-08-06",
