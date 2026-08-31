@@ -114,6 +114,28 @@
         "achievements": []
     },
     {
+        "date": "2026-08-27",
+        "title": "Hackergarten Zurich August 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/315800586/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "FitPub: add reusable accessible character counters",
+                "url": "https://codeberg.org/fitpub/fitpub/issues/465"
+            },
+            {
+                "title": "FitPub: writing OpenSpec to propose average speed on timeline cards",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/8808ebd0ada05e6c18ae3c28a36264b0dda613e6"
+            }
+        ]
+    },
+    {
         "date": "2026-08-25",
         "title": "Hackergarten Basel August 2026",
         "venue": "Karakun AG",
@@ -160,6 +182,14 @@
             {
                 "title": "symphony-trello: docs(README): don't require knowledge of WORKFLOW.md when using installer",
                 "url": "https://github.com/martin-francois/symphony-trello/pull/662"
+            },
+            {
+                "title": "FitPub: limit activity title length to 200 characters",
+                "utl": "https://codeberg.org/fitpub/fitpub/issues/461"
+            },
+            {
+                "title": "FitPub: require selection for activity locations",
+                "url": "https://codeberg.org/fitpub/fitpub/issues/462"
             }
         ]
     },
@@ -173,7 +203,12 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/315497423/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "FitPub: allow users to configure default timeline",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/440"
+            }
+        ]
     },
     {
         "date": "2026-08-04",
