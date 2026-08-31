@@ -124,7 +124,44 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/314977118/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Diego, Anish, Chris, and some help with Claude created tiffer",
+                "url": "https://github.com/McKean/tiffer"
+            },
+            {
+                "title": "symphony-trello: bug: logs fails with setup_logs_missing on macOS after installer setup",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/668"
+            },
+            {
+                "title": "symphony-trello: feat(trello): skip Merging and accept Done when there is nothing to merge",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/667"
+            },
+            {
+                "title": "symphony-trello: feat: distinguish human comments from agent comments on Trello (and GitHub)",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/666"
+            },
+            {
+                "title": "symphony-trello: docs: installer users are told to write .env instead of pasting credentials in the terminal",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/665"
+            },
+            {
+                "title": "symphony-trello: docs: clarify that Token is an inline link next to the API key",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/661"
+            },
+            {
+                "title": "symphony-trello: docs(README): explain that the token link is hidden inside a paragraph and ensure that instructions are valid for desktop and mobile",
+                "url": "https://github.com/martin-francois/symphony-trello/pull/664"
+            },
+            {
+                "title": "symphony-trello: docs(README): explain api key and token sensitivity in logical order",
+                "url": "https://github.com/martin-francois/symphony-trello/pull/663"
+            },
+            {
+                "title": "symphony-trello: docs(README): don't require knowledge of WORKFLOW.md when using installer",
+                "url": "https://github.com/martin-francois/symphony-trello/pull/662"
+            }
+        ]
     },
     {
         "date": "2026-08-06",
