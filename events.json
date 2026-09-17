@@ -57,12 +57,7 @@
                 "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845304/"
             }
         ],
-        "achievements": [
-            {
-                "title": "Komunumo: local stack Maven profile and ARM-compatible container images",
-                "url": "https://github.com/komunumo/komunumo/pull/463"
-            }
-        ]
+        "achievements": []
     },
     {
         "date": "2026-10-06",
@@ -100,6 +95,19 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2026-09-17",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/315972792/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2026-09-03",
