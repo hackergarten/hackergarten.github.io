@@ -102,7 +102,12 @@
             {
                 "title": "FitPub: Add SECURITY.md",
                 "url": "https://codeberg.org/fitpub/fitpub/pulls/514"
-            }]
+            },
+            {
+                "title": "FitPub: Add new Rocket emoji for reactions",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/e0bca9f268dfc2d106c4a444d4af481dbd1de5ad"
+            }
+        ]
     },
     {
         "date": "2026-09-17",
