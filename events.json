@@ -94,7 +94,11 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/314977180/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Codeberg/Documentation: Add reference to SECURITY.md",
+                "url": "https://codeberg.org/Codeberg/Documentation/pulls/917"
+            }]
     },
     {
         "date": "2026-09-17",
