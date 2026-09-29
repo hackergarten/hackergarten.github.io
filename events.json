@@ -57,12 +57,7 @@
                 "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845304/"
             }
         ],
-        "achievements": [
-            {
-                "title": "Komunumo: local stack Maven profile and ARM-compatible container images",
-                "url": "https://github.com/komunumo/komunumo/pull/463"
-            }
-        ]
+        "achievements": []
     },
     {
         "date": "2026-10-06",
@@ -99,7 +94,28 @@
                 "url": "https://www.meetup.com/hackergarten-basel/events/314977180/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Codeberg/Documentation: Add reference to SECURITY.md",
+                "url": "https://codeberg.org/Codeberg/Documentation/pulls/917"
+            },
+            {
+                "title": "FitPub: Add SECURITY.md",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/514"
+            }]
+    },
+    {
+        "date": "2026-09-17",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/315972792/"
+            }
+        ],
+        "achievements": [
+        ]
     },
     {
         "date": "2026-09-03",
@@ -112,6 +128,28 @@
             }
         ],
         "achievements": []
+    },
+    {
+        "date": "2026-08-27",
+        "title": "Hackergarten Zurich August 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/315800586/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "FitPub: add reusable accessible character counters",
+                "url": "https://codeberg.org/fitpub/fitpub/issues/465"
+            },
+            {
+                "title": "FitPub: writing OpenSpec to propose average speed on timeline cards",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/8808ebd0ada05e6c18ae3c28a36264b0dda613e6"
+            }
+        ]
     },
     {
         "date": "2026-08-25",
@@ -160,6 +198,14 @@
             {
                 "title": "symphony-trello: docs(README): don't require knowledge of WORKFLOW.md when using installer",
                 "url": "https://github.com/martin-francois/symphony-trello/pull/662"
+            },
+            {
+                "title": "FitPub: limit activity title length to 200 characters",
+                "utl": "https://codeberg.org/fitpub/fitpub/issues/461"
+            },
+            {
+                "title": "FitPub: require selection for activity locations",
+                "url": "https://codeberg.org/fitpub/fitpub/issues/462"
             }
         ]
     },
@@ -173,7 +219,12 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/315497423/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "FitPub: allow users to configure default timeline",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/440"
+            }
+        ]
     },
     {
         "date": "2026-08-04",
