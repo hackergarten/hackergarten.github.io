@@ -81,7 +81,16 @@
                 "url": "https://www.meetup.com/hackergarten-luzern/events/315497431/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "FitPub: add more debug information on failed remote actor avatar caching",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/517"
+            },
+            {
+                "title": "FitPub: add Content Security Policy to each request and refactor UI to comply",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/ce750a29cc13b84cb2fb1ff1ca6ffe6710d8ec66"
+            }
+        ]
     },
     {
         "date": "2026-09-29",
