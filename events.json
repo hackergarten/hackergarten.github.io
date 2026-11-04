@@ -57,7 +57,9 @@
                 "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845304/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {"title":"PR to Tiberius Security Testing Framework for LLM Applications", "url":"https://github.com/tiberius-security/tiberius/pull/2"}
+        ]
     },
     {
         "date": "2026-10-06",
