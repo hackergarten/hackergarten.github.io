@@ -1,5 +1,763 @@
 [
     {
+        "date": "2026-12-03",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497438/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-12-01",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178343/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-11-05",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497435/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-11-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178340/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-11-03",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845304/"
+            }
+        ],
+        "achievements": [
+            {"title":"PR to Tiberius Security Testing Framework for LLM Applications", "url":"https://github.com/tiberius-security/tiberius/pull/2"}
+        ]
+    },
+    {
+        "date": "2026-10-06",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178335/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-10-01",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497431/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "FitPub: add more debug information on failed remote actor avatar caching",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/517"
+            },
+            {
+                "title": "FitPub: add Content Security Policy to each request and refactor UI to comply",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/ce750a29cc13b84cb2fb1ff1ca6ffe6710d8ec66"
+            }
+        ]
+    },
+    {
+        "date": "2026-09-29",
+        "title": "Hackergarten Basel September 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/314977180/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Codeberg/Documentation: Add reference to SECURITY.md",
+                "url": "https://codeberg.org/Codeberg/Documentation/pulls/917"
+            },
+            {
+                "title": "FitPub: Add SECURITY.md",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/514"
+            },
+            {
+                "title": "FitPub: Add new Rocket emoji for reactions",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/e0bca9f268dfc2d106c4a444d4af481dbd1de5ad"
+            }
+        ]
+    },
+    {
+        "date": "2026-09-17",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/315972792/"
+            }
+        ],
+        "achievements": [
+        ]
+    },
+    {
+        "date": "2026-09-03",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497426/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-08-27",
+        "title": "Hackergarten Zurich August 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/315800586/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "FitPub: add reusable accessible character counters",
+                "url": "https://codeberg.org/fitpub/fitpub/issues/465"
+            },
+            {
+                "title": "FitPub: writing OpenSpec to propose average speed on timeline cards",
+                "url": "https://codeberg.org/fitpub/fitpub/commit/8808ebd0ada05e6c18ae3c28a36264b0dda613e6"
+            }
+        ]
+    },
+    {
+        "date": "2026-08-25",
+        "title": "Hackergarten Basel August 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/314977118/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Diego, Anish, Chris, and some help with Claude created tiffer",
+                "url": "https://github.com/McKean/tiffer"
+            },
+            {
+                "title": "symphony-trello: bug: logs fails with setup_logs_missing on macOS after installer setup",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/668"
+            },
+            {
+                "title": "symphony-trello: feat(trello): skip Merging and accept Done when there is nothing to merge",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/667"
+            },
+            {
+                "title": "symphony-trello: feat: distinguish human comments from agent comments on Trello (and GitHub)",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/666"
+            },
+            {
+                "title": "symphony-trello: docs: installer users are told to write .env instead of pasting credentials in the terminal",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/665"
+            },
+            {
+                "title": "symphony-trello: docs: clarify that Token is an inline link next to the API key",
+                "url": "https://github.com/martin-francois/symphony-trello/issues/661"
+            },
+            {
+                "title": "symphony-trello: docs(README): explain that the token link is hidden inside a paragraph and ensure that instructions are valid for desktop and mobile",
+                "url": "https://github.com/martin-francois/symphony-trello/pull/664"
+            },
+            {
+                "title": "symphony-trello: docs(README): explain api key and token sensitivity in logical order",
+                "url": "https://github.com/martin-francois/symphony-trello/pull/663"
+            },
+            {
+                "title": "symphony-trello: docs(README): don't require knowledge of WORKFLOW.md when using installer",
+                "url": "https://github.com/martin-francois/symphony-trello/pull/662"
+            },
+            {
+                "title": "FitPub: limit activity title length to 200 characters",
+                "utl": "https://codeberg.org/fitpub/fitpub/issues/461"
+            },
+            {
+                "title": "FitPub: require selection for activity locations",
+                "url": "https://codeberg.org/fitpub/fitpub/issues/462"
+            }
+        ]
+    },
+    {
+        "date": "2026-08-06",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497423/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "FitPub: allow users to configure default timeline",
+                "url": "https://codeberg.org/fitpub/fitpub/pulls/440"
+            }
+        ]
+    },
+    {
+        "date": "2026-08-04",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178333/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-08-04",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845289/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-07-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178330/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-07-02",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/315497401/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-06-23",
+        "title": "Hackergarten Basel June 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/313616213/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "punit: Add STT dummy experiment",
+                "url": "https://github.com/mavai-org/mavai-stt-bench/pull/1"
+            }, 
+            {
+                "title": "java-streams-skill: Review PR on discouraging multi-line lambdas",
+                "url": "https://github.com/martinfrancois/java-streams-skill/pull/37"
+            }
+        ]
+    },
+    {
+        "date": "2026-06-10",
+        "title": "Hackergarten JSail 2026",
+        "venue": "Zeilschool de Morra",
+        "address": "Buorren 31, 8584 VC Hemelum, Netherlands",
+        "links": [
+            {
+                "title": "JSail",
+                "url": "https://jsail.ijug.eu/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "jFun: Update build and Java 25",
+                "url": "https://github.com/seakayone/jfun/pull/1"
+            },
+            {
+                "title": "Prod deployment iJUG registration",
+                "url": "https://github.com/ijug-ev/registration"
+            }
+        ]
+    },
+    {
+        "date": "2026-06-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Komunumo",
+                "url": "https://events.hackergarten.net/events/67d86dab-c382-4493-a95c-76ddf365b0db"
+            },
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/313553934/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-06-02",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178327/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-05-28",
+        "title": "Hackergarten Zurich May 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/313127411/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-05-20",
+        "title": "Hackergarten Basel May 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/313616130/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "github/spec-kit: Triage on #1030 'md linting errors'",
+                "url": "https://github.com/github/spec-kit/issues/1030#issuecomment-4501717345"
+            },
+            {
+                "title": "OpenClaw: Triage on #84607 'Bug: No automatic retry with fallback when primary model returns overloaded_error'",
+                "url": "https://github.com/openclaw/openclaw/issues/84607#issuecomment-4500808188"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-07",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Komunumo",
+                "url": "https://events.hackergarten.net/events/e2ea55fc-b95d-4556-be2e-da538e87206b"
+            },
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/313553924/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-05-05",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178325/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-05-05",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845285"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-04-30",
+        "title": "Hackergarten Zurich April 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/313127382/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: evaluating ICAL libraries",
+                "url": "https://github.com/komunumo/komunumo/issues/391"
+            },
+            {
+                "title": "Fedora COSMIC Spin: tracking down keyboard layout problems in COSMIC Greeter",
+                "url": "https://fedoraproject.org/atomic-desktops/cosmic/"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-29",
+        "title": "Hackergarten Basel April 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/313616011/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "JReleaser: support GPG subkeys for signing",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2086"
+            },
+            {
+                "title": "Vaadin Flow: added a reproduction for a special-character path bug using the latest version",
+                "url": "https://github.com/vaadin/flow/issues/11871#issuecomment-4346767699"
+            },
+            {
+                "title": "Komunumo: add compatibility with Colima for local development",
+                "url": "https://github.com/komunumo/komunumo/pull/458"
+            },
+            {
+                "title": "Komunumo: add Vaadin path troubleshooting",
+                "url": "https://github.com/komunumo/komunumo/pull/459"
+            },
+            {
+                "title": "Komunumo: add Testcontainers troubleshooting",
+                "url": "https://github.com/komunumo/komunumo/pull/460"
+            },
+            {
+                "title": "Komunumo: add custom favicon support",
+                "url": "https://github.com/komunumo/komunumo/commit/5c93312f1ad1170a9048c997bfa9ec738cec9bea"
+            },
+            {
+                "title": "Video comparison evaluation",
+                "url": "https://github.com/stbornowski/VideosComparision"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-07",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178323/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-04-02",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/313553910/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: Update Spring Boot Starter Parent",
+                "url": "https://github.com/komunumo/komunumo/commit/0470a3743f61369e6381bfcf8f1fdbf0287e18ea"
+            },
+            {
+                "title": "Komunumo: Update Vaadin Flow",
+                "url": "https://github.com/komunumo/komunumo/commit/1efc87eca7653c1363309181c96411bf90dad89a"
+            },
+            {
+                "title": "OpenJDK Mission Control: Release 9.1.2",
+                "url": "https://openjdk.org/projects/jmc/"
+            },
+            {
+                "title": "SeaRobots: Adding native jME map to avoid Java2D related problems on Mac",
+                "url": "https://github.com/thegreystone/searobots/commit/d570c0d0592ddd3fd42b597352ee51bbfb733268"
+            },
+            {
+                "title": "Anki: Working on an Add-On",
+                "url": "https://github.com/ankitects/anki"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-26",
+        "title": "Hackergarten Zurich March 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/313127324/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-03-18",
+        "title": "Hackergarten Basel March 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/312253273/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "discord-guild-configurator: Finish migration away from single script to separate application",
+                "url": "https://github.com/NMertsch/discord-guild-configurator/commit/2ea1f96f8b9d71077fd15060b106e10d90350f8c"
+            },
+            {
+                "title": "QR Code TypeScript Migration, fixed tests on Windows",
+                "url": "https://github.com/Greenheart/qrcode/commit/640dec5c841b977c1be82f7d52991512e8979b9f"
+            },
+            {
+                "title": "KeePassXC: troubleshoot dead keys input issue in the password field and submmit a bug report",
+                "url": "https://github.com/keepassxreboot/keepassxc/issues/13167"
+            }
+        ]
+    },
+    {
+        "date": "2026-03-05",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/313428687/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-03-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178318/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-02-26",
+        "title": "Hackergarten Zurich February 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/313127186/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-02-10",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/de-de/hackergarten-dortmund/events/312845270/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "PeerTube: add missing German translations",
+                "url": "https://github.com/Chocobozzz/PeerTube/pull/7439"
+            }
+        ]
+    },
+    {
+        "date": "2026-02-05",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/312985332/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-02-04",
+        "title": "Hackergarten Basel February 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/312253263/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-02-03",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178314/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2026-01-22",
+        "title": "Hackergarten Zurich January 2026",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/312487770/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Scribus: Draft ui concept and feature to manage presets for pdf export",
+                "url": "https://bugs.scribus.net/view.php?id=16257"
+            },
+            {
+                "title": "JReleaser: Improve Error Message from Exceptions",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2050"
+            },
+            {
+                "title": "JReleaser: Fix failure to publish JReleaser v1.22.0 docker images",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2042"
+            },
+            {
+                "title": "Komunumo: add JSON data export functionality",
+                "url": "https://github.com/McPringle/komunumo/pull/407"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-21",
+        "title": "Hackergarten Basel January 2026",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/312253237/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "PeerTube: introduce new email template and change notifier code to use it",
+                "url": "https://github.com/Chocobozzz/PeerTube/pull/7395"
+            },
+            {
+                "title": "Found and fixed copr spec file wrapper script",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2051"
+            }
+        ]
+    },
+    {
+        "date": "2026-01-13",
+        "venue": "codecentric AG",
+        "address": "Industriestraße 3, 70565 Stuttgart, Germany",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-stuttgart/events/312178383/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-12-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcqbgb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: add multi-language help to Markdown editor",
+                "url": "https://github.com/McPringle/komunumo/issues/356"
+            }
+        ]
+    },
+    {
         "date": "2025-12-02",
         "venue": "codecentric AG",
         "address": "Industriestraße 3, 70565 Stuttgart, Germany",
@@ -7,6 +765,53 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576942/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-11-27",
+        "title": "Hackergarten Zurich November 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/310517967/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-11-26",
+        "title": "Hackergarten Basel November 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/309859141/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: add participant count to event detail page",
+                "url": "https://github.com/McPringle/komunumo/commit/374ab31fef9941a8fedb7eaa6835c7eebab96703"
+            },
+            {
+                "title": "Evaluate templates in missing assembler properties",
+                "url": "https://github.com/jreleaser/jreleaser/issues/2020"
+            }
+        ]
+    },
+    {
+        "date": "2025-11-06",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcpbjb/"
             }
         ],
         "achievements": []
@@ -33,7 +838,80 @@
                 "url": "https://www.meetup.com/de-DE/hackergarten-dortmund/events/306416460"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Implement Github Action run Mastodon Reminder Bot for Hackergarten Events",
+                "url": "https://github.com/hackergarten/mastodon-bot-automation/blob/main/.github/workflows/bot-execution.yml"
+            },
+            {
+                "title": "Resolve static analysis findings in Operaton",
+                "url": "https://github.com/operaton/operaton/issues/1532"
+            },
+            {
+                "title": "Added functionality to specify specific address instead of port only",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/7"
+            }
+        ]
+    },
+    {
+        "date": "2025-10-30",
+        "title": "Hackergarten Zurich October 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/310517964/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: show past events on community detail page",
+                "url": "https://github.com/McPringle/komunumo/pull/334"
+            },
+            {
+                "title": "Komunumo: design work on the logo",
+                "url": "https://github.com/McPringle/komunumo"
+            }
+        ]
+    },
+    {
+        "date": "2025-10-29",
+        "title": "Hackergarten Basel October 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/309859111/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "question-driven-talk-assistant: Reported issue on keyboard shortcuts",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/issues/696"
+            },
+            {
+                "title": "question-driven-talk-assistant: Fixed #20 - Allow editing empty header and footer",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/pull/697"
+            },
+            {
+                "title": "Gradle 9: Deprecated Flags",
+                "url": "https://github.com/kordamp/gm/issues/56"
+            },
+            {
+                "title": "question-driven-talk-assistant: Reported issue regarding necessary reload of after changing localstorage in test",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/issues/698"
+            },
+            {
+                "title": "question-driven-talk-assistant: Fixed #584 - Replace magic number for default QR code size",
+                "url": "https://github.com/martinfrancois/question-driven-talk-assistant/pull/699"
+            },
+            {
+                "title": "Komunumo: feat(ui):create a new profile name component",
+                "url": "https://github.com/McPringle/komunumo/pull/332"
+            }
+        ]
     },
     {
         "date": "2025-10-07",
@@ -43,6 +921,104 @@
             {
                 "title": "Meetup",
                 "url": "https://www.meetup.com/hackergarten-stuttgart/events/304576938/"
+            }
+        ],
+        "achievements": []
+    },
+    {
+        "date": "2025-10-02",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcnbdb/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: feat(config): add convenience methods to easily use different types for config options",
+                "url": "https://github.com/McPringle/komunumo/commit/29bb0526f70e75f732134a4e35192ae7cfbfd07c"
+            },
+            {
+                "title": "Komunumo: refactor: move settings to config table",
+                "url": "https://github.com/McPringle/komunumo/commit/f8b6feae80f4bd1de97b5996d9cc102b198e1110"
+            },
+            {
+                "title": "Komunumo: feat(pages): add a tab-sheet for upcoming events",
+                "url": "https://github.com/McPringle/komunumo/commit/b53ce5a720eef95a26f5273d4bd75520f2b1ab85"
+            }
+        ]
+    },
+    {
+        "date": "2025-10-01",
+        "title": "Hackergarten Basel October 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/309857779/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: feat(community): show upcoming events on community detail page",
+                "url": "https://github.com/McPringle/komunumo/pull/297"
+            }
+        ]
+    },
+    {
+        "date": "2025-09-25",
+        "title": "Hackergarten Zurich September 2025",
+        "venue": "Quatico Solutions AG",
+        "address": "Förrlibuckstrasse 220, 8005 Zürich",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-zurich/events/310517961/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Komunumo: chore: Analyze Domain Logic for future UX work",
+                "url": "https://github.com/McPringle/komunumo"
+            }
+        ]
+    },
+    {
+        "date": "2025-09-04",
+        "venue": "Karakun @ Digitale Werkbank Dortmund",
+        "address": "Kanalstr. 25, 44147 Dortmund",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-dortmund/events/310484088/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Upgrade @nativescipt/pdf library",
+                "url": "https://github.com/NativeScript/plugins/pull/645"
+            },
+            {
+                "title": "Make socket configurable in fail2ban-dashboard",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/4"
+            },
+            {
+                "title": "Update README in fail2ban-dashboard",
+                "url": "https://github.com/webishdev/fail2ban-dashboard/pull/5"
+            }
+        ]
+    },
+    {
+        "date": "2025-09-04",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhcmbgb/"
             }
         ],
         "achievements": []
@@ -70,6 +1046,41 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524511/"
             }
         ],
+        "achievements": [
+            {
+                "title": "JUnit Converters: Add `@Bytes` converter",
+                "url": "https://github.com/scordio/junit-converters/pull/13"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-27",
+        "title": "Hackergarten Basel August 2025",
+        "venue": "Karakun AG",
+        "address": "Elisabethenanlage 25, 4051 Basel, Switzerland",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-basel/events/309853513/"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "biomedit/portal: make getting started guide in docs foolproof",
+                "url": "https://gitlab.com/biomedit/portal/-/merge_requests/1864"
+            }
+        ]
+    },
+    {
+        "date": "2025-08-07",
+        "venue": "CSS ICT Campus Zentralschweiz",
+        "address": "Rösslimatte 52, 6005 Luzern",
+        "links": [
+            {
+                "title": "Meetup",
+                "url": "https://www.meetup.com/hackergarten-luzern/events/ppbcstyhclbkb/"
+            }
+        ],
         "achievements": []
     },
     {
@@ -95,7 +1106,12 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524486/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "Komunumo: Support for custom logos.",
+                "url": "https://github.com/McPringle/komunumo/issues/204"
+            }
+        ]
     },
     {
         "date": "2025-07-03",
@@ -132,7 +1148,20 @@
                 "url": "https://www.meetup.com/hackergarten-zurich/events/308524462/"
             }
         ],
-        "achievements": []
+        "achievements": [
+            {
+                "title": "diffoscope: Fix for regression when metadata differ when comparing byte-by-byte identical files",
+                "url": "https://salsa.debian.org/reproducible-builds/diffoscope/-/issues/411"
+            },
+            {
+                "title": "SolarSoundBytes: Added image carousel to project website",
+                "url": "https://github.com/FadriPestalozzi/SolarSoundBytes"
+            },
+            {
+                "title": "Komunumo: Style fix for cards without image",
+                "url": "https://github.com/McPringle/komunumo/issues/158"
+            }
+        ]
     },
     {
         "date": "2025-06-24",
@@ -149,6 +1178,13 @@
                 "title": "Eeasy-E-EInvoice - Einfach zu nutzende Typescript Bib, die  XRechnung-XMLs erstellt",
                 "url": "https://www.npmjs.com/package/easy-e-invoice"
             },
+            {
+                "title": "WIP fix for fail2ban github issue: https://github.com/fail2ban/fail2ban/issues/3566",
+                "url": "https://github.com/MaKaNu/fail2ban/tree/feature/json-parser"
+            },
+            {
+                "title": "Introduction and discussion around CrewAi and generally AI Agents"
+            }
         ]
     },
     {
@@ -3848,7 +4884,6 @@
                 "title": "Add a configurable nullValueInput attribute",
                 "url": "https://github.com/uniVocity/univocity-parsers/issues/322"
             },
-
             {
                 "title": "Container-based integration testing to be added",
                 "url": "https://github.com/tablevert/tablevert-core/issues/2"
