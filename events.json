@@ -1174,6 +1174,10 @@
             }
         ],
         "achievements": [
+             {
+                "title": "Eeasy-E-EInvoice - Einfach zu nutzende Typescript Bib, die  XRechnung-XMLs erstellt",
+                "url": "https://www.npmjs.com/package/easy-e-invoice"
+            },
             {
                 "title": "WIP fix for fail2ban github issue: https://github.com/fail2ban/fail2ban/issues/3566",
                 "url": "https://github.com/MaKaNu/fail2ban/tree/feature/json-parser"
@@ -2152,10 +2156,6 @@
             {
                 "title": "Analyzed possible improvement for NativeScript-SecureStorage",
                 "url": "https://github.com/hackergarten/contributions/issues/10"
-            },
-            {
-                "title": "Fix detection of plugdev group for Linux users",
-                "url": "https://github.com/OpenBCI/OpenBCI_GUI/pull/1214"
             }
         ]
     },
